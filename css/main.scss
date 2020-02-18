@@ -67,3 +67,10 @@ $on-laptop:        800px;
 .cloud {
   border-top: blue solid 8px;
 }
+
+h3.panel-title {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100%;
+}

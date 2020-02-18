@@ -25,7 +25,7 @@ layout: default
                     {% endif %}
                     
                     <div class="panel-body">
-                      <h3 class="panel-title">{{ event['event name'] | truncate: 20 }}</h3>
+                      <h3 class="panel-title">{{ event['event name'] }}</h3>
                       <span class="post-meta"><small>
                         {% assign startDate = event.startAt | date: "%Y/%m/%d" %}
                         {% assign endDate = event.endAt | date: "%Y/%m/%d" %}
