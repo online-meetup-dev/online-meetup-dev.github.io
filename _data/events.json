@@ -16,23 +16,5 @@
     "startAt": "Wed Feb 12 2020 19:30:00 GMT+0900 (JST)",
     "endAt": "Wed Feb 12 2020 21:30:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/1d/3e1da6177cafbc3031d47a5646be20df.png"
-  },
-  {
-    "group name": "PWA Night",
-    "event name": "PWA Night vol.13 ～Webブラウザ最前線～",
-    "url": "https://pwanight.connpass.com/event/164169/",
-    "category": "web",
-    "startAt": "Wed Feb 19 2020 19:00:00 GMT+0900 (JST)",
-    "endAt": "Wed Feb 19 2020 22:00:00 GMT+0900 (JST)",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7f/b3/7fb3a22c0c03fd135160c6c42c7b4a43.png"
-  },
-  {
-    "group name": "Meetup video shooting Meetup",
-    "event name": "Meetup video shooting Meetup #1",
-    "url": "https://connpass.com/event/163347/",
-    "category": "other",
-    "startAt": "Wed Feb 12 2020 19:30:00 GMT+0900 (JST)",
-    "endAt": "Wed Feb 12 2020 21:30:00 GMT+0900 (JST)",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/1d/3e1da6177cafbc3031d47a5646be20df.png"
   }
 ]
