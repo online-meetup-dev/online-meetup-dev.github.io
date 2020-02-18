@@ -9,6 +9,15 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c3/de/c3de3800527386acc3c53d9bdd48a934.png"
   },
   {
+    "group name": "Microsoft Open Tech Night",
+    "event name": "Microsoft Open Tech Night #6 w/ HashiCorp Japan",
+    "url": "https://msdevjp.connpass.com/event/159496/",
+    "category": "other",
+    "startAt": "Tue Feb 18 2020 19:00:00 GMT+0900 (JST)",
+    "endAt": "Tue Feb 18 2020 22:00:00 GMT+0900 (JST)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/29/75/29758ae902dddf3d34cf3a63ab350d54.png"
+  },
+  {
     "group name": "PWA Night",
     "event name": "PWA Night vol.13 ～Webブラウザ最前線～",
     "url": "https://pwanight.connpass.com/event/164169/",
@@ -25,6 +34,15 @@
     "startAt": "Wed Feb 19 2020 19:30:00 GMT+0900 (JST)",
     "endAt": "Wed Feb 19 2020 22:30:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/20/08/20084b2a4203dd743c481b35ee636e53.png"
+  },
+  {
+    "group name": "VS Code Meetup",
+    "event name": "VS Code Meetup #3 - Extensionを使う編",
+    "url": "https://vscode.connpass.com/event/166047/",
+    "category": "other",
+    "startAt": "Wed Feb 19 2020 19:30:00 GMT+0900 (JST)",
+    "endAt": "Wed Feb 19 2020 22:00:00 GMT+0900 (JST)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9d/1a/9d1a74ce9774ea5f620af773f7510e6e.png"
   },
   {
     "group name": "QualityForward",
@@ -61,14 +79,5 @@
     "startAt": "Wed Feb 12 2020 19:30:00 GMT+0900 (JST)",
     "endAt": "Wed Feb 12 2020 21:30:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/1d/3e1da6177cafbc3031d47a5646be20df.png"
-  },
-  {
-    "group name": "Microsoft Open Tech Night",
-    "event name": "Microsoft Open Tech Night #6 w/ HashiCorp Japan",
-    "url": "https://msdevjp.connpass.com/event/159496/",
-    "category": "other",
-    "startAt": "Tue Feb 18 2020 19:00:00 GMT+0900 (JST)",
-    "endAt": "Tue Feb 18 2020 22:00:00 GMT+0900 (JST)",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/29/75/29758ae902dddf3d34cf3a63ab350d54.png"
   }
 ]
