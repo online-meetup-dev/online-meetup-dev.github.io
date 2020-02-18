@@ -12,6 +12,7 @@ layout: default
     <br />
     <div class="row">
       {% for event in site.data.events %}
+        {% if event['event name'] != '' and event.startAt != '' and event.endAt != '' and event.url != '' %}
           <div class="col-md-4" data-start-at="{{ event.startAt | date: '%Y-%m-%d' }}" data-category="{{ envet.category }}">
             <div class="row">
               <div class="col-md-10 offset-md-1 text-center">
@@ -44,8 +45,8 @@ layout: default
                 </div>
               </div>
           </div>
+          {% endif %}
         {% endfor %}
-
     </div> 
     
 <div class="row">
