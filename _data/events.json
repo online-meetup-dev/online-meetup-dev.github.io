@@ -18,15 +18,6 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/20/08/20084b2a4203dd743c481b35ee636e53.png"
   },
   {
-    "group name": "Meetup video shooting Meetup",
-    "event name": "Meetup video shooting Meetup #1",
-    "url": "https://connpass.com/event/163347/",
-    "category": "other",
-    "startAt": "Wed Feb 12 2020 19:30:00 GMT+0900 (JST)",
-    "endAt": "Wed Feb 12 2020 21:30:00 GMT+0900 (JST)",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/1d/3e1da6177cafbc3031d47a5646be20df.png"
-  },
-  {
     "group name": "Serverless",
     "event name": "Serverless Meetup Tokyo #16",
     "url": "https://serverless.connpass.com/event/165352/",
@@ -34,5 +25,14 @@
     "startAt": "Thu Feb 27 2020 19:00:00 GMT+0900 (JST)",
     "endAt": "Thu Feb 27 2020 21:30:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/78/4a/784a4577151a65612e416d6858b00865.png"
+  },
+  {
+    "group name": "Meetup video shooting Meetup",
+    "event name": "Meetup video shooting Meetup #1",
+    "url": "https://connpass.com/event/163347/",
+    "category": "other",
+    "startAt": "Wed Feb 12 2020 19:30:00 GMT+0900 (JST)",
+    "endAt": "Wed Feb 12 2020 21:30:00 GMT+0900 (JST)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/1d/3e1da6177cafbc3031d47a5646be20df.png"
   }
 ]
