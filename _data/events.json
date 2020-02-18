@@ -52,5 +52,14 @@
     "startAt": "Wed Feb 12 2020 19:30:00 GMT+0900 (JST)",
     "endAt": "Wed Feb 12 2020 21:30:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/1d/3e1da6177cafbc3031d47a5646be20df.png"
+  },
+  {
+    "group name": "Ansible ユーザー会",
+    "event name": "Ansibleもくもく会 （サーバ編 & NW編）2020.02",
+    "url": "https://ansible-users.connpass.com/event/164212/",
+    "category": "server",
+    "startAt": "",
+    "endAt": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c3/de/c3de3800527386acc3c53d9bdd48a934.png"
   }
 ]
