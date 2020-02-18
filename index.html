@@ -1,0 +1,83 @@
+---
+layout: default
+---
+
+<div class="home">
+  <div class="row">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        オンラインで行われるミートアップを集めています。実際の参加方法は各イベントページで確認してください。
+      </div>
+    </div>
+    <br />
+    <div class="row">
+      {% for event in site.data.events %}
+          <div class="col-md-4" data-start-at="{{ event.startAt | date: '%Y-%m-%d' }}" data-category="{{ envet.category }}">
+            <div class="row">
+              <div class="col-md-10 offset-md-1 text-center">
+               <a href="{{ event.url }}" class="index-anchor">    
+                  <div class="panel panel-default {{ event.category }}">
+                    {% if event.image %}
+                    <img height="120px" src="{{ event.image }}" alt="{{ event.name}}">
+                    {% else %}
+                    <img width="100%" src="{{site.baseurl}}/images/webjeda-logo-big.jpg" alt="{{site.title}}">
+                    {% endif %}
+                    
+                    <div class="panel-body">
+                      <h3 class="panel-title">{{ event['event name'] | truncate: 25 }}</h3>
+                      <span class="post-meta"><small>
+                        {% assign startDate = event.startAt | date: "%Y/%m/%d" %}
+                        {% assign endDate = event.endAt | date: "%Y/%m/%d" %}
+                        {% if startDate == endDate %}
+                          {{ event.startAt | date: "%m/%d %H:%M" }} 〜 {{ event.endAt | date: "%H:%M" }}
+                        {% else %}
+                          {{ event.startAt | date: "%m/%d %H:%M" }} 〜<br /> {{ event.endAt | date: "%m/%d %H:%M" }}
+                        {% endif %}
+                      </small></span>
+                    </div>
+                    
+                    <div class="panel-body"><small>
+                      {{ event['group name'] }}</small>
+                    </div>
+                  </div>
+                  </a>
+                </div>
+              </div>
+          </div>
+        {% endfor %}
+
+    </div> 
+    
+<div class="row">
+    <div class="col-md-4">  </div>
+    <div class="col-md-4">
+        {% if paginator.total_pages > 1 %}
+        <ul class="pagination">
+          {% if paginator.previous_page %}
+            <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
+          {% else %}
+            <li><span>&laquo; Prev</span></li>
+          {% endif %}
+
+          {% for page in (1..paginator.total_pages) %}
+            {% if page == paginator.page %}
+              <li class="active"><span><em>{{ page }}</em></span></li>
+            {% elsif page == 1 %}
+            <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+            {% else %}
+            <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+            {% endif %}
+          {% endfor %}
+
+          {% if paginator.next_page %}
+            <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+          {% else %}
+            <li><span >Next &raquo;</span></li>
+          {% endif %}
+          </ul>
+        {% endif %}
+
+    </div>
+    <div class="col-md-4">  </div>
+</div>
+</div>
