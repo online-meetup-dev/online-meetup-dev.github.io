@@ -70,5 +70,14 @@
     "startAt": "Tue Feb 18 2020 19:00:00 GMT+0900 (JST)",
     "endAt": "Tue Feb 18 2020 22:00:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/29/75/29758ae902dddf3d34cf3a63ab350d54.png"
+  },
+  {
+    "group name": "VS Code Meetup",
+    "event name": "VS Code Meetup #3 - Extensionを使う編",
+    "url": "https://vscode.connpass.com/event/166047/",
+    "category": "other",
+    "startAt": "",
+    "endAt": "",
+    "image": ""
   }
 ]
