@@ -64,11 +64,11 @@
   },
   {
     "group name": "Microsoft Open Tech Night",
-    "event name": "",
+    "event name": "Microsoft Open Tech Night #6 w/ HashiCorp Japan",
     "url": "https://msdevjp.connpass.com/event/159496/",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
+    "category": "other",
+    "startAt": "Tue Feb 18 2020 19:00:00 GMT+0900 (JST)",
+    "endAt": "Tue Feb 18 2020 22:00:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/29/75/29758ae902dddf3d34cf3a63ab350d54.png"
   }
 ]
