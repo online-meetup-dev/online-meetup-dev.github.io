@@ -18,15 +18,6 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/20/08/20084b2a4203dd743c481b35ee636e53.png"
   },
   {
-    "group name": "Serverless",
-    "event name": "Serverless Meetup Tokyo #16",
-    "url": "https://serverless.connpass.com/event/165352/",
-    "category": "server",
-    "startAt": "Thu Feb 27 2020 19:00:00 GMT+0900 (JST)",
-    "endAt": "Thu Feb 27 2020 21:30:00 GMT+0900 (JST)",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/78/4a/784a4577151a65612e416d6858b00865.png"
-  },
-  {
     "group name": "QualityForward",
     "event name": "PMなら押さえておきたいクラウドサービス勉強会",
     "url": "https://qualityforward.connpass.com/event/165013/",
@@ -34,6 +25,15 @@
     "startAt": "Tue Feb 25 2020 19:00:00 GMT+0900 (JST)",
     "endAt": "Tue Feb 25 2020 21:00:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4d/05/4d0544eb1beccf4b3c65758bd12ae446.png"
+  },
+  {
+    "group name": "Serverless",
+    "event name": "Serverless Meetup Tokyo #16",
+    "url": "https://serverless.connpass.com/event/165352/",
+    "category": "server",
+    "startAt": "Thu Feb 27 2020 19:00:00 GMT+0900 (JST)",
+    "endAt": "Thu Feb 27 2020 21:30:00 GMT+0900 (JST)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/78/4a/784a4577151a65612e416d6858b00865.png"
   },
   {
     "group name": "Meetup video shooting Meetup",
