@@ -30,6 +30,17 @@
     "future": false
   },
   {
+    "group name": "Sicss Society Public Events",
+    "event name": "Sicss SICP Seminar 2020-03",
+    "url": "https://sicss.connpass.com/event/168104/",
+    "category": "",
+    "startAt": "2020-02-19T18:45:00+09:00",
+    "endAt": "2020-02-19T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f2/e5/f2e599f041789baccfc14cabab41645f.png",
+    "today": true,
+    "future": true
+  },
+  {
     "group name": "PWA Night",
     "event name": "PWA Night vol.13 ～Webブラウザ最前線～",
     "url": "https://pwanight.connpass.com/event/164169/",
