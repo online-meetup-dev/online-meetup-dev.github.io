@@ -30,6 +30,17 @@
     "future": false
   },
   {
+    "group name": "IBM Developer Dojo",
+    "event name": "【オンライン】IBM Dojo #6 Auto AI を使ったらくらく機械学習",
+    "url": "https://ibm-developer.connpass.com/event/159794/",
+    "category": "ai",
+    "startAt": "2020-02-19T14:00:00+09:00",
+    "endAt": "2020-02-19T15:15:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cc/12/cc12b0cbe17e5edd95f8ba54286c331f.png",
+    "today": true,
+    "future": false
+  },
+  {
     "group name": "Sicss Society Public Events",
     "event name": "Sicss SICP Seminar 2020-03",
     "url": "https://sicss.connpass.com/event/168104/",
@@ -135,6 +146,16 @@
     "future": true
   },
   {
+    "group name": "IBM Developer Dojo",
+    "event name": "【オンライン】IBM Dojo #7 QuarkusでJava モダナイゼーション",
+    "url": "https://ibm-developer.connpass.com/event/159888/",
+    "category": "java",
+    "startAt": "2020-02-26T14:00:00+09:00",
+    "endAt": "2020-02-26T15:15:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/53/2b/532bb15875e951d3bb4b8d0357818b93.png",
+    "future": true
+  },
+  {
     "group name": "Serverless",
     "event name": "Serverless Meetup Tokyo #16",
     "url": "https://serverless.connpass.com/event/165352/",
@@ -152,6 +173,16 @@
     "startAt": "Fri Feb 28 2020 19:00:00 GMT+0900 (日本標準時)",
     "endAt": "Fri Feb 28 2020 21:00:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c2/19/c219de7e15c3e580706e21316b6fa6e1.png",
+    "future": true
+  },
+  {
+    "group name": "IBM Developer Dojo",
+    "event name": "【オンライン】IBM Dojo #8 Hyperledger Fabricでブロックチェーンを",
+    "url": "https://ibm-developer.connpass.com/event/159900/",
+    "category": "",
+    "startAt": "2020-03-04T14:00:00+09:00",
+    "endAt": "2020-03-04T15:15:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5a/5e/5a5e32b38cef06a8956a2e01e005b227.png",
     "future": true
   },
   {
