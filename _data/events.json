@@ -1,23 +1,5 @@
 [
   {
-    "group name": "Ansible ユーザー会",
-    "event name": "Ansibleもくもく会 （サーバ編 & NW編）2020.02",
-    "url": "https://ansible-users.connpass.com/event/164212/",
-    "category": "server",
-    "startAt": "Tue Feb 18 2020 19:00:00 GMT+0900 (JST)",
-    "endAt": "Tue Feb 18 2020 21:30:00 GMT+0900 (JST)",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c3/de/c3de3800527386acc3c53d9bdd48a934.png"
-  },
-  {
-    "group name": "Microsoft Open Tech Night",
-    "event name": "Microsoft Open Tech Night #6 w/ HashiCorp Japan",
-    "url": "https://msdevjp.connpass.com/event/159496/",
-    "category": "other",
-    "startAt": "Tue Feb 18 2020 19:00:00 GMT+0900 (JST)",
-    "endAt": "Tue Feb 18 2020 22:00:00 GMT+0900 (JST)",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/29/75/29758ae902dddf3d34cf3a63ab350d54.png"
-  },
-  {
     "group name": "PWA Night",
     "event name": "PWA Night vol.13 ～Webブラウザ最前線～",
     "url": "https://pwanight.connpass.com/event/164169/",
@@ -43,6 +25,15 @@
     "startAt": "Wed Feb 19 2020 19:30:00 GMT+0900 (JST)",
     "endAt": "Wed Feb 19 2020 22:00:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9d/1a/9d1a74ce9774ea5f620af773f7510e6e.png"
+  },
+  {
+    "group name": "TJBotFan",
+    "event name": "【オンライン】ラズパイとNode-REDで「TJBot zero」を作ろう2020 #02",
+    "url": "https://bmxug.connpass.com/event/168111/",
+    "category": "hard",
+    "startAt": "Mon Feb 24 2020 10:30:00 GMT+0900 (JST)",
+    "endAt": "2020/02/24 18:0",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/95/38/9538b8b35226a8c54e3460104ef7de35.png"
   },
   {
     "group name": "QualityForward",
@@ -81,12 +72,21 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/1d/3e1da6177cafbc3031d47a5646be20df.png"
   },
   {
-    "group name": "TJBotFan",
-    "event name": "【オンライン】ラズパイとNode-REDで「TJBot zero」を作ろう2020 #02",
-    "url": "https://bmxug.connpass.com/event/168111/",
+    "group name": "Ansible ユーザー会",
+    "event name": "Ansibleもくもく会 （サーバ編 & NW編）2020.02",
+    "url": "https://ansible-users.connpass.com/event/164212/",
+    "category": "server",
+    "startAt": "Tue Feb 18 2020 19:00:00 GMT+0900 (JST)",
+    "endAt": "Tue Feb 18 2020 21:30:00 GMT+0900 (JST)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c3/de/c3de3800527386acc3c53d9bdd48a934.png"
+  },
+  {
+    "group name": "Microsoft Open Tech Night",
+    "event name": "Microsoft Open Tech Night #6 w/ HashiCorp Japan",
+    "url": "https://msdevjp.connpass.com/event/159496/",
     "category": "other",
-    "startAt": "Mon Feb 24 2020 10:30:00 GMT+0900 (JST)",
-    "endAt": "2020/02/24 18:0",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/95/38/9538b8b35226a8c54e3460104ef7de35.png"
+    "startAt": "Tue Feb 18 2020 19:00:00 GMT+0900 (JST)",
+    "endAt": "Tue Feb 18 2020 22:00:00 GMT+0900 (JST)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/29/75/29758ae902dddf3d34cf3a63ab350d54.png"
   }
 ]
