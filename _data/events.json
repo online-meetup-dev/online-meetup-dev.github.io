@@ -158,6 +158,16 @@
     "future": true
   },
   {
+    "group name": "もくもく執筆会",
+    "event name": "もくもく執筆会☆出張版 REV.29 @ お家で執筆会 〜技術系同人誌／商業誌・発表資料・ブログ〜",
+    "url": "https://techbook-meetup.connpass.com/event/163537/",
+    "category": "writing",
+    "startAt": "2020-02-21T17:30:00+09:00",
+    "endAt": "2020-02-21T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1b/cf/1bcf02264996e2eeb36c95d070881146.png",
+    "future": true
+  },
+  {
     "group name": "TJBotFan",
     "event name": "【オンライン】ラズパイとNode-REDで「TJBot zero」を作ろう2020 #02",
     "url": "https://bmxug.connpass.com/event/168111/",
