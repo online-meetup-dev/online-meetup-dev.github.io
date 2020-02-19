@@ -52,33 +52,41 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
-.web {
+.r-web {
   border-top: skyblue solid 8px;
 }
-.other {
+.r-other {
   border-top: grey solid 8px;
 }
-.game {
+.r-game {
   border-top: yellow solid 8px;
 }
-.server {
+.r-server {
   border-top: black solid 8px;
 }
-.cloud {
+.r-cloud {
   border-top: blue solid 8px;
 }
-.IoT {
+.r-IoT {
   border-top: red solid 8px;
 }
-.hard {
+.r-hard {
   border-top: green solid 8px;
 }
-.python {
+.r-python {
   border-top: purple solid 8px;
 }
-
-.elixir {
+.r-elixir {
   border-top: #6e4a7e solid 8px;
+}
+.r-blockchaine {
+  border-top: #555 solid 8px;
+}
+.r-java {
+  border-top: #b07219 solid 8px;
+}
+.r-ai {
+  border-top: #ccc solid 8px;
 }
 
 h3.panel-title {
