@@ -82,7 +82,7 @@
     "endAt": "Wed Feb 19 2020 22:30:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/20/08/20084b2a4203dd743c481b35ee636e53.png",
     "today": true,
-    "future": true
+    "future": false
   },
   {
     "group name": "VS Code Meetup",
@@ -93,7 +93,7 @@
     "endAt": "Wed Feb 19 2020 22:00:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9d/1a/9d1a74ce9774ea5f620af773f7510e6e.png",
     "today": true,
-    "future": true
+    "future": false
   },
   {
     "group name": "DevLOVE",
