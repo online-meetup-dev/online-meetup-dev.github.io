@@ -95,6 +95,16 @@
     "future": true
   },
   {
+    "group name": "PyData.Fukui",
+    "event name": "安心のフルリモート、PyData.Fukui もくもく雑談会",
+    "url": "https://pydata-fukui.connpass.com/event/168112/",
+    "category": "",
+    "startAt": "2020-02-20T20:00:00+09:00",
+    "endAt": "2020-02-20T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/12/4d/124dc11da140710ac38db4f73a722165.png",
+    "future": true
+  },
+  {
     "group name": "TJBotFan",
     "event name": "【オンライン】ラズパイとNode-REDで「TJBot zero」を作ろう2020 #02",
     "url": "https://bmxug.connpass.com/event/168111/",
