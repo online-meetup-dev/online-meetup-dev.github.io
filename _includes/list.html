@@ -1,0 +1,41 @@
+{% for event in include.events %}
+  {% if event['event name'] != '' and event.startAt != '' and event.endAt != '' and event.url != '' %}
+    <div class="col-md-4" data-start-at="{{ event.startAt | date: '%Y-%m-%d' }}" data-category="{{ envet.category }}">
+      <div class="row">
+        <div class="col-md-10 offset-md-1 text-center">
+         <a href="{{ event.url }}" class="index-anchor">    
+            <div class="panel panel-default {{ event.category }}">
+              {% if event.today %}
+              <div class="ribbon-wrapper">
+                <div class="ribbon blue">Today</div>
+              </div>
+              {% endif %}
+              {% if event.image %}
+              <img height="120px" src="{{ event.image }}" alt="{{ event.name}}">
+              {% else %}
+              <img width="100%" src="{{site.baseurl}}/images/webjeda-logo-big.jpg" alt="{{site.title}}">
+              {% endif %}
+              
+              <div class="panel-body">
+                <h3 class="panel-title">{{ event['event name'] }}</h3>
+                <span class="post-meta"><small>
+                  {% assign startDate = event.startAt | date: "%Y/%m/%d" %}
+                  {% assign endDate = event.endAt | date: "%Y/%m/%d" %}
+                  {% if startDate == endDate %}
+                    {{ event.startAt | date: "%m/%d %H:%M" }} 〜 {{ event.endAt | date: "%H:%M" }}
+                  {% else %}
+                    {{ event.startAt | date: "%m/%d %H:%M" }} 〜<br /> {{ event.endAt | date: "%m/%d %H:%M" }}
+                  {% endif %}
+                </small></span>
+              </div>
+              
+              <div class="panel-body"><small>
+                {{ event['group name'] }}</small>
+              </div>
+            </div>
+            </a>
+          </div>
+        </div>
+    </div>
+    {% endif %}
+  {% endfor %}
