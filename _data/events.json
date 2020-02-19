@@ -49,7 +49,7 @@
     "endAt": "2020-02-19T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f2/e5/f2e599f041789baccfc14cabab41645f.png",
     "today": true,
-    "future": true
+    "future": false
   },
   {
     "group name": "大阪駆動開発",
