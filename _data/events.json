@@ -41,6 +41,17 @@
     "future": false
   },
   {
+    "group name": "Agile Shinano",
+    "event name": "Agile Japan 2020 セッション応募してみよう",
+    "url": "https://agile-shinano.connpass.com/event/167683/",
+    "category": "other",
+    "startAt": "2020-02-19T18:30:00+09:00",
+    "endAt": "2020-02-19T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/59/2b/592b3691113e19ea67778f2657a246d4.png",
+    "today": true,
+    "future": false
+  },
+  {
     "group name": "Sicss Society Public Events",
     "event name": "Sicss SICP Seminar 2020-03",
     "url": "https://sicss.connpass.com/event/168104/",
@@ -59,6 +70,17 @@
     "startAt": "2020-02-19T19:00:00+09:00",
     "endAt": "2020-02-19T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0c/02/0c02bf74c52b94444c7d755da6e311ee.png",
+    "today": true,
+    "future": false
+  },
+  {
+    "group name": "JAWS-UG初心者支部",
+    "event name": "JAWS-UG 初心者支部#24 サーバレスハンズオン勉強会",
+    "url": "https://jawsug-bgnr.connpass.com/event/165065/",
+    "category": "aws",
+    "startAt": "2020-02-19T19:00:00+09:00",
+    "endAt": "2020-02-19T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c6/09/c6098fd2c5b261cfaa8ce99690608377.png",
     "today": true,
     "future": false
   },
