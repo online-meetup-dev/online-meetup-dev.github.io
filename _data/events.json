@@ -115,6 +115,16 @@
     "future": true
   },
   {
+    "group name": "fukuoka.ex／kokura.ex - Fukuoka Elixir community -",
+    "event name": "【フルリモート開催】kokura.ex#6：Elixirもくもく会～入門もあるよ(19:00)",
+    "url": "https://fukuokaex.connpass.com/event/167751/",
+    "category": "elixir",
+    "startAt": "2020-02-25T19:00:00+09:00",
+    "endAt": "2020-02-25T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f6/23/f623f917883eeb43896718e32e8e58f6.png",
+    "future": true
+  },
+  {
     "group name": "QualityForward",
     "event name": "PMなら押さえておきたいクラウドサービス勉強会",
     "url": "https://qualityforward.connpass.com/event/165013/",
