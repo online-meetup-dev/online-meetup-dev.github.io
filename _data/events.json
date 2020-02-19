@@ -41,6 +41,17 @@
     "future": false
   },
   {
+    "group name": "Agile Shinano",
+    "event name": "Agile Japan 2020 セッション応募してみよう",
+    "url": "https://agile-shinano.connpass.com/event/167683/",
+    "category": "other",
+    "startAt": "2020-02-19T18:30:00+09:00",
+    "endAt": "2020-02-19T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/59/2b/592b3691113e19ea67778f2657a246d4.png",
+    "today": true,
+    "future": false
+  },
+  {
     "group name": "Sicss Society Public Events",
     "event name": "Sicss SICP Seminar 2020-03",
     "url": "https://sicss.connpass.com/event/168104/",
@@ -49,7 +60,7 @@
     "endAt": "2020-02-19T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f2/e5/f2e599f041789baccfc14cabab41645f.png",
     "today": true,
-    "future": true
+    "future": false
   },
   {
     "group name": "大阪駆動開発",
@@ -60,7 +71,18 @@
     "endAt": "2020-02-19T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0c/02/0c02bf74c52b94444c7d755da6e311ee.png",
     "today": true,
-    "future": true
+    "future": false
+  },
+  {
+    "group name": "JAWS-UG初心者支部",
+    "event name": "JAWS-UG 初心者支部#24 サーバレスハンズオン勉強会",
+    "url": "https://jawsug-bgnr.connpass.com/event/165065/",
+    "category": "aws",
+    "startAt": "2020-02-19T19:00:00+09:00",
+    "endAt": "2020-02-19T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c6/09/c6098fd2c5b261cfaa8ce99690608377.png",
+    "today": true,
+    "future": false
   },
   {
     "group name": "PWA Night",
@@ -71,7 +93,7 @@
     "endAt": "Wed Feb 19 2020 22:00:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7f/b3/7fb3a22c0c03fd135160c6c42c7b4a43.png",
     "today": true,
-    "future": true
+    "future": false
   },
   {
     "group name": "Roppongi.unity",
@@ -82,7 +104,7 @@
     "endAt": "Wed Feb 19 2020 22:30:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/20/08/20084b2a4203dd743c481b35ee636e53.png",
     "today": true,
-    "future": true
+    "future": false
   },
   {
     "group name": "VS Code Meetup",
@@ -93,6 +115,26 @@
     "endAt": "Wed Feb 19 2020 22:00:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9d/1a/9d1a74ce9774ea5f620af773f7510e6e.png",
     "today": true,
+    "future": false
+  },
+  {
+    "group name": "機械学習　名古屋",
+    "event name": "機械学習 名古屋 研究会 #23",
+    "url": "https://machine-learning.connpass.com/event/163709/",
+    "category": "ai",
+    "startAt": "2020-02-20T19:00:00+09:00",
+    "endAt": "2020-02-20T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ea/80/ea804d5c1926e4cb761a1ea994fb369c.png",
+    "future": true
+  },
+  {
+    "group name": "ふらっとxR",
+    "event name": "第6回 XRもくもく会",
+    "url": "https://flatxr.connpass.com/event/167593/",
+    "category": "video",
+    "startAt": "2020-02-20T19:00:00+09:00",
+    "endAt": "2020-02-20T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/70/817021b15b710f8ba07c93a2e4f41f3a.png",
     "future": true
   },
   {
@@ -113,6 +155,16 @@
     "startAt": "2020-02-20T20:00:00+09:00",
     "endAt": "2020-02-20T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/12/4d/124dc11da140710ac38db4f73a722165.png",
+    "future": true
+  },
+  {
+    "group name": "もくもく執筆会",
+    "event name": "もくもく執筆会☆出張版 REV.29 @ お家で執筆会 〜技術系同人誌／商業誌・発表資料・ブログ〜",
+    "url": "https://techbook-meetup.connpass.com/event/163537/",
+    "category": "writing",
+    "startAt": "2020-02-21T17:30:00+09:00",
+    "endAt": "2020-02-21T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1b/cf/1bcf02264996e2eeb36c95d070881146.png",
     "future": true
   },
   {
