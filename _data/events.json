@@ -7,7 +7,8 @@
     "startAt": "Wed Feb 19 2020 19:00:00 GMT+0900 (JST)",
     "endAt": "Wed Feb 19 2020 22:00:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7f/b3/7fb3a22c0c03fd135160c6c42c7b4a43.png",
-    "today": "false"
+    "today": "false",
+    "future": "false"
   },
   {
     "group name": "Roppongi.unity",
@@ -17,7 +18,8 @@
     "startAt": "Wed Feb 19 2020 19:30:00 GMT+0900 (JST)",
     "endAt": "Wed Feb 19 2020 22:30:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/20/08/20084b2a4203dd743c481b35ee636e53.png",
-    "today": "false"
+    "today": "false",
+    "future": "false"
   },
   {
     "group name": "VS Code Meetup",
@@ -27,7 +29,8 @@
     "startAt": "Wed Feb 19 2020 19:30:00 GMT+0900 (JST)",
     "endAt": "Wed Feb 19 2020 22:00:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9d/1a/9d1a74ce9774ea5f620af773f7510e6e.png",
-    "today": "false"
+    "today": "false",
+    "future": "false"
   },
   {
     "group name": "DevLOVE",
@@ -37,7 +40,8 @@
     "startAt": "Thu Feb 20 2020 19:30:00 GMT+0900 (JST)",
     "endAt": "Thu Feb 20 2020 21:00:00 GMT+0900 (JST)",
     "image": "https://dzpp79ucibp5a.cloudfront.net/events_banners/103749_normal_1582036953_%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2020-02-18_23.40.19.png",
-    "today": "false"
+    "today": "false",
+    "future": "false"
   },
   {
     "group name": "TJBotFan",
@@ -47,7 +51,8 @@
     "startAt": "Mon Feb 24 2020 10:30:00 GMT+0900 (JST)",
     "endAt": "2020/02/24 18:0",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/95/38/9538b8b35226a8c54e3460104ef7de35.png",
-    "today": "false"
+    "today": "false",
+    "future": "false"
   },
   {
     "group name": "QualityForward",
@@ -57,7 +62,8 @@
     "startAt": "Tue Feb 25 2020 19:00:00 GMT+0900 (JST)",
     "endAt": "Tue Feb 25 2020 21:00:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4d/05/4d0544eb1beccf4b3c65758bd12ae446.png",
-    "today": "false"
+    "today": "false",
+    "future": "false"
   },
   {
     "group name": "Serverless",
@@ -67,7 +73,8 @@
     "startAt": "Thu Feb 27 2020 19:00:00 GMT+0900 (JST)",
     "endAt": "Thu Feb 27 2020 21:30:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/78/4a/784a4577151a65612e416d6858b00865.png",
-    "today": "false"
+    "today": "false",
+    "future": "false"
   },
   {
     "group name": "BPStudy",
@@ -77,7 +84,8 @@
     "startAt": "Fri Feb 28 2020 19:00:00 GMT+0900 (JST)",
     "endAt": "Fri Feb 28 2020 21:00:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c2/19/c219de7e15c3e580706e21316b6fa6e1.png",
-    "today": "false"
+    "today": "false",
+    "future": "false"
   },
   {
     "group name": "IoT縛りの勉強会\u0010! IoTLT",
@@ -87,7 +95,8 @@
     "startAt": "Wed Mar 18 2020 19:00:00 GMT+0900 (JST)",
     "endAt": "Wed Mar 18 2020 22:00:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2e/6f/2e6fd6fa32a42b1d65f3c82ebdf6eb80.png",
-    "today": "false"
+    "today": "false",
+    "future": "false"
   },
   {
     "group name": "Meetup video shooting Meetup",
@@ -97,7 +106,8 @@
     "startAt": "Wed Feb 12 2020 19:30:00 GMT+0900 (JST)",
     "endAt": "Wed Feb 12 2020 21:30:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/1d/3e1da6177cafbc3031d47a5646be20df.png",
-    "today": "false"
+    "today": "false",
+    "future": "false"
   },
   {
     "group name": "Ansible ユーザー会",
@@ -107,7 +117,8 @@
     "startAt": "Tue Feb 18 2020 19:00:00 GMT+0900 (JST)",
     "endAt": "Tue Feb 18 2020 21:30:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c3/de/c3de3800527386acc3c53d9bdd48a934.png",
-    "today": "false"
+    "today": "false",
+    "future": "false"
   },
   {
     "group name": "Microsoft Open Tech Night",
@@ -117,6 +128,7 @@
     "startAt": "Tue Feb 18 2020 19:00:00 GMT+0900 (JST)",
     "endAt": "Tue Feb 18 2020 22:00:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/29/75/29758ae902dddf3d34cf3a63ab350d54.png",
-    "today": "false"
+    "today": "false",
+    "future": "false"
   }
 ]
