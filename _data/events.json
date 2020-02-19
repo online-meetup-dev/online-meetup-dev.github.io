@@ -27,6 +27,15 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9d/1a/9d1a74ce9774ea5f620af773f7510e6e.png"
   },
   {
+    "group name": "DevLOVE",
+    "event name": "「チーム・ジャーニー 逆境を越える、変化に強いチームをつくりあげるまで」発刊イベント",
+    "url": "https://devlove.doorkeeper.jp/events/103749",
+    "category": "other",
+    "startAt": "Thu Feb 20 2020 19:30:00 GMT+0900 (JST)",
+    "endAt": "Thu Feb 20 2020 21:00:00 GMT+0900 (JST)",
+    "image": "https://dzpp79ucibp5a.cloudfront.net/events_banners/103749_normal_1582036953_%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2020-02-18_23.40.19.png"
+  },
+  {
     "group name": "TJBotFan",
     "event name": "【オンライン】ラズパイとNode-REDで「TJBot zero」を作ろう2020 #02",
     "url": "https://bmxug.connpass.com/event/168111/",
@@ -88,14 +97,5 @@
     "startAt": "Tue Feb 18 2020 19:00:00 GMT+0900 (JST)",
     "endAt": "Tue Feb 18 2020 22:00:00 GMT+0900 (JST)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/29/75/29758ae902dddf3d34cf3a63ab350d54.png"
-  },
-  {
-    "group name": "DevLOVE",
-    "event name": "「チーム・ジャーニー 逆境を越える、変化に強いチームをつくりあげるまで」発刊イベント",
-    "url": "https://devlove.doorkeeper.jp/events/103749",
-    "category": "other",
-    "startAt": "Thu Feb 20 2020 19:30:00 GMT+0900 (JST)",
-    "endAt": "Thu Feb 20 2020 21:00:00 GMT+0900 (JST)",
-    "image": "https://dzpp79ucibp5a.cloudfront.net/events_banners/103749_normal_1582036953_%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2020-02-18_23.40.19.png"
   }
 ]
