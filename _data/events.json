@@ -41,6 +41,17 @@
     "future": true
   },
   {
+    "group name": "大阪駆動開発",
+    "event name": "【大阪会場】スマートスピーカーを遊びたおす会 vol.9",
+    "url": "https://osaka-driven-dev.connpass.com/event/163085/",
+    "category": "",
+    "startAt": "2020-02-19T19:00:00+09:00",
+    "endAt": "2020-02-19T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0c/02/0c02bf74c52b94444c7d755da6e311ee.png",
+    "today": true,
+    "future": true
+  },
+  {
     "group name": "PWA Night",
     "event name": "PWA Night vol.13 ～Webブラウザ最前線～",
     "url": "https://pwanight.connpass.com/event/164169/",
