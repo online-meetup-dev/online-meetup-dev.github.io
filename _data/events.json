@@ -60,7 +60,7 @@
     "endAt": "2020-02-19T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0c/02/0c02bf74c52b94444c7d755da6e311ee.png",
     "today": true,
-    "future": true
+    "future": false
   },
   {
     "group name": "PWA Night",
@@ -71,7 +71,7 @@
     "endAt": "Wed Feb 19 2020 22:00:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7f/b3/7fb3a22c0c03fd135160c6c42c7b4a43.png",
     "today": true,
-    "future": true
+    "future": false
   },
   {
     "group name": "Roppongi.unity",
