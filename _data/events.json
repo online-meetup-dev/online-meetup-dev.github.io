@@ -179,10 +179,20 @@
     "group name": "IBM Developer Dojo",
     "event name": "【オンライン】IBM Dojo #8 Hyperledger Fabricでブロックチェーンを",
     "url": "https://ibm-developer.connpass.com/event/159900/",
-    "category": "",
+    "category": "blockchaine",
     "startAt": "2020-03-04T14:00:00+09:00",
     "endAt": "2020-03-04T15:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5a/5e/5a5e32b38cef06a8956a2e01e005b227.png",
+    "future": true
+  },
+  {
+    "group name": "IBM Developer Dojo",
+    "event name": "【オンライン】IBM Dojo #9 Kabaneroを使ったクラウド・ネイティブなアプリ開発を体験",
+    "url": "https://ibm-developer.connpass.com/event/159901/",
+    "category": "container",
+    "startAt": "2020-03-11T14:00:00+09:00",
+    "endAt": "2020-03-11T15:15:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fb/cd/fbcd9a8f4d66343f145a2aa9cda1f8ff.png",
     "future": true
   },
   {
