@@ -168,6 +168,16 @@
     "future": true
   },
   {
+    "group name": "YYTypeScript",
+    "event name": "YYTypeScript#21【TypeScript技術書執筆会】",
+    "url": "https://yyts.connpass.com/event/167780/",
+    "category": "js",
+    "startAt": "2020-02-21T19:30:00+09:00",
+    "endAt": "2020-02-21T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/63/7a/637a15c7c1e7d53521a3a8ba760fcb86.png",
+    "future": true
+  },
+  {
     "group name": "TJBotFan",
     "event name": "【オンライン】ラズパイとNode-REDで「TJBot zero」を作ろう2020 #02",
     "url": "https://bmxug.connpass.com/event/168111/",
