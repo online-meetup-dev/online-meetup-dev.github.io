@@ -224,6 +224,16 @@
     "future": true
   },
   {
+    "group name": "テスト駆動飲み会 - Test Driven Drinking -",
+    "event name": "【リモート】エアテスト駆動飲み会 -Air Test Driven Drinking-【2/26】",
+    "url": "https://tddrinking.connpass.com/event/168475/",
+    "category": "",
+    "startAt": "2020-02-26T19:30:00+09:00",
+    "endAt": "2020-02-26T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e7/6d/e76d225071913914763df2db2ef38078.png",
+    "future": true
+  },
+  {
     "group name": "Serverless",
     "event name": "Serverless Meetup Tokyo #16",
     "url": "https://serverless.connpass.com/event/165352/",
