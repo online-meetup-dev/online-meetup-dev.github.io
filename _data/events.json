@@ -151,7 +151,7 @@
     "endAt": "2020-02-20T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/12/4d/124dc11da140710ac38db4f73a722165.png",
     "today": true,
-    "future": true
+    "future": false
   },
   {
     "group name": "もくもく執筆会",
