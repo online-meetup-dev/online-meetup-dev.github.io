@@ -322,6 +322,16 @@
     "future": true
   },
   {
+    "group name": "Goodpatch Inc.",
+    "event name": "Goodpatch Anywhere Live!! ver0.2 Fukuoka",
+    "url": "https://goodpatch.connpass.com/event/166654/",
+    "category": "",
+    "startAt": "2020-03-02T19:30:00+09:00",
+    "endAt": "2020-03-02T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a7/e5/a7e5dbfae9341637ec6b76ea4342e255.png",
+    "future": true
+  },
+  {
     "group name": "IBM Developer Dojo",
     "event name": "【オンライン】IBM Dojo #8 Hyperledger Fabricでブロックチェーンを",
     "url": "https://ibm-developer.connpass.com/event/159900/",
