@@ -284,6 +284,26 @@
     "future": true
   },
   {
+    "group name": "リモスタ",
+    "event name": "リモートで勉強会#5 - テーマ何でもLT会-",
+    "url": "https://remote-study.connpass.com/event/165493/",
+    "category": "other",
+    "startAt": "2020-02-26T19:30:00+09:00",
+    "endAt": "2020-02-26T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0e/11/0e11bcb31ef4c786ac9e68169bec93be.png",
+    "future": true
+  },
+  {
+    "group name": "React Native Tech Blog",
+    "event name": "【第一回 Meet Up】 React Native Tech Blog",
+    "url": "https://ducklings.connpass.com/event/164844/",
+    "category": "js",
+    "startAt": "2020-02-26T19:30:00+09:00",
+    "endAt": "2020-02-26T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6f/d1/6fd111cd676767a0bf96c3a369f3c785.png",
+    "future": true
+  },
+  {
     "group name": "Serverless",
     "event name": "Serverless Meetup Tokyo #16",
     "url": "https://serverless.connpass.com/event/165352/",
