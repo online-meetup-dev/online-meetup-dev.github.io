@@ -254,6 +254,26 @@
     "future": true
   },
   {
+    "group name": "Akiba.go",
+    "event name": "Akiba.go #42",
+    "url": "https://akihabarago.connpass.com/event/167503/",
+    "category": "go",
+    "startAt": "2020-02-26T18:00:00+09:00",
+    "endAt": "2020-02-26T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/36/8136abb2a7213b40a63a50531a3dab7e.png",
+    "future": true
+  },
+  {
+    "group name": "Women Who Go Tokyo",
+    "event name": "【リモートのみ！】Women Who Go Tokyo #38 家計簿アプリを作ろう",
+    "url": "https://womenwhogo-tokyo.connpass.com/event/166964/",
+    "category": "go",
+    "startAt": "2020-02-26T19:00:00+09:00",
+    "endAt": "2020-02-26T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/71/9d/719ddc5433e722a08dc65d3ffd66cd56.png",
+    "future": true
+  },
+  {
     "group name": "テスト駆動飲み会 - Test Driven Drinking -",
     "event name": "【リモート】エアテスト駆動飲み会 -Air Test Driven Drinking-【2/26】",
     "url": "https://tddrinking.connpass.com/event/168475/",
