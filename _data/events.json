@@ -1,15 +1,5 @@
 [
   {
-    "group name": "",
-    "event name": "",
-    "url": "https://peatix.com/event/1430177",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "future": false
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -281,6 +271,16 @@
     "startAt": "2020-03-11T14:00:00+09:00",
     "endAt": "2020-03-11T15:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fb/cd/fbcd9a8f4d66343f145a2aa9cda1f8ff.png",
+    "future": true
+  },
+  {
+    "group name": "VRCMeetup",
+    "event name": "VRChat Meetup #4",
+    "url": "https://vrcmeetup.connpass.com/event/165225/",
+    "category": "",
+    "startAt": "2020-03-13T21:00:00+09:00",
+    "endAt": "2020-03-13T23:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/77/67/77674b6c293799da491aa78b4165d16f.png",
     "future": true
   },
   {
