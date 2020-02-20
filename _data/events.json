@@ -194,6 +194,16 @@
     "future": true
   },
   {
+    "group name": "若手エンジニアもくもく会",
+    "event name": "(若手)エンジニアもくもく会 vol.22 @Slack",
+    "url": "https://youth-engineer-mokumoku.connpass.com/event/167430/",
+    "category": "other",
+    "startAt": "2020-02-23T13:30:00+09:00",
+    "endAt": "2020-02-23T19:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/72/63/7263efa510e2b0db63312150f87a236c.png",
+    "future": true
+  },
+  {
     "group name": "TJBotFan",
     "event name": "【オンライン】ラズパイとNode-REDで「TJBot zero」を作ろう2020 #02",
     "url": "https://bmxug.connpass.com/event/168111/",
