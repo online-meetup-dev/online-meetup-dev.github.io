@@ -140,7 +140,7 @@
     "endAt": "Thu Feb 20 2020 21:00:00 GMT+0900 (日本標準時)",
     "image": "https://dzpp79ucibp5a.cloudfront.net/events_banners/103749_normal_1582036953_%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2020-02-18_23.40.19.png",
     "today": true,
-    "future": true
+    "future": false
   },
   {
     "group name": "PyData.Fukui",
