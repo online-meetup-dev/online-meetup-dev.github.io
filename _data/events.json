@@ -184,6 +184,16 @@
     "future": true
   },
   {
+    "group name": "Sphinx-users.jp",
+    "event name": "Sphinx+翻訳 Hack-a-thon 2020.2 （リモート開催）",
+    "url": "https://sphinxjp.connpass.com/event/168321/",
+    "category": "server",
+    "startAt": "2020-02-22T13:00:00+09:00",
+    "endAt": "2020-02-22T19:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3c/22/3c223840b5d10dfee5517571e48a0044.png",
+    "future": true
+  },
+  {
     "group name": "TJBotFan",
     "event name": "【オンライン】ラズパイとNode-REDで「TJBot zero」を作ろう2020 #02",
     "url": "https://bmxug.connpass.com/event/168111/",
@@ -277,7 +287,7 @@
     "group name": "VRCMeetup",
     "event name": "VRChat Meetup #4",
     "url": "https://vrcmeetup.connpass.com/event/165225/",
-    "category": "",
+    "category": "vr",
     "startAt": "2020-03-13T21:00:00+09:00",
     "endAt": "2020-03-13T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/77/67/77674b6c293799da491aa78b4165d16f.png",
