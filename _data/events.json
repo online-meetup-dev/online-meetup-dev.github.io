@@ -234,6 +234,16 @@
     "future": true
   },
   {
+    "group name": "Re:Build",
+    "event name": "Tadoru Meetup(完全オンライン)#4  ~地方エンジニアに仕事を依頼する観点~",
+    "url": "https://re-build.connpass.com/event/166522/",
+    "category": "other",
+    "startAt": "2020-02-25T19:30:00+09:00",
+    "endAt": "2020-02-25T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/58/38/58381aaa21d319d144a6477a8c2993b9.png",
+    "future": true
+  },
+  {
     "group name": "IBM Developer Dojo",
     "event name": "【オンライン】IBM Dojo #7 QuarkusでJava モダナイゼーション",
     "url": "https://ibm-developer.connpass.com/event/159888/",
