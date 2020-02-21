@@ -169,7 +169,7 @@
     "endAt": "2020-02-21T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/63/7a/637a15c7c1e7d53521a3a8ba760fcb86.png",
     "today": true,
-    "future": true
+    "future": false
   },
   {
     "group name": "Zenshin.web",
