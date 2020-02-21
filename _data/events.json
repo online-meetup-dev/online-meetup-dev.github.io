@@ -352,6 +352,16 @@
     "future": true
   },
   {
+    "group name": "DevRel Meetup in Tokyo",
+    "event name": "DevRel/Online #1 〜初のオンライン開催〜",
+    "url": "https://devrel.connpass.com/event/168692/",
+    "category": "devrel",
+    "startAt": "2020-03-11T19:00:00+09:00",
+    "endAt": "2020-03-11T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e7/60/e7605ebdbd8326f1828b4e36debacb7d.png",
+    "future": true
+  },
+  {
     "group name": "VRCMeetup",
     "event name": "VRChat Meetup #4",
     "url": "https://vrcmeetup.connpass.com/event/165225/",
