@@ -158,7 +158,7 @@
     "endAt": "2020-02-21T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1b/cf/1bcf02264996e2eeb36c95d070881146.png",
     "today": true,
-    "future": true
+    "future": false
   },
   {
     "group name": "YYTypeScript",
