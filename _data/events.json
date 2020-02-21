@@ -1,1 +1,394 @@
-<!DOCTYPE html><html><head><link rel="shortcut icon" href="//ssl.gstatic.com/docs/script/images/favicon.ico"><title>エラー</title><style type="text/css">body {background-color: #fff; margin: 0; padding: 0;}.errorMessage {font-family: Arial,sans-serif; font-size: 12pt; font-weight: bold; line-height: 150%; padding-top: 25px;}</style></head><body style="margin:20px"><div><img alt="Google Apps Script" src="//ssl.gstatic.com/docs/script/images/logo.png"></div><div style="text-align:center;font-family:monospace;margin:50px auto 0;max-width:600px">サーバー エラーが発生しました。しばらくしてからもう一度試してください。</div></body></html>
+[
+  {
+    "group name": "Meetup video shooting Meetup",
+    "event name": "Meetup video shooting Meetup #1",
+    "url": "https://connpass.com/event/163347/",
+    "category": "other",
+    "startAt": "Wed Feb 12 2020 19:30:00 GMT+0900 (日本標準時)",
+    "endAt": "Wed Feb 12 2020 21:30:00 GMT+0900 (日本標準時)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/1d/3e1da6177cafbc3031d47a5646be20df.png",
+    "future": false
+  },
+  {
+    "group name": "Ansible ユーザー会",
+    "event name": "Ansibleもくもく会 （サーバ編 & NW編）2020.02",
+    "url": "https://ansible-users.connpass.com/event/164212/",
+    "category": "server",
+    "startAt": "Tue Feb 18 2020 19:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Tue Feb 18 2020 21:30:00 GMT+0900 (日本標準時)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c3/de/c3de3800527386acc3c53d9bdd48a934.png",
+    "future": false
+  },
+  {
+    "group name": "Microsoft Open Tech Night",
+    "event name": "Microsoft Open Tech Night #6 w/ HashiCorp Japan",
+    "url": "https://msdevjp.connpass.com/event/159496/",
+    "category": "other",
+    "startAt": "Tue Feb 18 2020 19:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Tue Feb 18 2020 22:00:00 GMT+0900 (日本標準時)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/29/75/29758ae902dddf3d34cf3a63ab350d54.png",
+    "future": false
+  },
+  {
+    "group name": "IBM Developer Dojo",
+    "event name": "【オンライン】IBM Dojo #6 Auto AI を使ったらくらく機械学習",
+    "url": "https://ibm-developer.connpass.com/event/159794/",
+    "category": "ai",
+    "startAt": "2020-02-19T14:00:00+09:00",
+    "endAt": "2020-02-19T15:15:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cc/12/cc12b0cbe17e5edd95f8ba54286c331f.png",
+    "future": false
+  },
+  {
+    "group name": "Agile Shinano",
+    "event name": "Agile Japan 2020 セッション応募してみよう",
+    "url": "https://agile-shinano.connpass.com/event/167683/",
+    "category": "other",
+    "startAt": "2020-02-19T18:30:00+09:00",
+    "endAt": "2020-02-19T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/59/2b/592b3691113e19ea67778f2657a246d4.png",
+    "future": false
+  },
+  {
+    "group name": "Sicss Society Public Events",
+    "event name": "Sicss SICP Seminar 2020-03",
+    "url": "https://sicss.connpass.com/event/168104/",
+    "category": "other",
+    "startAt": "2020-02-19T18:45:00+09:00",
+    "endAt": "2020-02-19T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f2/e5/f2e599f041789baccfc14cabab41645f.png",
+    "future": false
+  },
+  {
+    "group name": "大阪駆動開発",
+    "event name": "【大阪会場】スマートスピーカーを遊びたおす会 vol.9",
+    "url": "https://osaka-driven-dev.connpass.com/event/163085/",
+    "category": "IoT",
+    "startAt": "2020-02-19T19:00:00+09:00",
+    "endAt": "2020-02-19T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0c/02/0c02bf74c52b94444c7d755da6e311ee.png",
+    "future": false
+  },
+  {
+    "group name": "JAWS-UG初心者支部",
+    "event name": "JAWS-UG 初心者支部#24 サーバレスハンズオン勉強会",
+    "url": "https://jawsug-bgnr.connpass.com/event/165065/",
+    "category": "aws",
+    "startAt": "2020-02-19T19:00:00+09:00",
+    "endAt": "2020-02-19T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c6/09/c6098fd2c5b261cfaa8ce99690608377.png",
+    "future": false
+  },
+  {
+    "group name": "PWA Night",
+    "event name": "PWA Night vol.13 ～Webブラウザ最前線～",
+    "url": "https://pwanight.connpass.com/event/164169/",
+    "category": "web",
+    "startAt": "Wed Feb 19 2020 19:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Wed Feb 19 2020 22:00:00 GMT+0900 (日本標準時)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7f/b3/7fb3a22c0c03fd135160c6c42c7b4a43.png",
+    "future": false
+  },
+  {
+    "group name": "Roppongi.unity",
+    "event name": "Roppongi.unity #7 in YouTube Live",
+    "url": "https://roppongiunity.connpass.com/event/163906/",
+    "category": "game",
+    "startAt": "Wed Feb 19 2020 19:30:00 GMT+0900 (日本標準時)",
+    "endAt": "Wed Feb 19 2020 22:30:00 GMT+0900 (日本標準時)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/20/08/20084b2a4203dd743c481b35ee636e53.png",
+    "future": false
+  },
+  {
+    "group name": "VS Code Meetup",
+    "event name": "VS Code Meetup #3 - Extensionを使う編",
+    "url": "https://vscode.connpass.com/event/166047/",
+    "category": "other",
+    "startAt": "Wed Feb 19 2020 19:30:00 GMT+0900 (日本標準時)",
+    "endAt": "Wed Feb 19 2020 22:00:00 GMT+0900 (日本標準時)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9d/1a/9d1a74ce9774ea5f620af773f7510e6e.png",
+    "future": false
+  },
+  {
+    "group name": "機械学習　名古屋",
+    "event name": "機械学習 名古屋 研究会 #23",
+    "url": "https://machine-learning.connpass.com/event/163709/",
+    "category": "ai",
+    "startAt": "2020-02-20T19:00:00+09:00",
+    "endAt": "2020-02-20T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ea/80/ea804d5c1926e4cb761a1ea994fb369c.png",
+    "future": false
+  },
+  {
+    "group name": "ふらっとxR",
+    "event name": "第6回 XRもくもく会",
+    "url": "https://flatxr.connpass.com/event/167593/",
+    "category": "video",
+    "startAt": "2020-02-20T19:00:00+09:00",
+    "endAt": "2020-02-20T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/70/817021b15b710f8ba07c93a2e4f41f3a.png",
+    "future": false
+  },
+  {
+    "group name": "DevLOVE",
+    "event name": "「チーム・ジャーニー 逆境を越える、変化に強いチームをつくりあげるまで」発刊イベント",
+    "url": "https://devlove.doorkeeper.jp/events/103749",
+    "category": "other",
+    "startAt": "Thu Feb 20 2020 19:30:00 GMT+0900 (日本標準時)",
+    "endAt": "Thu Feb 20 2020 21:00:00 GMT+0900 (日本標準時)",
+    "image": "https://dzpp79ucibp5a.cloudfront.net/events_banners/103749_normal_1582036953_%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2020-02-18_23.40.19.png",
+    "future": false
+  },
+  {
+    "group name": "PyData.Fukui",
+    "event name": "安心のフルリモート、PyData.Fukui もくもく雑談会",
+    "url": "https://pydata-fukui.connpass.com/event/168112/",
+    "category": "python",
+    "startAt": "2020-02-20T20:00:00+09:00",
+    "endAt": "2020-02-20T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/12/4d/124dc11da140710ac38db4f73a722165.png",
+    "future": false
+  },
+  {
+    "group name": "もくもく執筆会",
+    "event name": "もくもく執筆会☆出張版 REV.29 @ お家で執筆会 〜技術系同人誌／商業誌・発表資料・ブログ〜",
+    "url": "https://techbook-meetup.connpass.com/event/163537/",
+    "category": "writing",
+    "startAt": "2020-02-21T17:30:00+09:00",
+    "endAt": "2020-02-21T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1b/cf/1bcf02264996e2eeb36c95d070881146.png",
+    "future": false
+  },
+  {
+    "group name": "YYTypeScript",
+    "event name": "YYTypeScript#21【TypeScript技術書執筆会】",
+    "url": "https://yyts.connpass.com/event/167780/",
+    "category": "js",
+    "startAt": "2020-02-21T19:30:00+09:00",
+    "endAt": "2020-02-21T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/63/7a/637a15c7c1e7d53521a3a8ba760fcb86.png",
+    "future": false
+  },
+  {
+    "group name": "Zenshin.web",
+    "event name": "Zenshin.web リモートもくもく会#5",
+    "url": "https://zenshin-web.connpass.com/event/167043/",
+    "category": "web",
+    "startAt": "2020-02-22T10:00:00+09:00",
+    "endAt": "2020-02-22T13:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/49/be/49be9749b2c06d7edb39811f0e242698.png",
+    "today": true,
+    "future": true
+  },
+  {
+    "group name": "Sphinx-users.jp",
+    "event name": "Sphinx+翻訳 Hack-a-thon 2020.2 （リモート開催）",
+    "url": "https://sphinxjp.connpass.com/event/168321/",
+    "category": "server",
+    "startAt": "2020-02-22T13:00:00+09:00",
+    "endAt": "2020-02-22T19:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3c/22/3c223840b5d10dfee5517571e48a0044.png",
+    "today": true,
+    "future": true
+  },
+  {
+    "group name": "若手エンジニアもくもく会",
+    "event name": "(若手)エンジニアもくもく会 vol.22 @Slack",
+    "url": "https://youth-engineer-mokumoku.connpass.com/event/167430/",
+    "category": "other",
+    "startAt": "2020-02-23T13:30:00+09:00",
+    "endAt": "2020-02-23T19:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/72/63/7263efa510e2b0db63312150f87a236c.png",
+    "future": true
+  },
+  {
+    "group name": "TJBotFan",
+    "event name": "【オンライン】ラズパイとNode-REDで「TJBot zero」を作ろう2020 #02",
+    "url": "https://bmxug.connpass.com/event/168111/",
+    "category": "hard",
+    "startAt": "Mon Feb 24 2020 10:30:00 GMT+0900 (日本標準時)",
+    "endAt": "2020/02/24 18:0",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/95/38/9538b8b35226a8c54e3460104ef7de35.png",
+    "future": true
+  },
+  {
+    "group name": "fukuoka.ex／kokura.ex - Fukuoka Elixir community -",
+    "event name": "【フルリモート開催】kokura.ex#6：Elixirもくもく会～入門もあるよ(19:00)",
+    "url": "https://fukuokaex.connpass.com/event/167751/",
+    "category": "elixir",
+    "startAt": "2020-02-25T19:00:00+09:00",
+    "endAt": "2020-02-25T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f6/23/f623f917883eeb43896718e32e8e58f6.png",
+    "future": true
+  },
+  {
+    "group name": "QualityForward",
+    "event name": "PMなら押さえておきたいクラウドサービス勉強会",
+    "url": "https://qualityforward.connpass.com/event/165013/",
+    "category": "cloud",
+    "startAt": "Tue Feb 25 2020 19:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Tue Feb 25 2020 21:00:00 GMT+0900 (日本標準時)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4d/05/4d0544eb1beccf4b3c65758bd12ae446.png",
+    "future": true
+  },
+  {
+    "group name": "Re:Build",
+    "event name": "Tadoru Meetup(完全オンライン)#4  ~地方エンジニアに仕事を依頼する観点~",
+    "url": "https://re-build.connpass.com/event/166522/",
+    "category": "other",
+    "startAt": "2020-02-25T19:30:00+09:00",
+    "endAt": "2020-02-25T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/58/38/58381aaa21d319d144a6477a8c2993b9.png",
+    "future": true
+  },
+  {
+    "group name": "IBM Developer Dojo",
+    "event name": "【オンライン】IBM Dojo #7 QuarkusでJava モダナイゼーション",
+    "url": "https://ibm-developer.connpass.com/event/159888/",
+    "category": "java",
+    "startAt": "2020-02-26T14:00:00+09:00",
+    "endAt": "2020-02-26T15:15:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/53/2b/532bb15875e951d3bb4b8d0357818b93.png",
+    "future": true
+  },
+  {
+    "group name": "Akiba.go",
+    "event name": "Akiba.go #42",
+    "url": "https://akihabarago.connpass.com/event/167503/",
+    "category": "go",
+    "startAt": "2020-02-26T18:00:00+09:00",
+    "endAt": "2020-02-26T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/36/8136abb2a7213b40a63a50531a3dab7e.png",
+    "future": true
+  },
+  {
+    "group name": "Women Who Go Tokyo",
+    "event name": "【リモートのみ！】Women Who Go Tokyo #38 家計簿アプリを作ろう",
+    "url": "https://womenwhogo-tokyo.connpass.com/event/166964/",
+    "category": "go",
+    "startAt": "2020-02-26T19:00:00+09:00",
+    "endAt": "2020-02-26T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/71/9d/719ddc5433e722a08dc65d3ffd66cd56.png",
+    "future": true
+  },
+  {
+    "group name": "テスト駆動飲み会 - Test Driven Drinking -",
+    "event name": "【リモート】エアテスト駆動飲み会 -Air Test Driven Drinking-【2/26】",
+    "url": "https://tddrinking.connpass.com/event/168475/",
+    "category": "other",
+    "startAt": "2020-02-26T19:30:00+09:00",
+    "endAt": "2020-02-26T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e7/6d/e76d225071913914763df2db2ef38078.png",
+    "future": true
+  },
+  {
+    "group name": "リモスタ",
+    "event name": "リモートで勉強会#5 - テーマ何でもLT会-",
+    "url": "https://remote-study.connpass.com/event/165493/",
+    "category": "other",
+    "startAt": "2020-02-26T19:30:00+09:00",
+    "endAt": "2020-02-26T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0e/11/0e11bcb31ef4c786ac9e68169bec93be.png",
+    "future": true
+  },
+  {
+    "group name": "React Native Tech Blog",
+    "event name": "【第一回 Meet Up】 React Native Tech Blog",
+    "url": "https://ducklings.connpass.com/event/164844/",
+    "category": "js",
+    "startAt": "2020-02-26T19:30:00+09:00",
+    "endAt": "2020-02-26T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6f/d1/6fd111cd676767a0bf96c3a369f3c785.png",
+    "future": true
+  },
+  {
+    "group name": "Serverless",
+    "event name": "Serverless Meetup Tokyo #16",
+    "url": "https://serverless.connpass.com/event/165352/",
+    "category": "server",
+    "startAt": "Thu Feb 27 2020 19:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Thu Feb 27 2020 21:30:00 GMT+0900 (日本標準時)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/78/4a/784a4577151a65612e416d6858b00865.png",
+    "future": true
+  },
+  {
+    "group name": "BPStudy",
+    "event name": "BPStudy#150〜自走プログラマーとはなにか",
+    "url": "https://bpstudy.connpass.com/event/166409/",
+    "category": "other",
+    "startAt": "Fri Feb 28 2020 19:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Fri Feb 28 2020 21:00:00 GMT+0900 (日本標準時)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c2/19/c219de7e15c3e580706e21316b6fa6e1.png",
+    "future": true
+  },
+  {
+    "group name": "Goodpatch Inc.",
+    "event name": "Goodpatch Anywhere Live!! ver0.2 Fukuoka",
+    "url": "https://goodpatch.connpass.com/event/166654/",
+    "category": "other",
+    "startAt": "2020-03-02T19:30:00+09:00",
+    "endAt": "2020-03-02T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a7/e5/a7e5dbfae9341637ec6b76ea4342e255.png",
+    "future": true
+  },
+  {
+    "group name": "IBM Developer Dojo",
+    "event name": "【オンライン】IBM Dojo #8 Hyperledger Fabricでブロックチェーンを",
+    "url": "https://ibm-developer.connpass.com/event/159900/",
+    "category": "blockchaine",
+    "startAt": "2020-03-04T14:00:00+09:00",
+    "endAt": "2020-03-04T15:15:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5a/5e/5a5e32b38cef06a8956a2e01e005b227.png",
+    "future": true
+  },
+  {
+    "group name": "JAWS-UG横浜支部",
+    "event name": "JAWS-UG横浜 #20 Amazon Neptune HANDS-ON(オンライン)",
+    "url": "https://jawsug-yokohama.connpass.com/event/166514/",
+    "category": "aws",
+    "startAt": "2020-03-05T19:00:00+09:00",
+    "endAt": "2020-03-05T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f0/ec/f0ec9cd676f379e3ae42aaed59516b36.png",
+    "future": true
+  },
+  {
+    "group name": "IBM Developer Dojo",
+    "event name": "【オンライン】IBM Dojo #9 Kabaneroを使ったクラウド・ネイティブなアプリ開発を体験",
+    "url": "https://ibm-developer.connpass.com/event/159901/",
+    "category": "container",
+    "startAt": "2020-03-11T14:00:00+09:00",
+    "endAt": "2020-03-11T15:15:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fb/cd/fbcd9a8f4d66343f145a2aa9cda1f8ff.png",
+    "future": true
+  },
+  {
+    "group name": "DevRel Meetup in Tokyo",
+    "event name": "DevRel/Online #1 〜初のオンライン開催〜",
+    "url": "https://devrel.connpass.com/event/168692/",
+    "category": "devrel",
+    "startAt": "2020-03-11T19:00:00+09:00",
+    "endAt": "2020-03-11T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e7/60/e7605ebdbd8326f1828b4e36debacb7d.png",
+    "future": true
+  },
+  {
+    "group name": "VRCMeetup",
+    "event name": "VRChat Meetup #4",
+    "url": "https://vrcmeetup.connpass.com/event/165225/",
+    "category": "vr",
+    "startAt": "2020-03-13T21:00:00+09:00",
+    "endAt": "2020-03-13T23:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/77/67/77674b6c293799da491aa78b4165d16f.png",
+    "future": true
+  },
+  {
+    "group name": "IoT縛りの勉強会\u0010! IoTLT",
+    "event name": "IoT縛りの勉強会! IoTLT vol.61 @オンライン",
+    "url": "https://iotlt.connpass.com/event/168382/",
+    "category": "IoT",
+    "startAt": "Wed Mar 18 2020 19:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Wed Mar 18 2020 22:00:00 GMT+0900 (日本標準時)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2e/6f/2e6fd6fa32a42b1d65f3c82ebdf6eb80.png",
+    "future": true
+  }
+]
