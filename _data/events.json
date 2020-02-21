@@ -342,6 +342,16 @@
     "future": true
   },
   {
+    "group name": "JAWS-UG横浜支部",
+    "event name": "JAWS-UG横浜 #20 Amazon Neptune HANDS-ON(オンライン)",
+    "url": "https://jawsug-yokohama.connpass.com/event/166514/",
+    "category": "aws",
+    "startAt": "2020-03-05T19:00:00+09:00",
+    "endAt": "2020-03-05T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f0/ec/f0ec9cd676f379e3ae42aaed59516b36.png",
+    "future": true
+  },
+  {
     "group name": "IBM Developer Dojo",
     "event name": "【オンライン】IBM Dojo #9 Kabaneroを使ったクラウド・ネイティブなアプリ開発を体験",
     "url": "https://ibm-developer.connpass.com/event/159901/",
