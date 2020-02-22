@@ -178,7 +178,7 @@
     "endAt": "2020-02-22T13:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/49/be/49be9749b2c06d7edb39811f0e242698.png",
     "today": true,
-    "future": true
+    "future": false
   },
   {
     "group name": "Sphinx-users.jp",
