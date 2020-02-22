@@ -189,7 +189,7 @@
     "endAt": "2020-02-22T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3c/22/3c223840b5d10dfee5517571e48a0044.png",
     "today": true,
-    "future": true
+    "future": false
   },
   {
     "group name": "若手エンジニアもくもく会",
