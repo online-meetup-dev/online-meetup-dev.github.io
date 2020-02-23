@@ -539,5 +539,15 @@
     "endAt": "2020-03-23T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fa/0e/fa0ee8ceb500dadb309298ff08767033.png",
     "future": true
+  },
+  {
+    "group name": "",
+    "event name": "",
+    "url": "https://mugenlaboday.com/",
+    "category": "",
+    "startAt": "Tue Mar 24 2020 16:30:00 GMT+0900 (日本標準時)",
+    "endAt": "Tue Mar 24 2020 19:30:00 GMT+0900 (日本標準時)",
+    "image": "",
+    "future": true
   }
 ]
