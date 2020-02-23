@@ -361,6 +361,16 @@
     "future": true
   },
   {
+    "group name": "DevMokuSendai.",
+    "event name": "#023 DevMoku仙台（コロナウイルス対策のためリモート開催）",
+    "url": "https://sendai-cafemorning.connpass.com/event/167812/",
+    "category": "other",
+    "startAt": "2020-03-07T10:00:00+09:00",
+    "endAt": "2020-03-07T12:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7b/e9/7be96d562090500ea3af6e07caaf02ee.png",
+    "future": true
+  },
+  {
     "group name": "IBM Developer Dojo",
     "event name": "【オンライン】IBM Dojo #9 Kabaneroを使ったクラウド・ネイティブなアプリ開発を体験",
     "url": "https://ibm-developer.connpass.com/event/159901/",
