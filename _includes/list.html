@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-md-10 offset-md-1 text-center">
          <a href="{{ event.url }}" class="index-anchor">    
-            <div class="panel panel-default r r-{{ event.category }}">
+            <div class="panel panel-default r" style="border-top: {{ event.color }} solid 8px;">
               {% if event.today %}
               <div class="ribbon-wrapper">
                 <div class="ribbon blue">Today</div>
