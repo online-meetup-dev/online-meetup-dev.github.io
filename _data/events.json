@@ -248,7 +248,7 @@
     "endAt": "2020-02-23T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/72/63/7263efa510e2b0db63312150f87a236c.png",
     "today": true,
-    "future": true
+    "future": false
   },
   {
     "group name": "TJBotFan",
