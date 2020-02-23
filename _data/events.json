@@ -1,5 +1,15 @@
 [
   {
+    "group name": "REACT MEETUP",
+    "event name": "REACT MEETUP",
+    "url": "https://www.reactjsmeetup.com/",
+    "category": "js",
+    "startAt": "March, 12 2020, 15:30 PM (EST)",
+    "endAt": "March, 12 2020, 18:30 PM (EST)",
+    "image": "",
+    "future": false
+  },
+  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
