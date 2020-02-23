@@ -441,6 +441,16 @@
     "future": true
   },
   {
+    "group name": "OpsJAWS",
+    "event name": "Ops JAWS Meetup#18 モニタリング",
+    "url": "https://opsjaws.doorkeeper.jp/events/104065",
+    "category": "aws",
+    "startAt": "2020-03-19T10:00:00.000Z",
+    "endAt": "2020-03-19T12:15:00.000Z",
+    "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/6155_normal_1461745484_OpsJAWS_Icon.png",
+    "future": true
+  },
+  {
     "group name": "VUE MEETUP",
     "event name": "VUE MEETUP",
     "url": "https://www.vuemeetup.com/",
