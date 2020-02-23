@@ -1,35 +1,5 @@
 [
   {
-    "group name": "VUE MEETUP",
-    "event name": "VUE MEETUP",
-    "url": "https://www.vuemeetup.com/",
-    "category": "js",
-    "startAt": "March, 19 2020, 15:30 PM (EST)",
-    "endAt": "March, 19 2020, 18:30 PM (EST)",
-    "image": "https://www.vuemeetup.com/img/Logo-ThisDot-Media-lg.png",
-    "future": false
-  },
-  {
-    "group name": "ANGULAR MEETUP",
-    "event name": "ANGULAR MEETUP",
-    "url": "https://www.angularmeetup.com/",
-    "category": "js",
-    "startAt": "March, 05 2020, 15:30 PM (EST)",
-    "endAt": "March, 05 2020, 18:30 PM (EST)",
-    "image": "https://www.angularmeetup.com/img/Logo-ThisDot-Media-lg.png",
-    "future": false
-  },
-  {
-    "group name": "REACT MEETUP",
-    "event name": "REACT MEETUP",
-    "url": "https://www.reactjsmeetup.com/",
-    "category": "js",
-    "startAt": "March, 12 2020, 15:30 PM (EST)",
-    "endAt": "March, 12 2020, 18:30 PM (EST)",
-    "image": "https://www.reactjsmeetup.com/img/Logo-ThisDot-Media-lg.png",
-    "future": false
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -401,6 +371,16 @@
     "future": true
   },
   {
+    "group name": "ANGULAR MEETUP",
+    "event name": "ANGULAR MEETUP",
+    "url": "https://www.angularmeetup.com/",
+    "category": "js",
+    "startAt": "2020-03-05T15:30:00-05:00",
+    "endAt": "2020-03-05T18:30:00-05:00",
+    "image": "https://www.angularmeetup.com/img/Logo-ThisDot-Media-lg.png",
+    "future": true
+  },
+  {
     "group name": "DevMokuSendai.",
     "event name": "#023 DevMoku仙台（コロナウイルス対策のためリモート開催）",
     "url": "https://sendai-cafemorning.connpass.com/event/167812/",
@@ -431,6 +411,16 @@
     "future": true
   },
   {
+    "group name": "REACT MEETUP",
+    "event name": "REACT MEETUP",
+    "url": "https://www.reactjsmeetup.com/",
+    "category": "js",
+    "startAt": "2020-03-12T15:30:00-05:00",
+    "endAt": "2020-03-12T18:30:00-05:00",
+    "image": "https://www.reactjsmeetup.com/img/Logo-ThisDot-Media-lg.png",
+    "future": true
+  },
+  {
     "group name": "VRCMeetup",
     "event name": "VRChat Meetup #4",
     "url": "https://vrcmeetup.connpass.com/event/165225/",
@@ -448,6 +438,16 @@
     "startAt": "Wed Mar 18 2020 19:00:00 GMT+0900 (日本標準時)",
     "endAt": "Wed Mar 18 2020 22:00:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2e/6f/2e6fd6fa32a42b1d65f3c82ebdf6eb80.png",
+    "future": true
+  },
+  {
+    "group name": "VUE MEETUP",
+    "event name": "VUE MEETUP",
+    "url": "https://www.vuemeetup.com/",
+    "category": "js",
+    "startAt": "2020-03-19T15:30:00-05:00",
+    "endAt": "2020-03-05T18:30:00-05:00",
+    "image": "https://www.vuemeetup.com/img/Logo-ThisDot-Media-lg.png",
     "future": true
   }
 ]
