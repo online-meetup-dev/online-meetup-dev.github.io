@@ -20,6 +20,16 @@
     "future": false
   },
   {
+    "group name": "西日暮里.rb",
+    "event name": "第64回 西日暮里.rb もくもく会",
+    "url": "https://nishinipporirb.doorkeeper.jp/events/103095",
+    "category": "ruby",
+    "startAt": "2020-02-17T11:00:00.000Z",
+    "endAt": "2020-02-17T13:00:00.000Z",
+    "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/3274_normal_1435244256_flat_nini_icon_512x512.png",
+    "future": false
+  },
+  {
     "group name": "Ansible ユーザー会",
     "event name": "Ansibleもくもく会 （サーバ編 & NW編）2020.02",
     "url": "https://ansible-users.connpass.com/event/164212/",
