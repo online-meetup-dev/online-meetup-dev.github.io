@@ -394,7 +394,7 @@
     "group name": "PyCon mini Shizuoka",
     "event name": "PyCon mini Shizuoka 2020【オンライン開催】",
     "url": "https://pycon-shizu.connpass.com/event/152678/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-02-29T09:50:00+09:00",
     "endAt": "2020-02-29T17:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/de/3c/de3c3951b6420397ba4cf7ac9a872506.png",
@@ -541,13 +541,13 @@
     "future": true
   },
   {
-    "group name": "",
-    "event name": "",
+    "group name": "MUGENLABO DAY 2020",
+    "event name": "MUGENLABO DAY 2020",
     "url": "https://mugenlaboday.com/",
-    "category": "",
+    "category": "other",
     "startAt": "Tue Mar 24 2020 16:30:00 GMT+0900 (日本標準時)",
     "endAt": "Tue Mar 24 2020 19:30:00 GMT+0900 (日本標準時)",
-    "image": "",
+    "image": "https://cdn.peraichi.com/userData/5e203954-f43c-4e8c-bb3e-79b20a00002b/img/5e4a23d3810c7/original.png",
     "future": true
   }
 ]
