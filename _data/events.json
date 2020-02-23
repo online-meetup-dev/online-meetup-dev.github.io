@@ -1,5 +1,25 @@
 [
   {
+    "group name": "VUE MEETUP",
+    "event name": "VUE MEETUP",
+    "url": "",
+    "category": "",
+    "startAt": "",
+    "endAt": "",
+    "image": "",
+    "future": false
+  },
+  {
+    "group name": "ANGULAR MEETUP",
+    "event name": "ANGULAR MEETUP",
+    "url": "https://www.angularmeetup.com/",
+    "category": "js",
+    "startAt": "March, 05 2020, 15:30 PM (EST)",
+    "endAt": "March, 05 2020, 18:30 PM (EST)",
+    "image": "https://www.angularmeetup.com/img/Logo-ThisDot-Media-lg.png",
+    "future": false
+  },
+  {
     "group name": "REACT MEETUP",
     "event name": "REACT MEETUP",
     "url": "https://www.reactjsmeetup.com/",
