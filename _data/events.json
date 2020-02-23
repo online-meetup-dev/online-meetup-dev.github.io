@@ -7,7 +7,8 @@
     "startAt": "Wed Feb 12 2020 19:30:00 GMT+0900 (日本標準時)",
     "endAt": "Wed Feb 12 2020 21:30:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/1d/3e1da6177cafbc3031d47a5646be20df.png",
-    "future": false
+    "future": false,
+    "color": "grey"
   },
   {
     "group name": "Podcasters Online MeetUp",
@@ -17,7 +18,8 @@
     "startAt": "2020-02-13T20:00:00+09:00",
     "endAt": "2020-02-13T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d8/e0/d8e03fbc012a0da081ce054f401481f5.png",
-    "future": false
+    "future": false,
+    "color": "grey"
   },
   {
     "group name": "西日暮里.rb",
@@ -27,7 +29,8 @@
     "startAt": "2020-02-17T11:00:00.000Z",
     "endAt": "2020-02-17T13:00:00.000Z",
     "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/3274_normal_1435244256_flat_nini_icon_512x512.png",
-    "future": false
+    "future": false,
+    "color": "#701516"
   },
   {
     "group name": "Ansible ユーザー会",
@@ -37,7 +40,8 @@
     "startAt": "Tue Feb 18 2020 19:00:00 GMT+0900 (日本標準時)",
     "endAt": "Tue Feb 18 2020 21:30:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c3/de/c3de3800527386acc3c53d9bdd48a934.png",
-    "future": false
+    "future": false,
+    "color": "black"
   },
   {
     "group name": "Microsoft Open Tech Night",
@@ -47,7 +51,8 @@
     "startAt": "Tue Feb 18 2020 19:00:00 GMT+0900 (日本標準時)",
     "endAt": "Tue Feb 18 2020 22:00:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/29/75/29758ae902dddf3d34cf3a63ab350d54.png",
-    "future": false
+    "future": false,
+    "color": "grey"
   },
   {
     "group name": "IBM Developer Dojo",
@@ -57,7 +62,8 @@
     "startAt": "2020-02-19T14:00:00+09:00",
     "endAt": "2020-02-19T15:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cc/12/cc12b0cbe17e5edd95f8ba54286c331f.png",
-    "future": false
+    "future": false,
+    "color": "#ccc"
   },
   {
     "group name": "Agile Shinano",
@@ -67,7 +73,8 @@
     "startAt": "2020-02-19T18:30:00+09:00",
     "endAt": "2020-02-19T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/59/2b/592b3691113e19ea67778f2657a246d4.png",
-    "future": false
+    "future": false,
+    "color": "grey"
   },
   {
     "group name": "Sicss Society Public Events",
@@ -77,7 +84,8 @@
     "startAt": "2020-02-19T18:45:00+09:00",
     "endAt": "2020-02-19T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f2/e5/f2e599f041789baccfc14cabab41645f.png",
-    "future": false
+    "future": false,
+    "color": "grey"
   },
   {
     "group name": "大阪駆動開発",
@@ -87,7 +95,8 @@
     "startAt": "2020-02-19T19:00:00+09:00",
     "endAt": "2020-02-19T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0c/02/0c02bf74c52b94444c7d755da6e311ee.png",
-    "future": false
+    "future": false,
+    "color": "red"
   },
   {
     "group name": "JAWS-UG初心者支部",
@@ -97,7 +106,8 @@
     "startAt": "2020-02-19T19:00:00+09:00",
     "endAt": "2020-02-19T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c6/09/c6098fd2c5b261cfaa8ce99690608377.png",
-    "future": false
+    "future": false,
+    "color": "#F39E21"
   },
   {
     "group name": "PWA Night",
@@ -107,7 +117,8 @@
     "startAt": "Wed Feb 19 2020 19:00:00 GMT+0900 (日本標準時)",
     "endAt": "Wed Feb 19 2020 22:00:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7f/b3/7fb3a22c0c03fd135160c6c42c7b4a43.png",
-    "future": false
+    "future": false,
+    "color": "skyblue"
   },
   {
     "group name": "Roppongi.unity",
@@ -117,7 +128,8 @@
     "startAt": "Wed Feb 19 2020 19:30:00 GMT+0900 (日本標準時)",
     "endAt": "Wed Feb 19 2020 22:30:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/20/08/20084b2a4203dd743c481b35ee636e53.png",
-    "future": false
+    "future": false,
+    "color": "yellow"
   },
   {
     "group name": "VS Code Meetup",
@@ -127,7 +139,8 @@
     "startAt": "Wed Feb 19 2020 19:30:00 GMT+0900 (日本標準時)",
     "endAt": "Wed Feb 19 2020 22:00:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9d/1a/9d1a74ce9774ea5f620af773f7510e6e.png",
-    "future": false
+    "future": false,
+    "color": "grey"
   },
   {
     "group name": "EC-CUBE関西ユーザグループ",
@@ -147,7 +160,8 @@
     "startAt": "2020-02-20T19:00:00+09:00",
     "endAt": "2020-02-20T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ea/80/ea804d5c1926e4cb761a1ea994fb369c.png",
-    "future": false
+    "future": false,
+    "color": "#ccc"
   },
   {
     "group name": "ふらっとxR",
@@ -157,7 +171,8 @@
     "startAt": "2020-02-20T19:00:00+09:00",
     "endAt": "2020-02-20T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/70/817021b15b710f8ba07c93a2e4f41f3a.png",
-    "future": false
+    "future": false,
+    "color": "#333"
   },
   {
     "group name": "DevLOVE",
@@ -167,7 +182,8 @@
     "startAt": "Thu Feb 20 2020 19:30:00 GMT+0900 (日本標準時)",
     "endAt": "Thu Feb 20 2020 21:00:00 GMT+0900 (日本標準時)",
     "image": "https://dzpp79ucibp5a.cloudfront.net/events_banners/103749_normal_1582036953_%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2020-02-18_23.40.19.png",
-    "future": false
+    "future": false,
+    "color": "grey"
   },
   {
     "group name": "PyData.Fukui",
@@ -177,7 +193,8 @@
     "startAt": "2020-02-20T20:00:00+09:00",
     "endAt": "2020-02-20T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/12/4d/124dc11da140710ac38db4f73a722165.png",
-    "future": false
+    "future": false,
+    "color": "purple"
   },
   {
     "group name": "ハイブリッドクラウド研究会",
@@ -187,7 +204,8 @@
     "startAt": "2020-02-21T14:00:00+09:00",
     "endAt": "2020-02-21T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c2/1f/c21ffa0600a1678a33b9bf0c44bd438c.png",
-    "future": false
+    "future": false,
+    "color": "blue"
   },
   {
     "group name": "もくもく執筆会",
@@ -197,7 +215,8 @@
     "startAt": "2020-02-21T17:30:00+09:00",
     "endAt": "2020-02-21T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1b/cf/1bcf02264996e2eeb36c95d070881146.png",
-    "future": false
+    "future": false,
+    "color": "black"
   },
   {
     "group name": "JAWS-UG札幌",
@@ -207,7 +226,8 @@
     "startAt": "2020-02-21T10:00:00.000Z",
     "endAt": "2020-02-21T12:00:00.000Z",
     "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/10022_normal_1551645524_JAWSUG_Sapporo_logo-1.png",
-    "future": false
+    "future": false,
+    "color": "#F39E21"
   },
   {
     "group name": "YYTypeScript",
@@ -217,7 +237,8 @@
     "startAt": "2020-02-21T19:30:00+09:00",
     "endAt": "2020-02-21T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/63/7a/637a15c7c1e7d53521a3a8ba760fcb86.png",
-    "future": false
+    "future": false,
+    "color": "#f1e05a"
   },
   {
     "group name": "Zenshin.web",
@@ -227,7 +248,8 @@
     "startAt": "2020-02-22T10:00:00+09:00",
     "endAt": "2020-02-22T13:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/49/be/49be9749b2c06d7edb39811f0e242698.png",
-    "future": false
+    "future": false,
+    "color": "skyblue"
   },
   {
     "group name": "Sphinx-users.jp",
@@ -237,7 +259,8 @@
     "startAt": "2020-02-22T13:00:00+09:00",
     "endAt": "2020-02-22T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3c/22/3c223840b5d10dfee5517571e48a0044.png",
-    "future": false
+    "future": false,
+    "color": "black"
   },
   {
     "group name": "若手エンジニアもくもく会",
@@ -248,7 +271,8 @@
     "endAt": "2020-02-23T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/72/63/7263efa510e2b0db63312150f87a236c.png",
     "today": true,
-    "future": false
+    "future": false,
+    "color": "grey"
   },
   {
     "group name": "TJBotFan",
@@ -258,7 +282,8 @@
     "startAt": "Mon Feb 24 2020 10:30:00 GMT+0900 (日本標準時)",
     "endAt": "2020/02/24 18:0",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/95/38/9538b8b35226a8c54e3460104ef7de35.png",
-    "future": true
+    "future": true,
+    "color": "green"
   },
   {
     "group name": "fukuoka.ex／kokura.ex - Fukuoka Elixir community -",
@@ -268,7 +293,8 @@
     "startAt": "2020-02-25T19:00:00+09:00",
     "endAt": "2020-02-25T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f6/23/f623f917883eeb43896718e32e8e58f6.png",
-    "future": true
+    "future": true,
+    "color": "#6e4a7e"
   },
   {
     "group name": "QualityForward",
@@ -278,7 +304,8 @@
     "startAt": "Tue Feb 25 2020 19:00:00 GMT+0900 (日本標準時)",
     "endAt": "Tue Feb 25 2020 21:00:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4d/05/4d0544eb1beccf4b3c65758bd12ae446.png",
-    "future": true
+    "future": true,
+    "color": "blue"
   },
   {
     "group name": "Re:Build",
@@ -288,7 +315,8 @@
     "startAt": "2020-02-25T19:30:00+09:00",
     "endAt": "2020-02-25T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/58/38/58381aaa21d319d144a6477a8c2993b9.png",
-    "future": true
+    "future": true,
+    "color": "grey"
   },
   {
     "group name": "IBM Developer Dojo",
@@ -298,7 +326,8 @@
     "startAt": "2020-02-26T14:00:00+09:00",
     "endAt": "2020-02-26T15:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/53/2b/532bb15875e951d3bb4b8d0357818b93.png",
-    "future": true
+    "future": true,
+    "color": "#b07219"
   },
   {
     "group name": "Akiba.go",
@@ -308,7 +337,8 @@
     "startAt": "2020-02-26T18:00:00+09:00",
     "endAt": "2020-02-26T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/36/8136abb2a7213b40a63a50531a3dab7e.png",
-    "future": true
+    "future": true,
+    "color": "#00ADD8"
   },
   {
     "group name": "Women Who Go Tokyo",
@@ -318,7 +348,8 @@
     "startAt": "2020-02-26T19:00:00+09:00",
     "endAt": "2020-02-26T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/71/9d/719ddc5433e722a08dc65d3ffd66cd56.png",
-    "future": true
+    "future": true,
+    "color": "#00ADD8"
   },
   {
     "group name": "テスト駆動飲み会 - Test Driven Drinking -",
@@ -328,7 +359,8 @@
     "startAt": "2020-02-26T19:30:00+09:00",
     "endAt": "2020-02-26T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e7/6d/e76d225071913914763df2db2ef38078.png",
-    "future": true
+    "future": true,
+    "color": "grey"
   },
   {
     "group name": "リモスタ",
@@ -338,7 +370,8 @@
     "startAt": "2020-02-26T19:30:00+09:00",
     "endAt": "2020-02-26T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0e/11/0e11bcb31ef4c786ac9e68169bec93be.png",
-    "future": true
+    "future": true,
+    "color": "grey"
   },
   {
     "group name": "React Native Tech Blog",
@@ -348,7 +381,8 @@
     "startAt": "2020-02-26T19:30:00+09:00",
     "endAt": "2020-02-26T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6f/d1/6fd111cd676767a0bf96c3a369f3c785.png",
-    "future": true
+    "future": true,
+    "color": "#f1e05a"
   },
   {
     "group name": "影PHP勉強会",
@@ -368,7 +402,8 @@
     "startAt": "Thu Feb 27 2020 19:00:00 GMT+0900 (日本標準時)",
     "endAt": "Thu Feb 27 2020 21:30:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/78/4a/784a4577151a65612e416d6858b00865.png",
-    "future": true
+    "future": true,
+    "color": "black"
   },
   {
     "group name": "Flutter Japan User Group",
@@ -388,7 +423,8 @@
     "startAt": "Fri Feb 28 2020 19:00:00 GMT+0900 (日本標準時)",
     "endAt": "Fri Feb 28 2020 21:00:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c2/19/c219de7e15c3e580706e21316b6fa6e1.png",
-    "future": true
+    "future": true,
+    "color": "grey"
   },
   {
     "group name": "PyCon mini Shizuoka",
@@ -398,7 +434,8 @@
     "startAt": "2020-02-29T09:50:00+09:00",
     "endAt": "2020-02-29T17:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/de/3c/de3c3951b6420397ba4cf7ac9a872506.png",
-    "future": true
+    "future": true,
+    "color": "purple"
   },
   {
     "group name": "Sendagaya.rb",
@@ -408,7 +445,8 @@
     "startAt": "2020-03-02T10:30:00.000Z",
     "endAt": "2020-03-02T12:40:00.000Z",
     "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/631_normal_1371632231_sendagaya.png",
-    "future": true
+    "future": true,
+    "color": "#701516"
   },
   {
     "group name": "Goodpatch Inc.",
@@ -418,7 +456,8 @@
     "startAt": "2020-03-02T19:30:00+09:00",
     "endAt": "2020-03-02T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a7/e5/a7e5dbfae9341637ec6b76ea4342e255.png",
-    "future": true
+    "future": true,
+    "color": "grey"
   },
   {
     "group name": "IBM Developer Dojo",
@@ -428,7 +467,8 @@
     "startAt": "2020-03-04T14:00:00+09:00",
     "endAt": "2020-03-04T15:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5a/5e/5a5e32b38cef06a8956a2e01e005b227.png",
-    "future": true
+    "future": true,
+    "color": "#555"
   },
   {
     "group name": "JAWS-UG横浜支部",
@@ -438,7 +478,8 @@
     "startAt": "2020-03-05T19:00:00+09:00",
     "endAt": "2020-03-05T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f0/ec/f0ec9cd676f379e3ae42aaed59516b36.png",
-    "future": true
+    "future": true,
+    "color": "#F39E21"
   },
   {
     "group name": "ANGULAR MEETUP",
@@ -448,7 +489,8 @@
     "startAt": "2020-03-05T15:30:00-05:00",
     "endAt": "2020-03-05T18:30:00-05:00",
     "image": "https://www.angularmeetup.com/img/Logo-ThisDot-Media-lg.png",
-    "future": true
+    "future": true,
+    "color": "#f1e05a"
   },
   {
     "group name": "DevMokuSendai.",
@@ -458,7 +500,8 @@
     "startAt": "2020-03-07T10:00:00+09:00",
     "endAt": "2020-03-07T12:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7b/e9/7be96d562090500ea3af6e07caaf02ee.png",
-    "future": true
+    "future": true,
+    "color": "grey"
   },
   {
     "group name": "IBM Developer Dojo",
@@ -468,7 +511,8 @@
     "startAt": "2020-03-11T14:00:00+09:00",
     "endAt": "2020-03-11T15:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fb/cd/fbcd9a8f4d66343f145a2aa9cda1f8ff.png",
-    "future": true
+    "future": true,
+    "color": "#00ADD8"
   },
   {
     "group name": "DevRel Meetup in Tokyo",
@@ -478,7 +522,8 @@
     "startAt": "2020-03-11T19:00:00+09:00",
     "endAt": "2020-03-11T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e7/60/e7605ebdbd8326f1828b4e36debacb7d.png",
-    "future": true
+    "future": true,
+    "color": "#147d3c"
   },
   {
     "group name": "REACT MEETUP",
@@ -488,7 +533,8 @@
     "startAt": "2020-03-12T15:30:00-05:00",
     "endAt": "2020-03-12T18:30:00-05:00",
     "image": "https://www.reactjsmeetup.com/img/Logo-ThisDot-Media-lg.png",
-    "future": true
+    "future": true,
+    "color": "#f1e05a"
   },
   {
     "group name": "VRCMeetup",
@@ -498,7 +544,8 @@
     "startAt": "2020-03-13T21:00:00+09:00",
     "endAt": "2020-03-13T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/77/67/77674b6c293799da491aa78b4165d16f.png",
-    "future": true
+    "future": true,
+    "color": "#999"
   },
   {
     "group name": "IoT縛りの勉強会\u0010! IoTLT",
@@ -508,7 +555,8 @@
     "startAt": "Wed Mar 18 2020 19:00:00 GMT+0900 (日本標準時)",
     "endAt": "Wed Mar 18 2020 22:00:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2e/6f/2e6fd6fa32a42b1d65f3c82ebdf6eb80.png",
-    "future": true
+    "future": true,
+    "color": "red"
   },
   {
     "group name": "OpsJAWS",
@@ -518,7 +566,8 @@
     "startAt": "2020-03-19T10:00:00.000Z",
     "endAt": "2020-03-19T12:15:00.000Z",
     "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/6155_normal_1461745484_OpsJAWS_Icon.png",
-    "future": true
+    "future": true,
+    "color": "#F39E21"
   },
   {
     "group name": "VUE MEETUP",
@@ -528,7 +577,8 @@
     "startAt": "2020-03-19T15:30:00-05:00",
     "endAt": "2020-03-19T18:30:00-05:00",
     "image": "https://www.vuemeetup.com/img/Logo-ThisDot-Media-lg.png",
-    "future": true
+    "future": true,
+    "color": "#f1e05a"
   },
   {
     "group name": "ニフクラ mobile backend",
@@ -538,7 +588,8 @@
     "startAt": "2020-03-23T19:00:00+09:00",
     "endAt": "2020-03-23T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fa/0e/fa0ee8ceb500dadb309298ff08767033.png",
-    "future": true
+    "future": true,
+    "color": "#f1e05a"
   },
   {
     "group name": "MUGENLABO DAY 2020",
@@ -548,6 +599,7 @@
     "startAt": "Tue Mar 24 2020 16:30:00 GMT+0900 (日本標準時)",
     "endAt": "Tue Mar 24 2020 19:30:00 GMT+0900 (日本標準時)",
     "image": "https://cdn.peraichi.com/userData/5e203954-f43c-4e8c-bb3e-79b20a00002b/img/5e4a23d3810c7/original.png",
-    "future": true
+    "future": true,
+    "color": "grey"
   }
 ]
