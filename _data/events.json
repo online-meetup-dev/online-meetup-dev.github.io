@@ -441,17 +441,6 @@
     "color": "purple"
   },
   {
-    "group name": "Sendagaya.rb",
-    "event name": "Sendagaya.rb #304",
-    "url": "https://sendagayarb.doorkeeper.jp/events/104485",
-    "category": "ruby",
-    "startAt": "2020-03-02T10:30:00.000Z",
-    "endAt": "2020-03-02T12:40:00.000Z",
-    "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/631_normal_1371632231_sendagaya.png",
-    "future": true,
-    "color": "#701516"
-  },
-  {
     "group name": "Goodpatch Inc.",
     "event name": "Goodpatch Anywhere Live!! ver0.2 Fukuoka",
     "url": "https://goodpatch.connpass.com/event/166654/",
@@ -461,6 +450,17 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a7/e5/a7e5dbfae9341637ec6b76ea4342e255.png",
     "future": true,
     "color": "grey"
+  },
+  {
+    "group name": "Sendagaya.rb",
+    "event name": "Sendagaya.rb #304",
+    "url": "https://sendagayarb.doorkeeper.jp/events/104485",
+    "category": "ruby",
+    "startAt": "2020-03-02T10:30:00.000Z",
+    "endAt": "2020-03-02T12:40:00.000Z",
+    "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/631_normal_1371632231_sendagaya.png",
+    "future": true,
+    "color": "#701516"
   },
   {
     "group name": "IBM Developer Dojo",
