@@ -576,12 +576,12 @@
     "group name": "VUE MEETUP",
     "event name": "VUE MEETUP",
     "url": "https://www.vuemeetup.com/",
-    "category": "js",
+    "category": "vue",
     "startAt": "2020-03-19T15:30:00-05:00",
     "endAt": "2020-03-19T18:30:00-05:00",
     "image": "https://www.vuemeetup.com/img/Logo-ThisDot-Media-lg.png",
     "future": true,
-    "color": "#f1e05a"
+    "color": "#2c3e50"
   },
   {
     "group name": "ニフクラ mobile backend",
