@@ -180,6 +180,16 @@
     "future": false
   },
   {
+    "group name": "JAWS-UG札幌",
+    "event name": "【配信に変更】第25回 JAWS-UG札幌 勉強会",
+    "url": "https://jawsug-sapporo.doorkeeper.jp/events/102248",
+    "category": "aws",
+    "startAt": "2020-02-21T10:00:00.000Z",
+    "endAt": "2020-02-21T12:00:00.000Z",
+    "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/10022_normal_1551645524_JAWSUG_Sapporo_logo-1.png",
+    "future": false
+  },
+  {
     "group name": "YYTypeScript",
     "event name": "YYTypeScript#21【TypeScript技術書執筆会】",
     "url": "https://yyts.connpass.com/event/167780/",
