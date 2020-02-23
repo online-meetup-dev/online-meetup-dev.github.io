@@ -10,6 +10,16 @@
     "future": false
   },
   {
+    "group name": "Podcasters Online MeetUp",
+    "event name": "Podcasters Online MeetUp",
+    "url": "https://connpass.com/event/165357/",
+    "category": "",
+    "startAt": "2020-02-13T20:00:00+09:00",
+    "endAt": "2020-02-13T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d8/e0/d8e03fbc012a0da081ce054f401481f5.png",
+    "future": false
+  },
+  {
     "group name": "Ansible ユーザー会",
     "event name": "Ansibleもくもく会 （サーバ編 & NW編）2020.02",
     "url": "https://ansible-users.connpass.com/event/164212/",
