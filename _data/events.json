@@ -391,6 +391,16 @@
     "future": true
   },
   {
+    "group name": "PyCon mini Shizuoka",
+    "event name": "PyCon mini Shizuoka 2020【オンライン開催】",
+    "url": "https://pycon-shizu.connpass.com/event/152678/",
+    "category": "",
+    "startAt": "2020-02-29T09:50:00+09:00",
+    "endAt": "2020-02-29T17:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/de/3c/de3c3951b6420397ba4cf7ac9a872506.png",
+    "future": true
+  },
+  {
     "group name": "Sendagaya.rb",
     "event name": "Sendagaya.rb #304",
     "url": "https://sendagayarb.doorkeeper.jp/events/104485",
