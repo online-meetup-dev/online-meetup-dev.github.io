@@ -2,11 +2,11 @@
   {
     "group name": "VUE MEETUP",
     "event name": "VUE MEETUP",
-    "url": "",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
+    "url": "https://www.vuemeetup.com/",
+    "category": "js",
+    "startAt": "March, 19 2020, 15:30 PM (EST)",
+    "endAt": "March, 19 2020, 18:30 PM (EST)",
+    "image": "https://www.vuemeetup.com/img/Logo-ThisDot-Media-lg.png",
     "future": false
   },
   {
