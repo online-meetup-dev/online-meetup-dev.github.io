@@ -620,12 +620,12 @@
     "group name": "ニフクラ mobile backend",
     "event name": "Monaca + NCMBもくもく会/駆け込み寺（リモートのみ！） #17",
     "url": "https://ncmb.connpass.com/event/168631/",
-    "category": "js",
+    "category": "mokumoku",
     "startAt": "2020-03-23T19:00:00+09:00",
     "endAt": "2020-03-23T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fa/0e/fa0ee8ceb500dadb309298ff08767033.png",
     "future": true,
-    "color": "#f1e05a"
+    "color": "#B8D59E"
   },
   {
     "group name": "MUGENLABO DAY 2020",
