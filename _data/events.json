@@ -441,6 +441,16 @@
     "color": "purple"
   },
   {
+    "group name": "あいげんす・ぺいす",
+    "event name": "【リモート】『コンピュータシステムの理論と実装』初級勉強会 #1【ゆるぼ】",
+    "url": "https://eigenspace.connpass.com/event/167573/",
+    "category": "",
+    "startAt": "2020-03-02T19:00:00+09:00",
+    "endAt": "2020-03-02T20:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/27/5c/275cf3780a72406545acadbd4bfad264.png",
+    "future": true
+  },
+  {
     "group name": "Goodpatch Inc.",
     "event name": "Goodpatch Anywhere Live!! ver0.2 Fukuoka",
     "url": "https://goodpatch.connpass.com/event/166654/",
