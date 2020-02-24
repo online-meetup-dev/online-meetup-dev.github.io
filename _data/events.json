@@ -540,6 +540,16 @@
     "color": "grey"
   },
   {
+    "group name": "DDD-Community-Jp",
+    "event name": "ドメイン駆動設計 モデリング/実装入門勉強会(オンライン)",
+    "url": "https://ddd-community-jp.connpass.com/event/168674/",
+    "category": "",
+    "startAt": "2020-03-08T19:00:00+09:00",
+    "endAt": "2020-03-08T20:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/06/12/06127481514c47486d604637be7ed527.png",
+    "future": true
+  },
+  {
     "group name": "IBM Developer Dojo",
     "event name": "【オンライン】IBM Dojo #9 Kabaneroを使ったクラウド・ネイティブなアプリ開発を体験",
     "url": "https://ibm-developer.connpass.com/event/159901/",
