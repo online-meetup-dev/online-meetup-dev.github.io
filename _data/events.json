@@ -301,12 +301,12 @@
     "group name": "QualityForward",
     "event name": "PMなら押さえておきたいクラウドサービス勉強会",
     "url": "https://qualityforward.connpass.com/event/165013/",
-    "category": "cloud",
+    "category": "pm",
     "startAt": "Tue Feb 25 2020 19:00:00 GMT+0900 (日本標準時)",
     "endAt": "Tue Feb 25 2020 21:00:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4d/05/4d0544eb1beccf4b3c65758bd12ae446.png",
     "future": true,
-    "color": "blue"
+    "color": "#0C6FAC"
   },
   {
     "group name": "Re:Build",
@@ -543,11 +543,12 @@
     "group name": "DDD-Community-Jp",
     "event name": "ドメイン駆動設計 モデリング/実装入門勉強会(オンライン)",
     "url": "https://ddd-community-jp.connpass.com/event/168674/",
-    "category": "",
+    "category": "pm",
     "startAt": "2020-03-08T19:00:00+09:00",
     "endAt": "2020-03-08T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/06/12/06127481514c47486d604637be7ed527.png",
-    "future": true
+    "future": true,
+    "color": "#0C6FAC"
   },
   {
     "group name": "IBM Developer Dojo",
