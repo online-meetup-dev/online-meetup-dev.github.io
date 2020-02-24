@@ -474,6 +474,17 @@
     "color": "#701516"
   },
   {
+    "group name": "Deep Learning Osaka",
+    "event name": "【オンライン開催】ONLINE AI PUB（オンライン×人工知能×場）2020/03/03",
+    "url": "https://deep-learning-osaka.connpass.com/event/168942/",
+    "category": "ai",
+    "startAt": "2020-03-03T21:00:00+09:00",
+    "endAt": "2020-03-03T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/40/1a/401a3a72fb13e03cb1e279ebe6a36cee.png",
+    "future": true,
+    "color": "#2ccfc9"
+  },
+  {
     "group name": "IBM Developer Dojo",
     "event name": "【オンライン】IBM Dojo #8 Hyperledger Fabricでブロックチェーンを",
     "url": "https://ibm-developer.connpass.com/event/159900/",
