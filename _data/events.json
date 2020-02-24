@@ -573,6 +573,17 @@
     "color": "#999"
   },
   {
+    "group name": "Toyama.rb",
+    "event name": "Toyama.rb #49 もくもく会オンライン",
+    "url": "https://toyamarb.connpass.com/event/168117/",
+    "category": "mokumoku",
+    "startAt": "2020-03-14T13:00:00+09:00",
+    "endAt": "2020-03-14T18:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/73/db/73db80359e9ead477f83eba933db3451.png",
+    "future": true,
+    "color": "#B8D59E"
+  },
+  {
     "group name": "IoT縛りの勉強会\u0010! IoTLT",
     "event name": "IoT縛りの勉強会! IoTLT vol.61 @オンライン",
     "url": "https://iotlt.connpass.com/event/168382/",
