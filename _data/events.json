@@ -465,6 +465,17 @@
     "color": "grey"
   },
   {
+    "group name": "Fukuoka.go",
+    "event name": "Fukuoka.go#15 + 鹿児島Gophers(オンライン開催)",
+    "url": "https://fukuokago.connpass.com/event/164350/",
+    "category": "go",
+    "startAt": "2020-03-02T19:25:00+09:00",
+    "endAt": "2020-03-02T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d8/f4/d8f4415f269e67fd334953e9e3183411.png",
+    "future": true,
+    "color": "#00ADD8"
+  },
+  {
     "group name": "Goodpatch Inc.",
     "event name": "Goodpatch Anywhere Live!! ver0.2 Fukuoka",
     "url": "https://goodpatch.connpass.com/event/166654/",
