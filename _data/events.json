@@ -1,15 +1,5 @@
 [
   {
-    "group name": "JAZUG (Japan Azure User Group)",
-    "event name": "Azure オンライン勉強会 JAZUG TOHOKU",
-    "url": "",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "future": false
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -594,6 +584,17 @@
     "image": "https://www.reactjsmeetup.com/img/Logo-ThisDot-Media-lg.png",
     "future": true,
     "color": "#f1e05a"
+  },
+  {
+    "group name": "JAZUG (Japan Azure User Group)",
+    "event name": "Azure オンライン勉強会 JAZUG TOHOKU",
+    "url": "https://jazug.connpass.com/event/168732/",
+    "category": "azure",
+    "startAt": "Fri Mar 13 2020 19:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Fri Mar 13 2020 21:00:00 GMT+0900 (日本標準時)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c6/4d/c64d59df5cc6a7ec369f768dc93fb65a.png",
+    "future": true,
+    "color": "#00ABEB"
   },
   {
     "group name": "VRCMeetup",
