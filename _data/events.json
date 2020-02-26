@@ -523,6 +523,16 @@
     "color": "#701516"
   },
   {
+    "group name": "ARコンテンツ作成勉強会",
+    "event name": "ARコンテンツ作成勉強会：OpenCVオンラインもくもく会 #02",
+    "url": "https://xr-fukuoka.connpass.com/event/169170/",
+    "category": "ar",
+    "startAt": "2020-03-03T19:00:00+09:00",
+    "endAt": "2020-03-03T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/63/8d/638dc050f256f2101ce784f2c93a5b4f.png",
+    "future": true
+  },
+  {
     "group name": "Deep Learning Osaka",
     "event name": "【オンライン開催】ONLINE AI PUB（オンライン×人工知能×場）2020/03/03",
     "url": "https://deep-learning-osaka.connpass.com/event/168942/",
@@ -625,11 +635,12 @@
     "group name": "Agile459",
     "event name": "Fearless Change - 読書会 第10回",
     "url": "https://agile459.connpass.com/event/169206/",
-    "category": "",
+    "category": "writing",
     "startAt": "Wed Mar 11 2020 20:30:00 GMT+0900 (日本標準時)",
     "endAt": "Wed Mar 11 2020 22:00:00 GMT+0900 (日本標準時)",
-    "image": "",
-    "future": true
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b6/53/b653942601dffc3c9efd523082b21926.png",
+    "future": true,
+    "color": "black"
   },
   {
     "group name": "REACT MEETUP",
