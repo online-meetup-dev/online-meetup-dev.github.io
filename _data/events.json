@@ -1,15 +1,5 @@
 [
   {
-    "group name": "WP ZoomUP",
-    "event name": " #36 WordPressってどういうもの？これから始める・始めたばかりの方へ",
-    "url": "https://wpzoom.connpass.com/event/168050/",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "future": false
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -540,6 +530,17 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/63/8d/638dc050f256f2101ce784f2c93a5b4f.png",
     "future": true,
     "color": "#71FA4C"
+  },
+  {
+    "group name": "WP ZoomUP",
+    "event name": "WordPressってどういうもの？これから始める・始めたばかりの方へ  [WP ZoomUP #36] ",
+    "url": "https://wpzoom.connpass.com/event/168050/",
+    "category": "web",
+    "startAt": "2020-03-03T19:00:00+09:00",
+    "endAt": "",
+    "image": "",
+    "future": false,
+    "color": "skyblue"
   },
   {
     "group name": "Deep Learning Osaka",
