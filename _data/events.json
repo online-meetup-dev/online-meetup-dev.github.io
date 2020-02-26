@@ -438,11 +438,12 @@
     "group name": "日本暗号通貨ユーザ会",
     "event name": "【オンライン】ビットコインとか勉強会#38【モナコインとか勉強会】",
     "url": "https://cryptocurrency.connpass.com/event/165247/",
-    "category": "",
+    "category": "cryptocurrency",
     "startAt": "2020-02-27T19:30:00+09:00",
     "endAt": "2020-02-27T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/dd/1b/dd1bd78ca916d00621531b67054a7b0a.png",
-    "future": true
+    "future": true,
+    "color": "#FFE39E"
   },
   {
     "group name": "Flutter Japan User Group",
