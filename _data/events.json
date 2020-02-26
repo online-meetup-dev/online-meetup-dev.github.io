@@ -719,5 +719,16 @@
     "image": "https://cdn.peraichi.com/userData/5e203954-f43c-4e8c-bb3e-79b20a00002b/img/5e4a23d3810c7/original.png",
     "future": true,
     "color": "grey"
+  },
+  {
+    "group name": "株式会社ミクシィ",
+    "event name": "【オンライン開催】Customer Support Tech Meetup #1",
+    "url": "https://mixi.connpass.com/event/167390/",
+    "category": "cs",
+    "startAt": "2020-03-25T19:00:00+09:00",
+    "endAt": "2020-03-25T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e8/85/e885c9329032ce6a8ad8f8c5098b55a3.png",
+    "future": true,
+    "color": "#F7A569"
   }
 ]
