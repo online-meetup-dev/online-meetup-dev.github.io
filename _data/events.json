@@ -655,6 +655,16 @@
     "color": "#B8D59E"
   },
   {
+    "group name": "Observability",
+    "event name": "Observability Japan Online",
+    "url": "https://observability.connpass.com/event/168837/",
+    "category": "",
+    "startAt": "2020-03-17T19:00:00+09:00",
+    "endAt": "2020-03-17T21:00:00+09:00",
+    "image": "https://drive.google.com/file/d/1Lf5UHsGAdYgsc9-BzXk5cr7RfqM3AdBY/view?usp=sharing",
+    "future": true
+  },
+  {
     "group name": "IoT縛りの勉強会\u0010! IoTLT",
     "event name": "IoT縛りの勉強会! IoTLT vol.61 @オンライン",
     "url": "https://iotlt.connpass.com/event/168382/",
