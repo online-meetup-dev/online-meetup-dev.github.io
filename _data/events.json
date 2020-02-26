@@ -350,7 +350,7 @@
     "endAt": "2020-02-26T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/36/8136abb2a7213b40a63a50531a3dab7e.png",
     "today": true,
-    "future": true,
+    "future": false,
     "color": "#00ADD8"
   },
   {
