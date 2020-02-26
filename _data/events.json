@@ -337,7 +337,6 @@
     "startAt": "2020-02-26T14:00:00+09:00",
     "endAt": "2020-02-26T15:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/53/2b/532bb15875e951d3bb4b8d0357818b93.png",
-    "today": true,
     "future": false,
     "color": "#b07219"
   },
@@ -349,7 +348,6 @@
     "startAt": "2020-02-26T18:00:00+09:00",
     "endAt": "2020-02-26T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/36/8136abb2a7213b40a63a50531a3dab7e.png",
-    "today": true,
     "future": false,
     "color": "#00ADD8"
   },
@@ -361,7 +359,6 @@
     "startAt": "2020-02-26T19:00:00+09:00",
     "endAt": "2020-02-26T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/71/9d/719ddc5433e722a08dc65d3ffd66cd56.png",
-    "today": true,
     "future": false,
     "color": "#00ADD8"
   },
@@ -373,7 +370,6 @@
     "startAt": "2020-02-26T19:30:00+09:00",
     "endAt": "2020-02-26T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e7/6d/e76d225071913914763df2db2ef38078.png",
-    "today": true,
     "future": false,
     "color": "grey"
   },
@@ -385,7 +381,6 @@
     "startAt": "2020-02-26T19:30:00+09:00",
     "endAt": "2020-02-26T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0e/11/0e11bcb31ef4c786ac9e68169bec93be.png",
-    "today": true,
     "future": false,
     "color": "grey"
   },
@@ -397,7 +392,6 @@
     "startAt": "2020-02-26T19:30:00+09:00",
     "endAt": "2020-02-26T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6f/d1/6fd111cd676767a0bf96c3a369f3c785.png",
-    "today": true,
     "future": false,
     "color": "#f1e05a"
   },
@@ -409,6 +403,7 @@
     "startAt": "2020-02-27T13:30:00+09:00",
     "endAt": "2020-02-27T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/96/c4/96c4b2aae81a6ad8705f19d8dbd762cd.png",
+    "today": true,
     "future": true,
     "color": "#B8D59E"
   },
@@ -420,6 +415,7 @@
     "startAt": "2020-02-27T19:00:00+09:00",
     "endAt": "2020-02-27T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5d/c4/5dc4c7d42a01cf4446f41a27eb21a4ca.png",
+    "today": true,
     "future": true,
     "color": "#4F5D95"
   },
@@ -431,6 +427,7 @@
     "startAt": "Thu Feb 27 2020 19:00:00 GMT+0900 (日本標準時)",
     "endAt": "Thu Feb 27 2020 21:30:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/78/4a/784a4577151a65612e416d6858b00865.png",
+    "today": true,
     "future": true,
     "color": "black"
   },
@@ -442,6 +439,7 @@
     "startAt": "2020-02-27T19:30:00+09:00",
     "endAt": "2020-02-27T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/dd/1b/dd1bd78ca916d00621531b67054a7b0a.png",
+    "today": true,
     "future": true,
     "color": "#FFE39E"
   },
