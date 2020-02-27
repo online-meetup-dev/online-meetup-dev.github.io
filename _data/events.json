@@ -1,15 +1,5 @@
 [
   {
-    "group name": "Vektor WordPress Solutions",
-    "event name": "Lightning オンライン勉強会 #007 新ver解説&ブロックで作るLP&スキンの作り方",
-    "url": "",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "future": false
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -452,6 +442,17 @@
     "today": true,
     "future": true,
     "color": "#FFE39E"
+  },
+  {
+    "group name": "Vektor WordPress Solutions",
+    "event name": "Lightning オンライン勉強会 #007 新ver解説&ブロックで作るLP&スキンの作り方",
+    "url": "https://vektor.connpass.com/event/168682/",
+    "category": "web",
+    "startAt": "2020-02-27T19:30:00+02:00",
+    "endAt": "",
+    "image": "",
+    "future": false,
+    "color": "skyblue"
   },
   {
     "group name": "Flutter Japan User Group",
