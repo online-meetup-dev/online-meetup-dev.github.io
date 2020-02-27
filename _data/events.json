@@ -731,6 +731,17 @@
     "color": "grey"
   },
   {
+    "group name": "マネーフォワードシンカ",
+    "event name": "【ライブ配信にて開催】スタートアップM&A勉強会 〜Sell-Side編〜",
+    "url": "https://moneyforward-synca.connpass.com/event/165958/",
+    "category": "other",
+    "startAt": "2020-03-17T19:15:00+09:00",
+    "endAt": "2020-03-17T21:15:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b9/3f/b93f2c652edb1a9e74dd3901c4828b11.png",
+    "future": true,
+    "color": "grey"
+  },
+  {
     "group name": "IoT縛りの勉強会\u0010! IoTLT",
     "event name": "IoT縛りの勉強会! IoTLT vol.61 @オンライン",
     "url": "https://iotlt.connpass.com/event/168382/",
