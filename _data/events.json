@@ -613,11 +613,12 @@
     "group name": "UiPath Friends [公式]",
     "event name": "【オンライン配信のみに変更】【第3回】UiPath Friends 東京 ～ライトニングディスカッション＆トーク2020 夜桜とともに～",
     "url": "https://uipath-friends.doorkeeper.jp/events/102878",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-05T10:00:00.000Z",
     "endAt": "2020-03-05T12:00:00.000Z",
     "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/10509_normal_1576200615_UiPath_logo_0905_square-01.png",
-    "future": true
+    "future": true,
+    "color": "grey"
   },
   {
     "group name": "JAWS-UG横浜支部",
