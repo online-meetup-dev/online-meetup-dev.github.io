@@ -565,6 +565,17 @@
     "color": "#E98D49"
   },
   {
+    "group name": "DevRel Meetup in Tokyo",
+    "event name": "DevRel Meetup in Tokyo #50 〜クラウドサービスとOSS〜",
+    "url": "https://devrel.connpass.com/event/167677/",
+    "category": "devrel",
+    "startAt": "2020-03-04T19:00:00+09:00",
+    "endAt": "2020-03-04T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d8/a3/d8a3e8722541a979e340f9ad8309d567.png",
+    "future": true,
+    "color": "#147d3c"
+  },
+  {
     "group name": "JAWS-UG横浜支部",
     "event name": "JAWS-UG横浜 #20 Amazon Neptune HANDS-ON(オンライン)",
     "url": "https://jawsug-yokohama.connpass.com/event/166514/",
