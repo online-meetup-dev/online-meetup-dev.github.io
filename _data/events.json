@@ -432,6 +432,18 @@
     "color": "black"
   },
   {
+    "group name": "Vektor WordPress Solutions",
+    "event name": "Lightning オンライン勉強会 #007 新ver解説&ブロックで作るLP&スキンの作り方",
+    "url": "https://vektor.connpass.com/event/168682/",
+    "category": "web",
+    "startAt": "2020-02-27T19:30:00",
+    "endAt": "2020-02-27T19:30:00+02:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a9/78/a9788e73513fb80f522531d1e22eccb0.png",
+    "today": true,
+    "future": true,
+    "color": "skyblue"
+  },
+  {
     "group name": "日本暗号通貨ユーザ会",
     "event name": "【オンライン】ビットコインとか勉強会#38【モナコインとか勉強会】",
     "url": "https://cryptocurrency.connpass.com/event/165247/",
@@ -442,17 +454,6 @@
     "today": true,
     "future": true,
     "color": "#FFE39E"
-  },
-  {
-    "group name": "Vektor WordPress Solutions",
-    "event name": "Lightning オンライン勉強会 #007 新ver解説&ブロックで作るLP&スキンの作り方",
-    "url": "https://vektor.connpass.com/event/168682/",
-    "category": "web",
-    "startAt": "2020-02-27T19:30:00+02:00",
-    "endAt": "",
-    "image": "",
-    "future": false,
-    "color": "skyblue"
   },
   {
     "group name": "Flutter Japan User Group",
