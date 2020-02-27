@@ -489,6 +489,17 @@
     "color": "purple"
   },
   {
+    "group name": "オンラインRuby勉強会 - 毎週土曜21時開催",
+    "event name": "オンラインRuby勉強会 - 毎週土曜21時開催",
+    "url": "https://connpass.com/event/169314/",
+    "category": "ruby",
+    "startAt": "2020-02-29T21:00:00+09:00",
+    "endAt": "2020-02-29T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ad/8b/ad8b1df6fb5832bd5bb0cb709f690e0f.png",
+    "future": true,
+    "color": "#701516"
+  },
+  {
     "group name": "あいげんす・ぺいす",
     "event name": "【リモート】『コンピュータシステムの理論と実装』初級勉強会 #1【ゆるぼ】",
     "url": "https://eigenspace.connpass.com/event/167573/",
@@ -723,11 +734,12 @@
     "group name": "Challenge！スマホアプリ開発勉強会",
     "event name": "Challenge！スマホアプリ開発勉強会Vol.5（オンライン開催）",
     "url": "https://challenge-smartphone-app.connpass.com/event/169301/",
-    "category": "",
+    "category": "mobile",
     "startAt": "2020-03-15T14:00:00+09:00",
     "endAt": "2020-03-15T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c0/6d/c06da152f1a8d0aaaed4422981e573be.png",
-    "future": true
+    "future": true,
+    "color": "#18B83F"
   },
   {
     "group name": "Observability",
