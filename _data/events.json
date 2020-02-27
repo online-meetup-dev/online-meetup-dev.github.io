@@ -720,6 +720,16 @@
     "color": "#B8D59E"
   },
   {
+    "group name": "Challenge！スマホアプリ開発勉強会",
+    "event name": "Challenge！スマホアプリ開発勉強会Vol.5（オンライン開催）",
+    "url": "https://challenge-smartphone-app.connpass.com/event/169301/",
+    "category": "",
+    "startAt": "2020-03-15T14:00:00+09:00",
+    "endAt": "2020-03-15T16:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c0/6d/c06da152f1a8d0aaaed4422981e573be.png",
+    "future": true
+  },
+  {
     "group name": "Observability",
     "event name": "Observability Japan Online",
     "url": "https://observability.connpass.com/event/168837/",
