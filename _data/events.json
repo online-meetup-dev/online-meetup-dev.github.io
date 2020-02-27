@@ -428,7 +428,7 @@
     "endAt": "Thu Feb 27 2020 21:30:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/78/4a/784a4577151a65612e416d6858b00865.png",
     "today": true,
-    "future": true,
+    "future": false,
     "color": "black"
   },
   {
@@ -440,7 +440,7 @@
     "endAt": "2020-02-27T21:30:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a9/78/a9788e73513fb80f522531d1e22eccb0.png",
     "today": true,
-    "future": true,
+    "future": false,
     "color": "skyblue"
   },
   {
