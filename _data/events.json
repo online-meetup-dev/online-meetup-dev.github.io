@@ -685,6 +685,17 @@
     "color": "#00ADD8"
   },
   {
+    "group name": "DeNA Tech",
+    "event name": "[ライブ配信] DeNA TechCon 2020 Day1",
+    "url": "https://dena.connpass.com/event/168546/",
+    "category": "other",
+    "startAt": "2020-03-11T18:00:00+09:00",
+    "endAt": "2020-03-11T20:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/80/ad/80adbca9635b70e6c47e88b8c24372c7.png",
+    "future": true,
+    "color": "grey"
+  },
+  {
     "group name": "DevRel Meetup in Tokyo",
     "event name": "DevRel/Online #1 〜初のオンライン開催〜",
     "url": "https://devrel.connpass.com/event/168692/",
@@ -705,6 +716,17 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b6/53/b653942601dffc3c9efd523082b21926.png",
     "future": true,
     "color": "black"
+  },
+  {
+    "group name": "DeNA Tech",
+    "event name": "[ライブ配信] DeNA TechCon 2020 Day2 -昼の部-",
+    "url": "https://dena.connpass.com/event/169267/",
+    "category": "other",
+    "startAt": "2020-03-12T14:00:00+09:00",
+    "endAt": "2020-03-12T16:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/80/ad/80adbca9635b70e6c47e88b8c24372c7.png",
+    "future": true,
+    "color": "grey"
   },
   {
     "group name": "REACT MEETUP",
