@@ -1,15 +1,5 @@
 [
   {
-    "group name": "三宮.dev",
-    "event name": "【三宮.dev】初・オンライン勉強会（お試し）",
-    "url": "https://kobe-sannomiya-dev.connpass.com/event/169133/",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "future": false
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -781,6 +771,17 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/73/db/73db80359e9ead477f83eba933db3451.png",
     "future": true,
     "color": "#B8D59E"
+  },
+  {
+    "group name": "三宮.dev",
+    "event name": "【三宮.dev】初・オンライン勉強会（お試し）",
+    "url": "https://kobe-sannomiya-dev.connpass.com/event/169133/",
+    "category": "other",
+    "startAt": "Sun Mar 15 2020 14:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Sun Mar 15 2020 17:00:00 GMT+0900 (日本標準時)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/56/46/56467703934004f4ee10e1e7d334cb24.png",
+    "future": true,
+    "color": "grey"
   },
   {
     "group name": "Challenge！スマホアプリ開発勉強会",
