@@ -634,11 +634,12 @@
     "group name": "Node-RED User Group Japan",
     "event name": "Node-RED UG勉強会「v1.0新機能＆ベストプラクティス紹介」",
     "url": "https://node-red.connpass.com/event/159379/",
-    "category": "",
+    "category": "node-red",
     "startAt": "2020-03-04T19:00:00+09:00",
     "endAt": "2020-03-04T20:35:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/68/4b/684bf81f29e488479676c80b63c56b30.png",
-    "future": true
+    "future": true,
+    "color": "#8D0000"
   },
   {
     "group name": "JAWS-UG横浜支部",
