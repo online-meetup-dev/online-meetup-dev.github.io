@@ -904,5 +904,16 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e8/85/e885c9329032ce6a8ad8f8c5098b55a3.png",
     "future": true,
     "color": "#F7A569"
+  },
+  {
+    "group name": "ながのJava",
+    "event name": "[3/25:オンライン]ながのJava #1",
+    "url": "https://nagano-java.connpass.com/event/169373/",
+    "category": "java",
+    "startAt": "2020-03-25T19:30:00+09:00",
+    "endAt": "2020-03-25T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/aa/60/aa6079cc456b85d93ca57902467c86de.png",
+    "future": true,
+    "color": "#b07219"
   }
 ]
