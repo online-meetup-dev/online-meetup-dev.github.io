@@ -1,15 +1,5 @@
 [
   {
-    "group name": "",
-    "event name": "",
-    "url": "https://jawsdays2020.jaws-ug.jp/announce-online-and-live-broadcast/",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "future": false
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -793,6 +783,17 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/77/67/77674b6c293799da491aa78b4165d16f.png",
     "future": true,
     "color": "#999"
+  },
+  {
+    "group name": "JAWS DAYS",
+    "event name": "JAWS DAYS 2020",
+    "url": "https://jawsdays2020.jaws-ug.jp/announce-online-and-live-broadcast/",
+    "category": "aws",
+    "startAt": "2020-03-14T12:00:00+09:00",
+    "endAt": "2020-03-14T18:00:00+09:00",
+    "image": "",
+    "future": true,
+    "color": "#F39E21"
   },
   {
     "group name": "Toyama.rb",
