@@ -508,6 +508,18 @@
     "color": "grey"
   },
   {
+    "group name": "オンライン闇鍋会 [ あなたの発表を闇から救い出すごった煮LT ]",
+    "event name": "オンライン闇鍋会 #0 勉強会主催者のためのタスク管理あれこれ",
+    "url": "https://yaminabe.connpass.com/event/168465/",
+    "category": "other",
+    "startAt": "2020-02-29T19:00:00+09:00",
+    "endAt": "2020-02-29T20:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1c/88/1c884daed411f3de0f28cc1ca3077a76.png",
+    "today": true,
+    "future": true,
+    "color": "grey"
+  },
+  {
     "group name": "オンラインRuby勉強会 - 毎週土曜21時開催",
     "event name": "オンラインRuby勉強会 - 毎週土曜21時開催",
     "url": "https://connpass.com/event/169314/",
