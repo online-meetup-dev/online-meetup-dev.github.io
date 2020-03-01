@@ -902,6 +902,17 @@
     "color": "#2c3e50"
   },
   {
+    "group name": "フロントエンド四国もくもく勉強会",
+    "event name": "第22回フロントエンド四国もくもく勉強会",
+    "url": "https://frontendshikoku.connpass.com/event/168064/",
+    "category": "mokumoku",
+    "startAt": "2020-03-21T13:00:00+09:00",
+    "endAt": "2020-03-21T17:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/12/8b/128bfefb426f32cbdc00c5935e384c17.png",
+    "future": true,
+    "color": "#B8D59E"
+  },
+  {
     "group name": "ニフクラ mobile backend",
     "event name": "Monaca + NCMBもくもく会/駆け込み寺（リモートのみ！） #17",
     "url": "https://ncmb.connpass.com/event/168631/",
