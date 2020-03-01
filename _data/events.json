@@ -535,6 +535,7 @@
     "startAt": "2020-03-02T19:00:00+09:00",
     "endAt": "2020-03-02T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/27/5c/275cf3780a72406545acadbd4bfad264.png",
+    "today": true,
     "future": true,
     "color": "grey"
   },
@@ -546,6 +547,7 @@
     "startAt": "2020-03-02T19:25:00+09:00",
     "endAt": "2020-03-02T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d8/f4/d8f4415f269e67fd334953e9e3183411.png",
+    "today": true,
     "future": true,
     "color": "#00ADD8"
   },
@@ -557,6 +559,7 @@
     "startAt": "2020-03-02T19:30:00+09:00",
     "endAt": "2020-03-02T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a7/e5/a7e5dbfae9341637ec6b76ea4342e255.png",
+    "today": true,
     "future": true,
     "color": "grey"
   },
@@ -568,6 +571,7 @@
     "startAt": "2020-03-02T10:30:00.000Z",
     "endAt": "2020-03-02T12:40:00.000Z",
     "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/631_normal_1371632231_sendagaya.png",
+    "today": true,
     "future": true,
     "color": "#701516"
   },
