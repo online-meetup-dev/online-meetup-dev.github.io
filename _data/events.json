@@ -1025,6 +1025,18 @@
     "color": "grey"
   },
   {
+    "group name": "UIT",
+    "event name": "UIT meetup vol.8 online「We Are TypeScripters!」",
+    "url": "https://uit.connpass.com/event/161964/",
+    "category": "js",
+    "startAt": "2020-03-18T19:00:00+09:00",
+    "endAt": "2020-03-18T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d9/0e/d90eb78d1948f10872c2161f671e26f0.png",
+    "future": true,
+    "date": "2020-03-18",
+    "color": "#f1e05a"
+  },
+  {
     "group name": "IoT縛りの勉強会\u0010! IoTLT",
     "event name": "IoT縛りの勉強会! IoTLT vol.61 @オンライン",
     "url": "https://iotlt.connpass.com/event/168382/",
