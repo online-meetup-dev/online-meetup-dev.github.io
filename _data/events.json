@@ -959,5 +959,15 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/aa/60/aa6079cc456b85d93ca57902467c86de.png",
     "future": true,
     "color": "#b07219"
+  },
+  {
+    "group name": "地域おこしXR研究会",
+    "event name": "Unityゆるもく勉強会 in 島根 #0",
+    "url": "https://chiikiokoshi-vr.connpass.com/event/169388/",
+    "category": "",
+    "startAt": "2020-03-28T13:00:00+09:00",
+    "endAt": "2020-03-28T17:00:00+09:00",
+    "image": "https://online-meetup.dev/images/event.png",
+    "future": true
   }
 ]
