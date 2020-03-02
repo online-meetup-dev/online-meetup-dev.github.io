@@ -583,7 +583,6 @@
     "startAt": "2020-03-02T19:00:00+09:00",
     "endAt": "2020-03-02T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/27/5c/275cf3780a72406545acadbd4bfad264.png",
-    "today": true,
     "future": false,
     "date": "2020-03-02",
     "color": "grey"
@@ -596,7 +595,6 @@
     "startAt": "2020-03-02T19:25:00+09:00",
     "endAt": "2020-03-02T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d8/f4/d8f4415f269e67fd334953e9e3183411.png",
-    "today": true,
     "future": false,
     "date": "2020-03-02",
     "color": "#00ADD8"
@@ -609,7 +607,6 @@
     "startAt": "2020-03-02T19:30:00+09:00",
     "endAt": "2020-03-02T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a7/e5/a7e5dbfae9341637ec6b76ea4342e255.png",
-    "today": true,
     "future": false,
     "date": "2020-03-02",
     "color": "grey"
@@ -622,7 +619,6 @@
     "startAt": "2020-03-02T10:30:00.000Z",
     "endAt": "2020-03-02T12:40:00.000Z",
     "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/631_normal_1371632231_sendagaya.png",
-    "today": true,
     "future": false,
     "date": "2020-03-02",
     "color": "#701516"
@@ -635,7 +631,6 @@
     "startAt": "Mon Mar 02 2020 19:30:00 GMT+0900 (日本標準時)",
     "endAt": "Mon Mar 02 2020 21:45:00 GMT+0900 (日本標準時)",
     "image": "https://s3.ap-northeast-1.amazonaws.com/s3.techplay.jp/tp-images/event/43f5741ed3699d6d09995fa0dad45f2c064999b8.jpg",
-    "today": true,
     "future": false,
     "date": "2020-03-02",
     "color": "#2ccfc9"
@@ -648,6 +643,7 @@
     "startAt": "2020-03-03T19:00:00+09:00",
     "endAt": "2020-03-03T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/63/8d/638dc050f256f2101ce784f2c93a5b4f.png",
+    "today": true,
     "future": true,
     "date": "2020-03-03",
     "color": "#71FA4C"
@@ -660,6 +656,7 @@
     "startAt": "2020-03-03T21:00:00+09:00",
     "endAt": "2020-03-03T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/40/1a/401a3a72fb13e03cb1e279ebe6a36cee.png",
+    "today": true,
     "future": true,
     "date": "2020-03-03",
     "color": "#2ccfc9"
