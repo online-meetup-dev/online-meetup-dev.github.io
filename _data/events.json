@@ -760,6 +760,18 @@
     "color": "grey"
   },
   {
+    "group name": "ゆるい勉強会",
+    "event name": "ゆるい勉強会@Web",
+    "url": "https://asahikawa.connpass.com/event/164739/",
+    "category": "other",
+    "startAt": "2020-03-07T13:30:00+09:00",
+    "endAt": "2020-03-07T18:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7d/0b/7d0b34e530005fa7c9e14e1c2ce7ce1f.png",
+    "future": true,
+    "date": "2020-03-07",
+    "color": "grey"
+  },
+  {
     "group name": "DDD-Community-Jp",
     "event name": "ドメイン駆動設計 モデリング/実装入門勉強会(オンライン)",
     "url": "https://ddd-community-jp.connpass.com/event/168674/",
