@@ -11,6 +11,11 @@ layout: default
     </div>
     <br />
     <div class="row">
+      <div class="col-md-10 col-md-offset-1">
+        <div id="heatmap"></div>
+      </div>
+    </div>
+    <div class="row">
       {% assign futures = site.data.events | where: "future", true %}
       {% include list.html events=futures %}
     </div> 

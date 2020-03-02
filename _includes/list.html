@@ -1,6 +1,6 @@
 {% for event in include.events %}
   {% if event['event name'] != '' and event.startAt != '' and event.endAt != '' and event.url != '' %}
-    <div class="col-md-4" data-start-at="{{ event.startAt | date: '%Y-%m-%d' }}" data-category="{{ envet.category }}">
+    <div class="col-md-4 event" data-date="{{ event.date }}" data-category="{{ envet.category }}">
       <div class="row">
         <div class="col-md-10 offset-md-1 text-center">
          <a href="{{ event.url }}" class="index-anchor">    
@@ -15,7 +15,6 @@
               {% else %}
               <img width="100%" src="{{site.baseurl}}/images/webjeda-logo-big.jpg" alt="{{site.title}}">
               {% endif %}
-              
               <div class="panel-body">
                 <h3 class="panel-title">{{ event['event name'] }}</h3>
                 <span class="post-meta"><small>

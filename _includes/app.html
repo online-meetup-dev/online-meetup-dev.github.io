@@ -1,0 +1,29 @@
+<script>
+  $(() => {
+    const heatmap = new frappe.Chart("#heatmap", {
+    	type: 'heatmap',
+    	title: "オンラインミートアップ・ヒートマップ",
+    	data: {
+      	dataPoints: {
+          {% for k in site.data.count %}
+            '{{ k[0] /1000 }}': {{ k[1] }},{% endfor %}
+      	},
+        start: new Date('2020-01-01'),
+        end: new Date('2020-12-31'),
+        countLabel: 'Event',
+        discreteDomains: 0,
+        colors: ['#ebedf0', '#c0ddf9', '#73b3f3', '#3886e1', '#17459e'],
+      }
+    });
+    $(document).on('click', '.heat-domain rect', (e) => {
+      const date = $(e.target).data('date');
+      for (let event of $('.event')) {
+        if ($(event).data('date') === date) {
+          $(event).show();
+        } else {
+          $(event).hide();
+        }
+      }
+    });
+  });
+</script>
