@@ -964,10 +964,11 @@
     "group name": "地域おこしXR研究会",
     "event name": "Unityゆるもく勉強会 in 島根 #0",
     "url": "https://chiikiokoshi-vr.connpass.com/event/169388/",
-    "category": "",
+    "category": "vr",
     "startAt": "2020-03-28T13:00:00+09:00",
     "endAt": "2020-03-28T17:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
-    "future": true
+    "future": true,
+    "color": "#999"
   }
 ]
