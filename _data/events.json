@@ -851,6 +851,17 @@
     "color": "grey"
   },
   {
+    "group name": "Authlete, Inc.",
+    "event name": "（オンライン開催）OAuth & OIDC 勉強会 リターンズ【入門編】",
+    "url": "https://authlete.connpass.com/event/166482/",
+    "category": "auth",
+    "startAt": "2020-03-17T18:30:00+09:00",
+    "endAt": "2020-03-17T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b0/32/b032d5d3f66454ea38c3927cdf133ccd.png",
+    "future": true,
+    "color": "#84ABBC"
+  },
+  {
     "group name": "Observability",
     "event name": "Observability Japan Online",
     "url": "https://observability.connpass.com/event/168837/",
