@@ -1025,6 +1025,18 @@
     "color": "#999"
   },
   {
+    "group name": "【北海道オンライン会場】XRミーティング 2020/3/18 #XRMTG 【全国7拠点接続】",
+    "event name": "【北海道オンライン会場】XRミーティング 2020/3/18 #XRMTG 【全国7拠点接続】",
+    "url": "https://connpass.com/event/169525/",
+    "category": "vr",
+    "startAt": "2020-03-18T19:30:00+09:00",
+    "endAt": "2020-03-18T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/97/82/9782c6c9135024d2aeb2d85b6fee31d6.png",
+    "future": true,
+    "date": "2020-03-18",
+    "color": "#999"
+  },
+  {
     "group name": "OpsJAWS",
     "event name": "Ops JAWS Meetup#18 モニタリング",
     "url": "https://opsjaws.doorkeeper.jp/events/104065",
