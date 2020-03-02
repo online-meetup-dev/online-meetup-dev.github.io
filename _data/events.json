@@ -869,6 +869,18 @@
     "color": "grey"
   },
   {
+    "group name": "Polkadot&Substrate",
+    "event name": "【オンライン@Cluster】Polkadot&Substrate ミートアップ #7",
+    "url": "https://cluster.mu/events/4ed728ff-ac43-4207-bf6f-1791f4552c52",
+    "category": "web",
+    "startAt": "Thu Mar 12 2020 19:00:00 GMT+0900 (日本標準時)",
+    "endAt": "",
+    "image": "",
+    "future": false,
+    "date": "2020-03-12",
+    "color": "skyblue"
+  },
+  {
     "group name": "REACT MEETUP",
     "event name": "REACT MEETUP",
     "url": "https://www.reactjsmeetup.com/",
