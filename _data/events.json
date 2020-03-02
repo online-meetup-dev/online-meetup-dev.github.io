@@ -1013,6 +1013,18 @@
     "color": "red"
   },
   {
+    "group name": "大阪駆動開発 - 関東支部",
+    "event name": "【関東-オンライン開催】XRミーティング 2020/03/18 #XRMTG",
+    "url": "https://osaka-driven-dev-br-tokyo.connpass.com/event/169523/",
+    "category": "vr",
+    "startAt": "2020-03-18T19:30:00+09:00",
+    "endAt": "2020-03-18T21:50:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f5/01/f501a35d6f150d4d6d5cd9ca29c4c047.png",
+    "future": true,
+    "date": "2020-03-18",
+    "color": "#999"
+  },
+  {
     "group name": "OpsJAWS",
     "event name": "Ops JAWS Meetup#18 モニタリング",
     "url": "https://opsjaws.doorkeeper.jp/events/104065",
