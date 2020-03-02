@@ -602,19 +602,6 @@
     "color": "#00ADD8"
   },
   {
-    "group name": "データ分析基盤Developers Night",
-    "event name": "【オンライン配信します！】データ分析基盤Developers Night #4 〜活用されるデータ基盤のつくり方〜",
-    "url": "https://techplay.jp/event/768641",
-    "category": "ai",
-    "startAt": "Mon Mar 02 2020 19:30:00 GMT+0900 (日本標準時)",
-    "endAt": "Mon Mar 02 2020 21:45:00 GMT+0900 (日本標準時)",
-    "image": "https://s3.ap-northeast-1.amazonaws.com/s3.techplay.jp/tp-images/event/43f5741ed3699d6d09995fa0dad45f2c064999b8.jpg",
-    "today": true,
-    "future": false,
-    "date": "2020-03-02",
-    "color": "#2ccfc9"
-  },
-  {
     "group name": "Goodpatch Inc.",
     "event name": "Goodpatch Anywhere Live!! ver0.2 Fukuoka",
     "url": "https://goodpatch.connpass.com/event/166654/",
@@ -639,6 +626,19 @@
     "future": false,
     "date": "2020-03-02",
     "color": "#701516"
+  },
+  {
+    "group name": "データ分析基盤Developers Night",
+    "event name": "【オンライン配信します！】データ分析基盤Developers Night #4 〜活用されるデータ基盤のつくり方〜",
+    "url": "https://techplay.jp/event/768641",
+    "category": "ai",
+    "startAt": "Mon Mar 02 2020 19:30:00 GMT+0900 (日本標準時)",
+    "endAt": "Mon Mar 02 2020 21:45:00 GMT+0900 (日本標準時)",
+    "image": "https://s3.ap-northeast-1.amazonaws.com/s3.techplay.jp/tp-images/event/43f5741ed3699d6d09995fa0dad45f2c064999b8.jpg",
+    "today": true,
+    "future": false,
+    "date": "2020-03-02",
+    "color": "#2ccfc9"
   },
   {
     "group name": "ARコンテンツ作成勉強会",
