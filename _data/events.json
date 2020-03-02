@@ -788,12 +788,13 @@
     "group name": "朝霞IT勉強会グループ",
     "event name": "朝霞IT勉強会 #15 〜リモートでもくもく〜",
     "url": "https://asaka-it.connpass.com/event/169464/",
-    "category": "",
+    "category": "mokumoku",
     "startAt": "2020-03-07T13:10:00+09:00",
     "endAt": "2020-03-07T16:15:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "future": true,
-    "date": "2020-03-07"
+    "date": "2020-03-07",
+    "color": "#B8D59E"
   },
   {
     "group name": "ゆるい勉強会",
