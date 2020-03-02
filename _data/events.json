@@ -700,6 +700,18 @@
     "color": "#8D0000"
   },
   {
+    "group name": "ワードプレステーマ Nishiki",
+    "event name": "Nishiki もくもく勉強会（オンライン） #5 ブログ執筆/カスタマイズ/質問/雑談もOKな会",
+    "url": "https://wpnishiki.connpass.com/event/169364/",
+    "category": "mokumoku",
+    "startAt": "2020-03-05T13:30:00+09:00",
+    "endAt": "2020-03-05T17:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/96/c4/96c4b2aae81a6ad8705f19d8dbd762cd.png",
+    "future": true,
+    "date": "2020-03-05",
+    "color": "#B8D59E"
+  },
+  {
     "group name": "JAWS-UG横浜支部",
     "event name": "JAWS-UG横浜 #20 Amazon Neptune HANDS-ON(オンライン)",
     "url": "https://jawsug-yokohama.connpass.com/event/166514/",
