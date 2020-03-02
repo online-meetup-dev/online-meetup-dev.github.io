@@ -893,6 +893,18 @@
     "color": "skyblue"
   },
   {
+    "group name": "リモートワーク・エンジニア Online MeetUp",
+    "event name": "リモートワーク・エンジニア Online MeetUp #1",
+    "url": "https://remote-work-engineers-meet-up.connpass.com/event/168846/",
+    "category": "other",
+    "startAt": "2020-03-12T20:00:00+09:00",
+    "endAt": "2020-03-12T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/82/29/8229bf0f8af9a5479b82c4e9b6c70227.png",
+    "future": true,
+    "date": "2020-03-12",
+    "color": "grey"
+  },
+  {
     "group name": "REACT MEETUP",
     "event name": "REACT MEETUP",
     "url": "https://www.reactjsmeetup.com/",
