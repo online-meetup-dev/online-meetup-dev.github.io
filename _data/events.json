@@ -710,6 +710,18 @@
     "color": "#8D0000"
   },
   {
+    "group name": "UX MILK",
+    "event name": "【オンライン】UX JAM Online #02",
+    "url": "https://uxmilk.connpass.com/event/169298/",
+    "category": "design",
+    "startAt": "2020-03-04T21:00:00+09:00",
+    "endAt": "2020-03-04T22:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e2/39/e239b6ccdf05e61c678f8e98b1655f5a.png",
+    "future": true,
+    "date": "2020-03-04",
+    "color": "#2E6EF7"
+  },
+  {
     "group name": "ワードプレステーマ Nishiki",
     "event name": "Nishiki もくもく勉強会（オンライン） #5 ブログ執筆/カスタマイズ/質問/雑談もOKな会",
     "url": "https://wpnishiki.connpass.com/event/169364/",
@@ -900,6 +912,18 @@
     "future": true,
     "date": "2020-03-11",
     "color": "#147d3c"
+  },
+  {
+    "group name": "UX MILK",
+    "event name": "【オンライン】Ethical UX Workshop",
+    "url": "https://uxmilk.connpass.com/event/169155/",
+    "category": "design",
+    "startAt": "2020-03-11T19:15:00+09:00",
+    "endAt": "2020-03-11T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/bc/6f/bc6f1384279cd348cb036743cddf854f.png",
+    "future": true,
+    "date": "2020-03-11",
+    "color": "#2E6EF7"
   },
   {
     "group name": "金沢人工知能勉強会",
