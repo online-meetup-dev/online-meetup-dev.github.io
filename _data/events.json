@@ -644,7 +644,7 @@
     "endAt": "Tue Mar 03 2020 22:00:00 GMT+0900 (日本標準時)",
     "image": "https://s3-ap-northeast-1.amazonaws.com/peatix-files/event/1425191/cover-LrPVHfPo9U4t5p7pnCs3Rb5Dj0KRVvUO.png",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-03",
     "color": "grey"
   },
@@ -670,7 +670,7 @@
     "endAt": "2020-03-03T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/40/1a/401a3a72fb13e03cb1e279ebe6a36cee.png",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-03",
     "color": "#2ccfc9"
   },
