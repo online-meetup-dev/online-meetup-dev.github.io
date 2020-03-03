@@ -818,6 +818,18 @@
     "color": "grey"
   },
   {
+    "group name": "エンジニアのひよこ部屋",
+    "event name": "【初参加歓迎】バーチャル空間勉強会 #0",
+    "url": "https://nyamucoro.connpass.com/event/169171/",
+    "category": "vr",
+    "startAt": "2020-03-07T14:00:00+09:00",
+    "endAt": "2020-03-07T16:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/23/43/2343acc64c038cc18f53062a9c903e37.png",
+    "future": true,
+    "date": "2020-03-07",
+    "color": "#999"
+  },
+  {
     "group name": "DDD-Community-Jp",
     "event name": "ドメイン駆動設計 モデリング/実装入門勉強会(オンライン)",
     "url": "https://ddd-community-jp.connpass.com/event/168674/",
