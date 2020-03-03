@@ -842,6 +842,17 @@
     "color": "grey"
   },
   {
+    "group name": "コネヒト／Connehito Inc.",
+    "event name": "コネヒトマルシェオンライン「こんなときだから リモートワークについて本気出して考えてみた」",
+    "url": "https://connehito.connpass.com/event/169616/",
+    "category": "",
+    "startAt": "2020-03-11T18:50:00+09:00",
+    "endAt": "2020-03-11T20:15:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f6/cf/f6cfa5d2437d7898086002a0442a0501.png",
+    "future": true,
+    "date": "2020-03-11"
+  },
+  {
     "group name": "DevRel Meetup in Tokyo",
     "event name": "DevRel/Online #1 〜初のオンライン開催〜",
     "url": "https://devrel.connpass.com/event/168692/",
@@ -1046,7 +1057,7 @@
     "color": "#f1e05a"
   },
   {
-    "group name": "web",
+    "group name": "PWA Night",
     "event name": "PWA Night vol.14 ～UI/UX～",
     "url": "https://pwanight.connpass.com/event/169056/",
     "category": "web",
