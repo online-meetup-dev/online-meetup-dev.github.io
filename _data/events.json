@@ -890,6 +890,17 @@
     "color": "#147d3c"
   },
   {
+    "group name": "金沢人工知能勉強会",
+    "event name": "オンライン勉強会「物体検出を体験してみよう!」（PyDATA.Fukui共同開催 ）",
+    "url": "https://kaim.connpass.com/event/169430/",
+    "category": "",
+    "startAt": "2020-03-11T20:00:00+09:00",
+    "endAt": "2020-03-11T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ed/dd/edddbdb18b4d93aacb90fe3cd4a7173e.png",
+    "future": true,
+    "date": "2020-03-11"
+  },
+  {
     "group name": "Agile459",
     "event name": "Fearless Change - 読書会 第10回",
     "url": "https://agile459.connpass.com/event/169206/",
