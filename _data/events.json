@@ -842,6 +842,18 @@
     "color": "#0C6FAC"
   },
   {
+    "group name": "ATLabo（先端技術研究会）",
+    "event name": "JIFTTT-UG vol.1",
+    "url": "https://atlabo.connpass.com/event/169643/",
+    "category": "nocode",
+    "startAt": "2020-03-10T19:00:00+09:00",
+    "endAt": "2020-03-10T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/25/be/25be2bf6e2abfe555178f3ba2b3366b4.png",
+    "future": true,
+    "date": "2020-03-10",
+    "color": "#000000"
+  },
+  {
     "group name": "IBM Developer Dojo",
     "event name": "【オンライン】IBM Dojo #9 Kabaneroを使ったクラウド・ネイティブなアプリ開発を体験",
     "url": "https://ibm-developer.connpass.com/event/159901/",
@@ -893,12 +905,13 @@
     "group name": "金沢人工知能勉強会",
     "event name": "オンライン勉強会「物体検出を体験してみよう!」（PyDATA.Fukui共同開催 ）",
     "url": "https://kaim.connpass.com/event/169430/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-03-11T20:00:00+09:00",
     "endAt": "2020-03-11T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ed/dd/edddbdb18b4d93aacb90fe3cd4a7173e.png",
     "future": true,
-    "date": "2020-03-11"
+    "date": "2020-03-11",
+    "color": "#2ccfc9"
   },
   {
     "group name": "Agile459",
