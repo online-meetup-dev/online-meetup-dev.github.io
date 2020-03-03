@@ -773,12 +773,13 @@
     "group name": "ハッカーライフラボ",
     "event name": "【オンライン】デブサミ再演！クリエーションライン安田氏が語るどん底からのジョイインクジャーニー7年記",
     "url": "https://hacker-life-lab.connpass.com/event/168939/",
-    "category": "",
+    "category": "life",
     "startAt": "2020-03-06T19:30:00+09:00",
     "endAt": "2020-03-06T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d4/18/d418106f31c423f59e85da7310647268.png",
     "future": true,
-    "date": "2020-03-06"
+    "date": "2020-03-06",
+    "color": "#7681BC"
   },
   {
     "group name": "DevMokuSendai.",
@@ -856,13 +857,13 @@
     "group name": "コネヒト／Connehito Inc.",
     "event name": "コネヒトマルシェオンライン「こんなときだから リモートワークについて本気出して考えてみた」",
     "url": "https://connehito.connpass.com/event/169616/",
-    "category": "other",
+    "category": "life",
     "startAt": "2020-03-11T18:50:00+09:00",
     "endAt": "2020-03-11T20:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f6/cf/f6cfa5d2437d7898086002a0442a0501.png",
     "future": true,
     "date": "2020-03-11",
-    "color": "grey"
+    "color": "#7681BC"
   },
   {
     "group name": "DevRel Meetup in Tokyo",
