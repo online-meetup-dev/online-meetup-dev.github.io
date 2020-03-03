@@ -636,6 +636,19 @@
     "color": "#2ccfc9"
   },
   {
+    "group name": "エネルギーテック勉強会",
+    "event name": "エネルギーテック勉強会 #4 30's が描くエネルギーテックの未来",
+    "url": "https://energytech4.peatix.com/",
+    "category": "other",
+    "startAt": "Tue Mar 03 2020 19:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Tue Mar 03 2020 22:00:00 GMT+0900 (日本標準時)",
+    "image": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-03",
+    "color": "grey"
+  },
+  {
     "group name": "ARコンテンツ作成勉強会",
     "event name": "ARコンテンツ作成勉強会：OpenCVオンラインもくもく会 #02",
     "url": "https://xr-fukuoka.connpass.com/event/169170/",
