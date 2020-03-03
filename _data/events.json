@@ -1,16 +1,5 @@
 [
   {
-    "group name": "",
-    "event name": "価値のカタチ展2020〜千葉工業大学知能メディア工学科安藤昌也研究室活動報告会",
-    "url": "https://andoux2020.peatix.com/",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "future": false,
-    "date": "NaN-aN-aN"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -812,6 +801,18 @@
     "startAt": "2020-03-07T10:00:00+09:00",
     "endAt": "2020-03-07T12:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7b/e9/7be96d562090500ea3af6e07caaf02ee.png",
+    "future": true,
+    "date": "2020-03-07",
+    "color": "grey"
+  },
+  {
+    "group name": "価値のカタチ展〜千葉工業大学知能メディア工学科安藤昌也研究室活動報告会",
+    "event name": "価値のカタチ展2020〜千葉工業大学知能メディア工学科安藤昌也研究室活動報告会",
+    "url": "https://andoux2020.peatix.com/",
+    "category": "other",
+    "startAt": "Sat Mar 07 2020 13:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Sat Mar 07 2020 17:15:00 GMT+0900 (日本標準時)",
+    "image": "https://s3-ap-northeast-1.amazonaws.com/peatix-files/event/1425320/cover-8J0Pwetvz3SKHpa7T0T5lakkc0f7FDQj.png",
     "future": true,
     "date": "2020-03-07",
     "color": "grey"
