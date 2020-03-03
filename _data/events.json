@@ -867,6 +867,18 @@
     "color": "#999"
   },
   {
+    "group name": "Ansible ユーザー会",
+    "event name": "【リモートのみに変更】Ansibleもくもく会 （サーバ編 & NW編）2020.03 in 松江!",
+    "url": "https://ansible-users.connpass.com/event/163927/",
+    "category": "server",
+    "startAt": "2020-03-07T14:00:00+09:00",
+    "endAt": "2020-03-07T17:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2f/be/2fbec0d5bf63824613b61b837eca15f2.png",
+    "future": true,
+    "date": "2020-03-07",
+    "color": "black"
+  },
+  {
     "group name": "DDD-Community-Jp",
     "event name": "ドメイン駆動設計 モデリング/実装入門勉強会(オンライン)",
     "url": "https://ddd-community-jp.connpass.com/event/168674/",
