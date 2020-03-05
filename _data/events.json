@@ -1,5 +1,16 @@
 [
   {
+    "group name": "Bitcoin福岡勉強会",
+    "event name": "福岡ブロックチェーンエコノミー勉強会 「SSI（自己主権アイデンティティ）」",
+    "url": "",
+    "category": "",
+    "startAt": "",
+    "endAt": "",
+    "image": "",
+    "future": false,
+    "date": "NaN-aN-aN"
+  },
+  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -854,17 +865,6 @@
     "future": true,
     "date": "2020-03-07",
     "color": "grey"
-  },
-  {
-    "group name": "",
-    "event name": "",
-    "url": "",
-    "category": "",
-    "startAt": "Sat Mar 07 2020 14:00:00 GMT+0900 (日本標準時)",
-    "endAt": "Sat Mar 07 2020 19:00:00 GMT+0900 (日本標準時)",
-    "image": "",
-    "future": true,
-    "date": "2020-03-07"
   },
   {
     "group name": "エンジニアのひよこ部屋",
