@@ -1089,9 +1089,9 @@
     "url": "https://web-mining.doorkeeper.jp/events/104732/",
     "category": "web",
     "startAt": "2020-03-14T11:00:00+09:00",
-    "endAt": "",
-    "image": "",
-    "future": false,
+    "endAt": "2020-03-15T17:00:00+09:00",
+    "image": "https://dzpp79ucibp5a.cloudfront.net/events_banners/104732_normal_1582855392_Doorkeeper_OGP_%282%29.png",
+    "future": true,
     "date": "2020-03-14",
     "color": "skyblue"
   },
