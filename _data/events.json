@@ -856,6 +856,17 @@
     "color": "grey"
   },
   {
+    "group name": "",
+    "event name": "",
+    "url": "",
+    "category": "",
+    "startAt": "Sat Mar 07 2020 14:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Sat Mar 07 2020 19:00:00 GMT+0900 (日本標準時)",
+    "image": "",
+    "future": true,
+    "date": "2020-03-07"
+  },
+  {
     "group name": "エンジニアのひよこ部屋",
     "event name": "【初参加歓迎】バーチャル空間勉強会 #0",
     "url": "https://nyamucoro.connpass.com/event/169171/",
@@ -890,6 +901,18 @@
     "future": true,
     "date": "2020-03-08",
     "color": "#0C6FAC"
+  },
+  {
+    "group name": "GBEC Park",
+    "event name": "（リモート開催）福岡ブロックチェーン勉強会#49",
+    "url": "https://gbec.connpass.com/event/169641/",
+    "category": "blockchaine",
+    "startAt": "2020-03-09T19:00:00+09:00",
+    "endAt": "2020-03-09T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/88/0b/880b22ba233c4f058955dc8a77f60813.png",
+    "future": true,
+    "date": "2020-03-09",
+    "color": "#b48484"
   },
   {
     "group name": "ATLabo（先端技術研究会）",
