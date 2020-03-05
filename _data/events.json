@@ -1,17 +1,5 @@
 [
   {
-    "group name": "ウェブ解析士協会",
-    "event name": "【オンライン】ウェブ解析士協会コンテンツハッカソン - Q&Aをハックせよ",
-    "url": "https://web-mining.doorkeeper.jp/events/104732/",
-    "category": "web",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "future": false,
-    "date": "NaN-aN-aN",
-    "color": "skyblue"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -1094,6 +1082,18 @@
     "future": true,
     "date": "2020-03-13",
     "color": "#999"
+  },
+  {
+    "group name": "ウェブ解析士協会",
+    "event name": "【オンライン】ウェブ解析士協会コンテンツハッカソン - Q&Aをハックせよ",
+    "url": "https://web-mining.doorkeeper.jp/events/104732/",
+    "category": "web",
+    "startAt": "2020-03-14T11:00:00+09:00",
+    "endAt": "",
+    "image": "",
+    "future": false,
+    "date": "2020-03-14",
+    "color": "skyblue"
   },
   {
     "group name": "JAWS DAYS",
