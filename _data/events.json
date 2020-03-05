@@ -753,7 +753,7 @@
     "endAt": "2020-03-05T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f0/ec/f0ec9cd676f379e3ae42aaed59516b36.png",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-05",
     "color": "#F39E21"
   },
@@ -766,7 +766,7 @@
     "endAt": "2020-03-05T12:00:00.000Z",
     "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/10509_normal_1576200615_UiPath_logo_0905_square-01.png",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-05",
     "color": "grey"
   },
