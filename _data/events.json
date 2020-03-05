@@ -1,16 +1,5 @@
 [
   {
-    "group name": "Bitcoin福岡勉強会",
-    "event name": "福岡ブロックチェーンエコノミー勉強会 「SSI（自己主権アイデンティティ）」",
-    "url": "",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "future": false,
-    "date": "NaN-aN-aN"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -647,18 +636,6 @@
     "color": "#2ccfc9"
   },
   {
-    "group name": "エネルギーテック勉強会",
-    "event name": "エネルギーテック勉強会 #4 30's が描くエネルギーテックの未来",
-    "url": "https://energytech4.peatix.com/",
-    "category": "other",
-    "startAt": "Tue Mar 03 2020 19:00:00 GMT+0900 (日本標準時)",
-    "endAt": "Tue Mar 03 2020 22:00:00 GMT+0900 (日本標準時)",
-    "image": "https://s3-ap-northeast-1.amazonaws.com/peatix-files/event/1425191/cover-LrPVHfPo9U4t5p7pnCs3Rb5Dj0KRVvUO.png",
-    "future": false,
-    "date": "2020-03-03",
-    "color": "grey"
-  },
-  {
     "group name": "ARコンテンツ作成勉強会",
     "event name": "ARコンテンツ作成勉強会：OpenCVオンラインもくもく会 #02",
     "url": "https://xr-fukuoka.connpass.com/event/169170/",
@@ -669,6 +646,18 @@
     "future": false,
     "date": "2020-03-03",
     "color": "#71FA4C"
+  },
+  {
+    "group name": "エネルギーテック勉強会",
+    "event name": "エネルギーテック勉強会 #4 30's が描くエネルギーテックの未来",
+    "url": "https://energytech4.peatix.com/",
+    "category": "other",
+    "startAt": "Tue Mar 03 2020 19:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Tue Mar 03 2020 22:00:00 GMT+0900 (日本標準時)",
+    "image": "https://s3-ap-northeast-1.amazonaws.com/peatix-files/event/1425191/cover-LrPVHfPo9U4t5p7pnCs3Rb5Dj0KRVvUO.png",
+    "future": false,
+    "date": "2020-03-03",
+    "color": "grey"
   },
   {
     "group name": "Deep Learning Osaka",
@@ -805,6 +794,18 @@
     "future": true,
     "date": "2020-03-06",
     "color": "#f1e05a"
+  },
+  {
+    "group name": "Bitcoin福岡勉強会",
+    "event name": "福岡ブロックチェーンエコノミー勉強会 「SSI（自己主権アイデンティティ）」",
+    "url": "https://bitcoin-fukuoka.doorkeeper.jp/events/104765",
+    "category": "blockchaine",
+    "startAt": "2020-03-06T08:30:00.000Z",
+    "endAt": "2020-03-06T11:00:00.000Z",
+    "image": "https://dzpp79ucibp5a.cloudfront.net/assets/group_logos/08A5AF_normal-7e2ee2c9576bd1584b10979ff82b50da379456e86180ce78667b418123e84f83.png",
+    "future": true,
+    "date": "2020-03-06",
+    "color": "#b48484"
   },
   {
     "group name": "ハッカーライフラボ",
