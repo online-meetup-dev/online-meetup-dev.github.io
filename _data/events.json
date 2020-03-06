@@ -787,7 +787,6 @@
     "startAt": "2020-03-05T15:30:00-05:00",
     "endAt": "2020-03-05T18:30:00-05:00",
     "image": "https://www.angularmeetup.com/img/Logo-ThisDot-Media-lg.png",
-    "today": true,
     "future": false,
     "date": "2020-03-06",
     "color": "#f1e05a"
@@ -800,7 +799,6 @@
     "startAt": "2020-03-06T08:30:00.000Z",
     "endAt": "2020-03-06T11:00:00.000Z",
     "image": "https://dzpp79ucibp5a.cloudfront.net/assets/group_logos/08A5AF_normal-7e2ee2c9576bd1584b10979ff82b50da379456e86180ce78667b418123e84f83.png",
-    "today": true,
     "future": false,
     "date": "2020-03-06",
     "color": "#b48484"
@@ -813,7 +811,6 @@
     "startAt": "2020-03-06T19:30:00+09:00",
     "endAt": "2020-03-06T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d4/18/d418106f31c423f59e85da7310647268.png",
-    "today": true,
     "future": false,
     "date": "2020-03-06",
     "color": "#7681BC"
@@ -826,6 +823,7 @@
     "startAt": "2020-03-07T10:00:00+09:00",
     "endAt": "2020-03-07T12:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7b/e9/7be96d562090500ea3af6e07caaf02ee.png",
+    "today": true,
     "future": true,
     "date": "2020-03-07",
     "color": "grey"
@@ -838,6 +836,7 @@
     "startAt": "Sat Mar 07 2020 13:00:00 GMT+0900 (日本標準時)",
     "endAt": "Sat Mar 07 2020 17:15:00 GMT+0900 (日本標準時)",
     "image": "https://s3-ap-northeast-1.amazonaws.com/peatix-files/event/1425320/cover-8J0Pwetvz3SKHpa7T0T5lakkc0f7FDQj.png",
+    "today": true,
     "future": true,
     "date": "2020-03-07",
     "color": "grey"
@@ -850,6 +849,7 @@
     "startAt": "2020-03-07T13:10:00+09:00",
     "endAt": "2020-03-07T16:15:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
+    "today": true,
     "future": true,
     "date": "2020-03-07",
     "color": "#B8D59E"
@@ -862,6 +862,7 @@
     "startAt": "2020-03-07T13:30:00+09:00",
     "endAt": "2020-03-07T18:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7d/0b/7d0b34e530005fa7c9e14e1c2ce7ce1f.png",
+    "today": true,
     "future": true,
     "date": "2020-03-07",
     "color": "grey"
@@ -874,6 +875,7 @@
     "startAt": "2020-03-07T14:00:00+09:00",
     "endAt": "2020-03-07T16:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/23/43/2343acc64c038cc18f53062a9c903e37.png",
+    "today": true,
     "future": true,
     "date": "2020-03-07",
     "color": "#999"
@@ -886,6 +888,7 @@
     "startAt": "2020-03-07T14:00:00+09:00",
     "endAt": "2020-03-07T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2f/be/2fbec0d5bf63824613b61b837eca15f2.png",
+    "today": true,
     "future": true,
     "date": "2020-03-07",
     "color": "black"
