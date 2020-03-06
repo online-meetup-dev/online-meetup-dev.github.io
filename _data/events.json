@@ -801,7 +801,7 @@
     "endAt": "2020-03-06T11:00:00.000Z",
     "image": "https://dzpp79ucibp5a.cloudfront.net/assets/group_logos/08A5AF_normal-7e2ee2c9576bd1584b10979ff82b50da379456e86180ce78667b418123e84f83.png",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-06",
     "color": "#b48484"
   },
