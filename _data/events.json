@@ -1,16 +1,5 @@
 [
   {
-    "group name": "NVIDIA",
-    "event name": "GTC 2020",
-    "url": "https://www.nvidia.com/en-us/gtc/",
-    "category": "conference",
-    "startAt": "",
-    "endAt": "",
-    "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/gtc/gtc-logo-1.svg",
-    "future": false,
-    "date": "NaN-aN-aN"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -1336,6 +1325,17 @@
     "future": true,
     "date": "2020-03-21",
     "color": "#B8D59E"
+  },
+  {
+    "group name": "NVIDIA",
+    "event name": "GTC 2020",
+    "url": "https://www.nvidia.com/en-us/gtc/",
+    "category": "conference",
+    "startAt": "Sun Mar 22 2020 00:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Thu Mar 26 2020 00:00:00 GMT+0900 (日本標準時)",
+    "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/gtc/gtc-logo-1.svg",
+    "future": true,
+    "date": "2020-03-22"
   },
   {
     "group name": "ニフクラ mobile backend",
