@@ -824,7 +824,7 @@
     "endAt": "2020-03-07T12:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7b/e9/7be96d562090500ea3af6e07caaf02ee.png",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-07",
     "color": "grey"
   },
