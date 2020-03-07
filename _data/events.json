@@ -1420,5 +1420,16 @@
     "future": true,
     "date": "2020-03-28",
     "color": "grey"
+  },
+  {
+    "group name": "Google",
+    "event name": "Google Cloud Next ’20",
+    "url": "https://cloud.withgoogle.com/next/sf/",
+    "category": "conference",
+    "startAt": "Mon Apr 06 2020 00:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Wed Apr 08 2020 00:00:00 GMT+0900 (日本標準時)",
+    "image": "",
+    "future": true,
+    "date": "2020-04-06"
   }
 ]
