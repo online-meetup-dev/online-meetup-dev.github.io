@@ -862,7 +862,7 @@
     "endAt": "Sat Mar 07 2020 17:15:00 GMT+0900 (日本標準時)",
     "image": "https://s3-ap-northeast-1.amazonaws.com/peatix-files/event/1425320/cover-8J0Pwetvz3SKHpa7T0T5lakkc0f7FDQj.png",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-07",
     "color": "grey"
   },
