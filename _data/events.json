@@ -863,7 +863,7 @@
     "endAt": "2020-03-07T16:15:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-07",
     "color": "#B8D59E"
   },
