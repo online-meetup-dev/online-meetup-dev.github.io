@@ -1335,7 +1335,8 @@
     "endAt": "Thu Mar 26 2020 00:00:00 GMT+0900 (日本標準時)",
     "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/gtc/gtc-logo-1.svg",
     "future": true,
-    "date": "2020-03-22"
+    "date": "2020-03-22",
+    "color": "#F2CB61"
   },
   {
     "group name": "ニフクラ mobile backend",
@@ -1428,8 +1429,9 @@
     "category": "conference",
     "startAt": "Mon Apr 06 2020 00:00:00 GMT+0900 (日本標準時)",
     "endAt": "Wed Apr 08 2020 00:00:00 GMT+0900 (日本標準時)",
-    "image": "",
+    "image": "https://storage.googleapis.com/gweb-cloudnext2020.appspot.com/event-assets/sf/home/digital-experience-leaders-2.jpg",
     "future": true,
-    "date": "2020-04-06"
+    "date": "2020-04-06",
+    "color": "#F2CB61"
   }
 ]
