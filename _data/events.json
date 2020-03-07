@@ -1,5 +1,16 @@
 [
   {
+    "group name": "nvidia",
+    "event name": "GTC 2020",
+    "url": "https://www.nvidia.com/en-us/gtc/",
+    "category": "conference",
+    "startAt": "",
+    "endAt": "",
+    "image": "",
+    "future": false,
+    "date": "NaN-aN-aN"
+  },
+  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
