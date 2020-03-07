@@ -991,6 +991,18 @@
     "color": "#147d3c"
   },
   {
+    "group name": "Start Python Club",
+    "event name": "【オンライン開催】みんなのPython勉強会#55",
+    "url": "https://startpython.connpass.com/event/169696/",
+    "category": "python",
+    "startAt": "2020-03-11T19:00:00+09:00",
+    "endAt": "2020-03-11T20:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9b/23/9b23c946fac088f0745ff288ffc96ace.png",
+    "future": true,
+    "date": "2020-03-11",
+    "color": "purple"
+  },
+  {
     "group name": "UX MILK",
     "event name": "【オンライン】Ethical UX Workshop",
     "url": "https://uxmilk.connpass.com/event/169155/",
