@@ -1,12 +1,12 @@
 [
   {
-    "group name": "nvidia",
+    "group name": "NVIDIA",
     "event name": "GTC 2020",
     "url": "https://www.nvidia.com/en-us/gtc/",
     "category": "conference",
     "startAt": "",
     "endAt": "",
-    "image": "",
+    "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/gtc/gtc-logo-1.svg",
     "future": false,
     "date": "NaN-aN-aN"
   },
