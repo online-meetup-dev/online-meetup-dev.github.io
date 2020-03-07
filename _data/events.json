@@ -832,13 +832,14 @@
     "group name": "富山IT勉強会",
     "event name": "【Ansible入門】富山IT勉強会",
     "url": "https://toyama-it.connpass.com/event/158486/",
-    "category": "",
+    "category": "server",
     "startAt": "2020-03-07T13:00:00+09:00",
     "endAt": "2020-03-07T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b6/36/b63693aef047fc3ee28782f9fe770b9a.png",
     "today": true,
     "future": true,
-    "date": "2020-03-07"
+    "date": "2020-03-07",
+    "color": "black"
   },
   {
     "group name": "価値のカタチ展〜千葉工業大学知能メディア工学科安藤昌也研究室活動報告会",
@@ -1134,6 +1135,18 @@
     "color": "#B8D59E"
   },
   {
+    "group name": "IT勉強会「教うるは学ぶの半ば」（オンライン参加可）",
+    "event name": "2020/03 IT勉強会「教うるは学ぶの半ば」（オンライン参加可）",
+    "url": "https://oshiuru.connpass.com/event/167817/",
+    "category": "other",
+    "startAt": "2020-03-14T13:00:00+09:00",
+    "endAt": "2020-03-14T17:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/87/07/8707330505e32f7b03bf9a38bf270f3a.png",
+    "future": true,
+    "date": "2020-03-14",
+    "color": "grey"
+  },
+  {
     "group name": "SAMIT",
     "event name": "SAMIT Online! 20.03",
     "url": "https://samit.connpass.com/event/169421/",
@@ -1372,5 +1385,17 @@
     "future": true,
     "date": "2020-03-28",
     "color": "#999"
+  },
+  {
+    "group name": "Laboratory Automation",
+    "event name": "Laboratory Automation勉強会 / 2003",
+    "url": "https://laboratoryautomation.connpass.com/event/168955/",
+    "category": "other",
+    "startAt": "2020-03-28T13:00:00+09:00",
+    "endAt": "2020-03-28T17:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f6/aa/f6aa1cf3113b110ee325337f30408ecb.png",
+    "future": true,
+    "date": "2020-03-28",
+    "color": "grey"
   }
 ]
