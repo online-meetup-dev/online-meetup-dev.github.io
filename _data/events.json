@@ -1387,6 +1387,18 @@
     "color": "grey"
   },
   {
+    "group name": "en-jp",
+    "event name": "en-jp \"video online\" meetup #25",
+    "url": "https://www.meetup.com/ja-JP/meetup-group-en-jp/events/269203264/",
+    "category": "other",
+    "startAt": "Wed Mar 25 2020 19:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Wed Mar 25 2020 21:00:00 GMT+0900 (日本標準時)",
+    "image": "",
+    "future": true,
+    "date": "2020-03-25",
+    "color": "grey"
+  },
+  {
     "group name": "株式会社ミクシィ",
     "event name": "【オンライン開催】Customer Support Tech Meetup #1",
     "url": "https://mixi.connpass.com/event/167390/",
