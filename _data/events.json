@@ -792,6 +792,18 @@
     "color": "#f1e05a"
   },
   {
+    "group name": "Rancher Labs, Japan",
+    "event name": "はじめてのRancher",
+    "url": "https://rancher.connpass.com/event/166360/",
+    "category": "container",
+    "startAt": "2020-03-06T14:00:00+09:00",
+    "endAt": "2020-03-06T15:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/99/f6/99f61d5c2cb5215d46783844643906e1.png",
+    "future": false,
+    "date": "2020-03-06",
+    "color": "#00ADD8"
+  },
+  {
     "group name": "Bitcoin福岡勉強会",
     "event name": "福岡ブロックチェーンエコノミー勉強会 「SSI（自己主権アイデンティティ）」",
     "url": "https://bitcoin-fukuoka.doorkeeper.jp/events/104765",
