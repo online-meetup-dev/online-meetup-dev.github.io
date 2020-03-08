@@ -312,18 +312,6 @@
     "color": "green"
   },
   {
-    "group name": "TJBotFan",
-    "event name": "【オンライン】ラズパイとNode-REDで「TJBot zero」を作ろう2020 #02",
-    "url": "https://bmxug.connpass.com/event/170284/",
-    "category": "hard",
-    "startAt": "Mon Feb 24 2020 10:30:00 GMT+0900 (日本標準時)",
-    "endAt": "2020/02/24 18:0",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/95/38/9538b8b35226a8c54e3460104ef7de35.png",
-    "future": false,
-    "date": "2020-02-24",
-    "color": "green"
-  },
-  {
     "group name": "PlayCanvasMeetup",
     "event name": "【オンライン】Vue.jsをPlayCanvasの中で使って3DビュワーなWebページをつくる",
     "url": "https://playcanvasjp.connpass.com/event/162375/",
@@ -1427,6 +1415,18 @@
     "future": true,
     "date": "2020-03-25",
     "color": "#b07219"
+  },
+  {
+    "group name": "TJBotFan",
+    "event name": "【オンライン】ラズパイとNode-REDで「TJBot zero」を作ろう2020 #02",
+    "url": "https://bmxug.connpass.com/event/170284/",
+    "category": "hard",
+    "startAt": "Sat Mar 28 2020 10:30:00 GMT+0900 (日本標準時)",
+    "endAt": "Sat Mar 28 2020 16:00:00 GMT+0900 (日本標準時)",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/95/38/9538b8b35226a8c54e3460104ef7de35.png",
+    "future": true,
+    "date": "2020-03-28",
+    "color": "green"
   },
   {
     "group name": "地域おこしXR研究会",
