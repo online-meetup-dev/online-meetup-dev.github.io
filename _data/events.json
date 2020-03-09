@@ -1441,6 +1441,18 @@
     "color": "#b07219"
   },
   {
+    "group name": "日本暗号通貨ユーザ会",
+    "event name": "【暗号通貨読書会#36】Taproot（※オンライン開催）",
+    "url": "https://cryptocurrency.connpass.com/event/167570/",
+    "category": "cryptocurrency",
+    "startAt": "2020-03-25T19:30:00+09:00",
+    "endAt": "2020-03-25T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0f/20/0f20db0e5412149464f3cc4301512c89.png",
+    "future": true,
+    "date": "2020-03-25",
+    "color": "#FFE39E"
+  },
+  {
     "group name": "TJBotFan",
     "event name": "【オンライン】ラズパイとNode-REDで「TJBot zero」を作ろう2020 #02",
     "url": "https://bmxug.connpass.com/event/170284/",
