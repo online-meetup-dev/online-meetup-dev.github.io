@@ -937,6 +937,32 @@
     "color": "#b48484"
   },
   {
+    "group name": "あいげんす・ぺいす",
+    "event name": "【リモート】『コンピュータシステムの理論と実装』初級勉強会 #2【ゆるぼ】",
+    "url": "https://eigenspace.connpass.com/event/167576/",
+    "category": "other",
+    "startAt": "2020-03-09T19:00:00+09:00",
+    "endAt": "2020-03-09T20:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/27/5c/275cf3780a72406545acadbd4bfad264.png",
+    "today": true,
+    "future": true,
+    "date": "2020-03-09",
+    "color": "grey"
+  },
+  {
+    "group name": "RPACommunity",
+    "event name": "【オンライン開催】RPA勉強＆LT会！RPALT青森 vol.01",
+    "url": "https://rpacommunity.connpass.com/event/167955/",
+    "category": "other",
+    "startAt": "2020-03-09T19:00:00+09:00",
+    "endAt": "2020-03-09T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2d/aa/2daa20cf38e54ac0ad3e8eeb9c0353a0.png",
+    "today": true,
+    "future": true,
+    "date": "2020-03-09",
+    "color": "grey"
+  },
+  {
     "group name": "ATLabo（先端技術研究会）",
     "event name": "JIFTTT-UG vol.1",
     "url": "https://atlabo.connpass.com/event/169643/",
