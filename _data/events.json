@@ -1,16 +1,5 @@
 [
   {
-    "group name": "Japan Microsoft Learn User Group",
-    "event name": "【オンライン開催】Microsoft Learn Day Online #1",
-    "url": "https://mslearn.connpass.com/event/168299/",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "future": false,
-    "date": "NaN-aN-aN"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -1587,6 +1576,18 @@
     "future": true,
     "date": "2020-03-28",
     "color": "grey"
+  },
+  {
+    "group name": "Japan Microsoft Learn User Group",
+    "event name": "【オンライン開催】Microsoft Learn Day Online #1",
+    "url": "https://mslearn.connpass.com/event/168299/",
+    "category": "cloud",
+    "startAt": "2020-03-28T13:00:00+09:00",
+    "endAt": "2020-03-28T17:00:00+09:00",
+    "image": "",
+    "future": true,
+    "date": "2020-03-28",
+    "color": "blue"
   },
   {
     "group name": "Google",
