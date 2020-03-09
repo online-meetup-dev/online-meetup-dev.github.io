@@ -1584,7 +1584,7 @@
     "category": "cloud",
     "startAt": "2020-03-28T13:00:00+09:00",
     "endAt": "2020-03-28T17:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a8/a1/a8a1aee2aaf138b2af409da2de10ac9f.png",
     "future": true,
     "date": "2020-03-28",
     "color": "blue"
