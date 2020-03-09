@@ -1345,6 +1345,18 @@
     "color": "#F2CB61"
   },
   {
+    "group name": "日本ディープラーニング協会",
+    "event name": "CDLE online Meetup！北海道＆関西コラボ編",
+    "url": "https://jdla.connpass.com/event/169726/",
+    "category": "ai",
+    "startAt": "2020-03-23T18:30:00+09:00",
+    "endAt": "2020-03-23T19:35:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/49/03/4903a4b6804ddd633236402270f813ba.png",
+    "future": true,
+    "date": "2020-03-23",
+    "color": "#2ccfc9"
+  },
+  {
     "group name": "ニフクラ mobile backend",
     "event name": "Monaca + NCMBもくもく会/駆け込み寺（リモートのみ！） #17",
     "url": "https://ncmb.connpass.com/event/168631/",
