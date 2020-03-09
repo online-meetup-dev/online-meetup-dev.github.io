@@ -932,7 +932,7 @@
     "endAt": "2020-03-09T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/88/0b/880b22ba233c4f058955dc8a77f60813.png",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-09",
     "color": "#b48484"
   },
@@ -971,7 +971,7 @@
     "endAt": "2020-03-09T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2f/6a/2f6ab0a4be6d56400fea054b3a80cc9a.png",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-09",
     "color": "grey"
   },
