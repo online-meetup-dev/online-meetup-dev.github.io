@@ -1530,6 +1530,18 @@
     "color": "#FFE39E"
   },
   {
+    "group name": "Kubernetes Meetup Tokyo",
+    "event name": "Kubernetes Meetup Tokyo #29 Cluster Upgrade 編",
+    "url": "https://k8sjp.connpass.com/event/170099/",
+    "category": "container",
+    "startAt": "2020-03-26T19:00:00+09:00",
+    "endAt": "2020-03-26T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0b/e2/0be2c1c5921491c2c5db9ca69aff482c.png",
+    "future": true,
+    "date": "2020-03-26",
+    "color": "#00ADD8"
+  },
+  {
     "group name": "TJBotFan",
     "event name": "【オンライン】ラズパイとNode-REDで「TJBot zero」を作ろう2020 #02",
     "url": "https://bmxug.connpass.com/event/170284/",
