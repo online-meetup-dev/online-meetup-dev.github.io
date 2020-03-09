@@ -931,7 +931,6 @@
     "startAt": "2020-03-09T19:00:00+09:00",
     "endAt": "2020-03-09T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/88/0b/880b22ba233c4f058955dc8a77f60813.png",
-    "today": true,
     "future": false,
     "date": "2020-03-09",
     "color": "#b48484"
@@ -944,7 +943,6 @@
     "startAt": "2020-03-09T19:00:00+09:00",
     "endAt": "2020-03-09T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/27/5c/275cf3780a72406545acadbd4bfad264.png",
-    "today": true,
     "future": false,
     "date": "2020-03-09",
     "color": "grey"
@@ -957,7 +955,6 @@
     "startAt": "2020-03-09T19:00:00+09:00",
     "endAt": "2020-03-09T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2d/aa/2daa20cf38e54ac0ad3e8eeb9c0353a0.png",
-    "today": true,
     "future": false,
     "date": "2020-03-09",
     "color": "grey"
@@ -970,7 +967,6 @@
     "startAt": "2020-03-09T19:00:00+09:00",
     "endAt": "2020-03-09T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2f/6a/2f6ab0a4be6d56400fea054b3a80cc9a.png",
-    "today": true,
     "future": false,
     "date": "2020-03-09",
     "color": "grey"
@@ -983,7 +979,6 @@
     "startAt": "2020-03-09T20:00:00+09:00",
     "endAt": "2020-03-09T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/95/d8/95d8354568d270617f555fc8de80c73a.png",
-    "today": true,
     "future": false,
     "date": "2020-03-09",
     "color": "purple"
@@ -996,7 +991,6 @@
     "startAt": "2020-03-09T20:00:00+09:00",
     "endAt": "2020-03-09T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/00/bc/00bc41fe12a639a847e024a65a8ba294.png",
-    "today": true,
     "future": false,
     "date": "2020-03-09",
     "color": "#B8D59E"
@@ -1009,6 +1003,7 @@
     "startAt": "2020-03-10T10:00:00.000Z",
     "endAt": "2020-03-10T12:00:00.000Z",
     "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/9105_normal_1478235425_7295_normal_1452046556_a_%281%29.png",
+    "today": true,
     "future": true,
     "date": "2020-03-10",
     "color": "#D7063A"
@@ -1021,6 +1016,7 @@
     "startAt": "2020-03-10T19:00:00+09:00",
     "endAt": "2020-03-10T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/25/be/25be2bf6e2abfe555178f3ba2b3366b4.png",
+    "today": true,
     "future": true,
     "date": "2020-03-10",
     "color": "#000000"
