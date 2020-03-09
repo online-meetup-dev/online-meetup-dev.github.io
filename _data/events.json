@@ -1165,6 +1165,18 @@
     "color": "grey"
   },
   {
+    "group name": "西東京Web勉強会（仮）",
+    "event name": "【無料オンライン開催！】第7回西東京Web勉強会「ゆるっとAdobeXD！」",
+    "url": "https://westtokyowebstudy.connpass.com/event/166281/",
+    "category": "web",
+    "startAt": "2020-03-14T15:00:00+09:00",
+    "endAt": "2020-03-14T17:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b4/ec/b4ecdbbe206172d08bb10bcb1c817935.png",
+    "future": true,
+    "date": "2020-03-14",
+    "color": "skyblue"
+  },
+  {
     "group name": "SAMIT",
     "event name": "SAMIT Online! 20.03",
     "url": "https://samit.connpass.com/event/169421/",
