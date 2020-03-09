@@ -963,6 +963,19 @@
     "color": "grey"
   },
   {
+    "group name": "関西でモブプログラミングやってみぃ〜ひん??",
+    "event name": "リモートでモブプログラミングやってみぃ〜ひん？？",
+    "url": "https://kmob.connpass.com/event/169312/",
+    "category": "other",
+    "startAt": "2020-03-09T19:00:00+09:00",
+    "endAt": "2020-03-09T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2f/6a/2f6ab0a4be6d56400fea054b3a80cc9a.png",
+    "today": true,
+    "future": true,
+    "date": "2020-03-09",
+    "color": "grey"
+  },
+  {
     "group name": "ATLabo（先端技術研究会）",
     "event name": "JIFTTT-UG vol.1",
     "url": "https://atlabo.connpass.com/event/169643/",
