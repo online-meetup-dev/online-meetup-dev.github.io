@@ -1530,6 +1530,18 @@
     "color": "grey"
   },
   {
+    "group name": "JAWS-UG 金沢",
+    "event name": "オンライン開催  JAWS-UG金沢 #52 AWS Expert Online AWSにおけるデータベースの選択",
+    "url": "https://jawsug-kanazawa.doorkeeper.jp/events/104851",
+    "category": "aws",
+    "startAt": "2020-03-25T09:50:00.000Z",
+    "endAt": "2020-03-25T12:00:00.000Z",
+    "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/6188_normal_1457935914_profile_sq.png",
+    "future": true,
+    "date": "2020-03-25",
+    "color": "#F39E21"
+  },
+  {
     "group name": "株式会社ミクシィ",
     "event name": "【オンライン開催】Customer Support Tech Meetup #1",
     "url": "https://mixi.connpass.com/event/167390/",
