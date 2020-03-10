@@ -1034,6 +1034,30 @@
     "color": "#D7063A"
   },
   {
+    "group name": "サイエンスパークの勉強会",
+    "event name": "アプリからドライバまで 現役エンジニアの濃い話 #16（リモート開催）",
+    "url": "https://sciencepark.connpass.com/event/169001/",
+    "category": "",
+    "startAt": "2020-03-10T19:30:00+09:00",
+    "endAt": "2020-03-10T20:30:00+09:00",
+    "image": "https://online-meetup.dev/images/event.png",
+    "today": true,
+    "future": true,
+    "date": "2020-03-10"
+  },
+  {
+    "group name": "金沢人工知能勉強会",
+    "event name": "オンライン勉強会「DeepLearningによるポーズ推定」（PyDATA.Fukui共同開催 ）",
+    "url": "https://kaim.connpass.com/event/169127/",
+    "category": "",
+    "startAt": "2020-03-10T20:00:00+09:00",
+    "endAt": "2020-03-10T21:15:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7c/90/7c909b4533bb64e0ad84337c04b55414.png",
+    "today": true,
+    "future": true,
+    "date": "2020-03-10"
+  },
+  {
     "group name": "IBM Developer Dojo",
     "event name": "【オンライン】IBM Dojo #9 Kabaneroを使ったクラウド・ネイティブなアプリ開発を体験",
     "url": "https://ibm-developer.connpass.com/event/159901/",
