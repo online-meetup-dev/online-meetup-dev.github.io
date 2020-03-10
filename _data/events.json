@@ -1035,6 +1035,19 @@
     "color": "#D7063A"
   },
   {
+    "group name": "Fin-JAWS (金融とFinTechに関するJAWS支部)",
+    "event name": "【緊急オンライン開催！】Fin-JAWS 第10回 〜金融エンジニア必見のAWS認定試験対策〜",
+    "url": "https://fin-jaws.doorkeeper.jp/events/104811",
+    "category": "aws",
+    "startAt": "2020-03-10T10:30:00.000Z",
+    "endAt": "2020-03-10T12:00:00.000Z",
+    "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/9406_normal_1509261869_logo32.JPG",
+    "today": true,
+    "future": true,
+    "date": "2020-03-10",
+    "color": "#F39E21"
+  },
+  {
     "group name": "サイエンスパークの勉強会",
     "event name": "アプリからドライバまで 現役エンジニアの濃い話 #16（リモート開催）",
     "url": "https://sciencepark.connpass.com/event/169001/",
