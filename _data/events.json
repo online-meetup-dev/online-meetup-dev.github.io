@@ -1,17 +1,5 @@
 [
   {
-    "group name": "Tokyo WordPress Meetup",
-    "event name": "",
-    "url": "",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "hashtag": "",
-    "future": false,
-    "date": "NaN-aN-aN"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -1796,6 +1784,18 @@
     "future": true,
     "date": "2020-03-28",
     "color": "blue"
+  },
+  {
+    "group name": "Tokyo WordPress Meetup",
+    "event name": "Tokyo WordPress Meetup オンライン- バージョン 5.4 ブロックエディターの主な変更点",
+    "url": "https://www.meetup.com/ja-JP/Tokyo-WordPress-Meetup/events/269299922/",
+    "category": "wordpress",
+    "startAt": "2020-04-04T21:00:00+09:00",
+    "endAt": "2020-04-04T21:00:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-04"
   },
   {
     "group name": "Google",
