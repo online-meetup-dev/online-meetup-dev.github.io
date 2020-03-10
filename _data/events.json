@@ -1088,7 +1088,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/25/be/25be2bf6e2abfe555178f3ba2b3366b4.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-10",
     "color": "#000000"
   },
@@ -1116,7 +1116,7 @@
     "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/9406_normal_1509261869_logo32.JPG",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-10",
     "color": "#F39E21"
   },
