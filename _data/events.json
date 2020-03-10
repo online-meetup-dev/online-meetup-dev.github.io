@@ -1435,6 +1435,19 @@
     "color": "grey"
   },
   {
+    "group name": "DDD-Community-Jp",
+    "event name": "DDDオンライン勉強会 「集約・境界付けられたコンテキスト・設計の基本原則」",
+    "url": "https://ddd-community-jp.connpass.com/event/170393/",
+    "category": "other",
+    "startAt": "2020-03-15T19:00:00+09:00",
+    "endAt": "2020-03-15T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/06/12/06127481514c47486d604637be7ed527.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-15",
+    "color": "grey"
+  },
+  {
     "group name": "Authlete, Inc.",
     "event name": "（オンライン開催）OAuth & OIDC 勉強会 リターンズ【入門編】",
     "url": "https://authlete.connpass.com/event/166482/",
