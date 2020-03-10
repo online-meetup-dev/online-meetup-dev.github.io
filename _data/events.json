@@ -1542,6 +1542,18 @@
     "color": "#F39E21"
   },
   {
+    "group name": "JAWS-UG浜松",
+    "event name": "AWS Expert Online 8 / JAWS-UG浜松 AWS勉強会 2020#3",
+    "url": "https://jawsug-hamamatsu.doorkeeper.jp/events/104228",
+    "category": "aws",
+    "startAt": "2020-03-25T10:00:00.000Z",
+    "endAt": "2020-03-25T12:00:00.000Z",
+    "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/5668_normal_1434012043_jaws_logo_hamamatsu_2.png",
+    "future": true,
+    "date": "2020-03-25",
+    "color": "#F39E21"
+  },
+  {
     "group name": "株式会社ミクシィ",
     "event name": "【オンライン開催】Customer Support Tech Meetup #1",
     "url": "https://mixi.connpass.com/event/167390/",
