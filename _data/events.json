@@ -1107,20 +1107,6 @@
     "color": "red"
   },
   {
-    "group name": "a-blog cms Online",
-    "event name": "a-blog cms オンライン勉強会 初級編 2020/03/10",
-    "url": "https://ablogcms-online.doorkeeper.jp/events/104690",
-    "category": "cms",
-    "startAt": "2020-03-10T10:00:00.000Z",
-    "endAt": "2020-03-10T12:00:00.000Z",
-    "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/9105_normal_1478235425_7295_normal_1452046556_a_%281%29.png",
-    "hashtag": "",
-    "today": true,
-    "future": true,
-    "date": "2020-03-10",
-    "color": "#D7063A"
-  },
-  {
     "group name": "Fin-JAWS (金融とFinTechに関するJAWS支部)",
     "event name": "【緊急オンライン開催！】Fin-JAWS 第10回 〜金融エンジニア必見のAWS認定試験対策〜",
     "url": "https://fin-jaws.doorkeeper.jp/events/104811",
