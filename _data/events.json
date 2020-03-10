@@ -1,17 +1,5 @@
 [
   {
-    "group name": "",
-    "event name": "カヤック×Goodpatch Anywhereオンライン勉強会~PM編~ をのぞき見しませんか？",
-    "url": "",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "hashtag": "",
-    "future": false,
-    "date": "NaN-aN-aN"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -1629,6 +1617,19 @@
     "color": "#2ccfc9"
   },
   {
+    "group name": "Goodpatch Inc.",
+    "event name": "カヤック×Goodpatch Anywhereオンライン勉強会~PM編~ をのぞき見しませんか？",
+    "url": "https://goodpatch.connpass.com/event/169730/",
+    "category": "pm",
+    "startAt": "Mon Mar 23 2020 19:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Mon Mar 23 2020 21:00:00 GMT+0900 (日本標準時)",
+    "image": "https://online-meetup.dev/images/event.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-23",
+    "color": "#0C6FAC"
+  },
+  {
     "group name": "ニフクラ mobile backend",
     "event name": "Monaca + NCMBもくもく会/駆け込み寺（リモートのみ！） #17",
     "url": "https://ncmb.connpass.com/event/168631/",
@@ -1713,7 +1714,7 @@
     "category": "other",
     "startAt": "Wed Mar 25 2020 19:00:00 GMT+0900 (日本標準時)",
     "endAt": "Wed Mar 25 2020 21:00:00 GMT+0900 (日本標準時)",
-    "image": "",
+    "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
     "date": "2020-03-25",
