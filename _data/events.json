@@ -1790,12 +1790,13 @@
     "event name": "Tokyo WordPress Meetup オンライン- バージョン 5.4 ブロックエディターの主な変更点",
     "url": "https://www.meetup.com/ja-JP/Tokyo-WordPress-Meetup/events/269299922/",
     "category": "wordpress",
-    "startAt": "2020-04-04T21:00:00+09:00",
-    "endAt": "2020-04-04T21:00:00+09:00",
-    "image": "",
+    "startAt": "2020-04-04T21:30:00+09:00",
+    "endAt": "2020-04-04T22:30:00+09:00",
+    "image": "https://secure.meetupstatic.com/photos/event/2/0/d/2/highres_489668402.jpeg",
     "hashtag": "",
     "future": true,
-    "date": "2020-04-04"
+    "date": "2020-04-04",
+    "color": ""
   },
   {
     "group name": "Google",
