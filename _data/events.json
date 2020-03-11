@@ -1256,6 +1256,48 @@
     "color": "#EA3718"
   },
   {
+    "group name": "Hardening-MarketPlace",
+    "event name": "Hardening 2020 BO 振り返り会　オンライン",
+    "url": "https://hardening-mp.connpass.com/event/168098/",
+    "category": "other",
+    "startAt": "2020-03-11T19:00:00+09:00",
+    "endAt": "2020-03-11T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/04/f6/04f6b5933bd57f836f56be8fa04b33f0.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-11",
+    "color": "grey"
+  },
+  {
+    "group name": "諸国・浪漫",
+    "event name": "[オンライン]もくもくエディタソン！ ～東日本大震災編～",
+    "url": "https://countries-romantic.connpass.com/event/169346/",
+    "category": "other",
+    "startAt": "2020-03-11T19:00:00+09:00",
+    "endAt": "2020-03-11T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c3/16/c316212d45ca4a8aaa167102b3f92932.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-11",
+    "color": "grey"
+  },
+  {
+    "group name": "ARコンテンツ作成勉強会",
+    "event name": "#03 OpenCVオンラインもくもく会",
+    "url": "https://xr-fukuoka.connpass.com/event/169554/",
+    "category": "ar",
+    "startAt": "2020-03-11T19:00:00+09:00",
+    "endAt": "2020-03-11T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0f/6b/0f6bb42310bd9c0535c1cb09594b5ede.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-11",
+    "color": "#71FA4C"
+  },
+  {
     "group name": "UX MILK",
     "event name": "【オンライン】Ethical UX Workshop",
     "url": "https://uxmilk.connpass.com/event/169155/",
