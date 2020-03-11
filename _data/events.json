@@ -1172,6 +1172,20 @@
     "color": "grey"
   },
   {
+    "group name": "量子コンピュータ",
+    "event name": "【緊急開催】Tensorflow Quantum入門",
+    "url": "https://qnn.connpass.com/event/170486/",
+    "category": "quantum",
+    "startAt": "2020-03-11T18:30:00+09:00",
+    "endAt": "2020-03-11T19:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f8/7d/f87d30f1f2a2741cb2acf79ecc66e030.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-11",
+    "color": "#FAF79F"
+  },
+  {
     "group name": "コネヒト／Connehito Inc.",
     "event name": "コネヒトマルシェオンライン「こんなときだから リモートワークについて本気出して考えてみた」",
     "url": "https://connehito.connpass.com/event/169616/",
