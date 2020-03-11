@@ -1298,6 +1298,34 @@
     "color": "#71FA4C"
   },
   {
+    "group name": "fukuoka.ex／kokura.ex - Fukuoka Elixir community -",
+    "event name": "【フルリモート開催】fukuoka.ex#36：Elixirもくもく会～入門もあるよ",
+    "url": "https://fukuokaex.connpass.com/event/169710/",
+    "category": "elixir",
+    "startAt": "2020-03-11T19:00:00+09:00",
+    "endAt": "2020-03-11T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/92/ff/92ff09f4a0a8549a4ce8f6a669d4d809.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-11",
+    "color": "#6e4a7e"
+  },
+  {
+    "group name": "Skype理工学勉強会",
+    "event name": "ソフトウェア設計もくもく会(Skype上）",
+    "url": "https://engineeringskype.connpass.com/event/170273/",
+    "category": "mokumoku",
+    "startAt": "2020-03-11T19:00:00+09:00",
+    "endAt": "2020-03-11T21:30:00+09:00",
+    "image": "https://online-meetup.dev/images/event.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-11",
+    "color": "#B8D59E"
+  },
+  {
     "group name": "UX MILK",
     "event name": "【オンライン】Ethical UX Workshop",
     "url": "https://uxmilk.connpass.com/event/169155/",
@@ -1310,6 +1338,20 @@
     "future": true,
     "date": "2020-03-11",
     "color": "#2E6EF7"
+  },
+  {
+    "group name": "もくもく寺",
+    "event name": "第59回フロントエンドもくもく寺@オンライン",
+    "url": "https://frontend-temple.connpass.com/event/170046/",
+    "category": "mokumoku",
+    "startAt": "2020-03-11T19:30:00+09:00",
+    "endAt": "2020-03-11T23:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5a/0f/5a0f34707b7bf9d40819d3ffdaf6015b.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-11",
+    "color": "#B8D59E"
   },
   {
     "group name": "金沢人工知能勉強会",
