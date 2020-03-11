@@ -1152,7 +1152,6 @@
     "endAt": "2020-03-11T15:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fb/cd/fbcd9a8f4d66343f145a2aa9cda1f8ff.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "#00ADD8"
@@ -1166,7 +1165,6 @@
     "endAt": "2020-03-11T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/80/ad/80adbca9635b70e6c47e88b8c24372c7.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "grey"
@@ -1180,7 +1178,6 @@
     "endAt": "2020-03-11T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f8/7d/f87d30f1f2a2741cb2acf79ecc66e030.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "#FAF79F"
@@ -1194,7 +1191,6 @@
     "endAt": "2020-03-11T20:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f6/cf/f6cfa5d2437d7898086002a0442a0501.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "#7681BC"
@@ -1208,7 +1204,6 @@
     "endAt": "2020-03-11T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e7/60/e7605ebdbd8326f1828b4e36debacb7d.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "#147d3c"
@@ -1222,7 +1217,6 @@
     "endAt": "2020-03-11T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9b/23/9b23c946fac088f0745ff288ffc96ace.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "purple"
@@ -1236,7 +1230,6 @@
     "endAt": "2020-03-11T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6b/c4/6bc40f1e9bb3499964034b906f01560c.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "#2ccfc9"
@@ -1250,7 +1243,6 @@
     "endAt": "2020-03-11T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a2/1c/a21c758abba5bb9aa0b4586997815512.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "#EA3718"
@@ -1264,7 +1256,6 @@
     "endAt": "2020-03-11T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/04/f6/04f6b5933bd57f836f56be8fa04b33f0.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "grey"
@@ -1278,7 +1269,6 @@
     "endAt": "2020-03-11T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c3/16/c316212d45ca4a8aaa167102b3f92932.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "grey"
@@ -1292,7 +1282,6 @@
     "endAt": "2020-03-11T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0f/6b/0f6bb42310bd9c0535c1cb09594b5ede.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "#71FA4C"
@@ -1306,7 +1295,6 @@
     "endAt": "2020-03-11T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/92/ff/92ff09f4a0a8549a4ce8f6a669d4d809.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "#6e4a7e"
@@ -1320,7 +1308,6 @@
     "endAt": "2020-03-11T21:30:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "#B8D59E"
@@ -1334,7 +1321,6 @@
     "endAt": "2020-03-11T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/bc/6f/bc6f1384279cd348cb036743cddf854f.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "#2E6EF7"
@@ -1348,7 +1334,6 @@
     "endAt": "2020-03-11T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5a/0f/5a0f34707b7bf9d40819d3ffdaf6015b.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "#B8D59E"
@@ -1362,7 +1347,6 @@
     "endAt": "2020-03-11T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ed/dd/edddbdb18b4d93aacb90fe3cd4a7173e.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "#2ccfc9"
@@ -1376,7 +1360,6 @@
     "endAt": "2020-03-11T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/12/4d/124dc11da140710ac38db4f73a722165.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "purple"
@@ -1390,7 +1373,6 @@
     "endAt": "Wed Mar 11 2020 22:00:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b6/53/b653942601dffc3c9efd523082b21926.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-11",
     "color": "black"
@@ -1404,6 +1386,7 @@
     "endAt": "2020-03-12T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/96/c4/96c4b2aae81a6ad8705f19d8dbd762cd.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-12",
     "color": "#227397"
@@ -1417,6 +1400,7 @@
     "endAt": "2020-03-12T16:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/80/ad/80adbca9635b70e6c47e88b8c24372c7.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-12",
     "color": "grey"
@@ -1430,6 +1414,7 @@
     "endAt": "Thu Mar 12 2020 21:00:00 GMT+0900 (日本標準時)",
     "image": "https://cluster.mu/uploads/group_7c999e225b53d920ad1866798d/418609d9-934d-419a-934d-d81635f57f5b/02223e8a-ca54-4bf4-a32a-dcb6f2fcfb71.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-12",
     "color": "skyblue"
@@ -1443,6 +1428,7 @@
     "endAt": "2020-03-12T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/82/29/8229bf0f8af9a5479b82c4e9b6c70227.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-12",
     "color": "grey"
