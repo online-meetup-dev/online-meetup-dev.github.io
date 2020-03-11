@@ -1245,14 +1245,15 @@
     "group name": "Code for Niigata",
     "event name": "第59回 Code for Niigata 定例会",
     "url": "https://c4ngt.connpass.com/event/167482/",
-    "category": "",
+    "category": "education",
     "startAt": "2020-03-11T19:00:00+09:00",
     "endAt": "2020-03-11T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a2/1c/a21c758abba5bb9aa0b4586997815512.png",
     "hashtag": "",
     "today": true,
     "future": true,
-    "date": "2020-03-11"
+    "date": "2020-03-11",
+    "color": "#EA3718"
   },
   {
     "group name": "UX MILK",
