@@ -1228,6 +1228,33 @@
     "color": "purple"
   },
   {
+    "group name": "機械学習・深層学習（画像認識）を実践するグループ",
+    "event name": "第7回 3/11【初〜中級】機械学習・深層学習（画像認識）ハンズオン@秋葉原",
+    "url": "https://img-recog.connpass.com/event/167478/",
+    "category": "ai",
+    "startAt": "2020-03-11T19:00:00+09:00",
+    "endAt": "2020-03-11T20:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6b/c4/6bc40f1e9bb3499964034b906f01560c.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-11",
+    "color": "#2ccfc9"
+  },
+  {
+    "group name": "Code for Niigata",
+    "event name": "第59回 Code for Niigata 定例会",
+    "url": "https://c4ngt.connpass.com/event/167482/",
+    "category": "",
+    "startAt": "2020-03-11T19:00:00+09:00",
+    "endAt": "2020-03-11T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a2/1c/a21c758abba5bb9aa0b4586997815512.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-11"
+  },
+  {
     "group name": "UX MILK",
     "event name": "【オンライン】Ethical UX Workshop",
     "url": "https://uxmilk.connpass.com/event/169155/",
