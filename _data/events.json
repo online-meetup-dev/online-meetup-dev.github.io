@@ -1415,7 +1415,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4e/a9/4ea972f35f825f478928f5e8badb7128.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-12",
     "color": "#7681BC"
   },
@@ -1429,7 +1429,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3a/53/3a5392f7082cfd7a41f69161ebe83169.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-12",
     "color": "#B8D59E"
   },
@@ -1443,7 +1443,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/ad/3ead7a7950bf717c2b41a64191d219a2.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-12",
     "color": "grey"
   },
@@ -1471,7 +1471,7 @@
     "image": "https://cluster.mu/uploads/group_7c999e225b53d920ad1866798d/418609d9-934d-419a-934d-d81635f57f5b/02223e8a-ca54-4bf4-a32a-dcb6f2fcfb71.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-12",
     "color": "skyblue"
   },
