@@ -1420,6 +1420,48 @@
     "color": "#7681BC"
   },
   {
+    "group name": "Udonもくもく会",
+    "event name": "Udonもくもく会 #008",
+    "url": "https://udonmokumoku.connpass.com/event/168663/",
+    "category": "mokumoku",
+    "startAt": "2020-03-12T19:00:00+09:00",
+    "endAt": "2020-03-12T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3a/53/3a5392f7082cfd7a41f69161ebe83169.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-12",
+    "color": "#B8D59E"
+  },
+  {
+    "group name": "KumaMCN",
+    "event name": "熊本GTFS-JP活用勉強会 vol.2(オンライン開催)",
+    "url": "https://kumamcn.connpass.com/event/169877/",
+    "category": "other",
+    "startAt": "2020-03-12T19:00:00+09:00",
+    "endAt": "2020-03-12T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/ad/3ead7a7950bf717c2b41a64191d219a2.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-12",
+    "color": "grey"
+  },
+  {
+    "group name": "福山ギーク",
+    "event name": "bingo.web 4 オンライン",
+    "url": "https://fukuyamageek.connpass.com/event/170047/",
+    "category": "mokumoku",
+    "startAt": "2020-03-12T19:00:00+09:00",
+    "endAt": "2020-03-12T20:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/67/9b/679b248b46a19174bf85e0e1933a6591.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-12",
+    "color": "#B8D59E"
+  },
+  {
     "group name": "Polkadot&Substrate",
     "event name": "【オンライン@Cluster】Polkadot&Substrate ミートアップ #7",
     "url": "https://cluster.mu/events/4ed728ff-ac43-4207-bf6f-1791f4552c52",
