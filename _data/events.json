@@ -1406,6 +1406,20 @@
     "color": "grey"
   },
   {
+    "group name": "キャンプ好きエンジニアMeetup",
+    "event name": "キャンプ好きエンジニア Meetup Vol.2 (オンライン開催)",
+    "url": "https://camping-engineer.connpass.com/event/167437/",
+    "category": "life",
+    "startAt": "2020-03-12T19:00:00+09:00",
+    "endAt": "2020-03-12T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4e/a9/4ea972f35f825f478928f5e8badb7128.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-12",
+    "color": "#7681BC"
+  },
+  {
     "group name": "Polkadot&Substrate",
     "event name": "【オンライン@Cluster】Polkadot&Substrate ミートアップ #7",
     "url": "https://cluster.mu/events/4ed728ff-ac43-4207-bf6f-1791f4552c52",
