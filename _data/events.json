@@ -1105,19 +1105,6 @@
     "color": "red"
   },
   {
-    "group name": "Fin-JAWS (金融とFinTechに関するJAWS支部)",
-    "event name": "【緊急オンライン開催！】Fin-JAWS 第10回 〜金融エンジニア必見のAWS認定試験対策〜",
-    "url": "https://fin-jaws.doorkeeper.jp/events/104811",
-    "category": "aws",
-    "startAt": "2020-03-10T10:30:00.000Z",
-    "endAt": "2020-03-10T12:00:00.000Z",
-    "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/9406_normal_1509261869_logo32.JPG",
-    "hashtag": "",
-    "future": false,
-    "date": "2020-03-10",
-    "color": "#F39E21"
-  },
-  {
     "group name": "サイエンスパークの勉強会",
     "event name": "アプリからドライバまで 現役エンジニアの濃い話 #16（リモート開催）",
     "url": "https://sciencepark.connpass.com/event/169001/",
@@ -1129,6 +1116,19 @@
     "future": false,
     "date": "2020-03-10",
     "color": "grey"
+  },
+  {
+    "group name": "Fin-JAWS (金融とFinTechに関するJAWS支部)",
+    "event name": "【緊急オンライン開催！】Fin-JAWS 第10回 〜金融エンジニア必見のAWS認定試験対策〜",
+    "url": "https://fin-jaws.doorkeeper.jp/events/104811",
+    "category": "aws",
+    "startAt": "2020-03-10T10:30:00.000Z",
+    "endAt": "2020-03-10T12:00:00.000Z",
+    "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/9406_normal_1509261869_logo32.JPG",
+    "hashtag": "",
+    "future": false,
+    "date": "2020-03-10",
+    "color": "#F39E21"
   },
   {
     "group name": "金沢人工知能勉強会",
@@ -1723,6 +1723,18 @@
     "color": "grey"
   },
   {
+    "group name": "Microsoft Open Tech Night",
+    "event name": "MS Open Tech Night / Glug Tokyo - App in 1 hour",
+    "url": "https://msdevjp.connpass.com/event/159494/",
+    "category": "",
+    "startAt": "2020-03-17T19:00:00+09:00",
+    "endAt": "2020-03-17T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/09/c8/09c84bc204c64e55a4154f441fa95a3e.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-17"
+  },
+  {
     "group name": "マネーフォワードシンカ",
     "event name": "【ライブ配信にて開催】スタートアップM&A勉強会 〜Sell-Side編〜",
     "url": "https://moneyforward-synca.connpass.com/event/165958/",
@@ -1866,19 +1878,6 @@
     "color": "#2ccfc9"
   },
   {
-    "group name": "Goodpatch Inc.",
-    "event name": "カヤック×Goodpatch Anywhereオンライン勉強会~PM編~ をのぞき見しませんか？",
-    "url": "https://goodpatch.connpass.com/event/169730/",
-    "category": "pm",
-    "startAt": "Mon Mar 23 2020 19:00:00 GMT+0900 (日本標準時)",
-    "endAt": "Mon Mar 23 2020 21:00:00 GMT+0900 (日本標準時)",
-    "image": "https://online-meetup.dev/images/event.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-03-23",
-    "color": "#0C6FAC"
-  },
-  {
     "group name": "ニフクラ mobile backend",
     "event name": "Monaca + NCMBもくもく会/駆け込み寺（リモートのみ！） #17",
     "url": "https://ncmb.connpass.com/event/168631/",
@@ -1890,6 +1889,19 @@
     "future": true,
     "date": "2020-03-23",
     "color": "#B8D59E"
+  },
+  {
+    "group name": "Goodpatch Inc.",
+    "event name": "カヤック×Goodpatch Anywhereオンライン勉強会~PM編~ をのぞき見しませんか？",
+    "url": "https://goodpatch.connpass.com/event/169730/",
+    "category": "pm",
+    "startAt": "Mon Mar 23 2020 19:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Mon Mar 23 2020 21:00:00 GMT+0900 (日本標準時)",
+    "image": "https://online-meetup.dev/images/event.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-23",
+    "color": "#0C6FAC"
   },
   {
     "group name": "ワンダープラネット / WonderPlanet",
@@ -1931,19 +1943,6 @@
     "color": "#F39E21"
   },
   {
-    "group name": "JAWS-UG浜松",
-    "event name": "AWS Expert Online 8 / JAWS-UG浜松 AWS勉強会 2020#3",
-    "url": "https://jawsug-hamamatsu.doorkeeper.jp/events/104228",
-    "category": "aws",
-    "startAt": "2020-03-25T10:00:00.000Z",
-    "endAt": "2020-03-25T12:00:00.000Z",
-    "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/5668_normal_1434012043_jaws_logo_hamamatsu_2.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-03-25",
-    "color": "#F39E21"
-  },
-  {
     "group name": "株式会社ミクシィ",
     "event name": "【オンライン開催】Customer Support Tech Meetup #1",
     "url": "https://mixi.connpass.com/event/167390/",
@@ -1955,6 +1954,19 @@
     "future": true,
     "date": "2020-03-25",
     "color": "#F7A569"
+  },
+  {
+    "group name": "JAWS-UG浜松",
+    "event name": "AWS Expert Online 8 / JAWS-UG浜松 AWS勉強会 2020#3",
+    "url": "https://jawsug-hamamatsu.doorkeeper.jp/events/104228",
+    "category": "aws",
+    "startAt": "2020-03-25T10:00:00.000Z",
+    "endAt": "2020-03-25T12:00:00.000Z",
+    "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/5668_normal_1434012043_jaws_logo_hamamatsu_2.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-25",
+    "color": "#F39E21"
   },
   {
     "group name": "en-jp",
