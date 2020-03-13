@@ -1931,6 +1931,19 @@
     "color": "grey"
   },
   {
+    "group name": "Microsoft Open Tech Night",
+    "event name": "Microsoft Open Tech Night #9 w/ Elastic",
+    "url": "https://msdevjp.connpass.com/event/169431/",
+    "category": "azure",
+    "startAt": "2020-03-24T19:00:00+09:00",
+    "endAt": "2020-03-24T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/29/75/29758ae902dddf3d34cf3a63ab350d54.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-24",
+    "color": "#00ABEB"
+  },
+  {
     "group name": "JAWS-UG 金沢",
     "event name": "オンライン開催  JAWS-UG金沢 #52 AWS Expert Online AWSにおけるデータベースの選択",
     "url": "https://jawsug-kanazawa.doorkeeper.jp/events/104851",
