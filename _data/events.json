@@ -1552,6 +1552,20 @@
     "color": "#00ABEB"
   },
   {
+    "group name": "ファシリテーターズ・インタビュー",
+    "event name": "リモートでKJ法を試してみる会",
+    "url": "https://faciliview.connpass.com/event/169588/",
+    "category": "other",
+    "startAt": "2020-03-13T19:30:00+09:00",
+    "endAt": "2020-03-13T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7b/e6/7be67d91402f71c30710fab2089e9387.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-13",
+    "color": "grey"
+  },
+  {
     "group name": "VRCMeetup",
     "event name": "VRChat Meetup #4",
     "url": "https://vrcmeetup.connpass.com/event/165225/",
