@@ -1533,7 +1533,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a4/7d/a47d968c570d7c6645395f5660db5ffb.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-13",
     "color": "#71FA4C"
   },
@@ -1547,7 +1547,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c6/4d/c64d59df5cc6a7ec369f768dc93fb65a.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-13",
     "color": "#00ABEB"
   },
