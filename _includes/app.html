@@ -15,6 +15,13 @@
         colors: ['#ebedf0', '#c0ddf9', '#73b3f3', '#3886e1', '#17459e'],
       }
     });
+    $('#toggle').on('click', (e) => {
+      if ($('.past-events').css('display') === 'block') {
+        $('.past-events').addClass('hide');
+      } else {
+        $('.past-events').removeClass('hide');
+      }
+    })
     $(document).on('click', '.heat-domain rect', (e) => {
       const date = $(e.target).data('date');
       for (let event of $('.event')) {

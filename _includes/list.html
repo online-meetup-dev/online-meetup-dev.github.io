@@ -17,15 +17,15 @@
               {% endif %}
               <div class="panel-body">
                 <h3 class="panel-title">{{ event['event name'] }}</h3>
-                <span class="post-meta"><small>
+                <div class="post-meta"><small>
                   {% assign startDate = event.startAt | date: "%Y/%m/%d" %}
                   {% assign endDate = event.endAt | date: "%Y/%m/%d" %}
                   {% if startDate == endDate %}
                     {{ event.startAt | date: "%m/%d %H:%M" }} 〜 {{ event.endAt | date: "%H:%M" }}
                   {% else %}
-                    {{ event.startAt | date: "%m/%d %H:%M" }} 〜<br /> {{ event.endAt | date: "%m/%d %H:%M" }}
+                    {{ event.startAt | date: "%m/%d %H:%M" }} 〜 {{ event.endAt | date: "%m/%d %H:%M" }}
                   {% endif %}
-                </small></span>
+                </small></div>
               </div>
               
               <div class="panel-body"><small>

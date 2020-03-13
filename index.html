@@ -21,9 +21,9 @@ layout: default
     </div> 
     <div class="row">
       <div class="col-md-12">
-        <h4>過去のイベント</h4>
+        <h4>過去のイベント <span id="toggle">表示する</span></h4>
       </div>
-      <div class="row">
+      <div class="row hide past-events">
         {% assign pasts = site.data.events | where: "future", false %}
         {% include list.html events=pasts %}
       </div>
