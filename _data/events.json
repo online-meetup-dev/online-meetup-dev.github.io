@@ -2061,16 +2061,30 @@
     "color": "blue"
   },
   {
+    "group name": "NoCoders JAPAN",
+    "event name": "【全国初大規模オンライン】NoCoders Meetup #2",
+    "url": "https://nocoders-japan.connpass.com/event/167872/",
+    "category": "other",
+    "startAt": "2020-03-28T14:00:00+09:00",
+    "endAt": "2020-03-28T17:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ba/b4/bab461d16105861324eb75ec9fac9bc5.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-28",
+    "color": "grey"
+  },
+  {
     "group name": "PeerQuest",
     "event name": "【開発PM勉強会vol.1 オンライン】プロジェクトマネジメントLT & meet up",
     "url": "https://peer-quest.connpass.com/event/170615/",
-    "category": "",
+    "category": "pm",
     "startAt": "2020-03-30T20:00:00+09:00",
     "endAt": "2020-03-30T22:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/bd/82/bd823bb2d8aedf0693f4dd373c19d32a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-30"
+    "date": "2020-03-30",
+    "color": "#0C6FAC"
   },
   {
     "group name": "Tokyo WordPress Meetup",
