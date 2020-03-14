@@ -1596,7 +1596,7 @@
     "image": "https://jawsdays2020.jaws-ug.jp/wp-content/uploads/2020/02/cropped-jawsdays2020_online_cover.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-14",
     "color": "#F39E21"
   },
@@ -1610,7 +1610,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/73/db/73db80359e9ead477f83eba933db3451.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-14",
     "color": "#B8D59E"
   },
