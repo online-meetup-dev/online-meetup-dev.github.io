@@ -2135,5 +2135,17 @@
     "future": true,
     "date": "2020-04-06",
     "color": "#F2CB61"
+  },
+  {
+    "group name": "Scala関西勉強会",
+    "event name": "【オンライン開催】04/14(火) Scala関西勉強会 - 2020年04月版",
+    "url": "https://connpass.com/event/163551/",
+    "category": "scala",
+    "startAt": "2020-04-14T19:00:00+09:00",
+    "endAt": "2020-04-14T21:10:00+09:00",
+    "image": "https://online-meetup.dev/images/event.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-14"
   }
 ]
