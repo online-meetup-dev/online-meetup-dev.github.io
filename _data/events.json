@@ -1643,6 +1643,33 @@
     "color": "skyblue"
   },
   {
+    "group name": "「プロフェッショナルIPv6」読書会",
+    "event name": "「プロフェッショナルIPv6」読書会(2)",
+    "url": "https://read-ipv6.connpass.com/event/170160/",
+    "category": "book",
+    "startAt": "2020-03-14T19:30:00+09:00",
+    "endAt": "2020-03-14T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/34/71/3471a09ebd4a2228c3382d5d7e676f87.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-14",
+    "color": "#B2834C"
+  },
+  {
+    "group name": "オンラインもくもく",
+    "event name": "オンラインもくもく会#30",
+    "url": "https://online-mokumoku.connpass.com/event/169489/",
+    "category": "mokumoku",
+    "startAt": "2020-03-15T07:30:00+09:00",
+    "endAt": "2020-03-15T09:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ea/99/ea99952f87ef74625bf2a795826805a3.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-15",
+    "color": "#B8D59E"
+  },
+  {
     "group name": "SAMIT",
     "event name": "SAMIT Online! 20.03",
     "url": "https://samit.connpass.com/event/169421/",
