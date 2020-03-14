@@ -1878,6 +1878,19 @@
     "color": "#B8D59E"
   },
   {
+    "group name": "岡山Unity勉強会",
+    "event name": "第62回 ゆるもく勉強会 in オンライン（VRC+Discord）",
+    "url": "https://okauni.connpass.com/event/170837/",
+    "category": "unity",
+    "startAt": "2020-03-21T13:10:00+09:00",
+    "endAt": "2020-03-21T18:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5e/91/5e91341d424b4dccf0ce4e93b786a008.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-21",
+    "color": "#000000"
+  },
+  {
     "group name": "NVIDIA",
     "event name": "GTC 2020",
     "url": "https://www.nvidia.com/en-us/gtc/",
