@@ -2146,6 +2146,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-04-14"
+    "date": "2020-04-14",
+    "color": "#BB1904"
   }
 ]
