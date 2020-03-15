@@ -1833,6 +1833,34 @@
     "color": "grey"
   },
   {
+    "group name": "GoNativeCode - 「connpassに、まだないイベントをつくろう！」",
+    "event name": "【生配信】#中途半端エンジニアと繋がりたい #1",
+    "url": "https://gonativecode.connpass.com/event/169632/",
+    "category": "life",
+    "startAt": "2020-03-15T19:00:00+09:00",
+    "endAt": "2020-03-15T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e8/1e/e81e1838a4cae965557dec57c3da1dc5.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-15",
+    "color": "#7681BC"
+  },
+  {
+    "group name": "Salesforce International Technical Community",
+    "event name": "第2回 Salesforce International Technical Community",
+    "url": "https://sitc.connpass.com/event/169638/",
+    "category": "salesforce",
+    "startAt": "2020-03-15T19:00:00+09:00",
+    "endAt": "2020-03-15T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cd/1c/cd1c4e5d05e5dc790b22c5010668d092.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-15",
+    "color": "#2695DD"
+  },
+  {
     "group name": "Authlete, Inc.",
     "event name": "（オンライン開催）OAuth & OIDC 勉強会 リターンズ【入門編】",
     "url": "https://authlete.connpass.com/event/166482/",
