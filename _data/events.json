@@ -1710,14 +1710,29 @@
     "group name": "CoderDojo瑞穂",
     "event name": "第34回CoderDojo瑞穂 [オンライン]",
     "url": "https://coderdojo-mizuho.connpass.com/event/170207/",
-    "category": "",
+    "category": "coderdojo",
     "startAt": "2020-03-15T10:00:00+09:00",
     "endAt": "2020-03-15T12:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/23/e9/23e97cdc96ef7bfcc077dea1998d30c6.png",
     "hashtag": "",
     "today": true,
     "future": true,
-    "date": "2020-03-15"
+    "date": "2020-03-15",
+    "color": "#2175C9"
+  },
+  {
+    "group name": "GDG Shikoku",
+    "event name": "【オンライン】Firebase ハンズオン in 徳島",
+    "url": "https://gdgshikoku.connpass.com/event/167639/",
+    "category": "gcp",
+    "startAt": "2020-03-15T13:00:00+09:00",
+    "endAt": "2020-03-15T17:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/83/99/839907ba2b680e01c57d1d2c14950956.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-15",
+    "color": "#EA4335"
   },
   {
     "group name": "Challenge！スマホアプリ開発勉強会",
