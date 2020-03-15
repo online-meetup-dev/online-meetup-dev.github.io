@@ -1735,6 +1735,34 @@
     "color": "#EA4335"
   },
   {
+    "group name": "getfem-jp",
+    "event name": "GetFEM++Hack-a-thon 2020.03(オンライン開催)",
+    "url": "https://getfem-jp.connpass.com/event/168866/",
+    "category": "hackathon",
+    "startAt": "2020-03-15T13:00:00+09:00",
+    "endAt": "2020-03-15T18:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/bb/c4/bbc4adfba2ab95cf49e82e62e0f20c2a.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-15",
+    "color": "#009688"
+  },
+  {
+    "group name": "CoderDojo名古屋",
+    "event name": "第105回CoderDojo名古屋 オンライン開催",
+    "url": "https://coderdojo-nagoya.connpass.com/event/170491/",
+    "category": "coderdojo",
+    "startAt": "2020-03-15T13:30:00+09:00",
+    "endAt": "2020-03-15T16:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/18/73/1873934820cc98d329b262bdf1e728c9.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-15",
+    "color": "#2175C9"
+  },
+  {
     "group name": "Challenge！スマホアプリ開発勉強会",
     "event name": "Challenge！スマホアプリ開発勉強会Vol.5（オンライン開催）",
     "url": "https://challenge-smartphone-app.connpass.com/event/169301/",
