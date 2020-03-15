@@ -1679,6 +1679,19 @@
     "color": "grey"
   },
   {
+    "group name": "Zenshin.web",
+    "event name": "オブジェクト指向設計実践ガイド輪読会 #1",
+    "url": "https://zenshin-web.connpass.com/event/169625/",
+    "category": "",
+    "startAt": "2020-03-15T10:00:00+09:00",
+    "endAt": "2020-03-15T13:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/64/0b/640bcb8ae8bb7c9a4ed94af3153a6da5.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-15"
+  },
+  {
     "group name": "Challenge！スマホアプリ開発勉強会",
     "event name": "Challenge！スマホアプリ開発勉強会Vol.5（オンライン開催）",
     "url": "https://challenge-smartphone-app.connpass.com/event/169301/",
