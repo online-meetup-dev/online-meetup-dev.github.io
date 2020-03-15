@@ -1777,6 +1777,20 @@
     "color": "#18B83F"
   },
   {
+    "group name": "Adobe XD ユーザーグループ広島",
+    "event name": "Adobe XD ユーザーグループ広島 vol.5 - Online",
+    "url": "https://xdug-hiroshima.connpass.com/event/169711/",
+    "category": "adobe",
+    "startAt": "2020-03-15T14:00:00+09:00",
+    "endAt": "2020-03-15T16:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3c/ff/3cfff947510476ec45afa0c023b4b963.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-15",
+    "color": "#FF2AC2"
+  },
+  {
     "group name": "三宮.dev",
     "event name": "【三宮.dev】初・オンライン勉強会（お試し）",
     "url": "https://kobe-sannomiya-dev.connpass.com/event/169133/",
@@ -1789,6 +1803,20 @@
     "future": true,
     "date": "2020-03-15",
     "color": "grey"
+  },
+  {
+    "group name": "CoderDojo名護・やんばる",
+    "event name": "＜オンライン＞Minecraft Meeting（マインクラフト作品発表会）",
+    "url": "https://coderdojo-nago.connpass.com/event/170691/",
+    "category": "coderdojo",
+    "startAt": "2020-03-15T15:00:00+09:00",
+    "endAt": "2020-03-15T16:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/02/1c/021cd960a59c0f9a8393c805ff1dc701.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-15",
+    "color": "#2175C9"
   },
   {
     "group name": "DDD-Community-Jp",
