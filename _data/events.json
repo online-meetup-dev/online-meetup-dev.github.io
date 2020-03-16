@@ -1846,6 +1846,19 @@
     "color": "#2695DD"
   },
   {
+    "group name": "私達のオンライン天文学会",
+    "event name": "私達のオンライン天文学会",
+    "url": "https://connpass.com/event/169450/",
+    "category": "",
+    "startAt": "2020-03-16T14:00:00+09:00",
+    "endAt": "2020-03-16T15:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/42/4b/424bca19e7def2858a990bea905ce310.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-16"
+  },
+  {
     "group name": "Authlete, Inc.",
     "event name": "（オンライン開催）OAuth & OIDC 勉強会 リターンズ【入門編】",
     "url": "https://authlete.connpass.com/event/166482/",
