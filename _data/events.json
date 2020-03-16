@@ -1898,6 +1898,32 @@
     "date": "2020-03-16"
   },
   {
+    "group name": "PyCon JP スタッフ",
+    "event name": "[PyCon JP 2020] 運営経験者へのスタッフ相談会",
+    "url": "https://pyconjp-staff.connpass.com/event/170838/",
+    "category": "",
+    "startAt": "2020-03-16T20:00:00+09:00",
+    "endAt": "2020-03-16T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c4/03/c4035d78d7f71197debe943dd950bd42.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-16"
+  },
+  {
+    "group name": "オンライン読書会「15Stepで習得 Dockerから入るKubernetes」#7",
+    "event name": "オンライン読書会「15Stepで習得 Dockerから入るKubernetes」#7",
+    "url": "https://connpass.com/event/162232/",
+    "category": "",
+    "startAt": "2020-03-16T21:00:00+09:00",
+    "endAt": "2020-03-16T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a8/c4/a8c49eefc08d31854f5f6bf6848b6ea7.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-16"
+  },
+  {
     "group name": "Authlete, Inc.",
     "event name": "（オンライン開催）OAuth & OIDC 勉強会 リターンズ【入門編】",
     "url": "https://authlete.connpass.com/event/166482/",
