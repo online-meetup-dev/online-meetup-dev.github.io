@@ -2311,13 +2311,14 @@
     "group name": "Vektor,Inc. Web Solutions",
     "event name": "Lightning オンライン勉強会 #008 新ver解説&事例発表&WP5.4レビュー等",
     "url": "https://vektor.connpass.com/event/170952/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-26T19:30:00+09:00",
     "endAt": "2020-03-26T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a9/78/a9788e73513fb80f522531d1e22eccb0.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-26"
+    "date": "2020-03-26",
+    "color": "grey"
   },
   {
     "group name": "TJBotFan",
@@ -2427,13 +2428,14 @@
     "group name": "【オンライン開催】P4 勉強会+ハンズオン",
     "event name": "【オンライン開催】P4 勉強会+ハンズオン",
     "url": "https://connpass.com/event/169556/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-04-13T13:10:00+09:00",
     "endAt": "2020-04-13T17:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/85/cb/85cbeff57da908e4bd0ec126622274bd.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-04-13"
+    "date": "2020-04-13",
+    "color": "grey"
   },
   {
     "group name": "Scala関西勉強会",
