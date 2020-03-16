@@ -2087,16 +2087,17 @@
     "color": "#2c3e50"
   },
   {
-    "group name": "",
-    "event name": "",
-    "url": "",
-    "category": "",
+    "group name": "Kanazawa.rb Meetup",
+    "event name": "meetup #91",
+    "url": "https://meetup.kzrb.org/91/",
+    "category": "ruby",
     "startAt": "Sat Mar 21 2020 13:00:00 GMT+0900 (日本標準時)",
     "endAt": "Sat Mar 21 2020 17:00:00 GMT+0900 (日本標準時)",
-    "image": "",
+    "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-21"
+    "date": "2020-03-21",
+    "color": "#701516"
   },
   {
     "group name": "フロントエンド四国もくもく勉強会",
