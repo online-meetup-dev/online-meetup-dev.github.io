@@ -2399,6 +2399,19 @@
     "color": "#0C6FAC"
   },
   {
+    "group name": "Monaca UG",
+    "event name": "Monaca UG ONLINE #1 〜 集まれMonaca ユーザー! 〜",
+    "url": "https://monacaug.connpass.com/event/170995/",
+    "category": "web",
+    "startAt": "2020-04-02T19:30:00+09:00",
+    "endAt": "2020-04-02T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/38/e6/38e6bea2c312984c8808650b3f9d3c7a.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-02",
+    "color": "skyblue"
+  },
+  {
     "group name": "Tokyo WordPress Meetup",
     "event name": "Tokyo WordPress Meetup オンライン- バージョン 5.4 ブロックエディターの主な変更点",
     "url": "https://www.meetup.com/ja-JP/Tokyo-WordPress-Meetup/events/269299922/",
