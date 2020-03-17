@@ -1,18 +1,5 @@
 [
   {
-    "group name": "DevRel Meetup in Tokyo",
-    "event name": "DevRel Meetup in Tokyo #51 〜DevRelファーストステップ〜",
-    "url": "https://devrel.connpass.com/event/171150/",
-    "category": "devrel",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "hashtag": "",
-    "future": false,
-    "date": "NaN-aN-aN",
-    "color": "#147d3c"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -2657,6 +2644,19 @@
     "hashtag": "",
     "future": true,
     "date": "2020-03-31"
+  },
+  {
+    "group name": "DevRel Meetup in Tokyo",
+    "event name": "DevRel Meetup in Tokyo #51 〜DevRelファーストステップ〜",
+    "url": "https://devrel.connpass.com/event/171150/",
+    "category": "devrel",
+    "startAt": "2020-04-01T19:00:00+09:00",
+    "endAt": "2020-04-01T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d8/a3/d8a3e8722541a979e340f9ad8309d567.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-01",
+    "color": "#147d3c"
   },
   {
     "group name": "Monaca UG",
