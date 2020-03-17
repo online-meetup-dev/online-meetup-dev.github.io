@@ -2527,6 +2527,18 @@
     "color": "#FFE39E"
   },
   {
+    "group name": "React Native Tech Blog",
+    "event name": "[オンラインイベント]【第２回】React Native Tech Blog",
+    "url": "https://ducklings.connpass.com/event/169637/",
+    "category": "",
+    "startAt": "2020-03-25T19:30:00+09:00",
+    "endAt": "2020-03-25T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6f/d1/6fd111cd676767a0bf96c3a369f3c785.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-25"
+  },
+  {
     "group name": "Kubernetes Meetup Tokyo",
     "event name": "Kubernetes Meetup Tokyo #29 Cluster Upgrade 編",
     "url": "https://k8sjp.connpass.com/event/170099/",
