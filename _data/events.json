@@ -1974,7 +1974,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/05/fd/05fd197835dd517cda1dcf6d417bb685.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-17",
     "color": "grey"
   },
