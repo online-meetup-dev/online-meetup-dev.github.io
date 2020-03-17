@@ -2396,6 +2396,18 @@
     "color": "#0C6FAC"
   },
   {
+    "group name": "VOYAGE GROUP",
+    "event name": "【オンライン勉強会】エンジニア学生向け「リレーショナルデータベースの必須技術「正規化」勉強会」",
+    "url": "",
+    "category": "database",
+    "startAt": "Tue Mar 31 2020 19:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Tue Mar 31 2020 20:00:00 GMT+0900 (日本標準時)",
+    "image": "",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-31"
+  },
+  {
     "group name": "Monaca UG",
     "event name": "Monaca UG ONLINE #1 〜 集まれMonaca ユーザー! 〜",
     "url": "https://monacaug.connpass.com/event/170995/",
