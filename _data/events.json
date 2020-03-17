@@ -2189,6 +2189,55 @@
     "date": "2020-03-17"
   },
   {
+    "group name": "るりまレビュー会",
+    "event name": "るりまレビュー会 2020-03-17",
+    "url": "https://rurema-review.connpass.com/event/170493/",
+    "category": "",
+    "startAt": "2020-03-17T20:00:00+09:00",
+    "endAt": "2020-03-17T21:00:00+09:00",
+    "image": "https://online-meetup.dev/images/event.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-17"
+  },
+  {
+    "group name": "Nomadineers",
+    "event name": "Nomadineers Online Learning #1",
+    "url": "https://traveling-engineer.connpass.com/event/170619/",
+    "category": "",
+    "startAt": "2020-03-18T10:00:00+09:00",
+    "endAt": "2020-03-18T11:00:00+09:00",
+    "image": "https://online-meetup.dev/images/event.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-18"
+  },
+  {
+    "group name": "IBM Developer Dojo",
+    "event name": "【オンライン】IBM Dojo #10 Watson Discovery を使ったAI検索体験",
+    "url": "https://ibm-developer.connpass.com/event/159898/",
+    "category": "",
+    "startAt": "2020-03-18T14:00:00+09:00",
+    "endAt": "2020-03-18T15:15:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/82/32/82320fc5c00d84152b47262a9acd7602.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-18"
+  },
+  {
+    "group name": "バーチャルコワーキングスペース",
+    "event name": "バーチャルOSSもくもく会(Skype、Zoom上）",
+    "url": "https://virtualcoworkingspace.connpass.com/event/171002/",
+    "category": "",
+    "startAt": "2020-03-18T14:30:00+09:00",
+    "endAt": "2020-03-18T16:30:00+09:00",
+    "image": "https://online-meetup.dev/images/event.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-18"
+  },
+  {
     "group name": "UIT",
     "event name": "UIT meetup vol.8 online「We Are TypeScripters!」",
     "url": "https://uit.connpass.com/event/161964/",
