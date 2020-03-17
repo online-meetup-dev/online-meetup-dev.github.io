@@ -2058,7 +2058,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ad/1d/ad1d5fefbd159a056e81c29de5b4d6a8.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-17",
     "color": "grey"
   },
