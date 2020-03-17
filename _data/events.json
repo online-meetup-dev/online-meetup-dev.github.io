@@ -1988,7 +1988,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c3/de/c3de3800527386acc3c53d9bdd48a934.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-17",
     "color": "black"
   },
@@ -2016,7 +2016,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-17",
     "color": "grey"
   },
@@ -2044,7 +2044,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/95/c3/95c399d551be421bcba8c429dfde480b.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-17",
     "color": "#B2834C"
   },
@@ -2072,7 +2072,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/56/4a/564a510337f99099e7727bf3692b7a73.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-17",
     "color": "skyblue"
   },
@@ -2086,7 +2086,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ff/7a/ff7a059f9d115a80546bcbdc2d920be8.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-17",
     "color": "grey"
   },
@@ -2100,7 +2100,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/49/ef/49ef2a8d851ceda209544d773853ecf3.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-17",
     "color": "#F39E21"
   },
@@ -2114,7 +2114,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-17",
     "color": "#701516"
   },
@@ -2142,7 +2142,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/71/9e/719e922d5c7da7a4ae62e697bbf32ffc.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-17",
     "color": "#7681BC"
   },
@@ -2184,7 +2184,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-17",
     "color": "#701516"
   },
