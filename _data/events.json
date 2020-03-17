@@ -1937,6 +1937,19 @@
     "color": "#B2834C"
   },
   {
+    "group name": "BPStudy",
+    "event name": "BPLL #43",
+    "url": "https://bpstudy.connpass.com/event/168233/",
+    "category": "",
+    "startAt": "2020-03-17T12:10:00+09:00",
+    "endAt": "2020-03-17T13:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b2/d0/b2d0db7325e75713c3bb8b41340850c4.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-17"
+  },
+  {
     "group name": "Authlete, Inc.",
     "event name": "（オンライン開催）OAuth & OIDC 勉強会 リターンズ【入門編】",
     "url": "https://authlete.connpass.com/event/166482/",
