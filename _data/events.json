@@ -1967,27 +1967,29 @@
     "group name": "DeNA Tech",
     "event name": "[ライブ配信]DeNA.apk #2【カンファレンス中止でも登壇はしたい】Day2",
     "url": "https://dena.connpass.com/event/169895/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-17T18:00:00+09:00",
     "endAt": "2020-03-17T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/05/fd/05fd197835dd517cda1dcf6d417bb685.png",
     "hashtag": "",
     "today": true,
     "future": true,
-    "date": "2020-03-17"
+    "date": "2020-03-17",
+    "color": "grey"
   },
   {
     "group name": "Ansible ユーザー会",
     "event name": "【リモート開催】Ansibleもくもく会 （サーバ編 & NW編）2020.03",
     "url": "https://ansible-users.connpass.com/event/170103/",
-    "category": "",
+    "category": "server",
     "startAt": "2020-03-17T18:00:00+09:00",
     "endAt": "2020-03-17T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c3/de/c3de3800527386acc3c53d9bdd48a934.png",
     "hashtag": "",
     "today": true,
     "future": true,
-    "date": "2020-03-17"
+    "date": "2020-03-17",
+    "color": "black"
   },
   {
     "group name": "Authlete, Inc.",
@@ -2007,14 +2009,15 @@
     "group name": "Authlete, Inc.",
     "event name": "（オンライン開催）OAuth & OIDC 勉強会 リターンズ【入門編】",
     "url": "https://authlete.connpass.com/event/166482/",
-    "category": "",
+    "category": "auth",
     "startAt": "2020-03-17T18:30:00+09:00",
     "endAt": "2020-03-17T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b0/32/b032d5d3f66454ea38c3927cdf133ccd.png",
     "hashtag": "",
     "today": true,
     "future": true,
-    "date": "2020-03-17"
+    "date": "2020-03-17",
+    "color": "#84ABBC"
   },
   {
     "group name": "Observability",
