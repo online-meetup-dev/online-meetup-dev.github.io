@@ -2004,6 +2004,19 @@
     "color": "#84ABBC"
   },
   {
+    "group name": "Authlete, Inc.",
+    "event name": "（オンライン開催）OAuth & OIDC 勉強会 リターンズ【入門編】",
+    "url": "https://authlete.connpass.com/event/166482/",
+    "category": "",
+    "startAt": "2020-03-17T18:30:00+09:00",
+    "endAt": "2020-03-17T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b0/32/b032d5d3f66454ea38c3927cdf133ccd.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-17"
+  },
+  {
     "group name": "Observability",
     "event name": "Observability Japan Online",
     "url": "https://observability.connpass.com/event/168837/",
@@ -2030,6 +2043,71 @@
     "future": true,
     "date": "2020-03-17",
     "color": "#000000"
+  },
+  {
+    "group name": "Microsoft Open Tech Night",
+    "event name": "MS Open Tech Night / Glug Tokyo - App in 1 hour",
+    "url": "https://msdevjp.connpass.com/event/159494/",
+    "category": "",
+    "startAt": "2020-03-17T19:00:00+09:00",
+    "endAt": "2020-03-17T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/09/c8/09c84bc204c64e55a4154f441fa95a3e.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-17"
+  },
+  {
+    "group name": "アジャイルプロセス協議会",
+    "event name": "アジャイルコーチング読書会 第16回（リモート開催）",
+    "url": "https://agileprocess.connpass.com/event/168212/",
+    "category": "",
+    "startAt": "2020-03-17T19:00:00+09:00",
+    "endAt": "2020-03-17T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/95/c3/95c399d551be421bcba8c429dfde480b.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-17"
+  },
+  {
+    "group name": "GeekHub",
+    "event name": "3/17(火) LT Party  presented by GeekHub (オンライン)",
+    "url": "https://geekhub.connpass.com/event/168221/",
+    "category": "",
+    "startAt": "2020-03-17T19:00:00+09:00",
+    "endAt": "2020-03-17T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ad/1d/ad1d5fefbd159a056e81c29de5b4d6a8.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-17"
+  },
+  {
+    "group name": "PlayCanvasMeetup",
+    "event name": "【オンライン】建築×PlayCanvas! 仮想万博作りたい人向けハンズオン",
+    "url": "https://playcanvasjp.connpass.com/event/168497/",
+    "category": "",
+    "startAt": "2020-03-17T19:00:00+09:00",
+    "endAt": "2020-03-17T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/56/4a/564a510337f99099e7727bf3692b7a73.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-17"
+  },
+  {
+    "group name": "Observability",
+    "event name": "Observability Japan Online #1",
+    "url": "https://observability.connpass.com/event/168837/",
+    "category": "",
+    "startAt": "2020-03-17T19:00:00+09:00",
+    "endAt": "2020-03-17T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ff/7a/ff7a059f9d115a80546bcbdc2d920be8.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-17"
   },
   {
     "group name": "マネーフォワードシンカ",
