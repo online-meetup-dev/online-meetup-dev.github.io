@@ -1,5 +1,18 @@
 [
   {
+    "group name": "DevRel Meetup in Tokyo",
+    "event name": "DevRel Meetup in Tokyo #51 〜DevRelファーストステップ〜",
+    "url": "https://devrel.connpass.com/event/171150/",
+    "category": "devrel",
+    "startAt": "",
+    "endAt": "",
+    "image": "",
+    "hashtag": "",
+    "future": false,
+    "date": "NaN-aN-aN",
+    "color": "#147d3c"
+  },
+  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -2520,13 +2533,14 @@
     "group name": "React Native Tech Blog",
     "event name": "[オンラインイベント]【第２回】React Native Tech Blog",
     "url": "https://ducklings.connpass.com/event/169637/",
-    "category": "",
+    "category": "mobile",
     "startAt": "2020-03-25T19:30:00+09:00",
     "endAt": "2020-03-25T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6f/d1/6fd111cd676767a0bf96c3a369f3c785.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-25"
+    "date": "2020-03-25",
+    "color": "#18B83F"
   },
   {
     "group name": "Kubernetes Meetup Tokyo",
