@@ -2110,6 +2110,58 @@
     "date": "2020-03-17"
   },
   {
+    "group name": "ATLabo（先端技術研究会）",
+    "event name": "【オンライン】Amazon Connectで自動応答電話番をつくろう！",
+    "url": "https://atlabo.connpass.com/event/169344/",
+    "category": "",
+    "startAt": "2020-03-17T19:00:00+09:00",
+    "endAt": "2020-03-17T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/49/ef/49ef2a8d851ceda209544d773853ecf3.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-17"
+  },
+  {
+    "group name": "Hamada.rb",
+    "event name": "Hamada.rb #7",
+    "url": "https://hamadarb.connpass.com/event/169584/",
+    "category": "",
+    "startAt": "2020-03-17T19:00:00+09:00",
+    "endAt": "2020-03-17T21:00:00+09:00",
+    "image": "https://online-meetup.dev/images/event.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-17"
+  },
+  {
+    "group name": "eLV",
+    "event name": "【オンライン開催】苦悶式　夜のひみつトレーニング〜こっそり目指せエンジニア",
+    "url": "https://elv.connpass.com/event/170459/",
+    "category": "",
+    "startAt": "2020-03-17T19:00:00+09:00",
+    "endAt": "2020-03-17T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a1/3c/a13ccc38cc4e79aa50e32ba1e215776d.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-17"
+  },
+  {
+    "group name": "プログラミング未経験者勉強会",
+    "event name": "プログラミング未経験者勉強会",
+    "url": "https://connpass.com/event/170942/",
+    "category": "",
+    "startAt": "2020-03-17T19:00:00+09:00",
+    "endAt": "2020-03-17T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/71/9e/719e922d5c7da7a4ae62e697bbf32ffc.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-17"
+  },
+  {
     "group name": "マネーフォワードシンカ",
     "event name": "【ライブ配信にて開催】スタートアップM&A勉強会 〜Sell-Side編〜",
     "url": "https://moneyforward-synca.connpass.com/event/165958/",
@@ -2122,6 +2174,19 @@
     "future": true,
     "date": "2020-03-17",
     "color": "grey"
+  },
+  {
+    "group name": "Shinjuku.ex",
+    "event name": "Shinjuku.ex #16",
+    "url": "https://shinjukuex.connpass.com/event/165608/",
+    "category": "",
+    "startAt": "2020-03-17T19:15:00+09:00",
+    "endAt": "2020-03-17T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e6/a3/e6a35bd69a57d433bd7903cf08c7d526.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-17"
   },
   {
     "group name": "UIT",
