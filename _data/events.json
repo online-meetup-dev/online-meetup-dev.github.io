@@ -2213,6 +2213,19 @@
     "color": "#B8D59E"
   },
   {
+    "group name": "CS HACK",
+    "event name": "【オンライン+無料開催】第四回 カスタマーサクセス天下一武闘会〜超越〜 - CS HACK #42",
+    "url": "https://cshack.connpass.com/event/167495/",
+    "category": "",
+    "startAt": "2020-03-18T18:30:00+09:00",
+    "endAt": "2020-03-18T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/80/f5/80f5334b61f351a51cc034031e8ba355.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-18"
+  },
+  {
     "group name": "UIT",
     "event name": "UIT meetup vol.8 online「We Are TypeScripters!」",
     "url": "https://uit.connpass.com/event/161964/",
@@ -2239,6 +2252,58 @@
     "future": true,
     "date": "2020-03-18",
     "color": "skyblue"
+  },
+  {
+    "group name": "【オンライン開催！】Chatwork Café【開催日変更】",
+    "event name": "【オンライン開催！】Chatwork Café【開催日変更】",
+    "url": "https://connpass.com/event/162987/",
+    "category": "",
+    "startAt": "2020-03-18T19:00:00+09:00",
+    "endAt": "2020-03-18T20:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/74/3e/743ea3005b56dab4dfe5f56323f31373.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-18"
+  },
+  {
+    "group name": "Code for Kitakyushu",
+    "event name": "大人の学校（MBA）～グロービスって食べれるの？～／今こそ聞きたい開発環境（実践編）",
+    "url": "https://code4kitakyushu.connpass.com/event/169850/",
+    "category": "",
+    "startAt": "2020-03-18T19:00:00+09:00",
+    "endAt": "2020-03-18T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0c/ec/0cec4d502e4485b1fc726253fb1490b1.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-18"
+  },
+  {
+    "group name": "LINE Developer Group Kyushu",
+    "event name": "[九州]  LDGQオンラインハンズオン - (LINE × Cloud9 × Chalice) -",
+    "url": "https://linedevkyushu.connpass.com/event/170380/",
+    "category": "",
+    "startAt": "2020-03-18T19:00:00+09:00",
+    "endAt": "2020-03-18T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/84/d9/84d9a48f90520780d27d9901283fa361.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-18"
+  },
+  {
+    "group name": "ポップインサイト～\"アジャイルUXリサーチ\"を始めよう！",
+    "event name": "実践企業に学ぶ！フルリモートワーク型アジャイル開発のコツ",
+    "url": "https://popinsight.connpass.com/event/170501/",
+    "category": "",
+    "startAt": "2020-03-18T19:00:00+09:00",
+    "endAt": "2020-03-18T20:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f4/35/f4353748387443a31278e751cbdd15bd.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-03-18"
   },
   {
     "group name": "IoT縛りの勉強会\u0010! IoTLT",
