@@ -2216,14 +2216,15 @@
     "group name": "CS HACK",
     "event name": "【オンライン+無料開催】第四回 カスタマーサクセス天下一武闘会〜超越〜 - CS HACK #42",
     "url": "https://cshack.connpass.com/event/167495/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-18T18:30:00+09:00",
     "endAt": "2020-03-18T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/80/f5/80f5334b61f351a51cc034031e8ba355.png",
     "hashtag": "",
     "today": true,
     "future": true,
-    "date": "2020-03-18"
+    "date": "2020-03-18",
+    "color": "grey"
   },
   {
     "group name": "UIT",
@@ -2703,181 +2704,196 @@
     "group name": "【オンライン】のんびりもくもく会",
     "event name": "【オンライン】のんびりもくもく会",
     "url": "https://connpass.com/event/171001/",
-    "category": "",
+    "category": "mokumoku",
     "startAt": "2020-03-20T13:00:00+09:00",
     "endAt": "2020-03-20T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1f/2c/1f2c28b45c78e1742dada19f6ea0dd16.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-20"
+    "date": "2020-03-20",
+    "color": "#B8D59E"
   },
   {
     "group name": "ふくもく会",
     "event name": "ふくもく会 その62　〜フークモークオンライン〜",
     "url": "https://fukumoku.connpass.com/event/170292/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-20T13:30:00+09:00",
     "endAt": "2020-03-20T17:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/14/fd/14fddf6c3147ad2ea6640fa38d65e91a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-20"
+    "date": "2020-03-20",
+    "color": "grey"
   },
   {
     "group name": "CoderDojo Nada",
     "event name": "第25回 CoderDojo Nada(灘)（オンライン会場）【忍者募集】",
     "url": "https://coderdojo-nada.connpass.com/event/167293/",
-    "category": "",
+    "category": "coderdojo",
     "startAt": "2020-03-20T14:00:00+09:00",
     "endAt": "2020-03-20T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8c/91/8c91ddd29eccb32e9709d15689cb902f.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-20"
+    "date": "2020-03-20",
+    "color": "#2175C9"
   },
   {
     "group name": "CoderDojo Nada",
     "event name": "第25回 CoderDojo Nada(灘)(オンライン会場)【メンター募集】",
     "url": "https://coderdojo-nada.connpass.com/event/167876/",
-    "category": "",
+    "category": "coderdojo",
     "startAt": "2020-03-20T14:00:00+09:00",
     "endAt": "2020-03-20T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0a/c1/0ac1ff93b8612badca4ce1755c8808ca.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-20"
+    "date": "2020-03-20",
+    "color": "#2175C9"
   },
   {
     "group name": "ARコンテンツ作成勉強会",
     "event name": "#02 three.js 基本サンプルお試し&自習会 【オンライン開催】",
     "url": "https://xr-fukuoka.connpass.com/event/170698/",
-    "category": "",
+    "category": "web",
     "startAt": "2020-03-20T14:00:00+09:00",
     "endAt": "2020-03-20T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/32/64/32645bc4fa7c8c4fae6eeebda5407dd1.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-20"
+    "date": "2020-03-20",
+    "color": "skyblue"
   },
   {
     "group name": "PyData Osaka",
     "event name": "PyData Osaka Meetup #14 （オンラインもくもく会）",
     "url": "https://pydataosaka.connpass.com/event/170900/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-03-20T14:00:00+09:00",
     "endAt": "2020-03-20T16:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-20"
+    "date": "2020-03-20",
+    "color": "purple"
   },
   {
     "group name": "高校生のためのIT勉強会teens",
     "event name": "【オンライン】ZoomプログラミングLT会",
     "url": "https://teens.connpass.com/event/170430/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-20T19:00:00+09:00",
     "endAt": "2020-03-20T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/43/d9/43d9e08a5e64e529dfce369d1e212ab0.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-20"
+    "date": "2020-03-20",
+    "color": "grey"
   },
   {
     "group name": "YYTypeScript",
     "event name": "YYTypeScript#25【TypeScript技術書執筆会】",
     "url": "https://yyts.connpass.com/event/170835/",
-    "category": "",
+    "category": "web",
     "startAt": "2020-03-20T19:30:00+09:00",
     "endAt": "2020-03-20T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/63/7a/637a15c7c1e7d53521a3a8ba760fcb86.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-20"
+    "date": "2020-03-20",
+    "color": "skyblue"
   },
   {
     "group name": "IWATEの IT カンファレンス",
     "event name": "IWATEのITカンファレンス online 1",
     "url": "https://iwate-it.connpass.com/event/168450/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-20T20:00:00+09:00",
     "endAt": "2020-03-20T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4c/b7/4cb7365201ffbcade5dc32ba41c130fe.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-20"
+    "date": "2020-03-20",
+    "color": "grey"
   },
   {
     "group name": "Home brew keyboard club",
     "event name": "Homebrew keyboard club vol 11i (オンライン)",
     "url": "https://hbkc.connpass.com/event/169731/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-20T20:00:00+09:00",
     "endAt": "2020-03-20T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/49/2f/492fff4585093edb53faa0eebe1165ab.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-20"
+    "date": "2020-03-20",
+    "color": "grey"
   },
   {
     "group name": "圏論セミナー",
     "event name": "第1回　新・導来圏勉強会",
     "url": "https://category.connpass.com/event/170337/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-20T22:05:00+09:00",
     "endAt": "2020-03-20T23:05:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/87/e9/87e9223303b1dad30693dcfcd11e185a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-20"
+    "date": "2020-03-20",
+    "color": "grey"
   },
   {
     "group name": "コンパイラ・インタプリタ開発ハッカソン",
     "event name": "コンパイラ・インタプリタ開発ハッカソン",
     "url": "https://connpass.com/event/161475/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-21T00:00:00+09:00",
     "endAt": "2020-03-22T00:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-21"
+    "date": "2020-03-21",
+    "color": "grey"
   },
   {
     "group name": "Nagoya.Swift+",
     "event name": "Nagoya.Swift+ 3月度勉強会（リモート開催）",
     "url": "https://nagoyaswiftplus.connpass.com/event/161298/",
-    "category": "",
+    "category": "mobile",
     "startAt": "2020-03-21T09:00:00+09:00",
     "endAt": "2020-03-21T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/dd/37/dd37859cca4a68a2b186d6ff79b1b010.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-21"
+    "date": "2020-03-21",
+    "color": "#18B83F"
   },
   {
     "group name": "量子コンピュータ",
     "event name": "実践NISQハイブリッド量子コンピュータVQE、QAOA、機械学習6周目",
     "url": "https://qnn.connpass.com/event/170856/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-03-21T09:00:00+09:00",
     "endAt": "2020-03-21T11:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f8/7d/f87d30f1f2a2741cb2acf79ecc66e030.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-21"
+    "date": "2020-03-21",
+    "color": "#FAF79F"
   },
   {
     "group name": "Micro Hardening",
     "event name": "Micro Hardening v2 2020/03/21 ＠オンライン",
     "url": "https://microhardening.connpass.com/event/161093/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-21T10:00:00+09:00",
     "endAt": "2020-03-21T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ec/d9/ecd9fd4104a328f4a68160b1ce0e9b2b.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-21"
+    "date": "2020-03-21",
+    "color": "grey"
   },
   {
     "group name": "Kanazawa.rb Meetup",
