@@ -2533,25 +2533,27 @@
     "group name": "ポップインサイト～\"アジャイルUXリサーチ\"を始めよう！",
     "event name": "フルリモートワークでのUXリサーチャの仕事とは",
     "url": "https://popinsight.connpass.com/event/169659/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-19T19:00:00+09:00",
     "endAt": "2020-03-19T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/31/bd/31bdac9e7739cb0b67767f242981a031.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-19"
+    "date": "2020-03-19",
+    "color": "grey"
   },
   {
     "group name": "福山ギーク",
     "event name": "bingo.web 5 オンライン",
     "url": "https://fukuyamageek.connpass.com/event/170675/",
-    "category": "",
+    "category": "web",
     "startAt": "2020-03-19T19:00:00+09:00",
     "endAt": "2020-03-19T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/67/9b/679b248b46a19174bf85e0e1933a6591.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-19"
+    "date": "2020-03-19",
+    "color": "skyblue"
   },
   {
     "group name": "NVDA日本語チーム",
@@ -2583,61 +2585,66 @@
     "group name": "#ssmjp",
     "event name": "#ssmjp 2020/03",
     "url": "https://ssmjp.connpass.com/event/169729/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-19T19:30:00+09:00",
     "endAt": "2020-03-19T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cb/26/cb267943f5b5e3d560f8e21809d5b9ba.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-19"
+    "date": "2020-03-19",
+    "color": "grey"
   },
   {
     "group name": "ギーク中国語",
     "event name": "【第1回】ギーク中国語お悩み相談オンライン",
     "url": "https://geek-zhongwen.connpass.com/event/170544/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-19T19:30:00+09:00",
     "endAt": "2020-03-19T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6c/41/6c410c4268376f9848710dc78567ed10.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-19"
+    "date": "2020-03-19",
+    "color": "grey"
   },
   {
     "group name": "JISTA&BA in HIROSHIMA",
     "event name": "JISTA　SABOKオンライン研究会(2020/3/19)",
     "url": "https://jista-iiba-hiroshima.connpass.com/event/169679/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-19T20:00:00+09:00",
     "endAt": "2020-03-19T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f2/0b/f20b715df4f03c4908f3058d53d72be6.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-19"
+    "date": "2020-03-19",
+    "color": "grey"
   },
   {
     "group name": "はんなりPythonの会",
     "event name": "【オンライン開催】はんなりPython #26 Dash Hands On",
     "url": "https://hannari-python.connpass.com/event/170431/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-03-19T21:00:00+09:00",
     "endAt": "2020-03-19T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d0/ac/d0acf7569f04dda231fa86b82b0aba5b.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-19"
+    "date": "2020-03-19",
+    "color": "purple"
   },
   {
     "group name": "Skype理工学勉強会",
     "event name": "木曜C#入門(Skype上）",
     "url": "https://engineeringskype.connpass.com/event/170685/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-19T21:00:00+09:00",
     "endAt": "2020-03-19T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/76/c2/76c21b0528e5d6bc2ee15c0854ddc545.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-19"
+    "date": "2020-03-19",
+    "color": "grey"
   },
   {
     "group name": "VUE MEETUP",
@@ -2656,49 +2663,53 @@
     "group name": "ウェブフロンティア",
     "event name": "【オンライン開催】合格！！～学校では教えない基本情報対策講座～",
     "url": "https://webfrontier.connpass.com/event/166629/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-20T13:00:00+09:00",
     "endAt": "2020-03-20T17:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b4/cb/b4cb8c582b654b0dd557fd4b6cb4d79a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-20"
+    "date": "2020-03-20",
+    "color": "grey"
   },
   {
     "group name": "Tableauで始めるデータサイエンス学習塾",
     "event name": "Tableauで始めるデータサイエンス・もくもく会 3/20（無料・オンラインのみに変更！）",
     "url": "https://ds4tableau-1.connpass.com/event/168455/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-20T13:00:00+09:00",
     "endAt": "2020-03-20T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/09/a2/09a2cd7be6576c4753136d7d9768cd60.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-20"
+    "date": "2020-03-20",
+    "color": "grey"
   },
   {
     "group name": "日本Androidの会秋葉原支部ロボット部",
     "event name": "日本Androidの会秋葉原支部ロボット部 第90回勉強会",
     "url": "https://akbrobot.connpass.com/event/168945/",
-    "category": "",
+    "category": "mobile",
     "startAt": "2020-03-20T13:00:00+09:00",
     "endAt": "2020-03-20T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c0/e7/c0e778cf8f5424b99c7ee40efc50df4f.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-20"
+    "date": "2020-03-20",
+    "color": "#18B83F"
   },
   {
     "group name": "名古ゲ部（旧名：名古屋ゲーム制作部）",
     "event name": "バーチャル開催!!Live2D&お絵描きの日 3月20日（金）",
     "url": "https://nagogebu.connpass.com/event/170601/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-20T13:00:00+09:00",
     "endAt": "2020-03-20T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f3/44/f344766b3c9fe1b2394c1d826a4a6ed7.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-20"
+    "date": "2020-03-20",
+    "color": "grey"
   },
   {
     "group name": "【オンライン】のんびりもくもく会",
