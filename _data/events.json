@@ -2295,6 +2295,18 @@
     "date": "2020-03-19"
   },
   {
+    "group name": "福山ギーク",
+    "event name": "bingo.web 5 オンライン",
+    "url": "https://fukuyamageek.connpass.com/event/170675/",
+    "category": "",
+    "startAt": "2020-03-19T19:00:00+09:00",
+    "endAt": "2020-03-19T20:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/67/9b/679b248b46a19174bf85e0e1933a6591.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-19"
+  },
+  {
     "group name": "OpsJAWS",
     "event name": "Ops JAWS Meetup#18 モニタリング",
     "url": "https://opsjaws.doorkeeper.jp/events/104065",
@@ -2306,6 +2318,54 @@
     "future": true,
     "date": "2020-03-19",
     "color": "#F39E21"
+  },
+  {
+    "group name": "#ssmjp",
+    "event name": "#ssmjp 2020/03",
+    "url": "https://ssmjp.connpass.com/event/169729/",
+    "category": "",
+    "startAt": "2020-03-19T19:30:00+09:00",
+    "endAt": "2020-03-19T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cb/26/cb267943f5b5e3d560f8e21809d5b9ba.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-19"
+  },
+  {
+    "group name": "ギーク中国語",
+    "event name": "【第1回】ギーク中国語お悩み相談オンライン",
+    "url": "https://geek-zhongwen.connpass.com/event/170544/",
+    "category": "",
+    "startAt": "2020-03-19T19:30:00+09:00",
+    "endAt": "2020-03-19T20:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6c/41/6c410c4268376f9848710dc78567ed10.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-19"
+  },
+  {
+    "group name": "JISTA&BA in HIROSHIMA",
+    "event name": "JISTA　SABOKオンライン研究会(2020/3/19)",
+    "url": "https://jista-iiba-hiroshima.connpass.com/event/169679/",
+    "category": "",
+    "startAt": "2020-03-19T20:00:00+09:00",
+    "endAt": "2020-03-19T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f2/0b/f20b715df4f03c4908f3058d53d72be6.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-19"
+  },
+  {
+    "group name": "はんなりPythonの会",
+    "event name": "【オンライン開催】はんなりPython #26 Dash Hands On",
+    "url": "https://hannari-python.connpass.com/event/170431/",
+    "category": "",
+    "startAt": "2020-03-19T21:00:00+09:00",
+    "endAt": "2020-03-19T23:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d0/ac/d0acf7569f04dda231fa86b82b0aba5b.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-19"
   },
   {
     "group name": "VUE MEETUP",
