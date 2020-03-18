@@ -2525,6 +2525,18 @@
     "date": "2020-03-20"
   },
   {
+    "group name": "YYTypeScript",
+    "event name": "YYTypeScript#25【TypeScript技術書執筆会】",
+    "url": "https://yyts.connpass.com/event/170835/",
+    "category": "",
+    "startAt": "2020-03-20T19:30:00+09:00",
+    "endAt": "2020-03-20T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/63/7a/637a15c7c1e7d53521a3a8ba760fcb86.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-20"
+  },
+  {
     "group name": "IWATEの IT カンファレンス",
     "event name": "IWATEのITカンファレンス online 1",
     "url": "https://iwate-it.connpass.com/event/168450/",
@@ -2535,6 +2547,78 @@
     "hashtag": "",
     "future": true,
     "date": "2020-03-20"
+  },
+  {
+    "group name": "Home brew keyboard club",
+    "event name": "Homebrew keyboard club vol 11i (オンライン)",
+    "url": "https://hbkc.connpass.com/event/169731/",
+    "category": "",
+    "startAt": "2020-03-20T20:00:00+09:00",
+    "endAt": "2020-03-20T23:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/49/2f/492fff4585093edb53faa0eebe1165ab.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-20"
+  },
+  {
+    "group name": "圏論セミナー",
+    "event name": "第1回　新・導来圏勉強会",
+    "url": "https://category.connpass.com/event/170337/",
+    "category": "",
+    "startAt": "2020-03-20T22:05:00+09:00",
+    "endAt": "2020-03-20T23:05:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/87/e9/87e9223303b1dad30693dcfcd11e185a.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-20"
+  },
+  {
+    "group name": "コンパイラ・インタプリタ開発ハッカソン",
+    "event name": "コンパイラ・インタプリタ開発ハッカソン",
+    "url": "https://connpass.com/event/161475/",
+    "category": "",
+    "startAt": "2020-03-21T00:00:00+09:00",
+    "endAt": "2020-03-22T00:00:00+09:00",
+    "image": "https://online-meetup.dev/images/event.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-21"
+  },
+  {
+    "group name": "Nagoya.Swift+",
+    "event name": "Nagoya.Swift+ 3月度勉強会（リモート開催）",
+    "url": "https://nagoyaswiftplus.connpass.com/event/161298/",
+    "category": "",
+    "startAt": "2020-03-21T09:00:00+09:00",
+    "endAt": "2020-03-21T18:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/dd/37/dd37859cca4a68a2b186d6ff79b1b010.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-21"
+  },
+  {
+    "group name": "量子コンピュータ",
+    "event name": "実践NISQハイブリッド量子コンピュータVQE、QAOA、機械学習6周目",
+    "url": "https://qnn.connpass.com/event/170856/",
+    "category": "",
+    "startAt": "2020-03-21T09:00:00+09:00",
+    "endAt": "2020-03-21T11:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f8/7d/f87d30f1f2a2741cb2acf79ecc66e030.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-21"
+  },
+  {
+    "group name": "Micro Hardening",
+    "event name": "Micro Hardening v2 2020/03/21 ＠オンライン",
+    "url": "https://microhardening.connpass.com/event/161093/",
+    "category": "",
+    "startAt": "2020-03-21T10:00:00+09:00",
+    "endAt": "2020-03-21T16:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ec/d9/ecd9fd4104a328f4a68160b1ce0e9b2b.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-21"
   },
   {
     "group name": "Kanazawa.rb Meetup",
