@@ -2208,7 +2208,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-18",
     "color": "#B8D59E"
   },
