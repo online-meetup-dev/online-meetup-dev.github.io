@@ -3037,6 +3037,18 @@
     "color": "#00ABEB"
   },
   {
+    "group name": "Cogbot コミュニティ",
+    "event name": "Cogbot Meetup Online #27 今から始める Cognitive Services",
+    "url": "https://cogbot.connpass.com/event/170618/",
+    "category": "",
+    "startAt": "2020-03-25T18:45:00+09:00",
+    "endAt": "2020-03-25T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/43/6d/436d203339c70555cd7766952d1fd2cf.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-25"
+  },
+  {
     "group name": "JAWS-UG 金沢",
     "event name": "オンライン開催  JAWS-UG金沢 #52 AWS Expert Online AWSにおけるデータベースの選択",
     "url": "https://jawsug-kanazawa.doorkeeper.jp/events/104851",
