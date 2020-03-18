@@ -2479,25 +2479,40 @@
     "group name": "全脳アーキテクチャ勉強会",
     "event name": "生命進化の終焉とシンギュラリティ後の世界セミナー",
     "url": "https://wba-meetup.connpass.com/event/165593/",
-    "category": "",
+    "category": "other",
     "startAt": "2020-03-19T14:30:00+09:00",
     "endAt": "2020-03-19T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6b/60/6b60e82f48da08e390e1c12f8471d2c4.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-19"
+    "date": "2020-03-19",
+    "color": "grey"
   },
   {
     "group name": "量子コンピュータ",
     "event name": "TensorFlow QuantumにおけるQCNN回路の実装。テンソルネットワークとMERA構造",
     "url": "https://qnn.connpass.com/event/170957/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-03-19T17:00:00+09:00",
     "endAt": "2020-03-19T17:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f8/7d/f87d30f1f2a2741cb2acf79ecc66e030.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-19"
+    "date": "2020-03-19",
+    "color": "#FAF79F"
+  },
+  {
+    "group name": "量子コンピュータ",
+    "event name": "テンソルネットワークとMPSの結合次元の圧縮",
+    "url": "https://qnn.connpass.com/event/169436/",
+    "category": "quantum",
+    "startAt": "2020-03-19T18:30:00+09:00",
+    "endAt": "2020-03-19T19:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f8/7d/f87d30f1f2a2741cb2acf79ecc66e030.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-19",
+    "color": "#FAF79F"
   },
   {
     "group name": "ポップインサイト～\"アジャイルUXリサーチ\"を始めよう！",
@@ -2522,6 +2537,19 @@
     "hashtag": "",
     "future": true,
     "date": "2020-03-19"
+  },
+  {
+    "group name": "NVDA日本語チーム",
+    "event name": "【オンライン開催】いまこそ NVDA で始める Windows",
+    "url": "https://nvdajp.connpass.com/event/166069/",
+    "category": "ai",
+    "startAt": "2020-03-19T19:00:00+09:00",
+    "endAt": "2020-03-19T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/02/5a/025a0fc86c4e5196f129e2bc8dfcfc7c.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-19",
+    "color": "#2ccfc9"
   },
   {
     "group name": "OpsJAWS",
