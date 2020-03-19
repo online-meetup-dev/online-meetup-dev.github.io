@@ -3033,13 +3033,14 @@
     "group name": "Cogbot コミュニティ",
     "event name": "Cogbot Meetup Online #27 今から始める Cognitive Services",
     "url": "https://cogbot.connpass.com/event/170618/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-03-25T18:45:00+09:00",
     "endAt": "2020-03-25T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/43/6d/436d203339c70555cd7766952d1fd2cf.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-03-25"
+    "date": "2020-03-25",
+    "color": "#2ccfc9"
   },
   {
     "group name": "JAWS-UG 金沢",
@@ -3338,5 +3339,18 @@
     "future": true,
     "date": "2020-04-14",
     "color": "#BB1904"
+  },
+  {
+    "group name": "ログ分析勉強会",
+    "event name": "ログ分析勉強会 オンライン",
+    "url": "https://loganalytics.connpass.com/event/171272/",
+    "category": "other",
+    "startAt": "2020-04-27T19:00:00+09:00",
+    "endAt": "2020-04-27T21:00:00+09:00",
+    "image": "https://online-meetup.dev/images/event.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-27",
+    "color": "grey"
   }
 ]
