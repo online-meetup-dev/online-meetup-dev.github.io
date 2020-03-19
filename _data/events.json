@@ -2565,7 +2565,7 @@
     "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/6155_normal_1461745484_OpsJAWS_Icon.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-19",
     "color": "#F39E21"
   },
