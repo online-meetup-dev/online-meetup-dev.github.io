@@ -2622,7 +2622,7 @@
     "image": "https://www.vuemeetup.com/img/Logo-ThisDot-Media-lg.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-20",
     "color": "#2c3e50"
   },
