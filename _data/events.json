@@ -2886,19 +2886,6 @@
     "color": "grey"
   },
   {
-    "group name": "Kanazawa.rb Meetup",
-    "event name": "meetup #91",
-    "url": "https://meetup.kzrb.org/91/",
-    "category": "ruby",
-    "startAt": "Sat Mar 21 2020 13:00:00 GMT+0900 (日本標準時)",
-    "endAt": "Sat Mar 21 2020 17:00:00 GMT+0900 (日本標準時)",
-    "image": "https://online-meetup.dev/images/event.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-03-21",
-    "color": "#701516"
-  },
-  {
     "group name": "フロントエンド四国もくもく勉強会",
     "event name": "第22回フロントエンド四国もくもく勉強会",
     "url": "https://frontendshikoku.connpass.com/event/168064/",
@@ -2910,6 +2897,19 @@
     "future": true,
     "date": "2020-03-21",
     "color": "#B8D59E"
+  },
+  {
+    "group name": "Kanazawa.rb Meetup",
+    "event name": "meetup #91",
+    "url": "https://meetup.kzrb.org/91/",
+    "category": "ruby",
+    "startAt": "Sat Mar 21 2020 13:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Sat Mar 21 2020 17:00:00 GMT+0900 (日本標準時)",
+    "image": "https://online-meetup.dev/images/event.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-03-21",
+    "color": "#701516"
   },
   {
     "group name": "岡山Unity勉強会",
@@ -3286,6 +3286,19 @@
     "future": true,
     "date": "2020-04-06",
     "color": "#F2CB61"
+  },
+  {
+    "group name": "DevRel Meetup in Tokyo",
+    "event name": "DevRel/Beginners #9 【オンライン開催！】",
+    "url": "https://devrel.connpass.com/event/171290/",
+    "category": "devrel",
+    "startAt": "2020-04-07T19:30:00+09:00",
+    "endAt": "2020-04-07T21:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/84/49/844939484346e3b2463f94cf4d83a21c.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-07",
+    "color": "#147d3c"
   },
   {
     "group name": "LINE Developer Community",
