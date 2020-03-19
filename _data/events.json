@@ -3021,10 +3021,10 @@
     "url": "https://alibabacloud.connpass.com/event/170657/",
     "category": "cloud",
     "startAt": "2020-03-25T18:00:00+09:00",
-    "endAt": "",
-    "image": "",
+    "endAt": "2020-03-25T20:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ac/1a/ac1ae0326be45cff296044e90dd75ec4.png",
     "hashtag": "",
-    "future": false,
+    "future": true,
     "date": "2020-03-25",
     "color": "blue"
   },
