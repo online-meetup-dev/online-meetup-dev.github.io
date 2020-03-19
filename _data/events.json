@@ -1,17 +1,5 @@
 [
   {
-    "group name": "",
-    "event name": "",
-    "url": "https://alibabacloud.connpass.com/event/170657/",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "hashtag": "",
-    "future": false,
-    "date": "NaN-aN-aN"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -3026,6 +3014,19 @@
     "future": true,
     "date": "2020-03-24",
     "color": "#00ABEB"
+  },
+  {
+    "group name": "AliEaters",
+    "event name": "AlibabaCloud Developers Meetup #15 AliEaters Live",
+    "url": "https://alibabacloud.connpass.com/event/170657/",
+    "category": "cloud",
+    "startAt": "2020-03-25T18:00:00+09:00",
+    "endAt": "",
+    "image": "",
+    "hashtag": "",
+    "future": false,
+    "date": "2020-03-25",
+    "color": "blue"
   },
   {
     "group name": "Cogbot コミュニティ",
