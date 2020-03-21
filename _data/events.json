@@ -2829,8 +2829,7 @@
     "endAt": "2020-03-22T00:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
-    "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-21",
     "color": "grey"
   },
@@ -2843,7 +2842,6 @@
     "endAt": "2020-03-21T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/dd/37/dd37859cca4a68a2b186d6ff79b1b010.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-21",
     "color": "#18B83F"
@@ -2857,7 +2855,6 @@
     "endAt": "2020-03-21T11:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f8/7d/f87d30f1f2a2741cb2acf79ecc66e030.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-21",
     "color": "#FAF79F"
@@ -2871,7 +2868,6 @@
     "endAt": "2020-03-21T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ec/d9/ecd9fd4104a328f4a68160b1ce0e9b2b.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-21",
     "color": "grey"
@@ -2885,7 +2881,6 @@
     "endAt": "2020-03-21T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/12/8b/128bfefb426f32cbdc00c5935e384c17.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-21",
     "color": "#B8D59E"
@@ -2899,7 +2894,6 @@
     "endAt": "Sat Mar 21 2020 17:00:00 GMT+0900 (日本標準時)",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-21",
     "color": "#701516"
@@ -2913,7 +2907,6 @@
     "endAt": "2020-03-21T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5e/91/5e91341d424b4dccf0ce4e93b786a008.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-21",
     "color": "#000000"
@@ -2927,6 +2920,7 @@
     "endAt": "Thu Mar 26 2020 00:00:00 GMT+0900 (日本標準時)",
     "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/gtc/gtc-logo-1.svg",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-22",
     "color": "#F2CB61"
