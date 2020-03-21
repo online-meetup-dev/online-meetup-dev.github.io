@@ -2872,7 +2872,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ec/d9/ecd9fd4104a328f4a68160b1ce0e9b2b.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-21",
     "color": "grey"
   },
