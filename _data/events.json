@@ -2933,7 +2933,6 @@
     "endAt": "2020-03-23T19:35:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/49/03/4903a4b6804ddd633236402270f813ba.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-23",
     "color": "#2ccfc9"
@@ -2947,7 +2946,6 @@
     "endAt": "Mon Mar 23 2020 21:00:00 GMT+0900 (日本標準時)",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-23",
     "color": "#0C6FAC"
@@ -2961,6 +2959,7 @@
     "endAt": "2020-03-24T18:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1d/46/1d464c44063df93346359d37c3f30f33.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-24",
     "color": "grey"
@@ -2974,6 +2973,7 @@
     "endAt": "Tue Mar 24 2020 19:30:00 GMT+0900 (日本標準時)",
     "image": "https://cdn.peraichi.com/userData/5e203954-f43c-4e8c-bb3e-79b20a00002b/img/5e4a23d3810c7/original.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-24",
     "color": "grey"
@@ -2987,6 +2987,7 @@
     "endAt": "2020-03-24T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/29/75/29758ae902dddf3d34cf3a63ab350d54.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-24",
     "color": "#00ABEB"
