@@ -2948,7 +2948,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-23",
     "color": "#0C6FAC"
   },
