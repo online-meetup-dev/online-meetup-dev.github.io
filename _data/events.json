@@ -3343,6 +3343,18 @@
     "color": "#BB1904"
   },
   {
+    "group name": "IoT縛りの勉強会\u0010! IoTLT",
+    "event name": "IoT縛りの勉強会! IoTLT vol.62 @オンライン",
+    "url": "https://iotlt.connpass.com/event/171389/",
+    "category": "",
+    "startAt": "2020-04-16T19:00:00+09:00",
+    "endAt": "2020-04-16T22:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2e/6f/2e6fd6fa32a42b1d65f3c82ebdf6eb80.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-16"
+  },
+  {
     "group name": "ログ分析勉強会",
     "event name": "ログ分析勉強会 オンライン",
     "url": "https://loganalytics.connpass.com/event/171272/",
