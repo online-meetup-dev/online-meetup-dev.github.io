@@ -2974,7 +2974,7 @@
     "image": "https://cdn.peraichi.com/userData/5e203954-f43c-4e8c-bb3e-79b20a00002b/img/5e4a23d3810c7/original.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-24",
     "color": "grey"
   },
