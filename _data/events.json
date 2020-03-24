@@ -2959,7 +2959,6 @@
     "endAt": "2020-03-24T18:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1d/46/1d464c44063df93346359d37c3f30f33.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-24",
     "color": "grey"
@@ -2973,7 +2972,6 @@
     "endAt": "Tue Mar 24 2020 19:30:00 GMT+0900 (日本標準時)",
     "image": "https://cdn.peraichi.com/userData/5e203954-f43c-4e8c-bb3e-79b20a00002b/img/5e4a23d3810c7/original.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-24",
     "color": "grey"
@@ -2987,7 +2985,6 @@
     "endAt": "2020-03-24T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/29/75/29758ae902dddf3d34cf3a63ab350d54.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-24",
     "color": "#00ABEB"
@@ -3001,6 +2998,7 @@
     "endAt": "2020-03-25T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ac/1a/ac1ae0326be45cff296044e90dd75ec4.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-25",
     "color": "blue"
@@ -3014,6 +3012,7 @@
     "endAt": "2020-03-25T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/43/6d/436d203339c70555cd7766952d1fd2cf.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-25",
     "color": "#2ccfc9"
@@ -3027,6 +3026,7 @@
     "endAt": "2020-03-25T12:00:00.000Z",
     "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/6188_normal_1457935914_profile_sq.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-25",
     "color": "#F39E21"
@@ -3040,6 +3040,7 @@
     "endAt": "2020-03-25T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e8/85/e885c9329032ce6a8ad8f8c5098b55a3.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-25",
     "color": "#F7A569"
@@ -3053,6 +3054,7 @@
     "endAt": "2020-03-25T12:00:00.000Z",
     "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/5668_normal_1434012043_jaws_logo_hamamatsu_2.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-25",
     "color": "#F39E21"
@@ -3066,6 +3068,7 @@
     "endAt": "Wed Mar 25 2020 21:00:00 GMT+0900 (日本標準時)",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-25",
     "color": "grey"
@@ -3079,6 +3082,7 @@
     "endAt": "2020-03-25T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/aa/60/aa6079cc456b85d93ca57902467c86de.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-25",
     "color": "#b07219"
@@ -3092,6 +3096,7 @@
     "endAt": "2020-03-25T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0f/20/0f20db0e5412149464f3cc4301512c89.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-25",
     "color": "#FFE39E"
@@ -3105,6 +3110,7 @@
     "endAt": "2020-03-25T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6f/d1/6fd111cd676767a0bf96c3a369f3c785.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-25",
     "color": "#18B83F"
