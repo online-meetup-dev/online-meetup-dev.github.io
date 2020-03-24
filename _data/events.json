@@ -3343,19 +3343,6 @@
     "color": "red"
   },
   {
-    "group name": "Coindesk",
-    "event name": "Consensus",
-    "url": "https://www.coindesk.com/events/consensus-2020",
-    "category": "blockchaine",
-    "startAt": "2020-04-16T19:00:00+09:00",
-    "endAt": "",
-    "image": "",
-    "hashtag": "",
-    "future": false,
-    "date": "2020-04-16",
-    "color": "#b48484"
-  },
-  {
     "group name": "ログ分析勉強会",
     "event name": "ログ分析勉強会 オンライン",
     "url": "https://loganalytics.connpass.com/event/171272/",
@@ -3367,5 +3354,18 @@
     "future": true,
     "date": "2020-04-27",
     "color": "grey"
+  },
+  {
+    "group name": "Coindesk",
+    "event name": "Consensus",
+    "url": "https://www.coindesk.com/events/consensus-2020",
+    "category": "blockchaine",
+    "startAt": "Mon May 11 2020 00:00:00 GMT+0900 (日本標準時)",
+    "endAt": "Mon May 11 2020 00:00:00 GMT+0900 (日本標準時)",
+    "image": "https://downloads.coindesk.com/events/2020/consensus-2020-bg.jpg",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-05-11",
+    "color": "#b48484"
   }
 ]
