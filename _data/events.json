@@ -3013,7 +3013,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/43/6d/436d203339c70555cd7766952d1fd2cf.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-25",
     "color": "#2ccfc9"
   },
@@ -3027,7 +3027,7 @@
     "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/6188_normal_1457935914_profile_sq.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-25",
     "color": "#F39E21"
   },
@@ -3041,7 +3041,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e8/85/e885c9329032ce6a8ad8f8c5098b55a3.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-25",
     "color": "#F7A569"
   },
@@ -3055,7 +3055,7 @@
     "image": "https://dzpp79ucibp5a.cloudfront.net/groups_logos/5668_normal_1434012043_jaws_logo_hamamatsu_2.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-25",
     "color": "#F39E21"
   },
@@ -3069,7 +3069,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-25",
     "color": "grey"
   },
@@ -3097,7 +3097,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0f/20/0f20db0e5412149464f3cc4301512c89.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-25",
     "color": "#FFE39E"
   },
