@@ -3142,7 +3142,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/95/38/9538b8b35226a8c54e3460104ef7de35.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-03-28",
     "color": "green"
   },
