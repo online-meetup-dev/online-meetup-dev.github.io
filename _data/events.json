@@ -3206,7 +3206,6 @@
     "endAt": "2020-03-30T22:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/bd/82/bd823bb2d8aedf0693f4dd373c19d32a.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-03-30",
     "color": "#0C6FAC"
@@ -3220,6 +3219,7 @@
     "endAt": "Tue Mar 31 2020 20:00:00 GMT+0900 (日本標準時)",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ad/05/ad055823b59871179618a86598daca26.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-03-31"
   },
