@@ -3302,19 +3302,6 @@
     "color": "blue"
   },
   {
-    "group name": "コロナ対策エンジニア",
-    "event name": "30分でランチ勉強！Microsoft Teamsを使った在宅勤務Tips",
-    "url": "https://power-covid19.connpass.com/event/172165/",
-    "category": "cloud",
-    "startAt": "2020-04-08T12:15:00+09:00",
-    "endAt": "2020-04-08T12:45:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/46/62/4662b2fd59074664a87bc38a70d5f56e.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-04-08",
-    "color": "blue"
-  },
-  {
     "group name": "LINE Developer Community",
     "event name": "【オンライン】ノンコードでどこまでできる？Azure×LINEでチャットボットとミニアプリ開発しよう",
     "url": "https://linedevelopercommunity.connpass.com/event/170570/",
@@ -3326,6 +3313,45 @@
     "future": true,
     "date": "2020-04-09",
     "color": "#00ABEB"
+  },
+  {
+    "group name": "コロナ対策エンジニア",
+    "event name": "30分でランチ勉強！Zoomを使ったリモートワーク技～ビジネス力もUP～",
+    "url": "https://power-covid19.connpass.com/event/172165/",
+    "category": "cloud",
+    "startAt": "2020-04-10T12:15:00+09:00",
+    "endAt": "2020-04-10T12:45:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/46/62/4662b2fd59074664a87bc38a70d5f56e.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-10",
+    "color": "blue"
+  },
+  {
+    "group name": "コロナ対策エンジニア",
+    "event name": "30分でランチ勉強！Microsoft Power Appsでリモート出退勤管理アプリを作る",
+    "url": "https://power-covid19.connpass.com/event/172167/",
+    "category": "cloud",
+    "startAt": "2020-04-13T12:15:00+09:00",
+    "endAt": "2020-04-13T12:45:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/46/62/4662b2fd59074664a87bc38a70d5f56e.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-13",
+    "color": "blue"
+  },
+  {
+    "group name": "コロナ対策エンジニア",
+    "event name": "30分でランチ勉強！Microsoft Power Appsでリモート出退勤管理アプリを作る",
+    "url": "https://power-covid19.connpass.com/event/172167/",
+    "category": "cloud",
+    "startAt": "2020-04-13T12:15:00+09:00",
+    "endAt": "2020-04-13T12:45:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/46/62/4662b2fd59074664a87bc38a70d5f56e.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-13",
+    "color": "blue"
   },
   {
     "group name": "【オンライン開催】P4 勉強会+ハンズオン",
