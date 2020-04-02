@@ -3289,6 +3289,32 @@
     "color": "#147d3c"
   },
   {
+    "group name": "コロナ対策エンジニア",
+    "event name": "30分でランチ勉強！Microsoft Teamsを使った在宅勤務Tips",
+    "url": "https://power-covid19.connpass.com/event/172150/",
+    "category": "cloud",
+    "startAt": "2020-04-08T12:15:00+09:00",
+    "endAt": "2020-04-08T12:45:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/46/62/4662b2fd59074664a87bc38a70d5f56e.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-08",
+    "color": "blue"
+  },
+  {
+    "group name": "コロナ対策エンジニア",
+    "event name": "30分でランチ勉強！Microsoft Teamsを使った在宅勤務Tips",
+    "url": "https://power-covid19.connpass.com/event/172165/",
+    "category": "cloud",
+    "startAt": "2020-04-08T12:15:00+09:00",
+    "endAt": "2020-04-08T12:45:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/46/62/4662b2fd59074664a87bc38a70d5f56e.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-08",
+    "color": "blue"
+  },
+  {
     "group name": "LINE Developer Community",
     "event name": "【オンライン】ノンコードでどこまでできる？Azure×LINEでチャットボットとミニアプリ開発しよう",
     "url": "https://linedevelopercommunity.connpass.com/event/170570/",
@@ -3339,19 +3365,6 @@
     "future": true,
     "date": "2020-04-16",
     "color": "red"
-  },
-  {
-    "group name": "",
-    "event name": "30分でランチ勉強！Microsoft Teamsを使った在宅勤務Tips",
-    "url": "https://power-covid19.connpass.com/event/172150/",
-    "category": "cloud",
-    "startAt": "2020-04-16T19:00:00+09:00",
-    "endAt": "",
-    "image": "",
-    "hashtag": "",
-    "future": false,
-    "date": "2020-04-16",
-    "color": "blue"
   },
   {
     "group name": "ログ分析勉強会",
