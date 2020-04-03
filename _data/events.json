@@ -3257,7 +3257,6 @@
     "endAt": "2020-04-03T17:45:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-04-03",
     "color": "grey"
@@ -3271,7 +3270,6 @@
     "endAt": "2020-04-03T18:30:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-04-03",
     "color": "grey"
@@ -3285,7 +3283,6 @@
     "endAt": "2020-04-03T19:15:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-04-03",
     "color": "grey"
@@ -3299,7 +3296,6 @@
     "endAt": "2020-04-03T20:00:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-04-03",
     "color": "grey"
@@ -3313,7 +3309,6 @@
     "endAt": "2020-04-03T20:45:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-04-03",
     "color": "grey"
@@ -3327,6 +3322,7 @@
     "endAt": "2020-04-04T14:00:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-04-04",
     "color": "grey"
@@ -3340,6 +3336,7 @@
     "endAt": "2020-04-04T14:45:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-04-04",
     "color": "grey"
@@ -3353,6 +3350,7 @@
     "endAt": "2020-04-04T16:15:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-04-04",
     "color": "grey"
@@ -3366,6 +3364,7 @@
     "endAt": "2020-04-04T22:30:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/2/0/d/2/highres_489668402.jpeg",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-04-04",
     "color": "#227397"
