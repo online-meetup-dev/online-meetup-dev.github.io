@@ -1,18 +1,5 @@
 [
   {
-    "group name": "Study, Travel, Meetup for Students = 学生のための留学/旅行/国際交流カフェ会",
-    "event name": "*FREE* ENGLISH ”ONLINE\" MEETUP = 『無料』英語オンライン交流会",
-    "url": "",
-    "category": "other",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "hashtag": "",
-    "future": false,
-    "date": "NaN-aN-aN",
-    "color": "grey"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -3260,6 +3247,20 @@
     "future": false,
     "date": "2020-04-02",
     "color": "skyblue"
+  },
+  {
+    "group name": "Study, Travel, Meetup for Students = 学生のための留学/旅行/国際交流カフェ会",
+    "event name": "*FREE* ENGLISH ”ONLINE\" MEETUP = 『無料』英語オンライン交流会",
+    "url": "https://www.meetup.com/ja-JP/meetup-group-VnEbiben/events/prhfrrybcgbfb/",
+    "category": "other",
+    "startAt": "2020-04-03T17:00:00+09:00",
+    "endAt": "2020-04-03T17:45:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-04-03",
+    "color": "grey"
   },
   {
     "group name": "Tokyo WordPress Meetup",
