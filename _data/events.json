@@ -3272,7 +3272,7 @@
     "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-04-03",
     "color": "grey"
   },
