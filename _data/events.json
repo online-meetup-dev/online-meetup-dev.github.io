@@ -1,29 +1,5 @@
 [
   {
-    "group name": "",
-    "event name": "",
-    "url": "",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "hashtag": "",
-    "future": false,
-    "date": "NaN-aN-aN"
-  },
-  {
-    "group name": "",
-    "event name": "",
-    "url": "",
-    "category": "",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "hashtag": "",
-    "future": false,
-    "date": "NaN-aN-aN"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -3303,7 +3279,7 @@
   {
     "group name": "Study, Travel, Meetup for Students = 学生のための留学/旅行/国際交流カフェ会",
     "event name": "*FREE* JAPANESE \"ONLINE\" MEETUP = 『無料』日本語オンライン交流会",
-    "url": "https://www.meetup.com/ja-JP/meetup-group-VnEbiben/events/twggrrybcgbfb/",
+    "url": "https://www.meetup.com/ja-JP/meetup-group-VnEbiben/events/rrhfrrybcgbfb/",
     "category": "other",
     "startAt": "2020-04-03T18:30:00+09:00",
     "endAt": "2020-04-03T19:15:00+09:00",
@@ -3311,6 +3287,34 @@
     "hashtag": "",
     "today": true,
     "future": true,
+    "date": "2020-04-03",
+    "color": "grey"
+  },
+  {
+    "group name": "Study, Travel, Meetup for Students = 学生のための留学/旅行/国際交流カフェ会",
+    "event name": "*FREE* ENGLISH ”ONLINE\" MEETUP = 『無料』英語オンライン交流会",
+    "url": "",
+    "category": "other",
+    "startAt": "2020-04-03T19:15:00+09:00",
+    "endAt": "2020-04-03T20:00:00+09:00",
+    "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-04-03",
+    "color": "grey"
+  },
+  {
+    "group name": "Study, Travel, Meetup for Students = 学生のための留学/旅行/国際交流カフェ会",
+    "event name": "*FREE* ENGLISH ”ONLINE\" MEETUP = 『無料』英語オンライン交流会",
+    "url": "",
+    "category": "other",
+    "startAt": "2020-04-03T20:00:00+09:00",
+    "endAt": "2020-04-03T02:45:00+09:00",
+    "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
+    "hashtag": "",
+    "today": true,
+    "future": false,
     "date": "2020-04-03",
     "color": "grey"
   },
@@ -3393,6 +3397,19 @@
     "color": "blue"
   },
   {
+    "group name": "コロナ対策エンジニア",
+    "event name": "30分でランチ勉強！Microsoft Power Appsでリモート出退勤管理アプリを作る",
+    "url": "https://power-covid19.connpass.com/event/172167/",
+    "category": "cloud",
+    "startAt": "2020-04-13T12:15:00+09:00",
+    "endAt": "2020-04-13T12:45:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/46/62/4662b2fd59074664a87bc38a70d5f56e.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-13",
+    "color": "blue"
+  },
+  {
     "group name": "【オンライン開催】P4 勉強会+ハンズオン",
     "event name": "【オンライン開催】P4 勉強会+ハンズオン",
     "url": "https://connpass.com/event/169556/",
@@ -3417,6 +3434,19 @@
     "future": true,
     "date": "2020-04-14",
     "color": "#BB1904"
+  },
+  {
+    "group name": "コロナ対策エンジニア",
+    "event name": "30分でランチ勉強！Microsoft Power Automateで健康状態報告フローを作る",
+    "url": "https://power-covid19.connpass.com/event/172166/",
+    "category": "cloud",
+    "startAt": "2020-04-15T12:15:00+09:00",
+    "endAt": "2020-04-15T12:45:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/46/62/4662b2fd59074664a87bc38a70d5f56e.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-15",
+    "color": "blue"
   },
   {
     "group name": "IoT縛りの勉強会\u0010! IoTLT",
