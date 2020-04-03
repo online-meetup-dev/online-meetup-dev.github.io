@@ -3306,7 +3306,7 @@
   },
   {
     "group name": "ENGLISH ONLY CAFE",
-    "event name": "ENGLISH ”ONLINE\" MEETUP = 『無料』英語オンライン交流会",
+    "event name": "ENGLISH ”ONLINE\" MEETUP = 英語オンライン交流会",
     "url": "https://www.meetup.com/meetup-group-VnEbiben/events/269808533/",
     "category": "other",
     "startAt": "2020-04-03T20:00:00+09:00",
@@ -3320,7 +3320,7 @@
   },
   {
     "group name": "ENGLISH ONLY CAFE",
-    "event name": "『無料』韓国語オンラインカフェ会",
+    "event name": "韓国語オンラインカフェ会",
     "url": "https://www.meetup.com/ja-JP/kopanjapan/events/269808685/",
     "category": "other",
     "startAt": "2020-04-04T13:15:00+09:00",
@@ -3333,7 +3333,7 @@
   },
   {
     "group name": "ENGLISH ONLY CAFE",
-    "event name": "ENGLISH ”ONLINE\" MEETUP = 『無料』英語オンライン交流会",
+    "event name": "ENGLISH ”ONLINE\" MEETUP = 英語オンライン交流会",
     "url": "https://www.meetup.com/ja-JP/meetup-group-VnEbiben/events/ntdgrrybcgbgb/",
     "category": "other",
     "startAt": "2020-04-04T14:00:00+09:00",
@@ -3346,11 +3346,11 @@
   },
   {
     "group name": "ENGLISH ONLY CAFE",
-    "event name": "ENGLISH ”ONLINE\" MEETUP = 『無料』英語オンライン交流会",
+    "event name": "JAPANESE ”ONLINE\" MEETUP = 日本語オンライン交流会",
     "url": "https://www.meetup.com/ja-JP/meetup-group-VnEbiben/events/wtdgrrybcgbgb/",
     "category": "other",
-    "startAt": "2020-04-04T14:15:00+09:00",
-    "endAt": "2020-04-04T14:00:00+09:00",
+    "startAt": "2020-04-04T15:30:00+09:00",
+    "endAt": "2020-04-04T16:15:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
     "hashtag": "",
     "future": true,
