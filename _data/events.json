@@ -3310,11 +3310,11 @@
     "url": "https://www.meetup.com/meetup-group-VnEbiben/events/269808533/",
     "category": "other",
     "startAt": "2020-04-03T20:00:00+09:00",
-    "endAt": "2020-04-03T02:45:00+09:00",
+    "endAt": "2020-04-03T20:45:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
     "hashtag": "",
     "today": true,
-    "future": false,
+    "future": true,
     "date": "2020-04-03",
     "color": "grey"
   },
