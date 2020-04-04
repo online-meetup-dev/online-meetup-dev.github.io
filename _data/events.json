@@ -3249,34 +3249,6 @@
     "color": "skyblue"
   },
   {
-    "group name": "ENGLISH ONLY CAFE",
-    "event name": "ENGLISH ”ONLINE\" MEETUP = 英語オンライン交流会",
-    "url": "https://www.meetup.com/ja-JP/meetup-group-VnEbiben/events/ntdgrrybcgbgb/",
-    "category": "other",
-    "startAt": "2020-04-04T14:00:00+09:00",
-    "endAt": "2020-04-04T14:45:00+09:00",
-    "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
-    "hashtag": "",
-    "today": true,
-    "future": false,
-    "date": "2020-04-04",
-    "color": "grey"
-  },
-  {
-    "group name": "ENGLISH ONLY CAFE",
-    "event name": "JAPANESE ”ONLINE\" MEETUP = 日本語オンライン交流会",
-    "url": "https://www.meetup.com/ja-JP/meetup-group-VnEbiben/events/wtdgrrybcgbgb/",
-    "category": "other",
-    "startAt": "2020-04-04T15:30:00+09:00",
-    "endAt": "2020-04-04T16:15:00+09:00",
-    "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
-    "hashtag": "",
-    "today": true,
-    "future": false,
-    "date": "2020-04-04",
-    "color": "grey"
-  },
-  {
     "group name": "Tokyo WordPress Meetup",
     "event name": "Tokyo WordPress Meetup オンライン- バージョン 5.4 ブロックエディターの主な変更点",
     "url": "https://www.meetup.com/ja-JP/Tokyo-WordPress-Meetup/events/269299922/",
@@ -3318,8 +3290,21 @@
   },
   {
     "group name": "ENGLISH ONLY CAFE",
-    "event name": "JAPANESE ”ONLINE\" MEETUP = 日本語オンライン交流会",
+    "event name": "英語オンリーオンライン交流会",
     "url": "https://www.meetup.com/ja-JP/meetup-group-VnEbiben/events/gqfgrrybcgbhb/",
+    "category": "other",
+    "startAt": "2020-04-05T15:30:00+09:00",
+    "endAt": "2020-04-05T16:15:00+09:00",
+    "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-05",
+    "color": "grey"
+  },
+  {
+    "group name": "ENGLISH ONLY CAFE",
+    "event name": "英語オンリーオンライン交流会",
+    "url": "",
     "category": "other",
     "startAt": "2020-04-05T15:30:00+09:00",
     "endAt": "2020-04-05T16:15:00+09:00",
