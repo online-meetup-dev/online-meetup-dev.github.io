@@ -3380,6 +3380,19 @@
     "color": "blue"
   },
   {
+    "group name": "ENGLISH ONLY CAFE",
+    "event name": "フランス語 / 日本語ランゲージエクスチェンジ",
+    "url": "",
+    "category": "other",
+    "startAt": "2020-04-11T13:15:00+09:00",
+    "endAt": "2020-04-11T13:15:00+09:00",
+    "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-11",
+    "color": "grey"
+  },
+  {
     "group name": "コロナ対策エンジニア",
     "event name": "30分でランチ勉強！Microsoft Power Appsでリモート出退勤管理アプリを作る",
     "url": "https://power-covid19.connpass.com/event/172167/",
