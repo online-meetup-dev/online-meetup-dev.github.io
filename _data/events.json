@@ -3329,34 +3329,6 @@
   },
   {
     "group name": "ENGLISH ONLY CAFE",
-    "event name": "韓国語オンラインカフェ会",
-    "url": "https://www.meetup.com/ja-JP/kopanjapan/events/269808685/",
-    "category": "other",
-    "startAt": "2020-04-04T13:15:00+09:00",
-    "endAt": "2020-04-04T14:00:00+09:00",
-    "image": "https://secure.meetupstatic.com/photos/event/b/d/7/7/highres_490008503.jpeg",
-    "hashtag": "",
-    "today": true,
-    "future": true,
-    "date": "2020-04-04",
-    "color": "grey"
-  },
-  {
-    "group name": "ENGLISH ONLY CAFE",
-    "event name": "ENGLISH ”ONLINE\" MEETUP = 英語オンライン交流会",
-    "url": "https://www.meetup.com/ja-JP/meetup-group-VnEbiben/events/ntdgrrybcgbgb/",
-    "category": "other",
-    "startAt": "2020-04-04T14:00:00+09:00",
-    "endAt": "2020-04-04T14:45:00+09:00",
-    "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
-    "hashtag": "",
-    "today": true,
-    "future": true,
-    "date": "2020-04-04",
-    "color": "grey"
-  },
-  {
-    "group name": "ENGLISH ONLY CAFE",
     "event name": "ENGLISH ”ONLINE\" MEETUP = 英語オンライン交流会",
     "url": "https://www.meetup.com/ja-JP/meetup-group-VnEbiben/events/ntdgrrybcgbgb/",
     "category": "other",
@@ -3410,6 +3382,32 @@
     "future": true,
     "date": "2020-04-04",
     "color": "#227397"
+  },
+  {
+    "group name": "ENGLISH ONLY CAFE",
+    "event name": "韓国語オンラインカフェ会",
+    "url": "https://www.meetup.com/ja-JP/kopanjapan/events/zqfgrrybcgbhb/",
+    "category": "other",
+    "startAt": "2020-04-05T13:15:00+09:00",
+    "endAt": "2020-04-05T14:00:00+09:00",
+    "image": "https://secure.meetupstatic.com/photos/event/b/d/7/7/highres_490008503.jpeg",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-05",
+    "color": "grey"
+  },
+  {
+    "group name": "ENGLISH ONLY CAFE",
+    "event name": "ENGLISH ”ONLINE\" MEETUP = 英語オンライン交流会",
+    "url": "https://www.meetup.com/ja-JP/meetup-group-VnEbiben/events/ntdgrrybcgbgb/",
+    "category": "other",
+    "startAt": "2020-04-05T14:00:00+09:00",
+    "endAt": "2020-04-04T14:45:00+09:00",
+    "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-05",
+    "color": "grey"
   },
   {
     "group name": "Google",
