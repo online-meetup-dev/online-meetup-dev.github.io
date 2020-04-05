@@ -3313,7 +3313,7 @@
     "image": "https://secure.meetupstatic.com/photos/event/c/6/f/2/highres_490010930.jpeg",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-04-05",
     "color": "grey"
   },
