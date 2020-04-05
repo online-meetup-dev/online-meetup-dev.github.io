@@ -3305,6 +3305,34 @@
   },
   {
     "group name": "ENGLISH ONLY CAFE",
+    "event name": "英語オンリー交流会",
+    "url": "https://www.meetup.com/ja-JP/meetup-group-VnEbiben/events/gqfgrrybcgbhb/",
+    "category": "other",
+    "startAt": "2020-04-05T15:30:00+09:00",
+    "endAt": "2020-04-05T16:15:00+09:00",
+    "image": "https://secure.meetupstatic.com/photos/event/c/6/d/f/highres_490010911.jpeg",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-04-05",
+    "color": "grey"
+  },
+  {
+    "group name": "ENGLISH ONLY CAFE",
+    "event name": "日本語オンリー交流会",
+    "url": "https://www.meetup.com/ja-JP/meetup-group-VnEbiben/events/kqfgrrybcgbhb/",
+    "category": "other",
+    "startAt": "2020-04-05T18:30:00+09:00",
+    "endAt": "2020-04-05T19:15:00+09:00",
+    "image": "https://secure.meetupstatic.com/photos/event/c/6/f/2/highres_490010930.jpeg",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-04-05",
+    "color": "grey"
+  },
+  {
+    "group name": "ENGLISH ONLY CAFE",
     "event name": "日本語オンリー交流会",
     "url": "https://www.meetup.com/ja-JP/meetup-group-VnEbiben/events/kqfgrrybcgbhb/",
     "category": "other",
@@ -3329,6 +3357,19 @@
     "future": true,
     "date": "2020-04-06",
     "color": "#F2CB61"
+  },
+  {
+    "group name": "ENGLISH ONLY CAFE",
+    "event name": "英語 / 日本語ランゲージエクスチェンジ",
+    "url": "https://www.meetup.com/ja-JP/meetup-group-VnEbiben/events/jpfgrrybcgbhb/",
+    "category": "other",
+    "startAt": "2020-04-07T17:00:00+09:00",
+    "endAt": "2020-04-05T14:45:00+09:00",
+    "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-07",
+    "color": "grey"
   },
   {
     "group name": "DevRel Meetup in Tokyo",
