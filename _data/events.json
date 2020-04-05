@@ -3271,7 +3271,7 @@
     "image": "https://secure.meetupstatic.com/photos/event/b/d/7/7/highres_490008503.jpeg",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-04-05",
     "color": "grey"
   },
