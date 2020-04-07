@@ -3350,7 +3350,7 @@
     "image": "https://secure.meetupstatic.com/photos/event/c/6/d/f/highres_490010911.jpeg",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-04-07",
     "color": "grey"
   },
