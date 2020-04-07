@@ -3322,7 +3322,7 @@
     "endAt": "Wed Apr 08 2020 00:00:00 GMT+0900 (日本標準時)",
     "image": "https://storage.googleapis.com/gweb-cloudnext2020.appspot.com/event-assets/sf/home/digital-experience-leaders-2.jpg",
     "hashtag": "",
-    "future": true,
+    "future": false,
     "date": "2020-04-06",
     "color": "#F2CB61"
   },
@@ -3335,7 +3335,6 @@
     "endAt": "2020-04-07T17:45:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-04-07",
     "color": "grey"
@@ -3349,7 +3348,6 @@
     "endAt": "2020-04-07T18:30:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/c/6/d/f/highres_490010911.jpeg",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-04-07",
     "color": "grey"
@@ -3363,7 +3361,6 @@
     "endAt": "2020-04-07T19:41:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/c/6/f/2/highres_490010930.jpeg",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-04-07",
     "color": "grey"
@@ -3377,7 +3374,6 @@
     "endAt": "2020-04-07T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/84/49/844939484346e3b2463f94cf4d83a21c.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-04-07",
     "color": "#147d3c"
@@ -3391,6 +3387,7 @@
     "endAt": "2020-04-08T12:45:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/46/62/4662b2fd59074664a87bc38a70d5f56e.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-04-08",
     "color": "blue"
