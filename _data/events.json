@@ -3498,13 +3498,13 @@
   },
   {
     "group name": "WP ZoomUP",
-    "event name": "#38 動画活用を始めてみよう！",
+    "event name": "WP ZoomUP #38 動画活用を始めてみよう！",
     "url": "https://wpzoom.connpass.com/event/171010/",
     "category": "video",
     "startAt": "2020-04-17T21:00:00+09:00",
     "endAt": "2020-04-17T23:00:00+09:00",
     "image": "https://wpzoom.connpass.com/event/171010/",
-    "hashtag": "",
+    "hashtag": "#wpzoomup",
     "future": true,
     "date": "2020-04-17",
     "color": "#333"
