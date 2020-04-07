@@ -3,13 +3,14 @@
     "group name": "WP ZoomUP",
     "event name": "#38 動画活用を始めてみよう！",
     "url": "https://wpzoom.connpass.com/event/171010/",
-    "category": "",
+    "category": "video",
     "startAt": "",
     "endAt": "",
-    "image": "",
+    "image": "https://wpzoom.connpass.com/event/171010/",
     "hashtag": "",
     "future": false,
-    "date": "NaN-aN-aN"
+    "date": "NaN-aN-aN",
+    "color": "#333"
   },
   {
     "group name": "Meetup video shooting Meetup",
