@@ -3393,6 +3393,19 @@
     "color": "blue"
   },
   {
+    "group name": "ENGLISH ONLY CAFE",
+    "event name": "オンライン国際交流会",
+    "url": "https://www.meetup.com/ja-JP/englishonlycafe/events/269723199/",
+    "category": "other",
+    "startAt": "2020-04-09T11:00:00+09:00",
+    "endAt": "2020-04-11T20:50:00+09:00",
+    "image": "https://secure.meetupstatic.com/photos/event/c/6/c/2/highres_490010882.jpeg",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-09",
+    "color": "grey"
+  },
+  {
     "group name": "LINE Developer Community",
     "event name": "【オンライン】ノンコードでどこまでできる？Azure×LINEでチャットボットとミニアプリ開発しよう",
     "url": "https://linedevelopercommunity.connpass.com/event/170570/",
@@ -3417,19 +3430,6 @@
     "future": true,
     "date": "2020-04-10",
     "color": "blue"
-  },
-  {
-    "group name": "ENGLISH ONLY CAFE",
-    "event name": "オンライン国際交流会",
-    "url": "https://www.meetup.com/ja-JP/englishonlycafe/events/269723199/",
-    "category": "other",
-    "startAt": "2020-04-11T13:15:00+09:00",
-    "endAt": "2020-04-11T14:00:00+09:00",
-    "image": "https://secure.meetupstatic.com/photos/event/c/6/c/2/highres_490010882.jpeg",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-04-11",
-    "color": "grey"
   },
   {
     "group name": "コロナ対策エンジニア",
