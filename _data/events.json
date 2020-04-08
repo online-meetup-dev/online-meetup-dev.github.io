@@ -3387,7 +3387,6 @@
     "endAt": "2020-04-08T12:45:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/46/62/4662b2fd59074664a87bc38a70d5f56e.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-04-08",
     "color": "blue"
@@ -3401,6 +3400,7 @@
     "endAt": "2020-04-09T20:50:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-04-09",
     "color": "grey"
@@ -3414,6 +3414,7 @@
     "endAt": "2020-04-09T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/82/fb/82fb4c89acb9fcf48cb225c7ee8834fd.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-04-09",
     "color": "#00ABEB"
