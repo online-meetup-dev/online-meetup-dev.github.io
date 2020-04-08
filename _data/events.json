@@ -1,18 +1,5 @@
 [
   {
-    "group name": "",
-    "event name": "",
-    "url": "https://yokohamait.connpass.com/event/172724/",
-    "category": "other",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "hashtag": "",
-    "future": false,
-    "date": "NaN-aN-aN",
-    "color": "grey"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -3465,6 +3452,19 @@
     "startAt": "2020-04-11T11:00:00+09:00",
     "endAt": "2020-04-11T20:50:00+09:00",
     "image": "https://secure.meetupstatic.com/photos/event/9/d/2/f/highres_490000239.jpeg",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-11",
+    "color": "grey"
+  },
+  {
+    "group name": "",
+    "event name": "",
+    "url": "https://yokohamait.connpass.com/event/172724/",
+    "category": "other",
+    "startAt": "2020-04-11T12:50:00+09:00",
+    "endAt": "2020-04-11T12:50:00+09:00",
+    "image": "",
     "hashtag": "",
     "future": true,
     "date": "2020-04-11",
