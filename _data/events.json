@@ -3415,7 +3415,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/82/fb/82fb4c89acb9fcf48cb225c7ee8834fd.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-04-09",
     "color": "#00ABEB"
   },
