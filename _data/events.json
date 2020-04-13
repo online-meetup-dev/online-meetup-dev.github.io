@@ -1,18 +1,5 @@
 [
   {
-    "group name": ".NETラボ",
-    "event name": ".NETラボ 勉強会 2020年4月",
-    "url": "https://dotnetlab.connpass.com/event/172038/",
-    "category": "conference",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "hashtag": "",
-    "future": false,
-    "date": "NaN-aN-aN",
-    "color": "#F2CB61"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -3587,6 +3574,19 @@
     "future": true,
     "date": "2020-04-22",
     "color": "#84ABBC"
+  },
+  {
+    "group name": ".NETラボ",
+    "event name": ".NETラボ 勉強会 2020年4月",
+    "url": "https://dotnetlab.connpass.com/event/172038/",
+    "category": "conference",
+    "startAt": "2020-04-25T13:30:00+09:00",
+    "endAt": "2020-04-25T18:00:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-25",
+    "color": "#F2CB61"
   },
   {
     "group name": "ログ分析勉強会",
