@@ -1,18 +1,5 @@
 [
   {
-    "group name": "KWC/Twilio Japan",
-    "event name": "【Twilio】エバチャンネル ONLINE Vol.1",
-    "url": "https://twilio.connpass.com/event/172642/",
-    "category": "cloud",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "hashtag": "",
-    "future": false,
-    "date": "NaN-aN-aN",
-    "color": "blue"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -3547,6 +3534,19 @@
     "hashtag": "",
     "future": true,
     "date": "2020-04-15",
+    "color": "blue"
+  },
+  {
+    "group name": "KWC/Twilio Japan",
+    "event name": "【Twilio】エバチャンネル ONLINE Vol.1",
+    "url": "https://twilio.connpass.com/event/172642/",
+    "category": "cloud",
+    "startAt": "2020-04-16T19:00:00",
+    "endAt": "2020-04-16T20:00:00",
+    "image": "https://twilio.connpass.com/event/172642/",
+    "hashtag": "#twiliojp",
+    "future": true,
+    "date": "2020-04-16",
     "color": "blue"
   },
   {
