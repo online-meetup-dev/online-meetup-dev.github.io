@@ -2,14 +2,15 @@
   {
     "group name": "KWC/Twilio Japan",
     "event name": "【Twilio】エバチャンネル ONLINE Vol.1",
-    "url": "",
-    "category": "",
+    "url": "https://twilio.connpass.com/event/172642/",
+    "category": "cloud",
     "startAt": "",
     "endAt": "",
     "image": "",
     "hashtag": "",
     "future": false,
-    "date": "NaN-aN-aN"
+    "date": "NaN-aN-aN",
+    "color": "blue"
   },
   {
     "group name": "Meetup video shooting Meetup",
