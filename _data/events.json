@@ -3517,7 +3517,6 @@
     "endAt": "2020-04-14T21:10:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-04-14",
     "color": "#BB1904"
@@ -3531,6 +3530,7 @@
     "endAt": "2020-04-15T12:45:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/46/62/4662b2fd59074664a87bc38a70d5f56e.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-04-15",
     "color": "blue"
