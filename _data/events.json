@@ -3530,7 +3530,6 @@
     "endAt": "2020-04-15T12:45:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/46/62/4662b2fd59074664a87bc38a70d5f56e.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-04-15",
     "color": "blue"
@@ -3544,6 +3543,7 @@
     "endAt": "2020-04-16T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2e/6f/2e6fd6fa32a42b1d65f3c82ebdf6eb80.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-04-16",
     "color": "red"
