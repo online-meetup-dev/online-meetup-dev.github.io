@@ -3570,7 +3570,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f4/0c/f40c87632fb361da8e1e7f4a3c2c7654.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-04-22",
     "color": "#84ABBC"
   },
