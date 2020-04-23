@@ -3600,6 +3600,18 @@
     "color": "grey"
   },
   {
+    "group name": "すごい広島",
+    "event name": "すごい広島362 with Python[37] オンライン開催",
+    "url": "https://great-h.connpass.com/event/173997/",
+    "category": "",
+    "startAt": "2020-04-29T19:00:00+09:00",
+    "endAt": "2020-04-29T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a7/ba/a7bacdf1dd29d82dc879bd001daaae8d.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-04-29"
+  },
+  {
     "group name": "Coindesk",
     "event name": "Consensus",
     "url": "https://www.coindesk.com/events/consensus-2020",
