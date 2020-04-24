@@ -3582,6 +3582,7 @@
     "endAt": "2020-04-25T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/06/70/0670907336ae10822175537ec2344aee.png",
     "hashtag": "#dotnetlab",
+    "today": true,
     "future": true,
     "date": "2020-04-25",
     "color": "#F2CB61"
