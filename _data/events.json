@@ -3583,7 +3583,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/06/70/0670907336ae10822175537ec2344aee.png",
     "hashtag": "#dotnetlab",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-04-25",
     "color": "#F2CB61"
   },
