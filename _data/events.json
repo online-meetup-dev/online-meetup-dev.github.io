@@ -3595,6 +3595,7 @@
     "endAt": "2020-04-27T21:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-04-27",
     "color": "grey"
