@@ -1,5 +1,18 @@
 [
   {
+    "group name": "",
+    "event name": "もくもく会@オンライン 2020年5月版",
+    "url": "https://sidebeachcity.connpass.com/event/173933/",
+    "category": "mokumoku",
+    "startAt": "",
+    "endAt": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f1/95/f195d978ffac29dc4a16180395c6a36b.png",
+    "hashtag": "",
+    "future": false,
+    "date": "NaN-aN-aN",
+    "color": "#B8D59E"
+  },
+  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -3460,14 +3473,14 @@
     "group name": "横浜IT勉強会",
     "event name": "テクノロジー井戸端会議@ Webおためし版",
     "url": "https://yokohamait.connpass.com/event/172724/",
-    "category": "other",
+    "category": "mokumoku",
     "startAt": "2020-04-11T12:50:00+09:00",
     "endAt": "2020-04-11T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/11/06/110601530027d15703f4a5c1708f4101.png",
     "hashtag": "",
     "future": false,
     "date": "2020-04-11",
-    "color": "grey"
+    "color": "#B8D59E"
   },
   {
     "group name": "ENGLISH ONLY CAFE",
