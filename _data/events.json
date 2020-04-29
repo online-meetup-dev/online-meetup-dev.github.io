@@ -3627,15 +3627,16 @@
     "color": "#b48484"
   },
   {
-    "group name": "",
-    "event name": "",
+    "group name": "横浜IT勉強会",
+    "event name": "ビデオ会議ツール勉強会",
     "url": "https://yokohamait.connpass.com/event/174938/",
-    "category": "ビデオ会議ツール勉強会",
+    "category": "conference",
     "startAt": "2020-05-23T19:40:00",
     "endAt": "2020-05-23T21:55:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6d/dc/6ddc382ba6dbeb67768d33ddb45702a8.png",
     "hashtag": "#vmeetingtool",
     "future": true,
-    "date": "2020-05-23"
+    "date": "2020-05-23",
+    "color": "#F2CB61"
   }
 ]
