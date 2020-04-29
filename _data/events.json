@@ -1,18 +1,5 @@
 [
   {
-    "group name": "",
-    "event name": "もくもく会@オンライン 2020年5月版",
-    "url": "https://sidebeachcity.connpass.com/event/173933/",
-    "category": "mokumoku",
-    "startAt": "",
-    "endAt": "",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f1/95/f195d978ffac29dc4a16180395c6a36b.png",
-    "hashtag": "",
-    "future": false,
-    "date": "NaN-aN-aN",
-    "color": "#B8D59E"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -3624,6 +3611,19 @@
     "future": false,
     "date": "2020-04-29",
     "color": "purple"
+  },
+  {
+    "group name": "",
+    "event name": "もくもく会@オンライン 2020年5月版",
+    "url": "https://sidebeachcity.connpass.com/event/173933/",
+    "category": "mokumoku",
+    "startAt": "2020-05-02T12:30:00",
+    "endAt": "2020-05-02T16:30:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f1/95/f195d978ffac29dc4a16180395c6a36b.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-05-02",
+    "color": "#B8D59E"
   },
   {
     "group name": "Coindesk",
