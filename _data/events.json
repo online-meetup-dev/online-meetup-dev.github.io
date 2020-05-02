@@ -1,18 +1,5 @@
 [
   {
-    "group name": "株式会社Aidemy",
-    "event name": "エンジニアリングmeetup　～エンジニアが語る新サービス「modeloy」の裏側～",
-    "url": "",
-    "category": "python",
-    "startAt": "",
-    "endAt": "",
-    "image": "",
-    "hashtag": "",
-    "future": false,
-    "date": "NaN-aN-aN",
-    "color": "purple"
-  },
-  {
     "group name": "Meetup video shooting Meetup",
     "event name": "Meetup video shooting Meetup #1",
     "url": "https://connpass.com/event/163347/",
@@ -3638,6 +3625,19 @@
     "future": false,
     "date": "2020-05-02",
     "color": "#B8D59E"
+  },
+  {
+    "group name": "株式会社Aidemy",
+    "event name": "エンジニアリングmeetup　～エンジニアが語る新サービス「modeloy」の裏側～",
+    "url": "https://aidemy.connpass.com/event/175286/",
+    "category": "python",
+    "startAt": "2020-05-08T18:00:00",
+    "endAt": "2020-05-08T19:00:00",
+    "image": "",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-05-08",
+    "color": "purple"
   },
   {
     "group name": "Coindesk",
