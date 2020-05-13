@@ -2444,19 +2444,6 @@
     "color": "#227397"
   },
   {
-    "group name": "WP ZoomUP",
-    "event name": "WP ZoomUP #37 WordPressってどういうもの？（後編） 大質問大会！",
-    "url": "https://wpzoom.connpass.com/event/169220/",
-    "category": "wordpress",
-    "startAt": "2020-03-18T21:00:00+09:00",
-    "endAt": "2020-03-18T23:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/48/d6/48d6f9aa3f8e1c975b0296645504aad4.png",
-    "hashtag": "",
-    "future": false,
-    "date": "2020-03-18",
-    "color": "#227397"
-  },
-  {
     "group name": "ワードプレステーマ Nishiki",
     "event name": "Nishiki もくもく勉強会 オンライン #7 ブログ執筆/カスタマイズ/質問/雑談もOK",
     "url": "https://wpnishiki.connpass.com/event/170664/",
@@ -3663,6 +3650,19 @@
     "future": false,
     "date": "2020-05-11",
     "color": "#b48484"
+  },
+  {
+    "group name": "WP ZoomUP",
+    "event name": "#41 WP ZoomUP 座談会 WordPressに関して質問しよう・教えあおう！",
+    "url": "https://wpzoom.connpass.com/event/175447/",
+    "category": "wordpress",
+    "startAt": "2020-05-22T21:00:00+09:00",
+    "endAt": "2020-05-22T23:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/48/d6/48d6f9aa3f8e1c975b0296645504aad4.png",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-05-22",
+    "color": "#227397"
   },
   {
     "group name": "横浜IT勉強会",
