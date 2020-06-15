@@ -3665,19 +3665,6 @@
     "color": "#227397"
   },
   {
-    "group name": "さくらインターネット 東京",
-    "event name": "さくらのみんな会議（仮）",
-    "url": "https://sakura-tokyo.connpass.com/event/179204/",
-    "category": "other",
-    "startAt": "2020-05-22T21:00:00+09:00",
-    "endAt": "2020-05-22T23:00:00+09:00",
-    "image": "https://wpzoomup.com/wp-content/uploads/2018/10/FB-fix.png",
-    "hashtag": "#wpzoomup",
-    "future": false,
-    "date": "2020-05-22",
-    "color": "grey"
-  },
-  {
     "group name": "横浜IT勉強会",
     "event name": "ビデオ会議ツール勉強会",
     "url": "https://yokohamait.connpass.com/event/174938/",
@@ -3689,5 +3676,18 @@
     "future": false,
     "date": "2020-05-23",
     "color": "#F2CB61"
+  },
+  {
+    "group name": "さくらインターネット 東京",
+    "event name": "さくらのみんな会議（仮）",
+    "url": "https://sakura-tokyo.connpass.com/event/179204/",
+    "category": "other",
+    "startAt": "2020-06-30T19:20:00+09:00",
+    "endAt": "2020-06-30T21:00:00+09:00",
+    "image": "https://wpzoomup.com/wp-content/uploads/2018/10/FB-fix.png",
+    "hashtag": "#wpzoomup",
+    "future": true,
+    "date": "2020-06-30",
+    "color": "grey"
   }
 ]
