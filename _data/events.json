@@ -3678,6 +3678,19 @@
     "color": "#F2CB61"
   },
   {
+    "group name": "さくらインターネット",
+    "event name": "さくらのみんな会議（仮）",
+    "url": "https://sakura-tokyo.connpass.com/event/179204/",
+    "category": "other",
+    "startAt": "2020-06-30T19:20:00+09:00",
+    "endAt": "2020-06-30T21:00:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2d/97/2d97d9a3524e74e73c52f7c660bf8af9.png",
+    "hashtag": "#さくらのイベント",
+    "future": true,
+    "date": "2020-06-30",
+    "color": "grey"
+  },
+  {
     "group name": "さくらインターネット 東京",
     "event name": "さくらのみんな会議（仮）",
     "url": "https://sakura-tokyo.connpass.com/event/179204/",
