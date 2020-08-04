@@ -3866,13 +3866,14 @@
     "group name": "プログラミング言語Go読書会",
     "event name": "第3回『プログラミング言語Go』オンライン読書会",
     "url": "https://gpl-reading.connpass.com/event/181925/",
-    "category": "",
+    "category": "book",
     "startAt": "2020-08-01T13:00:00+09:00",
     "endAt": "2020-08-01T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e5/2f/e52fc62c387dbfc115d80ce75c12c2fc.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-01"
+    "date": "2020-08-01",
+    "color": "#B2834C"
   },
   {
     "group name": "ウェブフロンティア",
@@ -4465,13 +4466,14 @@
     "group name": "ナノフォトニクスで量子コンピュータを作りたい！",
     "event name": "ナノフォト量子|030>-密度行列とリウビリアン-",
     "url": "https://nanophoto-qc.connpass.com/event/184841/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-03T22:00:00+09:00",
     "endAt": "2020-08-03T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/57/33/5733052e2e4d9125c300705c0e122b0f.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-03"
+    "date": "2020-08-03",
+    "color": "#FAF79F"
   },
   {
     "group name": "真夜中の勉強会",
@@ -4699,14 +4701,15 @@
     "group name": "Japan Camel User Group",
     "event name": "第３２回Camel In Action 読書会＠オンライン",
     "url": "https://jcug-oss.connpass.com/event/184394/",
-    "category": "",
+    "category": "book",
     "startAt": "2020-08-04T19:00:00+09:00",
     "endAt": "2020-08-04T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/47/2f/472f854253243098986a5ef129423db8.png",
     "hashtag": "",
     "today": true,
     "future": true,
-    "date": "2020-08-04"
+    "date": "2020-08-04",
+    "color": "#B2834C"
   },
   {
     "group name": "さくらインターネット 東京",
@@ -4751,14 +4754,15 @@
     "group name": "「プロフェッショナルIPv6」読書会",
     "event name": "「プロフェッショナルIPv6」読書会(9)",
     "url": "https://read-ipv6.connpass.com/event/184674/",
-    "category": "",
+    "category": "book",
     "startAt": "2020-08-04T20:00:00+09:00",
     "endAt": "2020-08-04T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/34/71/3471a09ebd4a2228c3382d5d7e676f87.png",
     "hashtag": "",
     "today": true,
     "future": true,
-    "date": "2020-08-04"
+    "date": "2020-08-04",
+    "color": "#B2834C"
   },
   {
     "group name": "Drupal Meetup 豊田",
@@ -5100,13 +5104,14 @@
     "group name": "C#読書会",
     "event name": "（現在96%）.NETのエンタープライズ…Zoomオンライン読書会 Vol.47(第122回)",
     "url": "https://cs-reading.connpass.com/event/183918/",
-    "category": "",
+    "category": "book",
     "startAt": "2020-08-05T19:30:00+09:00",
     "endAt": "2020-08-05T21:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-05"
+    "date": "2020-08-05",
+    "color": "#B2834C"
   },
   {
     "group name": "React Native Tech Blog",
@@ -5308,13 +5313,14 @@
     "group name": "弁護士ドットコム",
     "event name": "RESTful WEB APIs読書会 第9回【オンライン開催】",
     "url": "https://bengo4.connpass.com/event/184387/",
-    "category": "",
+    "category": "book",
     "startAt": "2020-08-06T19:00:00+09:00",
     "endAt": "2020-08-06T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/06/be/06be71de1ffcd4717ab60e184b46e774.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-06"
+    "date": "2020-08-06",
+    "color": "#B2834C"
   },
   {
     "group name": "GYOMU Hackers Guild",
@@ -5478,13 +5484,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(量子ビットの初歩から)",
     "url": "https://qnn.connpass.com/event/184091/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-07T11:00:00+09:00",
     "endAt": "2020-08-07T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-07"
+    "date": "2020-08-07",
+    "color": "#FAF79F"
   },
   {
     "group name": "AAJUG (Amazon Alexa とそのまわりのVoice好きが集まる ユーザーコミュニティ)",
@@ -5636,13 +5643,14 @@
     "group name": "ナノフォトニクスで量子コンピュータを作りたい！",
     "event name": "ナノフォト量子|031>-密度行列とリウビリアン2-",
     "url": "https://nanophoto-qc.connpass.com/event/184964/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-07T22:00:00+09:00",
     "endAt": "2020-08-07T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/57/33/5733052e2e4d9125c300705c0e122b0f.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-07"
+    "date": "2020-08-07",
+    "color": "#FAF79F"
   },
   {
     "group name": "YTS inc.",
@@ -5798,13 +5806,14 @@
     "group name": "Effective Java 第3版読書会",
     "event name": "第3回『Effective Java 第3版』オンライン読書会",
     "url": "https://ej3e-reading.connpass.com/event/183443/",
-    "category": "",
+    "category": "book",
     "startAt": "2020-08-08T13:00:00+09:00",
     "endAt": "2020-08-08T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ba/06/ba061ff53fd3b69fdfdc07dfe0d05e4b.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-08"
+    "date": "2020-08-08",
+    "color": "#B2834C"
   },
   {
     "group name": "アジアクエスト株式会社",
@@ -6210,13 +6219,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(複数量子ビットともつれ)",
     "url": "https://qnn.connpass.com/event/184093/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-10T11:00:00+09:00",
     "endAt": "2020-08-10T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-10"
+    "date": "2020-08-10",
+    "color": "#FAF79F"
   },
   {
     "group name": "PRINCIPIA",
@@ -6285,13 +6295,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(量子アルゴリズム1)",
     "url": "https://qnn.connpass.com/event/184094/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-11T11:00:00+09:00",
     "endAt": "2020-08-11T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-11"
+    "date": "2020-08-11",
+    "color": "#FAF79F"
   },
   {
     "group name": "LWUG (LINE WORKS USER GROUP)",
@@ -6419,13 +6430,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(量子アルゴリズム2)",
     "url": "https://qnn.connpass.com/event/184096/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-12T11:00:00+09:00",
     "endAt": "2020-08-12T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-12"
+    "date": "2020-08-12",
+    "color": "#FAF79F"
   },
   {
     "group name": "メルカリ／Mercari",
@@ -6565,13 +6577,14 @@
     "group name": "『実用Common Lisp』読書会",
     "event name": "『実用Common Lisp』読書会(59)",
     "url": "https://jitsucl.connpass.com/event/184675/",
-    "category": "",
+    "category": "book",
     "startAt": "2020-08-12T20:00:00+09:00",
     "endAt": "2020-08-12T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c1/72/c172d6b598253ff2df39d05ff751bef0.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-12"
+    "date": "2020-08-12",
+    "color": "#B2834C"
   },
   {
     "group name": "Serverless",
@@ -6626,13 +6639,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(HHLからグローバーまで)",
     "url": "https://qnn.connpass.com/event/184097/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-13T11:00:00+09:00",
     "endAt": "2020-08-13T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-13"
+    "date": "2020-08-13",
+    "color": "#FAF79F"
   },
   {
     "group name": "株式会社SmartHR",
@@ -6861,13 +6875,14 @@
     "group name": "「低レイヤを知りたい人のためのCコンパイラ作成入門」読書会",
     "event name": "「低レイヤを知りたい人のためのCコンパイラ作成入門」読書会(10)",
     "url": "https://c-compiler.connpass.com/event/184676/",
-    "category": "",
+    "category": "book",
     "startAt": "2020-08-15T13:00:00+09:00",
     "endAt": "2020-08-15T16:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-15"
+    "date": "2020-08-15",
+    "color": "#B2834C"
   },
   {
     "group name": "【GraphQL入門】GraphQLを実際に使って学ぶ勉強会",
@@ -7035,13 +7050,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(エラー訂正の基礎から量子ボリュームまで)",
     "url": "https://qnn.connpass.com/event/184099/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-17T11:00:00+09:00",
     "endAt": "2020-08-17T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-17"
+    "date": "2020-08-17",
+    "color": "#FAF79F"
   },
   {
     "group name": "OthloTech",
@@ -7085,13 +7101,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(パルス制御、量子回路のハードウェア)",
     "url": "https://qnn.connpass.com/event/184100/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-18T11:00:00+09:00",
     "endAt": "2020-08-18T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-18"
+    "date": "2020-08-18",
+    "color": "#FAF79F"
   },
   {
     "group name": "BPStudy",
@@ -7182,13 +7199,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(為替最適化、ポートフォリオ最適化)",
     "url": "https://qnn.connpass.com/event/184101/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-19T11:00:00+09:00",
     "endAt": "2020-08-19T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-19"
+    "date": "2020-08-19",
+    "color": "#FAF79F"
   },
   {
     "group name": "キャディ株式会社",
@@ -7389,13 +7407,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(各種オプション計算)",
     "url": "https://qnn.connpass.com/event/184102/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-20T11:00:00+09:00",
     "endAt": "2020-08-20T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-20"
+    "date": "2020-08-20",
+    "color": "#FAF79F"
   },
   {
     "group name": "ヒンシツ大学",
@@ -7571,13 +7590,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(イオントラップとHoloVQE)",
     "url": "https://qnn.connpass.com/event/184103/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-21T11:00:00+09:00",
     "endAt": "2020-08-21T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-21"
+    "date": "2020-08-21",
+    "color": "#FAF79F"
   },
   {
     "group name": "OSPN(Open Source People Network)",
@@ -7927,13 +7947,14 @@
     "group name": "黒本先生のやさしくないJava!?コミュニティ",
     "event name": "More Effective Agile オンライン読書会",
     "url": "https://javakuro.connpass.com/event/184005/",
-    "category": "",
+    "category": "book",
     "startAt": "2020-08-22T19:00:00+09:00",
     "endAt": "2020-08-22T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/44/5f/445fcba94d0ee3a1cc72bad41b74bc56.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-22"
+    "date": "2020-08-22",
+    "color": "#B2834C"
   },
   {
     "group name": "IoT研究会",
@@ -8188,13 +8209,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(生成モデル、量子GAN)",
     "url": "https://qnn.connpass.com/event/184105/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-25T11:00:00+09:00",
     "endAt": "2020-08-25T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-25"
+    "date": "2020-08-25",
+    "color": "#FAF79F"
   },
   {
     "group name": "IBM Developer Dojo",
@@ -8309,13 +8331,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(SVDとニューラルネットワーク)",
     "url": "https://qnn.connpass.com/event/184106/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-26T11:00:00+09:00",
     "endAt": "2020-08-26T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-26"
+    "date": "2020-08-26",
+    "color": "#FAF79F"
   },
   {
     "group name": "IBM Developer Dojo",
@@ -8466,13 +8489,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(クラスタリングとデータ処理)",
     "url": "https://qnn.connpass.com/event/184107/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-27T11:00:00+09:00",
     "endAt": "2020-08-27T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-27"
+    "date": "2020-08-27",
+    "color": "#FAF79F"
   },
   {
     "group name": "JAWS-UG CLI専門支部",
@@ -8624,13 +8648,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編（金融信用リスク分析）",
     "url": "https://qnn.connpass.com/event/184572/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-28T11:00:00+09:00",
     "endAt": "2020-08-28T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-28"
+    "date": "2020-08-28",
+    "color": "#FAF79F"
   },
   {
     "group name": "Hack U",
@@ -8660,13 +8685,14 @@
     "group name": "Nextremer勉強会",
     "event name": "第六回（最終回）トポロジカル量子計算とその周辺",
     "url": "https://nextremer.connpass.com/event/183387/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-28T18:30:00+09:00",
     "endAt": "2020-08-28T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a3/02/a302f388007eaee2ece75c66e687cf71.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-28"
+    "date": "2020-08-28",
+    "color": "#FAF79F"
   },
   {
     "group name": "ROS Japan UG",
@@ -8917,13 +8943,14 @@
     "group name": "ヘイヘイHaskell騎士団",
     "event name": "(オンライン) 第15回『Haskellによる関数プログラミングの思考法』読書会",
     "url": "https://sampou.connpass.com/event/184768/",
-    "category": "",
+    "category": "book",
     "startAt": "2020-08-30T13:00:00+09:00",
     "endAt": "2020-08-30T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5e/48/5e482d5812245893f3235e4158ca06bc.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-30"
+    "date": "2020-08-30",
+    "color": "#B2834C"
   },
   {
     "group name": "#hiro_it",
@@ -9015,13 +9042,14 @@
     "group name": "プログラミング言語Go読書会",
     "event name": "第4回『プログラミング言語Go』オンライン読書会",
     "url": "https://gpl-reading.connpass.com/event/184789/",
-    "category": "",
+    "category": "book",
     "startAt": "2020-09-05T13:00:00+09:00",
     "endAt": "2020-09-05T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e5/2f/e52fc62c387dbfc115d80ce75c12c2fc.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-09-05"
+    "date": "2020-09-05",
+    "color": "#B2834C"
   },
   {
     "group name": "Hack U",
