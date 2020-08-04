@@ -3925,13 +3925,14 @@
     "group name": "CoderDojo太宰府",
     "event name": "第17回 CoderDojo太宰府【オンライン・会場開催】",
     "url": "https://coderdojo-dazaifu.connpass.com/event/183968/",
-    "category": "",
+    "category": "coderdojo",
     "startAt": "2020-08-01T14:00:00+09:00",
     "endAt": "2020-08-01T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/40/57/4057b8c05e96e7e9249863830e839e79.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-01"
+    "date": "2020-08-01",
+    "color": "#2175C9"
   },
   {
     "group name": "PRINCIPIA",
@@ -3997,13 +3998,14 @@
     "group name": "CoderDojo中央林間",
     "event name": "[オンライン] 第１３回　CoderDojo中央林間（Zoom道場）",
     "url": "https://coderdojo-chuo-rinkan.connpass.com/event/183924/",
-    "category": "",
+    "category": "coderdojo",
     "startAt": "2020-08-01T17:30:00+09:00",
     "endAt": "2020-08-01T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/64/d3/64d3a4d4f435d5e8047a5c9fa31eb1d4.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-01"
+    "date": "2020-08-01",
+    "color": "#2175C9"
   },
   {
     "group name": "ぶっつけ本番でモデリングしてみる配信",
@@ -4158,13 +4160,14 @@
     "group name": "CoderDojo 港北NT",
     "event name": "オンライン開催でAI(画像認識)にトライ！2020/8/2CoderDojo港北ニュータウン第17回",
     "url": "https://coderdojo-kohokunt.connpass.com/event/183527/",
-    "category": "",
+    "category": "coderdojo",
     "startAt": "2020-08-02T14:00:00+09:00",
     "endAt": "2020-08-02T15:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/44/9d/449dc17bb3d7fa52ab0b3e7cbe6f36e8.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-02"
+    "date": "2020-08-02",
+    "color": "#2175C9"
   },
   {
     "group name": "EngineerCafe",
@@ -5025,13 +5028,14 @@
     "group name": "DevRel Meetup in Tokyo",
     "event name": "DevRel Meetup in Tokyo #54 〜ポストコロナの開発者向けマーケティング〜",
     "url": "https://devrel.connpass.com/event/181459/",
-    "category": "",
+    "category": "devrel",
     "startAt": "2020-08-05T19:00:00+09:00",
     "endAt": "2020-08-05T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d8/a3/d8a3e8722541a979e340f9ad8309d567.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-05"
+    "date": "2020-08-05",
+    "color": "#147d3c"
   },
   {
     "group name": "アジアクエスト株式会社",
@@ -5818,13 +5822,14 @@
     "group name": "CoderDojo鹿児島",
     "event name": "第13回 CoderDojo鹿児島オンライン",
     "url": "https://coderdojo-kagoshima.connpass.com/event/184947/",
-    "category": "",
+    "category": "coderdojo",
     "startAt": "2020-08-08T14:00:00+09:00",
     "endAt": "2020-08-08T15:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/25/26/2526dc13b31fe1db6dfd4b018f478a36.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-08"
+    "date": "2020-08-08",
+    "color": "#2175C9"
   },
   {
     "group name": "ALGYAN(あるじゃん)主催 公式イベント！",
@@ -5842,13 +5847,14 @@
     "group name": "CoderDojo福岡",
     "event name": "第35回 CoderDojo 福岡 【オンライン】+ 会場（パソコン貸出可能）",
     "url": "https://coderdojo-fukuoka.connpass.com/event/184136/",
-    "category": "",
+    "category": "coderdojo",
     "startAt": "2020-08-08T14:00:00+09:00",
     "endAt": "2020-08-08T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/74/d2/74d267949c5807ce1b3206a4cd747b7e.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-08"
+    "date": "2020-08-08",
+    "color": "#2175C9"
   },
   {
     "group name": "【データサイエンス入門】ビッグデータの活用方法と、Pythonによるデータ分析実演",
@@ -6074,13 +6080,14 @@
     "group name": "CoderDojo伊勢(コーダー道場伊勢)",
     "event name": "CoderDojo伊勢 オンライン勉強会(自宅で参加するプログラミング勉強会)",
     "url": "https://coderdojo-ise.connpass.com/event/184120/",
-    "category": "",
+    "category": "coderdojo",
     "startAt": "2020-08-09T13:30:00+09:00",
     "endAt": "2020-08-09T15:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b7/49/b749f20b789ad3b399d1eff0312fa2f3.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-09"
+    "date": "2020-08-09",
+    "color": "#2175C9"
   },
   {
     "group name": "株式会社オアース（AI事業部）",
@@ -6110,13 +6117,14 @@
     "group name": "CoderDojo中央林間",
     "event name": "[オンライン] 第１４回　CoderDojo中央林間（Zoom道場）",
     "url": "https://coderdojo-chuo-rinkan.connpass.com/event/184979/",
-    "category": "",
+    "category": "coderdojo",
     "startAt": "2020-08-09T17:30:00+09:00",
     "endAt": "2020-08-09T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/64/d3/64d3a4d4f435d5e8047a5c9fa31eb1d4.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-09"
+    "date": "2020-08-09",
+    "color": "#2175C9"
   },
   {
     "group name": "情シス県民SHOW",
@@ -6979,13 +6987,14 @@
     "group name": "CoderDojo浜松",
     "event name": "【オンライン道場】第55回CoderDojo浜松",
     "url": "https://coderdojo-hamamatsu.connpass.com/event/184198/",
-    "category": "",
+    "category": "coderdojo",
     "startAt": "2020-08-16T13:30:00+09:00",
     "endAt": "2020-08-16T14:30:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-16"
+    "date": "2020-08-16",
+    "color": "#2175C9"
   },
   {
     "group name": "Liberal Arts for Tech",
