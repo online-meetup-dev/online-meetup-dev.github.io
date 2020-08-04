@@ -6483,13 +6483,14 @@
     "group name": "IoT縛りの勉強会\u0010! IoTLT",
     "event name": "【オンライン】IoT縛りの勉強会! IoTLT vol.66 @Youtube",
     "url": "https://iotlt.connpass.com/event/183024/",
-    "category": "",
+    "category": "IoT",
     "startAt": "2020-08-12T19:00:00+09:00",
     "endAt": "2020-08-12T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2e/6f/2e6fd6fa32a42b1d65f3c82ebdf6eb80.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-12"
+    "date": "2020-08-12",
+    "color": "red"
   },
   {
     "group name": "Play (No) Codes!",
@@ -7985,25 +7986,27 @@
     "group name": "IoT研究会",
     "event name": "【無料】IoT 研究会 (1) IoT事始め",
     "url": "https://iot-dev.connpass.com/event/176688/",
-    "category": "",
+    "category": "IoT",
     "startAt": "2020-08-22T19:00:00+09:00",
     "endAt": "2020-08-22T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/08/0c/080c25aa9d9ab653de018ce41917e9fb.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-22"
+    "date": "2020-08-22",
+    "color": "red"
   },
   {
     "group name": "IoT研究会",
     "event name": "IoT 研究会 (1) IoT事始め",
     "url": "https://iot-dev.connpass.com/event/172880/",
-    "category": "",
+    "category": "IoT",
     "startAt": "2020-08-22T19:00:00+09:00",
     "endAt": "2020-08-22T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/08/0c/080c25aa9d9ab653de018ce41917e9fb.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-22"
+    "date": "2020-08-22",
+    "color": "red"
   },
   {
     "group name": "farmtory-lab",
@@ -8322,13 +8325,14 @@
     "group name": "IoT縛りの勉強会\u0010! IoTLT",
     "event name": "夜開催！ ねこIoTLT vol.3",
     "url": "https://iotlt.connpass.com/event/184330/",
-    "category": "",
+    "category": "IoT",
     "startAt": "2020-08-25T19:30:00+09:00",
     "endAt": "2020-08-25T20:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/65/0f/650faa9bc52e47202612790b0029384f.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-25"
+    "date": "2020-08-25",
+    "color": "red"
   },
   {
     "group name": "GAOGAO",
@@ -9296,13 +9300,14 @@
     "group name": "ALGYAN(あるじゃん)主催 公式イベント！",
     "event name": "【オンライン】プレゼント付！EnOcean IoTシステム開発コンテスト！",
     "url": "https://algyan.connpass.com/event/183265/",
-    "category": "",
+    "category": "IoT",
     "startAt": "2020-09-19T14:00:00+09:00",
     "endAt": "2020-09-19T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/67/33/67331c13f0622ff24980ccd9363c98c7.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-09-19"
+    "date": "2020-09-19",
+    "color": "red"
   },
   {
     "group name": "Webアプリ研究会",
