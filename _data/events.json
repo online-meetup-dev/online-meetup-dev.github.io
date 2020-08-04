@@ -4329,13 +4329,14 @@
     "group name": "Microsoft Student Partners Japan",
     "event name": "[MS Student x JAZUG] Static Web App ハンズオン&特別セッション",
     "url": "https://mspjp.connpass.com/event/181533/",
-    "category": "",
+    "category": "handson",
     "startAt": "2020-08-03T19:00:00+09:00",
     "endAt": "2020-08-03T21:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-03"
+    "date": "2020-08-03",
+    "color": "#E98D49"
   },
   {
     "group name": "PyCon JP",
@@ -4650,14 +4651,15 @@
     "group name": "JAWS-UG アーキテクチャ専門支部",
     "event name": "JAWS-UG アーキテクチャ専門支部 データ解析基盤ハンズオン",
     "url": "https://jawsug-arch.connpass.com/event/183787/",
-    "category": "",
+    "category": "handson",
     "startAt": "2020-08-04T18:30:00+09:00",
     "endAt": "2020-08-04T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c4/37/c4374d065991328625a60dc5230fff3f.png",
     "hashtag": "",
     "today": true,
     "future": true,
-    "date": "2020-08-04"
+    "date": "2020-08-04",
+    "color": "#E98D49"
   },
   {
     "group name": "地域おこしXR研究会",
@@ -4809,14 +4811,15 @@
     "group name": "YTS inc.",
     "event name": "Vue.jsチュートリアルハンズオン③【YouTubeLive】",
     "url": "https://yts-inc.connpass.com/event/184201/",
-    "category": "",
+    "category": "handson",
     "startAt": "2020-08-04T22:00:00+09:00",
     "endAt": "2020-08-04T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a0/39/a0394d15d55a794b86322bb357fa5d1c.png",
     "hashtag": "",
     "today": true,
     "future": true,
-    "date": "2020-08-04"
+    "date": "2020-08-04",
+    "color": "#E98D49"
   },
   {
     "group name": "真夜中の勉強会",
@@ -5376,13 +5379,14 @@
     "group name": "Liberal Arts for Tech",
     "event name": "【オンライン】PyTorch実装のハンズオンで学ぶBERTの概要と実装",
     "url": "https://liberal-arts-for-tech.connpass.com/event/181869/",
-    "category": "",
+    "category": "handson",
     "startAt": "2020-08-06T20:00:00+09:00",
     "endAt": "2020-08-06T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e2/bd/e2bdeea8cd49995d06615835794f9e98.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-06"
+    "date": "2020-08-06",
+    "color": "#E98D49"
   },
   {
     "group name": "Google Apps Script 勉強会",
@@ -5658,13 +5662,14 @@
     "group name": "YTS inc.",
     "event name": "Reactチュートリアルハンズオン②【YouTubeLive】",
     "url": "https://yts-inc.connpass.com/event/184727/",
-    "category": "",
+    "category": "handson",
     "startAt": "2020-08-07T22:00:00+09:00",
     "endAt": "2020-08-07T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/51/86/51860cf57bc2c9dbe7644c7c546d3491.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-07"
+    "date": "2020-08-07",
+    "color": "#E98D49"
   },
   {
     "group name": "【朝活・新宿・もくもく会】",
@@ -5947,13 +5952,14 @@
     "group name": "YTS inc.",
     "event name": "【Flaskチュートリアル】PythonでWeb開発ハンズオン⑤【YouTubeLIVE】",
     "url": "https://yts-inc.connpass.com/event/184772/",
-    "category": "",
+    "category": "handson",
     "startAt": "2020-08-08T19:00:00+09:00",
     "endAt": "2020-08-08T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cc/31/cc31374d66f8aefd48fdf6e47493e541.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-08"
+    "date": "2020-08-08",
+    "color": "#E98D49"
   },
   {
     "group name": "JISTA&BA in HIROSHIMA",
@@ -6496,13 +6502,14 @@
     "group name": "Oracle Code Night",
     "event name": "機械学習と画像処理 （実事例 付！）",
     "url": "https://oracle-code-tokyo-dev.connpass.com/event/179044/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-08-12T19:00:00+09:00",
     "endAt": "2020-08-12T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b1/b1/b1b1c26f2af150e712abbc2ef6a9dc8b.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-12"
+    "date": "2020-08-12",
+    "color": "#2ccfc9"
   },
   {
     "group name": "ビジネスPythonを学ぶ会",
@@ -7257,13 +7264,14 @@
     "group name": "Power Apps & CRM User Group 関西",
     "event name": "《オンライン＆ハンズオン勉強会》Power Appsの基礎：キャンバスアプリ編＠大阪",
     "url": "https://westpowerapps.connpass.com/event/184720/",
-    "category": "",
+    "category": "handson",
     "startAt": "2020-08-19T19:00:00+09:00",
     "endAt": "2020-08-19T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d34df897d6bf86dc33de60b7d80bf7.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-19"
+    "date": "2020-08-19",
+    "color": "#E98D49"
   },
   {
     "group name": "Japan M365 Dev User Group",
@@ -7746,13 +7754,14 @@
     "group name": "サーバー構築ハンズオン",
     "event name": "サーバー構築ハンズオン＠オンライン #124",
     "url": "https://svrkcho.connpass.com/event/184230/",
-    "category": "",
+    "category": "handson",
     "startAt": "2020-08-22T10:00:00+09:00",
     "endAt": "2020-08-22T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/eb/47/eb47fa93a118976fc186509982c182d6.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-22"
+    "date": "2020-08-22",
+    "color": "#E98D49"
   },
   {
     "group name": "NPO法人 まちづくりエージェント SIDE BEACH CITY.",
@@ -8292,13 +8301,14 @@
     "group name": "RPACommunity",
     "event name": "RPA勉強！RPALT UiPathトーク#3 初心者向けハンズオン！～Excelロボットを作ろう～",
     "url": "https://rpacommunity.connpass.com/event/184480/",
-    "category": "",
+    "category": "handson",
     "startAt": "2020-08-25T19:30:00+09:00",
     "endAt": "2020-08-25T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/30/33/30331ccde310030161c8159d11f0a2ff.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-25"
+    "date": "2020-08-25",
+    "color": "#E98D49"
   },
   {
     "group name": "IoT縛りの勉強会\u0010! IoTLT",
@@ -8425,13 +8435,14 @@
     "group name": "C# Tokyo",
     "event name": "【オンライン】 xUnit.net 入門 ハンズオン",
     "url": "https://csharp-tokyo.connpass.com/event/181039/",
-    "category": "",
+    "category": "handson",
     "startAt": "2020-08-26T19:00:00+09:00",
     "endAt": "2020-08-26T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ef/73/ef732e29d319967fc696b5b53bc37c3d.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-26"
+    "date": "2020-08-26",
+    "color": "#E98D49"
   },
   {
     "group name": "Scala Rookies #2",
