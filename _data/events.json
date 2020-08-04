@@ -6912,13 +6912,14 @@
     "group name": "CoderDojo赤羽",
     "event name": "CoderDojo赤羽オンライン",
     "url": "https://coderdojo-akabane.connpass.com/event/183497/",
-    "category": "",
+    "category": "coderdojo",
     "startAt": "2020-08-16T09:30:00+09:00",
     "endAt": "2020-08-16T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/47/35/4735fafbd055e0ee3491301a130520f0.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-16"
+    "date": "2020-08-16",
+    "color": "#2175C9"
   },
   {
     "group name": "CoCreSalon - コクリサロン",
