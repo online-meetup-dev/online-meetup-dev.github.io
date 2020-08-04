@@ -980,7 +980,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c4/37/c4374d065991328625a60dc5230fff3f.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-04",
     "color": "#E98D49"
   },
@@ -1073,7 +1073,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-04"
   },
   {
