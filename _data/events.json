@@ -3818,7 +3818,7 @@
     "category": "",
     "startAt": "2020-08-01T13:00:00+09:00",
     "endAt": "2020-08-01T15:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/00/b4/00b4ad850571080124cac8507603f800.png",
     "hashtag": "",
     "future": false,
     "date": "2020-08-01"
@@ -3875,13 +3875,14 @@
     "group name": "ARコンテンツ作成勉強会",
     "event name": "【オンライン】xRもくもく会 #03",
     "url": "https://xr-fukuoka.connpass.com/event/184728/",
-    "category": "",
+    "category": "mokumoku",
     "startAt": "2020-08-01T13:00:00+09:00",
     "endAt": "2020-08-01T17:00:00+09:00",
     "image": "",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-01"
+    "date": "2020-08-01",
+    "color": "#B8D59E"
   },
   {
     "group name": "はんなりPythonの会",
@@ -4070,7 +4071,7 @@
     "category": "",
     "startAt": "2020-08-01T19:00:00+09:00",
     "endAt": "2020-08-01T21:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/bf/bb/bfbbae51e61d586bc67c33274e5f12ab.png",
     "hashtag": "",
     "future": false,
     "date": "2020-08-01"
@@ -4151,13 +4152,14 @@
     "group name": "オンラインもくもく",
     "event name": "オンラインもくもく会#47",
     "url": "https://online-mokumoku.connpass.com/event/184732/",
-    "category": "",
+    "category": "mokumoku",
     "startAt": "2020-08-02T07:30:00+09:00",
     "endAt": "2020-08-02T09:00:00+09:00",
     "image": "",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-02"
+    "date": "2020-08-02",
+    "color": "#B8D59E"
   },
   {
     "group name": "TOKYO CREATORS",
@@ -4214,7 +4216,7 @@
     "category": "",
     "startAt": "2020-08-02T14:00:00+09:00",
     "endAt": "2020-08-02T16:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6b/d2/6bd23dce4fb0d9279322e50f03e97014.png",
     "hashtag": "",
     "future": false,
     "date": "2020-08-02"
@@ -4223,13 +4225,14 @@
     "group name": "PyData Osaka",
     "event name": "PyData Osaka Meetup #019",
     "url": "https://pydataosaka.connpass.com/event/183431/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-02T14:00:00+09:00",
     "endAt": "2020-08-02T17:00:00+09:00",
-    "image": "",
+    "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-02"
+    "date": "2020-08-02",
+    "color": "purple"
   },
   {
     "group name": "CoderDojo 港北NT",
@@ -4286,7 +4289,7 @@
     "category": "",
     "startAt": "2020-08-02T16:00:00+09:00",
     "endAt": "2020-08-02T17:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a4/8c/a48cff749faf33169fd1f76b6d692d66.png",
     "hashtag": "",
     "future": false,
     "date": "2020-08-02"
@@ -4343,13 +4346,14 @@
     "group name": "真夜中の勉強会",
     "event name": "真夜中の勉強会(ゆるいオンラインもくもく会)@Slack",
     "url": "https://mayonakano.connpass.com/event/184784/",
-    "category": "",
+    "category": "mokumoku",
     "startAt": "2020-08-02T22:30:00+09:00",
     "endAt": "2020-08-02T23:30:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8a/a4/8aa4ebf05609943d96d1cb73915a3a21.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-02"
+    "date": "2020-08-02",
+    "color": "#B8D59E"
   },
   {
     "group name": "みんなのITもくもく会",
@@ -4464,13 +4468,14 @@
     "group name": "輪読会会場 on discord",
     "event name": "FluentPython読書会 - 10章 シーケンスをばらして、ハッシュして、スライスする",
     "url": "https://book-club.connpass.com/event/183179/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-03T19:30:00+09:00",
     "endAt": "2020-08-03T20:30:00+09:00",
-    "image": "",
+    "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-03"
+    "date": "2020-08-03",
+    "color": "purple"
   },
   {
     "group name": "Serverless LT初心者向け",
@@ -4561,13 +4566,14 @@
     "group name": "真夜中の勉強会",
     "event name": "真夜中の勉強会(ゆるいオンラインもくもく会)@Slack",
     "url": "https://mayonakano.connpass.com/event/184785/",
-    "category": "",
+    "category": "mokumoku",
     "startAt": "2020-08-03T22:30:00+09:00",
     "endAt": "2020-08-03T23:30:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8a/a4/8aa4ebf05609943d96d1cb73915a3a21.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-03"
+    "date": "2020-08-03",
+    "color": "#B8D59E"
   },
   {
     "group name": "株式会社インサイト",
@@ -4771,7 +4777,7 @@
     "category": "",
     "startAt": "2020-08-04T19:00:00+09:00",
     "endAt": "2020-08-04T21:00:00+09:00",
-    "image": "",
+    "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
     "future": true,
@@ -5202,13 +5208,14 @@
     "group name": "輪読会会場 on discord",
     "event name": "FluentPython読書会 - 11章 インターフェース — プロトコルから抽象基底クラスへ",
     "url": "https://book-club.connpass.com/event/183180/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-05T19:30:00+09:00",
     "endAt": "2020-08-05T20:30:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-05"
+    "date": "2020-08-05",
+    "color": "purple"
   },
   {
     "group name": "Pandas 勉強会 in 新潟",
@@ -5265,7 +5272,7 @@
     "category": "",
     "startAt": "2020-08-05T21:00:00+09:00",
     "endAt": "2020-08-05T22:30:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8d/ec/8dec05dd833d59966962ea0ddf2e2181.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-05"
@@ -5518,7 +5525,7 @@
     "category": "",
     "startAt": "2020-08-06T19:30:00+09:00",
     "endAt": "2020-08-06T21:30:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6d/0a/6d0a7fc2543e65f71bbae724677f2b95.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-06"
@@ -5743,13 +5750,14 @@
     "group name": "輪読会会場 on discord",
     "event name": "FluentPython読書会 - 12章 継承の功罪",
     "url": "https://book-club.connpass.com/event/183181/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-07T19:30:00+09:00",
     "endAt": "2020-08-07T20:30:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-07"
+    "date": "2020-08-07",
+    "color": "purple"
   },
   {
     "group name": "YYTypeScript",
@@ -5806,7 +5814,7 @@
     "category": "",
     "startAt": "2020-08-07T21:00:00+09:00",
     "endAt": "2020-08-07T22:30:00+09:00",
-    "image": "",
+    "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-07"
@@ -6109,7 +6117,7 @@
     "category": "",
     "startAt": "2020-08-08T15:00:00+09:00",
     "endAt": "2020-08-08T18:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b9/19/b919d7714c8ee96b769d025f3ae4d052.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-08"
@@ -6145,7 +6153,7 @@
     "category": "",
     "startAt": "2020-08-08T19:00:00+09:00",
     "endAt": "2020-08-08T20:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cc/31/cc31374d66f8aefd48fdf6e47493e541.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-08"
@@ -6202,13 +6210,14 @@
     "group name": "オンラインもくもく",
     "event name": "オンラインもくもく会#48",
     "url": "https://online-mokumoku.connpass.com/event/184733/",
-    "category": "",
+    "category": "mokumoku",
     "startAt": "2020-08-09T07:30:00+09:00",
     "endAt": "2020-08-09T09:00:00+09:00",
     "image": "",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-09"
+    "date": "2020-08-09",
+    "color": "#B8D59E"
   },
   {
     "group name": "株式会社ジャスミンシステム",
@@ -6376,7 +6385,7 @@
     "category": "",
     "startAt": "2020-08-09T18:00:00+09:00",
     "endAt": "2020-08-09T20:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4b/c7/4bc7fb90c8144103a8d20110ef43328a.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-09"
@@ -6470,13 +6479,14 @@
     "group name": "輪読会会場 on discord",
     "event name": "FluentPython読書会 - 13章 演算子オーバーロードの適切な用法",
     "url": "https://book-club.connpass.com/event/183183/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-10T19:30:00+09:00",
     "endAt": "2020-08-10T20:30:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-10"
+    "date": "2020-08-10",
+    "color": "purple"
   },
   {
     "group name": "オンライン　コンピュータと圏論　勉強会",
@@ -6678,7 +6688,7 @@
     "category": "",
     "startAt": "2020-08-12T19:00:00+09:00",
     "endAt": "2020-08-12T21:30:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2e/6f/2e6fd6fa32a42b1d65f3c82ebdf6eb80.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-12"
@@ -6979,7 +6989,7 @@
     "category": "",
     "startAt": "2020-08-14T14:30:00+09:00",
     "endAt": "2020-08-14T18:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8a/ab/8aab1f011b6ddf539df34b4d0bc05491.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-14"
@@ -7085,13 +7095,14 @@
     "group name": "もくもく図書室",
     "event name": "もくもく図書室_2020-08-15",
     "url": "https://mokutosho.connpass.com/event/184797/",
-    "category": "",
+    "category": "mokumoku",
     "startAt": "2020-08-15T13:00:00+09:00",
     "endAt": "2020-08-15T15:30:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5d/dd/5dddaa90954826d2e7902045d65c0488.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-15"
+    "date": "2020-08-15",
+    "color": "#B8D59E"
   },
   {
     "group name": "「低レイヤを知りたい人のためのCコンパイラ作成入門」読書会",
@@ -7112,7 +7123,7 @@
     "category": "",
     "startAt": "2020-08-15T15:00:00+09:00",
     "endAt": "2020-08-15T16:30:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2e/96/2e967fa5b6eee90496ca9b9e02d5aae1.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-15"
@@ -7121,13 +7132,14 @@
     "group name": "Pythonもくもく自習室",
     "event name": "Pythonもくもく自習室 #27 + 3周年記念LT大会 @オンライン開催",
     "url": "https://jisyupy.connpass.com/event/184656/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-15T15:00:00+09:00",
     "endAt": "2020-08-15T21:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/15/d1/15d1afec9dcf6422b8fd9532714cc09d.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-15"
+    "date": "2020-08-15",
+    "color": "purple"
   },
   {
     "group name": "MakeX日本大会",
@@ -7160,7 +7172,7 @@
     "category": "",
     "startAt": "2020-08-15T19:00:00+09:00",
     "endAt": "2020-08-15T20:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4b/f2/4bf2711a798e2c6ee68b2a2f914a436c.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-15"
@@ -7181,13 +7193,14 @@
     "group name": "オンラインもくもく",
     "event name": "オンラインもくもく会#49",
     "url": "https://online-mokumoku.connpass.com/event/184734/",
-    "category": "",
+    "category": "mokumoku",
     "startAt": "2020-08-16T07:30:00+09:00",
     "endAt": "2020-08-16T09:00:00+09:00",
     "image": "",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-16"
+    "date": "2020-08-16",
+    "color": "#B8D59E"
   },
   {
     "group name": "CoderDojo赤羽",
@@ -7737,7 +7750,7 @@
     "category": "",
     "startAt": "2020-08-20T19:30:00+09:00",
     "endAt": "2020-08-20T21:30:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/05/6c/056c173088f3b8a01370c20d7cd3be98.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-20"
@@ -7941,7 +7954,7 @@
     "category": "",
     "startAt": "2020-08-21T20:00:00+09:00",
     "endAt": "2020-08-21T21:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5f/69/5f69e118e5a7237878241753933277bc.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-21"
@@ -7965,7 +7978,7 @@
     "category": "",
     "startAt": "2020-08-22T10:00:00+09:00",
     "endAt": "2020-08-22T18:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/05/6d/056d579254b672a22ad2d878fe5caac4.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-22"
@@ -8038,7 +8051,7 @@
     "category": "",
     "startAt": "2020-08-22T13:00:00+09:00",
     "endAt": "2020-08-22T15:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cd/d1/cdd185f664c8cbca4067eaf21ed54d2e.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-22"
@@ -8281,7 +8294,7 @@
     "category": "",
     "startAt": "2020-08-23T09:00:00+09:00",
     "endAt": "2020-08-23T10:00:00+09:00",
-    "image": "",
+    "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-23"
@@ -8317,7 +8330,7 @@
     "category": "",
     "startAt": "2020-08-23T13:30:00+09:00",
     "endAt": "2020-08-23T16:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c0/e3/c0e333fbd39e14141be4e6a040dee037.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-23"
@@ -9415,7 +9428,7 @@
     "category": "",
     "startAt": "2020-09-05T13:00:00+09:00",
     "endAt": "2020-09-05T17:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e5/2f/e52fc62c387dbfc115d80ce75c12c2fc.png",
     "hashtag": "",
     "future": true,
     "date": "2020-09-05"
