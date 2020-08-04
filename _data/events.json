@@ -4277,13 +4277,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(励起状態計算)",
     "url": "https://qnn.connpass.com/event/183996/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-03T11:00:00+09:00",
     "endAt": "2020-08-03T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-03"
+    "date": "2020-08-03",
+    "color": "#FAF79F"
   },
   {
     "group name": "VoiceLunchJP",
@@ -4500,14 +4501,15 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(既存深層学習回路の高速化テク)",
     "url": "https://qnn.connpass.com/event/183997/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-04T11:00:00+09:00",
     "endAt": "2020-08-04T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "today": true,
     "future": false,
-    "date": "2020-08-04"
+    "date": "2020-08-04",
+    "color": "#FAF79F"
   },
   {
     "group name": "インフラジスティックス・ジャパン株式会社",
@@ -4814,13 +4816,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(既存コンピュータへの数理最適化応用テク)",
     "url": "https://qnn.connpass.com/event/183999/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-05T11:00:00+09:00",
     "endAt": "2020-08-05T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-05"
+    "date": "2020-08-05",
+    "color": "#FAF79F"
   },
   {
     "group name": "Node-RED User Group Japan",
