@@ -3706,13 +3706,14 @@
     "group name": "フーテンのグラさんと愉快な仲間たち",
     "event name": "【無料・オンライン】ゼロからはじめるPythonプログラミング講座「じゃんけんゲームを作ろう」",
     "url": "https://glass-sun.connpass.com/event/183908/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-01T09:00:00+09:00",
     "endAt": "2020-08-01T15:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e1/b1/e1b1a71f1707776bb1f2e0420fb3f5ca.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-01"
+    "date": "2020-08-01",
+    "color": "purple"
   },
   {
     "group name": "TDDBC",
@@ -4044,13 +4045,14 @@
     "group name": "異業種データサイエンス研究会",
     "event name": "PythonによるABテスト解析",
     "url": "https://datascienceteam.connpass.com/event/178145/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-01T19:00:00+09:00",
     "endAt": "2020-08-01T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/41/83/41838949cde0f12b5226795b7290ff90.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-01"
+    "date": "2020-08-01",
+    "color": "purple"
   },
   {
     "group name": "黒本先生のやさしくないJava!?コミュニティ",
@@ -4388,13 +4390,14 @@
     "group name": "Step-to-Rails-Expert.rb",
     "event name": "Step-to-Rails-Expert.rb#43",
     "url": "https://step-to-rails-expert-rb.connpass.com/event/184488/",
-    "category": "",
+    "category": "ruby",
     "startAt": "2020-08-03T20:00:00+09:00",
     "endAt": "2020-08-03T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5e/d1/5ed1bf8abc7e00923110a3feb0f907cf.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-03"
+    "date": "2020-08-03",
+    "color": "#701516"
   },
   {
     "group name": "Flutterオンライン",
@@ -5168,13 +5171,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(HHL)",
     "url": "https://qnn.connpass.com/event/184089/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-06T11:00:00+09:00",
     "endAt": "2020-08-06T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-06"
+    "date": "2020-08-06",
+    "color": "#FAF79F"
   },
   {
     "group name": "株式会社SmartHR",
@@ -5240,13 +5244,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子アニーラとD-Wave総復習",
     "url": "https://qnn.connpass.com/event/182318/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-06T18:30:00+09:00",
     "endAt": "2020-08-06T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a1/aa/a1aaa6896769f945469768de7ef5716a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-06"
+    "date": "2020-08-06",
+    "color": "#FAF79F"
   },
   {
     "group name": "FiNC",
@@ -5386,13 +5391,14 @@
     "group name": "PyCon JP スタッフ",
     "event name": "PyCon JP 2020 全体MTG(8月1週目)",
     "url": "https://pyconjp-staff.connpass.com/event/178002/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-06T20:00:00+09:00",
     "endAt": "2020-08-06T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/72/cd/72cd013736e6606bc1c6d3e808f7e45e.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-06"
+    "date": "2020-08-06",
+    "color": "purple"
   },
   {
     "group name": "JBUG(Japan Backlog User Group)",
@@ -5603,13 +5609,14 @@
     "group name": "はんなりPythonの会",
     "event name": "はんなりPython FastAPIハンズオン",
     "url": "https://hannari-python.connpass.com/event/181555/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-07T21:00:00+09:00",
     "endAt": "2020-08-07T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/fd/3efd554e439ffd8cca0bad0aadfccad2.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-07"
+    "date": "2020-08-07",
+    "color": "purple"
   },
   {
     "group name": "ナノフォトニクスで量子コンピュータを作りたい！",
@@ -5713,13 +5720,14 @@
     "group name": "Python mini Hack-a-thon",
     "event name": "(第114回)Python mini Hack-a-thon(オンライン?)",
     "url": "https://pyhack.connpass.com/event/179955/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-08T11:00:00+09:00",
     "endAt": "2020-08-08T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/89/0b/890b824009e1fcfcde3a889c0c848613.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-08"
+    "date": "2020-08-08",
+    "color": "purple"
   },
   {
     "group name": "Haskell-jp",
@@ -6310,25 +6318,27 @@
     "group name": "Hamada.rb",
     "event name": "Ruby Hacking Challenge in Hamada.rb",
     "url": "https://hamadarb.connpass.com/event/184211/",
-    "category": "",
+    "category": "ruby",
     "startAt": "2020-08-11T19:00:00+09:00",
     "endAt": "2020-08-11T21:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-11"
+    "date": "2020-08-11",
+    "color": "#701516"
   },
   {
     "group name": "Hamada.rb",
     "event name": "Hamada.rb #12",
     "url": "https://hamadarb.connpass.com/event/184210/",
-    "category": "",
+    "category": "ruby",
     "startAt": "2020-08-11T19:00:00+09:00",
     "endAt": "2020-08-11T21:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-11"
+    "date": "2020-08-11",
+    "color": "#701516"
   },
   {
     "group name": "ユアマイスター",
@@ -6454,13 +6464,14 @@
     "group name": "ビジネスPythonを学ぶ会",
     "event name": "Python で Web API/SDK を使ってみる勉強会 #2",
     "url": "https://bizpy.connpass.com/event/182461/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-12T19:00:00+09:00",
     "endAt": "2020-08-12T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ea/f6/eaf6cca8ca2f500e7ef0d8512975489c.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-12"
+    "date": "2020-08-12",
+    "color": "purple"
   },
   {
     "group name": "Plone JP",
@@ -6659,13 +6670,14 @@
     "group name": "PyCon JP スタッフ",
     "event name": "PyCon JP 2020 公式作業会(8月2週目)",
     "url": "https://pyconjp-staff.connpass.com/event/178006/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-13T20:00:00+09:00",
     "endAt": "2020-08-13T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/41/58/4158c5313840a097183a6586bbfc056f.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-13"
+    "date": "2020-08-13",
+    "color": "purple"
   },
   {
     "group name": "株式会社インサイト",
@@ -6719,13 +6731,14 @@
     "group name": "輪読会会場 on discord",
     "event name": "FluentPython読書会 - 15章 コンテキストマネージャーとelseブロック",
     "url": "https://book-club.connpass.com/event/183185/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-14T19:30:00+09:00",
     "endAt": "2020-08-14T20:30:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-14"
+    "date": "2020-08-14",
+    "color": "purple"
   },
   {
     "group name": "月刊フィントーク",
@@ -6743,13 +6756,14 @@
     "group name": "フーテンのグラさんと愉快な仲間たち",
     "event name": "【無料・オンライン】ゼロからはじめるPythonプログラミング講座「じゃんけんゲームを作ろう」",
     "url": "https://glass-sun.connpass.com/event/183821/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-15T09:00:00+09:00",
     "endAt": "2020-08-15T15:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e1/b1/e1b1a71f1707776bb1f2e0420fb3f5ca.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-15"
+    "date": "2020-08-15",
+    "color": "purple"
   },
   {
     "group name": "CoderDojo 立川",
@@ -7013,13 +7027,14 @@
     "group name": "輪読会会場 on discord",
     "event name": "FluentPython読書会 - 16章 コルーチン",
     "url": "https://book-club.connpass.com/event/183186/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-17T19:30:00+09:00",
     "endAt": "2020-08-17T20:30:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-17"
+    "date": "2020-08-17",
+    "color": "purple"
   },
   {
     "group name": "Live!人工知能",
@@ -7315,13 +7330,14 @@
     "group name": "輪読会会場 on discord",
     "event name": "FluentPython読書会 - 17章 futuresを使った並行処理",
     "url": "https://book-club.connpass.com/event/183187/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-19T19:30:00+09:00",
     "endAt": "2020-08-19T20:30:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-19"
+    "date": "2020-08-19",
+    "color": "purple"
   },
   {
     "group name": "大阪駆動開発 - 関東支部",
@@ -7508,13 +7524,14 @@
     "group name": "PyCon JP スタッフ",
     "event name": "PyCon JP 2020 全体MTG(8月3週目)",
     "url": "https://pyconjp-staff.connpass.com/event/178003/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-20T20:00:00+09:00",
     "endAt": "2020-08-20T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/72/cd/72cd013736e6606bc1c6d3e808f7e45e.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-20"
+    "date": "2020-08-20",
+    "color": "purple"
   },
   {
     "group name": "量子コンピュータ",
@@ -7604,13 +7621,14 @@
     "group name": "株式会社iCARE",
     "event name": "技術顧問が語る最新Ruby on Rails/Vue.js iCARE Dev Meetup #12",
     "url": "https://icare.connpass.com/event/183716/",
-    "category": "",
+    "category": "ruby",
     "startAt": "2020-08-21T19:30:00+09:00",
     "endAt": "2020-08-21T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ff/fd/fffd80125ece4e12089536dd5407778a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-21"
+    "date": "2020-08-21",
+    "color": "#701516"
   },
   {
     "group name": "三宮.dev",
@@ -7628,13 +7646,14 @@
     "group name": "輪読会会場 on discord",
     "event name": "FluentPython読書会 - 18章 asyncioによる並行処理",
     "url": "https://book-club.connpass.com/event/183188/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-21T19:30:00+09:00",
     "endAt": "2020-08-21T20:30:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-21"
+    "date": "2020-08-21",
+    "color": "purple"
   },
   {
     "group name": "ロボティクス勉強会",
@@ -7968,13 +7987,14 @@
     "group name": "Shonan.py",
     "event name": "Shonan.py「自走プログラマー」オンライン読書会 #5",
     "url": "https://shonan-py.connpass.com/event/183502/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-23T13:30:00+09:00",
     "endAt": "2020-08-23T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7d/4a/7d4a1b65faf257516221fec3272c876b.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-23"
+    "date": "2020-08-23",
+    "color": "purple"
   },
   {
     "group name": "Webエンジニア勉強会inVR",
@@ -8080,13 +8100,14 @@
     "group name": "輪読会会場 on discord",
     "event name": "FluentPython読書会 - 19章 動的属性とプロパティ",
     "url": "https://book-club.connpass.com/event/183189/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-24T19:30:00+09:00",
     "endAt": "2020-08-24T20:30:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-24"
+    "date": "2020-08-24",
+    "color": "purple"
   },
   {
     "group name": "xR Tech Tokyo",
@@ -8370,13 +8391,14 @@
     "group name": "輪読会会場 on discord",
     "event name": "FluentPython読書会 - 20章 属性ディスクリプタ",
     "url": "https://book-club.connpass.com/event/183191/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-26T19:30:00+09:00",
     "endAt": "2020-08-26T20:30:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-26"
+    "date": "2020-08-26",
+    "color": "purple"
   },
   {
     "group name": "PostgreSQLアンカンファレンス",
@@ -8539,13 +8561,14 @@
     "group name": "PyCon JP",
     "event name": "PyCon JP 2020 カンファレンス",
     "url": "https://pyconjp.connpass.com/event/181288/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-28T09:00:00+09:00",
     "endAt": "2020-08-29T23:59:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5f/f0/5ff03cf7821c24b9abcd58b7a557d51a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-28"
+    "date": "2020-08-28",
+    "color": "purple"
   },
   {
     "group name": "OSPN(Open Source People Network)",
@@ -8683,13 +8706,14 @@
     "group name": "輪読会会場 on discord",
     "event name": "FluentPython読書会 - 21章 クラスメタプログラミング",
     "url": "https://book-club.connpass.com/event/183192/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-28T19:30:00+09:00",
     "endAt": "2020-08-28T20:30:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-28"
+    "date": "2020-08-28",
+    "color": "purple"
   },
   {
     "group name": "価値開発研究会（Vラボ）",
@@ -8840,13 +8864,14 @@
     "group name": "PyCon JP",
     "event name": "PyCon JP 2020 Tutorial （YouTube Live視聴のみ）",
     "url": "https://pyconjp.connpass.com/event/182390/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-30T10:00:00+09:00",
     "endAt": "2020-08-30T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/00/44/0044664b7f1566e28de94656930fdb90.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-30"
+    "date": "2020-08-30",
+    "color": "purple"
   },
   {
     "group name": "ヘイヘイHaskell騎士団",
@@ -9119,13 +9144,14 @@
     "group name": "はんなりPythonの会",
     "event name": "【オンライン】はんなりPython #32 標準ライブラリなLT会",
     "url": "https://hannari-python.connpass.com/event/183414/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-09-18T21:00:00+09:00",
     "endAt": "2020-09-18T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/bf/f1/bff16cd5b28ce6230355a2851a703d53.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-09-18"
+    "date": "2020-09-18",
+    "color": "purple"
   },
   {
     "group name": "OSPN(Open Source People Network)",
