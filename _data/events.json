@@ -3849,30 +3849,6 @@
     "color": "#B8D59E"
   },
   {
-    "group name": "はんなりPythonの会",
-    "event name": "【オンライン】「ゼロから実践する 遺伝統計学セミナー〜疾患とゲノムを結びつける」を読む・手を動かす⑥",
-    "url": "https://hannari-python.connpass.com/event/184220/",
-    "category": "",
-    "startAt": "2020-08-01T13:00:00+09:00",
-    "endAt": "2020-08-01T15:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cd/d1/cdd185f664c8cbca4067eaf21ed54d2e.png",
-    "hashtag": "",
-    "future": false,
-    "date": "2020-08-01"
-  },
-  {
-    "group name": "【オンライン開催】LinuC（リナック）レベル1 Version10.0 技術解説無料セミナー",
-    "event name": "【オンライン開催】LinuC（リナック）レベル1 Version10.0 技術解説無料セミナー",
-    "url": "https://connpass.com/event/181204/",
-    "category": "",
-    "startAt": "2020-08-01T13:00:00+09:00",
-    "endAt": "2020-08-01T14:15:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f4/ad/f4ada94b7bcaa5ee8e0b74df44e25146.png",
-    "hashtag": "",
-    "future": false,
-    "date": "2020-08-01"
-  },
-  {
     "group name": "西東京Web勉強会",
     "event name": "第9回西東京Web勉強会「Adobe Premiere Rushを使ってみよう！」",
     "url": "https://westtokyowebstudy.connpass.com/event/179280/",
@@ -4140,18 +4116,6 @@
     "color": "#B8D59E"
   },
   {
-    "group name": "からすま数理セミナー",
-    "event name": "佐武線型代数学 輪読会 #24【オンライン】",
-    "url": "https://karasuma-math.connpass.com/event/184186/",
-    "category": "",
-    "startAt": "2020-08-02T09:30:00+09:00",
-    "endAt": "2020-08-02T11:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f2/c3/f2c399e8d76b5cfa0507b854bcc93667.png",
-    "hashtag": "",
-    "future": false,
-    "date": "2020-08-02"
-  },
-  {
     "group name": "Haskell-jp",
     "event name": "第43回Haskell-jpもくもく会 @ オンライン",
     "url": "https://haskell-jp.connpass.com/event/184023/",
@@ -4159,18 +4123,6 @@
     "startAt": "2020-08-02T13:00:00+09:00",
     "endAt": "2020-08-02T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1f/59/1f59a43b2b6073969ecd68a621da046c.png",
-    "hashtag": "",
-    "future": false,
-    "date": "2020-08-02"
-  },
-  {
-    "group name": "からすま数理セミナー",
-    "event name": "量子コンピュータと量子通信 輪読会 #6【オンライン】",
-    "url": "https://karasuma-math.connpass.com/event/183658/",
-    "category": "",
-    "startAt": "2020-08-02T13:30:00+09:00",
-    "endAt": "2020-08-02T15:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b4/b7/b4b762f03d8d2e0cb7ceeda1eb5a924e.png",
     "hashtag": "",
     "future": false,
     "date": "2020-08-02"
@@ -5282,30 +5234,6 @@
     "date": "2020-08-06"
   },
   {
-    "group name": "【無料ウェビナー】 2020/8/6（木） AI機械学習 アノテーションセミナー",
-    "event name": "【無料ウェビナー】 2020/8/6（木） AI機械学習 アノテーションセミナー",
-    "url": "https://connpass.com/event/182975/",
-    "category": "",
-    "startAt": "2020-08-06T16:00:00+09:00",
-    "endAt": "2020-08-06T17:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/91/a4/91a4e88d4fcac19127244e188cf33970.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-06"
-  },
-  {
-    "group name": "【無料ウェビナー】 2020/8/6（木） AI機械学習 アノテーションセミナー",
-    "event name": "【無料ウェビナー】 2020/8/6（木） AI機械学習 アノテーションセミナー",
-    "url": "https://connpass.com/event/183216/",
-    "category": "",
-    "startAt": "2020-08-06T16:00:00+09:00",
-    "endAt": "2020-08-06T17:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/91/a4/91a4e88d4fcac19127244e188cf33970.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-06"
-  },
-  {
     "group name": "メルカリ／Mercari",
     "event name": "mercari.go #14 オンライン開催",
     "url": "https://mercari.connpass.com/event/183796/",
@@ -6044,18 +5972,6 @@
     "date": "2020-08-08"
   },
   {
-    "group name": "SQL基礎セミナーOnline Part②-基本的なSQL（UPDATE文）",
-    "event name": "SQL基礎セミナーOnline Part②-基本的なSQL（UPDATE文）",
-    "url": "https://connpass.com/event/184357/",
-    "category": "",
-    "startAt": "2020-08-08T20:00:00+09:00",
-    "endAt": "2020-08-08T20:30:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/32/c7/32c7240dc6358216b8d35dd53b9245f0.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-08"
-  },
-  {
     "group name": "技術書界隈を盛り上げる会",
     "event name": "技術書界隈を盛り上げる会 #10",
     "url": "https://gijutsusyo.connpass.com/event/182727/",
@@ -6744,18 +6660,6 @@
     "startAt": "2020-08-13T14:30:00+09:00",
     "endAt": "2020-08-13T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8a/ab/8aab1f011b6ddf539df34b4d0bc05491.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-13"
-  },
-  {
-    "group name": "脆弱性自動管理ツール「yamory」",
-    "event name": "【オンライン開催】脆弱性管理ツール「yamory」ハンズオンセミナー（セキュリティ脆弱性対策）",
-    "url": "https://yamory.connpass.com/event/184266/",
-    "category": "",
-    "startAt": "2020-08-13T17:00:00+09:00",
-    "endAt": "2020-08-13T18:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ae/e8/aee8079ddfc6a080915b1984410011c5.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-13"
@@ -7812,18 +7716,6 @@
     "date": "2020-08-22"
   },
   {
-    "group name": "アスパーク ドローン×プログラミング教室",
-    "event name": "ドローン×Python 無料セミナー（8/22）",
-    "url": "https://aspark-drone.connpass.com/event/184225/",
-    "category": "",
-    "startAt": "2020-08-22T11:00:00+09:00",
-    "endAt": "2020-08-22T11:30:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5c/cd/5ccd71eeb32d17aad558ae7d120e93a6.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-22"
-  },
-  {
     "group name": "Code for Japan",
     "event name": "Social Hack Day Online ver. #18",
     "url": "https://codeforjapan.connpass.com/event/183670/",
@@ -7847,18 +7739,6 @@
     "future": true,
     "date": "2020-08-22",
     "color": "purple"
-  },
-  {
-    "group name": "APIファースト開発勉強会",
-    "event name": "「SQLの苦手を克服する」オンラインセミナー",
-    "url": "https://api-first.connpass.com/event/184688/",
-    "category": "",
-    "startAt": "2020-08-22T13:00:00+09:00",
-    "endAt": "2020-08-22T17:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e3/23/e3236e6fbadf75b5cf6329c2c5b0899d.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-22"
   },
   {
     "group name": "SalesforceSaturday 池袋",
@@ -8422,18 +8302,6 @@
     "date": "2020-08-26"
   },
   {
-    "group name": "FROSK株式会社",
-    "event name": "【オンラインセミナー】アプリUXで底上げするユーザーの信頼とブランディング",
-    "url": "https://frosk.connpass.com/event/184611/",
-    "category": "",
-    "startAt": "2020-08-26T16:00:00+09:00",
-    "endAt": "2020-08-26T17:30:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/26/73/2673aeba6b27313704a7fa23a0355006.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-26"
-  },
-  {
     "group name": "Oracle Code Night",
     "event name": "MySQL Technology Cafe #9",
     "url": "https://oracle-code-tokyo-dev.connpass.com/event/183576/",
@@ -8735,18 +8603,6 @@
     "date": "2020-08-28"
   },
   {
-    "group name": "【オンラインにて開催！】8/28(金)  Googleマイビジネス徹底活用術セミナー",
-    "event name": "【オンラインにて開催！】8/28(金)  Googleマイビジネス徹底活用術セミナー",
-    "url": "https://connpass.com/event/184373/",
-    "category": "",
-    "startAt": "2020-08-28T13:00:00+09:00",
-    "endAt": "2020-08-28T15:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2b/e9/2be929712d22a3a8ef087734520b8b98.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-28"
-  },
-  {
     "group name": "Hack U",
     "event name": "Hack U 中部大学 2020",
     "url": "https://hacku.connpass.com/event/180622/",
@@ -8999,18 +8855,6 @@
     "date": "2020-08-29"
   },
   {
-    "group name": "【増枠】情報処理安全確保支援士試験　対策セミナー #2",
-    "event name": "【増枠】情報処理安全確保支援士試験　対策セミナー #2",
-    "url": "https://connpass.com/event/183337/",
-    "category": "",
-    "startAt": "2020-08-29T19:00:00+09:00",
-    "endAt": "2020-08-29T21:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e3/4d/e34d52d8a3349178cfe365757ce1de25.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-29"
-  },
-  {
     "group name": "技術書典",
     "event name": "【8月5日から定期オンライン開催】技術書を書いてみよう！",
     "url": "https://techbookfest.connpass.com/event/184581/",
@@ -9084,18 +8928,6 @@
     "date": "2020-08-31"
   },
   {
-    "group name": "アジャイル開発人材育成オンラインセミナー（無料）",
-    "event name": "アジャイル開発人材育成オンラインセミナー（無料）",
-    "url": "https://connpass.com/event/182044/",
-    "category": "",
-    "startAt": "2020-08-31T14:00:00+09:00",
-    "endAt": "2020-08-31T16:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ad/20/ad20b99025b0c661f2c35dd1c7c4826b.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-31"
-  },
-  {
     "group name": "CyberAgent",
     "event name": "CA.app #2 ~オンライン~",
     "url": "https://cyberagent.connpass.com/event/184379/",
@@ -9143,18 +8975,6 @@
     "future": true,
     "date": "2020-08-31",
     "color": "#18B83F"
-  },
-  {
-    "group name": "【緊急追加】情報処理安全確保支援士試験　対策セミナー #2.1",
-    "event name": "【緊急追加】情報処理安全確保支援士試験　対策セミナー #2.1",
-    "url": "https://connpass.com/event/183450/",
-    "category": "",
-    "startAt": "2020-09-02T19:00:00+09:00",
-    "endAt": "2020-09-02T21:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e3/4d/e34d52d8a3349178cfe365757ce1de25.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-09-02"
   },
   {
     "group name": "Power Apps & CRM User Group 九州",
@@ -9291,18 +9111,6 @@
     "date": "2020-09-09"
   },
   {
-    "group name": "静的解析ツールCoverityをもっと使いこなすための技術セミナー",
-    "event name": "静的解析ツールCoverityをもっと使いこなすための技術セミナー",
-    "url": "https://connpass.com/event/183591/",
-    "category": "",
-    "startAt": "2020-09-11T16:00:00+09:00",
-    "endAt": "2020-09-11T17:00:00+09:00",
-    "image": "https://online-meetup.dev/images/event.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-09-11"
-  },
-  {
     "group name": "Hack U",
     "event name": "Open Hack U 2020 Online Vol.3",
     "url": "https://hacku.connpass.com/event/181928/",
@@ -9310,18 +9118,6 @@
     "startAt": "2020-09-12T13:00:00+09:00",
     "endAt": "2020-09-12T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/08/72/08726bf155e5e751f8b7f8a667ce57f5.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-09-12"
-  },
-  {
-    "group name": "【オンライン開催】LinuC（リナック）レベル1 Version10.0 技術解説無料セミナー",
-    "event name": "【オンライン開催】LinuC（リナック）レベル1 Version10.0 技術解説無料セミナー",
-    "url": "https://connpass.com/event/183359/",
-    "category": "",
-    "startAt": "2020-09-12T13:00:00+09:00",
-    "endAt": "2020-09-12T14:15:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f4/ad/f4ada94b7bcaa5ee8e0b74df44e25146.png",
     "hashtag": "",
     "future": true,
     "date": "2020-09-12"
@@ -9469,18 +9265,6 @@
     "hashtag": "",
     "future": true,
     "date": "2020-09-25"
-  },
-  {
-    "group name": "【オンライン開催】LinuC（リナック）レベル1 Version10.0 技術解説無料セミナー",
-    "event name": "【オンライン開催】LinuC（リナック）レベル1 Version10.0 技術解説無料セミナー",
-    "url": "https://connpass.com/event/184285/",
-    "category": "",
-    "startAt": "2020-09-26T13:00:00+09:00",
-    "endAt": "2020-09-26T14:15:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f4/ad/f4ada94b7bcaa5ee8e0b74df44e25146.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-09-26"
   },
   {
     "group name": "情報科学若手の会",
