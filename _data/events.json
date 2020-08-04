@@ -3904,13 +3904,14 @@
     "group name": "ALGYAN(あるじゃん)主催 公式イベント！",
     "event name": "【オンライン】学習・推論そして制御！クラウド＋Edgeで実現するAI＆ロボティクス技術を垣間見る！",
     "url": "https://algyan.connpass.com/event/183331/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-08-01T14:00:00+09:00",
     "endAt": "2020-08-01T16:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/60/61/6061fb754047df79ede0fb9d678e16eb.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-01"
+    "date": "2020-08-01",
+    "color": "#2ccfc9"
   },
   {
     "group name": "AccessiブルGoGo! Meetup",
@@ -4924,13 +4925,14 @@
     "group name": "医療ディープラーニング勉強会",
     "event name": "AI最新技術Update会8月【オンライン】",
     "url": "https://deeplearning-b.connpass.com/event/181528/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-08-05T19:00:00+09:00",
     "endAt": "2020-08-05T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2d/9d/2d9dc344ee16234ec07e8cde024661e8.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-05"
+    "date": "2020-08-05",
+    "color": "#2ccfc9"
   },
   {
     "group name": "Japan Power Apps User Group",
@@ -5701,13 +5703,14 @@
     "group name": "Math & Coding     |  数学と機械学習",
     "event name": "オンライン [Math & Coding] パターン認識と機械学習（PRML）#35",
     "url": "https://math-coding.connpass.com/event/184137/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-08-08T09:30:00+09:00",
     "endAt": "2020-08-08T12:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/16/3d/163db865141bb78facd96157ab48e1e8.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-08"
+    "date": "2020-08-08",
+    "color": "#2ccfc9"
   },
   {
     "group name": "プロトアウトスタジオ",
@@ -5802,13 +5805,14 @@
     "group name": "AIメディカル研究会",
     "event name": "AIMSデータサイエンス初心者講座2020 #1",
     "url": "https://aims.connpass.com/event/183503/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-08-08T13:00:00+09:00",
     "endAt": "2020-08-08T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2e/a4/2ea47013a4981282f81d4ddb2b9cca54.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-08"
+    "date": "2020-08-08",
+    "color": "#2ccfc9"
   },
   {
     "group name": "Effective Java 第3版読書会",
@@ -5977,13 +5981,14 @@
     "group name": "異業種データサイエンス研究会",
     "event name": "【無料】Rで行う機械学習",
     "url": "https://datascienceteam.connpass.com/event/179936/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-08-08T19:00:00+09:00",
     "endAt": "2020-08-08T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d6/73/d6734a5e6e14fe6ef1b5ee11ae58affa.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-08"
+    "date": "2020-08-08",
+    "color": "#2ccfc9"
   },
   {
     "group name": "技術書界隈を盛り上げる会",
@@ -7497,13 +7502,14 @@
     "group name": "機械学習　名古屋",
     "event name": "機械学習 名古屋 研究会 #29",
     "url": "https://machine-learning.connpass.com/event/183294/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-08-20T19:00:00+09:00",
     "endAt": "2020-08-20T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ea/80/ea804d5c1926e4cb761a1ea994fb369c.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-20"
+    "date": "2020-08-20",
+    "color": "#2ccfc9"
   },
   {
     "group name": "FreeBSD勉強会",
@@ -7680,13 +7686,14 @@
     "group name": "【無料・オンライン】ゼロからはじめる機械学習「前処理と特徴量エンジニアリング」",
     "event name": "【無料・オンライン】ゼロからはじめる機械学習「前処理と特徴量エンジニアリング」",
     "url": "https://connpass.com/event/183037/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-08-21T19:00:00+09:00",
     "endAt": "2020-08-21T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e1/b1/e1b1a71f1707776bb1f2e0420fb3f5ca.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-21"
+    "date": "2020-08-21",
+    "color": "#2ccfc9"
   },
   {
     "group name": "株式会社iCARE",
@@ -7890,13 +7897,14 @@
     "group name": "AITC女子会",
     "event name": "AITC女子会：「Neural Network Consoleで機械学習に挑戦！」第3回",
     "url": "https://aitcjoshi.connpass.com/event/184007/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-08-22T14:00:00+09:00",
     "endAt": "2020-08-22T18:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-22"
+    "date": "2020-08-22",
+    "color": "#2ccfc9"
   },
   {
     "group name": "Houdiniゆるゆる会",
@@ -8730,13 +8738,14 @@
     "group name": "AI inside 株式会社",
     "event name": "オンライン開催　AI inside MeetUP　エンジニア編 #3",
     "url": "https://aiinside.connpass.com/event/184521/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-08-28T19:00:00+09:00",
     "endAt": "2020-08-28T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d5/3f/d53febbf146df3b8ad6870a6c5720e3d.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-28"
+    "date": "2020-08-28",
+    "color": "#2ccfc9"
   },
   {
     "group name": "RPACommunity",
@@ -9100,25 +9109,27 @@
     "group name": "IoT研究会",
     "event name": "【無料】ノンコーディングで行う機械学習",
     "url": "https://iot-dev.connpass.com/event/183584/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-09-05T19:00:00+09:00",
     "endAt": "2020-09-05T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/53/2f/532f58bde7315fff0aa50b28ead611b2.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-09-05"
+    "date": "2020-09-05",
+    "color": "#2ccfc9"
   },
   {
     "group name": "異業種データサイエンス研究会",
     "event name": "【無料】ノンコーディングで行う機械学習",
     "url": "https://datascienceteam.connpass.com/event/183588/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-09-05T19:00:00+09:00",
     "endAt": "2020-09-05T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1b/78/1b78d4742cc248c4208b8d147108efc1.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-09-05"
+    "date": "2020-09-05",
+    "color": "#2ccfc9"
   },
   {
     "group name": "ExaWizards/エクサウィザーズ",
@@ -9370,13 +9381,14 @@
     "group name": "AI搭載システムの機能安全規格適合方法と安全論証の進め方",
     "event name": "AI搭載システムの機能安全規格適合方法と安全論証の進め方",
     "url": "https://connpass.com/event/178333/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-09-28T14:00:00+09:00",
     "endAt": "2020-09-28T17:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/87/45/87451d6ba99053b388e4abb6b0805de8.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-09-28"
+    "date": "2020-09-28",
+    "color": "#2ccfc9"
   },
   {
     "group name": "CircleCI",
