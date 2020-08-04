@@ -4742,7 +4742,7 @@
     "category": "",
     "startAt": "2020-08-04T19:00:00+09:00",
     "endAt": "2020-08-04T21:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1e/b1/1eb1775dfb1c17f12f700b455e36948e.png",
     "hashtag": "",
     "today": true,
     "future": true,
@@ -4755,7 +4755,7 @@
     "category": "",
     "startAt": "2020-08-04T19:00:00+09:00",
     "endAt": "2020-08-04T21:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/17/c1/17c102a1aa3e7af592aa2feac66dbb93.png",
     "hashtag": "",
     "today": true,
     "future": true,
@@ -4859,7 +4859,7 @@
     "category": "",
     "startAt": "2020-08-04T21:00:00+09:00",
     "endAt": "2020-08-04T22:30:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b5/70/b57094ba4a43bc6792b614bbc9d1d325.png",
     "hashtag": "",
     "today": true,
     "future": true,
@@ -5032,7 +5032,7 @@
     "category": "",
     "startAt": "2020-08-05T19:00:00+09:00",
     "endAt": "2020-08-05T21:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2d/9d/2d9dc344ee16234ec07e8cde024661e8.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-05"
@@ -5344,7 +5344,7 @@
     "category": "",
     "startAt": "2020-08-06T13:00:00+09:00",
     "endAt": "2020-08-06T17:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8a/ab/8aab1f011b6ddf539df34b4d0bc05491.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-06"
@@ -6388,7 +6388,7 @@
     "category": "",
     "startAt": "2020-08-09T20:00:00+09:00",
     "endAt": "2020-08-09T22:00:00+09:00",
-    "image": "",
+    "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-09"
@@ -6472,7 +6472,7 @@
     "category": "",
     "startAt": "2020-08-10T21:00:00+09:00",
     "endAt": "2020-08-10T22:30:00+09:00",
-    "image": "",
+    "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-10"
@@ -7120,7 +7120,7 @@
     "category": "",
     "startAt": "2020-08-15T16:00:00+09:00",
     "endAt": "2020-08-15T18:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/52/79/527956abf8753325f1e47bf4ae687852.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-15"
@@ -7432,7 +7432,7 @@
     "category": "",
     "startAt": "2020-08-19T17:00:00+09:00",
     "endAt": "2020-08-19T18:40:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2b/85/2b85817d7194423a2699dddc9d045849.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-19"
@@ -8380,7 +8380,7 @@
     "category": "",
     "startAt": "2020-08-23T21:00:00+09:00",
     "endAt": "2020-08-23T22:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b7/0d/b70d9741591c108f0f69dc7c46e1c945.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-23"
@@ -8500,7 +8500,7 @@
     "category": "",
     "startAt": "2020-08-25T19:00:00+09:00",
     "endAt": "2020-08-25T20:30:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/15/ce/15ce4c4e73110c2f72cd4d932ab59394.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-25"
@@ -9220,7 +9220,7 @@
     "category": "",
     "startAt": "2020-08-29T23:00:00+09:00",
     "endAt": "2020-08-30T00:00:00+09:00",
-    "image": "",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/66/cc/66cc17de1fd8697c9dc6187b95cf489b.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-29"
