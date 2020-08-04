@@ -2808,19 +2808,6 @@
     "color": "grey"
   },
   {
-    "group name": "圏論セミナー",
-    "event name": "第1回　新・導来圏勉強会",
-    "url": "https://category.connpass.com/event/170337/",
-    "category": "other",
-    "startAt": "2020-03-20T22:05:00+09:00",
-    "endAt": "2020-03-20T23:05:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/87/e9/87e9223303b1dad30693dcfcd11e185a.png",
-    "hashtag": "",
-    "future": false,
-    "date": "2020-03-20",
-    "color": "grey"
-  },
-  {
     "group name": "コンパイラ・インタプリタ開発ハッカソン",
     "event name": "コンパイラ・インタプリタ開発ハッカソン",
     "url": "https://connpass.com/event/161475/",
@@ -3835,18 +3822,6 @@
     "future": false,
     "date": "2020-08-01",
     "color": "purple"
-  },
-  {
-    "group name": "APIファースト開発勉強会",
-    "event name": "【練習】「SQLの苦手を克服する」オンラインセミナー",
-    "url": "https://api-first.connpass.com/event/182803/",
-    "category": "",
-    "startAt": "2020-08-01T13:00:00+09:00",
-    "endAt": "2020-08-01T17:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e3/23/e3236e6fbadf75b5cf6329c2c5b0899d.png",
-    "hashtag": "",
-    "future": false,
-    "date": "2020-08-01"
   },
   {
     "group name": "PRINCIPIA",
@@ -5028,18 +5003,6 @@
     "date": "2020-08-05"
   },
   {
-    "group name": "スマートエスイー - スマートシステム＆サービス技術の産学連携イノベーティブ人材育成",
-    "event name": "セミナー-  国際標準- 知識体系SWEBOK、品質規格SQuaRE、ビジネス分析知識体系BABOK",
-    "url": "https://smartse.connpass.com/event/178628/",
-    "category": "",
-    "startAt": "2020-08-05T19:00:00+09:00",
-    "endAt": "2020-08-05T21:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/79/8a/798a3735db6dd3e372d906d3fff5dcaa.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-05"
-  },
-  {
     "group name": "ラクス",
     "event name": "大規模SaaS、レガシーを吹き飛ばすPHPer実践テクニック / 自動化、機械化、静的解析@ラクス",
     "url": "https://rakus.connpass.com/event/182082/",
@@ -6155,18 +6118,6 @@
     "date": "2020-08-09"
   },
   {
-    "group name": "からすま数理セミナー",
-    "event name": "佐武線型代数学 輪読会 #25【オンライン】",
-    "url": "https://karasuma-math.connpass.com/event/184816/",
-    "category": "",
-    "startAt": "2020-08-09T09:30:00+09:00",
-    "endAt": "2020-08-09T11:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f2/c3/f2c399e8d76b5cfa0507b854bcc93667.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-09"
-  },
-  {
     "group name": "みんなのITもくもく会",
     "event name": "みんなのITもくもく会@オンライン",
     "url": "https://itmokumoku.connpass.com/event/184904/",
@@ -7175,18 +7126,6 @@
     "date": "2020-08-17"
   },
   {
-    "group name": "スマートエスイー - スマートシステム＆サービス技術の産学連携イノベーティブ人材育成",
-    "event name": "セミナー- DX時代のビジネス戦略・要求",
-    "url": "https://smartse.connpass.com/event/182354/",
-    "category": "",
-    "startAt": "2020-08-17T19:00:00+09:00",
-    "endAt": "2020-08-17T21:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/79/8a/798a3735db6dd3e372d906d3fff5dcaa.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-17"
-  },
-  {
     "group name": "OthloTech",
     "event name": "【オンライン開催】夏休みLT会！",
     "url": "https://othlotech.connpass.com/event/184054/",
@@ -7572,18 +7511,6 @@
     "date": "2020-08-20"
   },
   {
-    "group name": "スマートエスイー - スマートシステム＆サービス技術の産学連携イノベーティブ人材育成",
-    "event name": "セミナー- アジャイル開発と品質",
-    "url": "https://smartse.connpass.com/event/178629/",
-    "category": "",
-    "startAt": "2020-08-20T19:00:00+09:00",
-    "endAt": "2020-08-20T21:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/79/8a/798a3735db6dd3e372d906d3fff5dcaa.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-20"
-  },
-  {
     "group name": "さくらインターネット 東京",
     "event name": "【８/２０（木）開催】さくらのみんな会議（仮）＃2　「さくらのVPSについて語ろう！」",
     "url": "https://sakura-tokyo.connpass.com/event/183847/",
@@ -7837,18 +7764,6 @@
     "date": "2020-08-21"
   },
   {
-    "group name": "マネージャー向け ビジネスへのAI活用セミナー",
-    "event name": "【AI・オンライン・無料】管理者・マネージャー向け ビジネスへのAI活用セミナー",
-    "url": "https://business-ai-for-manager.connpass.com/event/182859/",
-    "category": "",
-    "startAt": "2020-08-21T20:00:00+09:00",
-    "endAt": "2020-08-21T21:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5f/69/5f69e118e5a7237878241753933277bc.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-21"
-  },
-  {
     "group name": "ロボティクス勉強会",
     "event name": "第3回ロボティクス勉強会",
     "url": "https://robosemi.connpass.com/event/183407/",
@@ -7928,19 +7843,6 @@
     "startAt": "2020-08-22T13:00:00+09:00",
     "endAt": "2020-08-30T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f4/5d/f45d882fd3dd2fe081214efeeb7e7d09.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-22",
-    "color": "purple"
-  },
-  {
-    "group name": "はんなりPythonの会",
-    "event name": "【オンライン】「ゼロから実践する 遺伝統計学セミナー〜疾患とゲノムを結びつける」を読む・手を動かす⑦",
-    "url": "https://hannari-python.connpass.com/event/184755/",
-    "category": "python",
-    "startAt": "2020-08-22T13:00:00+09:00",
-    "endAt": "2020-08-22T15:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cd/d1/cdd185f664c8cbca4067eaf21ed54d2e.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-22",
@@ -8197,18 +8099,6 @@
     "startAt": "2020-08-23T13:00:00+09:00",
     "endAt": "2020-08-23T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/87/07/8707330505e32f7b03bf9a38bf270f3a.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-23"
-  },
-  {
-    "group name": "からすま数理セミナー",
-    "event name": "量子コンピュータと量子通信 輪読会 #7【オンライン】",
-    "url": "https://karasuma-math.connpass.com/event/184817/",
-    "category": "",
-    "startAt": "2020-08-23T13:30:00+09:00",
-    "endAt": "2020-08-23T15:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b4/b7/b4b762f03d8d2e0cb7ceeda1eb5a924e.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-23"
@@ -9001,18 +8891,6 @@
     "date": "2020-08-28"
   },
   {
-    "group name": "パソナテック主催セミナー",
-    "event name": "【大人気！/全国参加可】現役エンジニア講師！第3回Pythonオンラインセミナー",
-    "url": "https://pt-seminar.connpass.com/event/184229/",
-    "category": "",
-    "startAt": "2020-08-29T11:00:00+09:00",
-    "endAt": "2020-08-29T12:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d2/6f/d26f89d9acaf5498a8d8ec34bfd043f2.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-29"
-  },
-  {
     "group name": "ぼくらの宇宙アイデアソン-DayONE-",
     "event name": "ぼくらの宇宙アイデアソン-DayONE-",
     "url": "https://connpass.com/event/182391/",
@@ -9116,18 +8994,6 @@
     "startAt": "2020-08-29T15:00:00+09:00",
     "endAt": "2020-08-29T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/83/67/8367fc921ab246882ab7925192fc6392.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-29"
-  },
-  {
-    "group name": "ネスペ・支援士塾",
-    "event name": "【ZOOM開催】左門至峰によるネットワークスペシャリスト試験対策セミナー【第1回】",
-    "url": "https://nespe.connpass.com/event/175793/",
-    "category": "",
-    "startAt": "2020-08-29T19:00:00+09:00",
-    "endAt": "2020-08-29T21:30:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/52/77/52778654fc441f674408f12ce9591a10.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-29"
@@ -9289,18 +9155,6 @@
     "hashtag": "",
     "future": true,
     "date": "2020-09-02"
-  },
-  {
-    "group name": "第23回PostgreSQLエンタープライズ・コンソーシアムセミナー",
-    "event name": "第23回PostgreSQLエンタープライズ・コンソーシアムセミナー",
-    "url": "https://connpass.com/event/183111/",
-    "category": "",
-    "startAt": "2020-09-03T13:30:00+09:00",
-    "endAt": "2020-09-03T17:15:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cc/e9/cce9507680e54a2a475ffbb6e17d6210.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-09-03"
   },
   {
     "group name": "Power Apps & CRM User Group 九州",
