@@ -3800,18 +3800,6 @@
     "date": "2020-08-01"
   },
   {
-    "group name": "パソナテック主催セミナー",
-    "event name": "【増枠/初開催！】無料☆Swiftアプリ開発オンラインセミナー",
-    "url": "https://pt-seminar.connpass.com/event/183354/",
-    "category": "",
-    "startAt": "2020-08-01T11:00:00+09:00",
-    "endAt": "2020-08-01T12:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e3/30/e330165882099e1d628b6581cc04b7f8.png",
-    "hashtag": "",
-    "future": false,
-    "date": "2020-08-01"
-  },
-  {
     "group name": "エリジョ ～Elixir女子部～",
     "event name": "エリジョ「Elixir女子部」#8 気象データを活用して何かを作る会",
     "url": "https://elijo.connpass.com/event/181920/",
@@ -4815,19 +4803,6 @@
     "date": "2020-08-04"
   },
   {
-    "group name": "Sun* Inc.",
-    "event name": "2020年の物流DX改革",
-    "url": "https://sun.connpass.com/event/184241/",
-    "category": "",
-    "startAt": "2020-08-04T19:30:00+09:00",
-    "endAt": "2020-08-04T20:30:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e8/78/e8789855b776347e37a0cd0b066ff643.png",
-    "hashtag": "",
-    "today": true,
-    "future": true,
-    "date": "2020-08-04"
-  },
-  {
     "group name": "Product Managers Japan",
     "event name": "pmjp.slack.comオンラインミートアップ #20",
     "url": "https://pmjp.connpass.com/event/183490/",
@@ -4928,18 +4903,6 @@
     "startAt": "2020-08-05T11:00:00+09:00",
     "endAt": "2020-08-05T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-05"
-  },
-  {
-    "group name": "エンタープライズ・アジャイル実践セミナー",
-    "event name": "【マネージャーなら知っておきたい!】今さら聞けないベロシティ活用の３つのポイント",
-    "url": "https://graat-agile.connpass.com/event/183277/",
-    "category": "",
-    "startAt": "2020-08-05T12:00:00+09:00",
-    "endAt": "2020-08-05T13:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3f/82/3f8204bf46b397b65d857a005408f9a0.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-05"
@@ -5536,18 +5499,6 @@
     "future": true,
     "date": "2020-08-06",
     "color": "#B8D59E"
-  },
-  {
-    "group name": "MMMクラウド勉強会",
-    "event name": "AWS利用料を削減しよう! AWS Trusted Advisor 解説セミナー【参加無料】",
-    "url": "https://mmm.connpass.com/event/183002/",
-    "category": "",
-    "startAt": "2020-08-06T20:00:00+09:00",
-    "endAt": "2020-08-06T21:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9f/2d/9f2dec678aed349e3828d738e6fd063e.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-06"
   },
   {
     "group name": "ストレージ基礎知識（初級）Part１-ストレージって、どんなもの？",
@@ -9371,18 +9322,6 @@
     "startAt": "2020-09-05T13:00:00+09:00",
     "endAt": "2020-09-05T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e5/2f/e52fc62c387dbfc115d80ce75c12c2fc.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-09-05"
-  },
-  {
-    "group name": "【オンライン開催】OSS-DB Exam Silver 技術解説無料セミナー",
-    "event name": "【オンライン開催】OSS-DB Exam Silver 技術解説無料セミナー",
-    "url": "https://connpass.com/event/184275/",
-    "category": "",
-    "startAt": "2020-09-05T13:00:00+09:00",
-    "endAt": "2020-09-05T14:15:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/47/22/472219b693cad492f997c0a2bdb90081.png",
     "hashtag": "",
     "future": true,
     "date": "2020-09-05"
