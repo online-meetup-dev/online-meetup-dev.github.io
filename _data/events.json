@@ -9186,13 +9186,14 @@
     "group name": "量子コンピュータ",
     "event name": "Blueqat Summit India 2020 online",
     "url": "https://qnn.connpass.com/event/182218/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-09-23T13:00:00+09:00",
     "endAt": "2020-09-23T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/38/02/3802afe18db9d0d98315cdde457f407e.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-09-23"
+    "date": "2020-09-23",
+    "color": "#FAF79F"
   },
   {
     "group name": "ソフトウェアに含まれるOSSのライセンスと脆弱性の管理 Black Duck",
