@@ -4901,13 +4901,14 @@
     "group name": "TensorFlow User Group Tokyo",
     "event name": "TensorFlow User Group Meetup #11",
     "url": "https://tfug-tokyo.connpass.com/event/184226/",
-    "category": "",
+    "category": "ai",
     "startAt": "2020-08-05T16:30:00+09:00",
     "endAt": "2020-08-05T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9c/0b/9c0b292d3d4e9f505cf9d2f3efda4b73.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-05"
+    "date": "2020-08-05",
+    "color": "#2ccfc9"
   },
   {
     "group name": "福岡市IoTコンソーシアム(FITCO)",
@@ -7367,13 +7368,14 @@
     "group name": "Scala Rookies #2",
     "event name": "Scala Rookies #2",
     "url": "https://connpass.com/event/183567/",
-    "category": "",
+    "category": "scala",
     "startAt": "2020-08-19T19:30:00+09:00",
     "endAt": "2020-08-19T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/71/4c/714cf6ba6ed8c7420e9cfb43aa567aae.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-19"
+    "date": "2020-08-19",
+    "color": "#BB1904"
   },
   {
     "group name": "Forkwell",
@@ -8460,13 +8462,14 @@
     "group name": "Scala Rookies #2",
     "event name": "Scala Rookies #2",
     "url": "https://connpass.com/event/184444/",
-    "category": "",
+    "category": "scala",
     "startAt": "2020-08-26T19:30:00+09:00",
     "endAt": "2020-08-26T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/71/4c/714cf6ba6ed8c7420e9cfb43aa567aae.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-26"
+    "date": "2020-08-26",
+    "color": "#BB1904"
   },
   {
     "group name": "RPACommunity",
@@ -9226,13 +9229,14 @@
     "group name": "Scala関西勉強会",
     "event name": "【オンライン開催】09/15(火) Scala関西勉強会 - 2020年09月版",
     "url": "https://connpass.com/event/184638/",
-    "category": "",
+    "category": "scala",
     "startAt": "2020-09-15T19:00:00+09:00",
     "endAt": "2020-09-15T21:10:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-09-15"
+    "date": "2020-09-15",
+    "color": "#BB1904"
   },
   {
     "group name": "自動運転システムの安全設計＆安全性評価方法",
