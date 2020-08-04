@@ -4037,13 +4037,14 @@
     "group name": "YTS inc.",
     "event name": "【Flaskチュートリアル】PythonでWeb開発ハンズオン④【YouTubeLIVE】",
     "url": "https://yts-inc.connpass.com/event/184131/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-01T19:00:00+09:00",
     "endAt": "2020-08-01T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cc/31/cc31374d66f8aefd48fdf6e47493e541.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-01"
+    "date": "2020-08-01",
+    "color": "purple"
   },
   {
     "group name": "異業種データサイエンス研究会",
@@ -4189,13 +4190,14 @@
     "group name": "{Scale-Hack}",
     "event name": "【IT未経験者向け】Python基礎講座③リスト・タプル・辞書（8月2日）",
     "url": "https://scalehack.connpass.com/event/184277/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-02T15:00:00+09:00",
     "endAt": "2020-08-02T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/71/5e/715eacacf232e10da1f40a3c7968bae4.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-02"
+    "date": "2020-08-02",
+    "color": "purple"
   },
   {
     "group name": "PRINCIPIA",
@@ -4213,13 +4215,14 @@
     "group name": "{Scale-Hack}",
     "event name": "【IT未経験者向け】Python基礎講座④関数とクラス（8月2日）",
     "url": "https://scalehack.connpass.com/event/184276/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-02T16:30:00+09:00",
     "endAt": "2020-08-02T17:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/71/5e/715eacacf232e10da1f40a3c7968bae4.png",
     "hashtag": "",
     "future": false,
-    "date": "2020-08-02"
+    "date": "2020-08-02",
+    "color": "purple"
   },
   {
     "group name": "NoCoders JAPAN",
@@ -5084,13 +5087,14 @@
     "group name": "Pandas 勉強会 in 新潟",
     "event name": "Python Pandas 勉強会 in 新潟 #42(オンライン(zoom))",
     "url": "https://pandas-niigata.connpass.com/event/184543/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-05T19:30:00+09:00",
     "endAt": "2020-08-05T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/96/a3/96a32a4b03865d4732c0e3551f1a3249.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-05"
+    "date": "2020-08-05",
+    "color": "purple"
   },
   {
     "group name": "C#読書会",
@@ -6585,13 +6589,14 @@
     "group name": "はんなりPythonの会",
     "event name": "【オンライン】はんなりPython データ分析部 #11",
     "url": "https://hannari-python.connpass.com/event/184468/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-12T21:00:00+09:00",
     "endAt": "2020-08-12T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cd/d1/cdd185f664c8cbca4067eaf21ed54d2e.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-12"
+    "date": "2020-08-12",
+    "color": "purple"
   },
   {
     "group name": "INTER-Mediator",
@@ -6718,13 +6723,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(qiskitとpytorch,線形ソルバー)",
     "url": "https://qnn.connpass.com/event/184098/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-14T11:00:00+09:00",
     "endAt": "2020-08-14T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-14"
+    "date": "2020-08-14",
+    "color": "#FAF79F"
   },
   {
     "group name": "株式会社インサイト",
@@ -6767,13 +6773,14 @@
     "group name": "月刊フィントーク",
     "event name": "【python/株価分析/女性限定/オンライン】月刊フィントーク ホリデー",
     "url": "https://fintalk.connpass.com/event/184355/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-15T09:00:00+09:00",
     "endAt": "2020-08-15T12:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f9/dd/f9dd2e8090c449f37f8e1321fb2980be.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-15"
+    "date": "2020-08-15",
+    "color": "purple"
   },
   {
     "group name": "フーテンのグラさんと愉快な仲間たち",
@@ -7015,13 +7022,14 @@
     "group name": "Liberal Arts for Tech",
     "event name": "【オンライン】Pythonで学ぶ統計モデリングハンズオン② 〜一般化線形モデル編〜",
     "url": "https://liberal-arts-for-tech.connpass.com/event/184297/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-16T14:00:00+09:00",
     "endAt": "2020-08-16T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5d/65/5d6572ffcb65269f0f1fd5ab6ccf5cc0.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-16"
+    "date": "2020-08-16",
+    "color": "purple"
   },
   {
     "group name": "量子コンピュータ",
@@ -7161,13 +7169,14 @@
     "group name": "ラクス",
     "event name": "PHPerによるPHPerのための「PHPのニュースや記事を語り合う」TechCafe",
     "url": "https://rakus.connpass.com/event/184407/",
-    "category": "",
+    "category": "php",
     "startAt": "2020-08-18T19:00:00+09:00",
     "endAt": "2020-08-18T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/76/61/76619ab7484370d772f61f2707debf85.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-18"
+    "date": "2020-08-18",
+    "color": "#4F5D95"
   },
   {
     "group name": "量子コンピュータ",
@@ -7622,13 +7631,14 @@
     "group name": "ラクス",
     "event name": "PHP Lightning Talk Fes \"SUMMER 2020\" #phpltfes",
     "url": "https://rakus.connpass.com/event/184390/",
-    "category": "",
+    "category": "php",
     "startAt": "2020-08-21T19:00:00+09:00",
     "endAt": "2020-08-21T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a2/03/a2036e5ec1ecf67b6184ba191c4b4294.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-21"
+    "date": "2020-08-21",
+    "color": "#4F5D95"
   },
   {
     "group name": "【無料・オンライン】ゼロからはじめる機械学習「前処理と特徴量エンジニアリング」",
@@ -8103,13 +8113,14 @@
     "group name": "量子コンピュータ",
     "event name": "量子コンピュータ初級中級編(モビリティ計算とpythonデータ処理)",
     "url": "https://qnn.connpass.com/event/184104/",
-    "category": "",
+    "category": "quantum",
     "startAt": "2020-08-24T11:00:00+09:00",
     "endAt": "2020-08-24T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/81/e5/81e573e79760800af74183e259b0792a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-24"
+    "date": "2020-08-24",
+    "color": "#FAF79F"
   },
   {
     "group name": "D-College",
@@ -8880,13 +8891,14 @@
     "group name": "PyCon JP",
     "event name": "PyCon JP 2020 Tutorial（Zoom参加）",
     "url": "https://pyconjp.connpass.com/event/181065/",
-    "category": "",
+    "category": "python",
     "startAt": "2020-08-30T10:00:00+09:00",
     "endAt": "2020-08-30T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/77/dd/77dd66e2e7582502de6ac7f4f5045e70.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-30"
+    "date": "2020-08-30",
+    "color": "purple"
   },
   {
     "group name": "PyCon JP",
