@@ -7298,13 +7298,14 @@
     "group name": "UX DAYS TOKYO",
     "event name": "【オンライン開催】【第13回】組織にUXを広める！ファシリテーター育成講座",
     "url": "https://uxdt.connpass.com/event/183167/",
-    "category": "",
+    "category": "design",
     "startAt": "2020-08-19T19:30:00+09:00",
     "endAt": "2020-08-19T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/13/e8/13e825fbe34182d66ceb9f8b9d86fa6a.png",
     "hashtag": "",
     "future": true,
-    "date": "2020-08-19"
+    "date": "2020-08-19",
+    "color": "#2E6EF7"
   },
   {
     "group name": "輪読会会場 on discord",
