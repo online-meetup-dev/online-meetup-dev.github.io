@@ -1449,7 +1449,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/30/76/307674ea4dd68971cb8751ffac373e43.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-05"
   },
   {
@@ -1475,7 +1475,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8d/ec/8dec05dd833d59966962ea0ddf2e2181.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-05"
   },
   {
