@@ -3005,19 +3005,6 @@
     "date": "2020-08-11"
   },
   {
-    "group name": "QA ENGINE",
-    "event name": "8/11開催・「ユーザーの声」活用の現場online見学会",
-    "url": "https://csxai-by-studioousia.connpass.com/event/185400/",
-    "category": "other",
-    "startAt": "2020-08-11T13:00:00+09:00",
-    "endAt": "2020-08-11T13:45:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6f/c1/6fc1fefc9d00d9af46508f549dabf498.png",
-    "hashtag": "AI",
-    "future": true,
-    "date": "2020-08-11",
-    "color": "grey"
-  },
-  {
     "group name": "メルカリ／Mercari",
     "event name": "Gophers Office Hours #7 〜とにかく溜まった質問に答える回〜",
     "url": "https://mercari.connpass.com/event/184391/",
@@ -5628,19 +5615,6 @@
     "date": "2020-08-23"
   },
   {
-    "group name": "+IT(プラスアイティー)",
-    "event name": "【初心者歓迎】JavaでLet'sプログラミング！",
-    "url": "https://plusit.connpass.com/event/185599/",
-    "category": "other",
-    "startAt": "2020-08-23T14:00:00+09:00",
-    "endAt": "2020-08-23T16:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8d/0d/8d0d7de13f0f592ff4ad39603860b997.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-23",
-    "color": "grey"
-  },
-  {
     "group name": "鹿児島らぐ",
     "event name": "鹿児島Linux勉強会 2020.08(オンライン開催)",
     "url": "https://kagolug.connpass.com/event/185497/",
@@ -5878,19 +5852,6 @@
     "endAt": "2020-08-25T16:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ec/48/ec4830b32ad4ee836c03e42ba8aacec6.png",
     "hashtag": "エンジニアカフェ1周年",
-    "future": true,
-    "date": "2020-08-25",
-    "color": "grey"
-  },
-  {
-    "group name": "QA ENGINE",
-    "event name": "8/25開催・エクセルだけでチャット＋AIを実装する現場online見学会",
-    "url": "https://csxai-by-studioousia.connpass.com/event/185401/",
-    "category": "other",
-    "startAt": "2020-08-25T15:00:00+09:00",
-    "endAt": "2020-08-25T16:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d7/04/d704c35989b6610abfef77119ddf53b5.png",
-    "hashtag": "QAENGINE",
     "future": true,
     "date": "2020-08-25",
     "color": "grey"
