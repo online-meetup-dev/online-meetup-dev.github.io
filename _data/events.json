@@ -500,6 +500,19 @@
     "color": "#2175C9"
   },
   {
+    "group name": "第１回　有機化学学生ウェビナー",
+    "event name": "第１回　有機化学学生ウェビナー",
+    "url": "https://connpass.com/event/181164/",
+    "category": "other",
+    "startAt": "2020-08-02T14:30:00+09:00",
+    "endAt": "2020-08-02T20:30:00+09:00",
+    "image": "",
+    "hashtag": "有機化学学生ウェビナー",
+    "future": false,
+    "date": "2020-08-02",
+    "color": "grey"
+  },
+  {
     "group name": "EngineerCafe",
     "event name": "はじめてのプログラミング！～Scratch（スクラッチ）で絵を描いて動かしてみよう！～",
     "url": "https://engineercafe.connpass.com/event/184030/",
@@ -572,6 +585,19 @@
     "hashtag": "",
     "future": false,
     "date": "2020-08-02"
+  },
+  {
+    "group name": "初心者向けVBAオンラインサロン説明会",
+    "event name": "初心者向けVBAオンラインサロン説明会",
+    "url": "https://connpass.com/event/183905/",
+    "category": "other",
+    "startAt": "2020-08-02T20:00:00+09:00",
+    "endAt": "2020-08-09T21:00:00+09:00",
+    "image": "",
+    "hashtag": "業務効率化し隊",
+    "future": false,
+    "date": "2020-08-02",
+    "color": "grey"
   },
   {
     "group name": "真夜中の勉強会",
@@ -1045,6 +1071,32 @@
     "date": "2020-08-04"
   },
   {
+    "group name": "Udonもくもく会",
+    "event name": "Udonもくもく会 #023",
+    "url": "https://udonmokumoku.connpass.com/event/185049/",
+    "category": "mokumoku",
+    "startAt": "2020-08-04T19:30:00+09:00",
+    "endAt": "2020-08-04T21:00:00+09:00",
+    "image": "",
+    "hashtag": "もくもく会",
+    "future": false,
+    "date": "2020-08-04",
+    "color": "#B8D59E"
+  },
+  {
+    "group name": "Sun* Inc.",
+    "event name": "2020年の物流DX改革",
+    "url": "https://sun.connpass.com/event/184241/",
+    "category": "other",
+    "startAt": "2020-08-04T19:30:00+09:00",
+    "endAt": "2020-08-04T20:30:00+09:00",
+    "image": "",
+    "hashtag": "物流テック",
+    "future": false,
+    "date": "2020-08-04",
+    "color": "grey"
+  },
+  {
     "group name": "Product Managers Japan",
     "event name": "pmjp.slack.comオンラインミートアップ #20",
     "url": "https://pmjp.connpass.com/event/183490/",
@@ -1192,6 +1244,19 @@
     "hashtag": "",
     "future": false,
     "date": "2020-08-05"
+  },
+  {
+    "group name": "株式会社ロケーションバリュー",
+    "event name": "【多言語化対応】国内 在留外国人のロイヤルカスタマー化 ～外国人対応に困らないアプリ多言語対応～",
+    "url": "https://g7255743.connpass.com/event/183244/",
+    "category": "other",
+    "startAt": "2020-08-05T16:00:00+09:00",
+    "endAt": "2020-08-05T17:00:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": false,
+    "date": "2020-08-05",
+    "color": "grey"
   },
   {
     "group name": "TensorFlow User Group Tokyo",
@@ -1354,6 +1419,19 @@
     "color": "#147d3c"
   },
   {
+    "group name": "Sapporo.beam",
+    "event name": "sapporo.beam #333",
+    "url": "https://sapporo-beam.connpass.com/event/185187/",
+    "category": "other",
+    "startAt": "2020-08-05T19:00:00+09:00",
+    "endAt": "2020-08-05T22:00:00+09:00",
+    "image": "",
+    "hashtag": "サッポロビーム",
+    "future": false,
+    "date": "2020-08-05",
+    "color": "grey"
+  },
+  {
     "group name": "アジアクエスト株式会社",
     "event name": "大人のホームルーム 保健【リモートでの健康方法！】",
     "url": "https://asiaquest.connpass.com/event/182686/",
@@ -1465,6 +1543,45 @@
     "date": "2020-08-05"
   },
   {
+    "group name": "技術書界隈を盛り上げる会",
+    "event name": "技術書界隈を盛り上げる本 執筆／公開作戦会議",
+    "url": "https://gijutsusyo.connpass.com/event/185197/",
+    "category": "other",
+    "startAt": "2020-08-05T21:00:00+09:00",
+    "endAt": "2020-08-05T22:00:00+09:00",
+    "image": "",
+    "hashtag": "技術書界隈を盛り上げる会",
+    "future": false,
+    "date": "2020-08-05",
+    "color": "grey"
+  },
+  {
+    "group name": "ジャンルなしオンラインもくもく会",
+    "event name": "8/5(水)【第88回】オンラインもくもく会【discord使用】途中入退室OK",
+    "url": "https://no-genre-mokumoku.connpass.com/event/185108/",
+    "category": "mokumoku",
+    "startAt": "2020-08-05T21:00:00+09:00",
+    "endAt": "2020-08-05T23:40:00+09:00",
+    "image": "",
+    "hashtag": "もくもく会",
+    "future": false,
+    "date": "2020-08-05",
+    "color": "#B8D59E"
+  },
+  {
+    "group name": "真夜中の勉強会",
+    "event name": "真夜中の勉強会(ゆるいオンラインもくもく会)@Slack",
+    "url": "https://mayonakano.connpass.com/event/185147/",
+    "category": "mokumoku",
+    "startAt": "2020-08-05T22:30:00+09:00",
+    "endAt": "2020-08-05T23:30:00+09:00",
+    "image": "",
+    "hashtag": "もくもく会",
+    "future": false,
+    "date": "2020-08-05",
+    "color": "#B8D59E"
+  },
+  {
     "group name": "みんなのITもくもく会",
     "event name": "ビデオはオフ！寝ぼけまなこでもくもく朝会",
     "url": "https://itmokumoku.connpass.com/event/184854/",
@@ -1537,6 +1654,19 @@
     "hashtag": "",
     "future": false,
     "date": "2020-08-06"
+  },
+  {
+    "group name": "ACRi",
+    "event name": "ACRiルーム紹介ウェビナー",
+    "url": "https://acri.connpass.com/event/183224/",
+    "category": "other",
+    "startAt": "2020-08-06T16:00:00+09:00",
+    "endAt": "2020-08-06T17:00:00+09:00",
+    "image": "",
+    "hashtag": "ACRi",
+    "future": false,
+    "date": "2020-08-06",
+    "color": "grey"
   },
   {
     "group name": "メルカリ／Mercari",
@@ -1652,6 +1782,32 @@
     "color": "grey"
   },
   {
+    "group name": "【事例もご紹介】チャットボット導入で失敗しない3つのポイントお伝えします",
+    "event name": "【事例もご紹介】チャットボット導入で失敗しない3つのポイントお伝えします",
+    "url": "https://connpass.com/event/184991/",
+    "category": "other",
+    "startAt": "2020-08-06T19:00:00+09:00",
+    "endAt": "2020-08-06T20:00:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": false,
+    "date": "2020-08-06",
+    "color": "grey"
+  },
+  {
+    "group name": "【大学生・大学院生10名さま限定！】銀行CTOとHRと語る「ニューノーマルで活躍できる人材とは？」",
+    "event name": "【大学生・大学院生10名さま限定！】銀行CTOとHRと語る「ニューノーマルで活躍できる人材とは？」",
+    "url": "https://connpass.com/event/183878/",
+    "category": "other",
+    "startAt": "2020-08-06T19:00:00+09:00",
+    "endAt": "2020-08-06T20:00:00+09:00",
+    "image": "",
+    "hashtag": "キャリアイベント",
+    "future": false,
+    "date": "2020-08-06",
+    "color": "grey"
+  },
+  {
     "group name": "UX DAYS TOKYO",
     "event name": "オンライン【第17回】UX視点でのサイト改善検定講座〜レイアウト編",
     "url": "https://uxdt.connpass.com/event/183038/",
@@ -1739,6 +1895,19 @@
     "color": "purple"
   },
   {
+    "group name": "CAREER HACK",
+    "event name": "【若手PM向け】PMお悩み相談室＃1 by キャリアハック",
+    "url": "https://careerhack.connpass.com/event/184499/",
+    "category": "other",
+    "startAt": "2020-08-06T20:00:00+09:00",
+    "endAt": "2020-08-06T21:00:00+09:00",
+    "image": "",
+    "hashtag": "PMお悩み相談室",
+    "future": false,
+    "date": "2020-08-06",
+    "color": "grey"
+  },
+  {
     "group name": "JBUG(Japan Backlog User Group)",
     "event name": "JBUG 東京 # 17 #オンライン 〜恒例！盛夏のLT大会2020〜",
     "url": "https://jbug.connpass.com/event/180875/",
@@ -1785,6 +1954,32 @@
     "hashtag": "",
     "future": false,
     "date": "2020-08-06"
+  },
+  {
+    "group name": "ジャンルなしオンラインもくもく会",
+    "event name": "8/6(もく)【第89回】オンラインもくもく会【discord使用】途中入退室OK",
+    "url": "https://no-genre-mokumoku.connpass.com/event/185265/",
+    "category": "mokumoku",
+    "startAt": "2020-08-06T21:00:00+09:00",
+    "endAt": "2020-08-06T23:40:00+09:00",
+    "image": "",
+    "hashtag": "もくもく会",
+    "future": false,
+    "date": "2020-08-06",
+    "color": "#B8D59E"
+  },
+  {
+    "group name": "真夜中の勉強会",
+    "event name": "真夜中の勉強会(ゆるいオンラインもくもく会)@Slack",
+    "url": "https://mayonakano.connpass.com/event/185286/",
+    "category": "mokumoku",
+    "startAt": "2020-08-06T22:30:00+09:00",
+    "endAt": "2020-08-06T23:30:00+09:00",
+    "image": "",
+    "hashtag": "もくもく会",
+    "future": false,
+    "date": "2020-08-06",
+    "color": "#B8D59E"
   },
   {
     "group name": "WEB担当者が知っていると便利なHTML＆CSS10選",
@@ -2239,6 +2434,19 @@
     "future": false,
     "date": "2020-08-08",
     "color": "#2175C9"
+  },
+  {
+    "group name": "【初心者可】目指そうスマホアプリエンジニア！大手プログラミングスクール元事業責任者が語る次世代の技術",
+    "event name": "【初心者可】目指そうスマホアプリエンジニア！大手プログラミングスクール元事業責任者が語る次世代の技術",
+    "url": "https://connpass.com/event/185028/",
+    "category": "other",
+    "startAt": "2020-08-08T14:00:00+09:00",
+    "endAt": "2020-08-08T15:00:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": false,
+    "date": "2020-08-08",
+    "color": "grey"
   },
   {
     "group name": "【データサイエンス入門】ビッグデータの活用方法と、Pythonによるデータ分析実演",
@@ -3187,6 +3395,19 @@
     "date": "2020-08-12"
   },
   {
+    "group name": "Pandas 勉強会 in 新潟",
+    "event name": "Python Pandas 勉強会 in 新潟 #43(オンライン(zoom))",
+    "url": "https://pandas-niigata.connpass.com/event/185243/",
+    "category": "other",
+    "startAt": "2020-08-12T19:30:00+09:00",
+    "endAt": "2020-08-12T20:30:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-08-12",
+    "color": "grey"
+  },
+  {
     "group name": "『実用Common Lisp』読書会",
     "event name": "『実用Common Lisp』読書会(59)",
     "url": "https://jitsucl.connpass.com/event/184675/",
@@ -3198,6 +3419,19 @@
     "future": true,
     "date": "2020-08-12",
     "color": "#B2834C"
+  },
+  {
+    "group name": "サードプレイス金沢",
+    "event name": "スポーツ × テック　＜オンラインイベント＞",
+    "url": "https://3rdlink.connpass.com/event/184863/",
+    "category": "other",
+    "startAt": "2020-08-12T20:00:00+09:00",
+    "endAt": "2020-08-12T21:00:00+09:00",
+    "image": "",
+    "hashtag": "サードプレイス金沢",
+    "future": true,
+    "date": "2020-08-12",
+    "color": "grey"
   },
   {
     "group name": "Serverless",
@@ -3896,6 +4130,19 @@
     "color": "purple"
   },
   {
+    "group name": "CoderDojo猪名川",
+    "event name": "第23回 CoderDojo猪名川＠オンライン 2020/8/16 14-00～16-30",
+    "url": "https://coderdojo-inagawa.connpass.com/event/185076/",
+    "category": "coderdojo",
+    "startAt": "2020-08-16T14:00:00+09:00",
+    "endAt": "2020-08-16T16:30:00+09:00",
+    "image": "",
+    "hashtag": "CoderDojo",
+    "future": true,
+    "date": "2020-08-16",
+    "color": "#2175C9"
+  },
+  {
     "group name": "PyCon JP スタッフ",
     "event name": "PyCon JP 2020 デザインMTG",
     "url": "https://pyconjp-staff.connpass.com/event/185467/",
@@ -4045,6 +4292,19 @@
     "hashtag": "",
     "future": true,
     "date": "2020-08-18"
+  },
+  {
+    "group name": "【後藤ブランド・インフォネット】テレアポ頼みから脱却！WEB集客＆マーケ強化で安定的にリード獲得！",
+    "event name": "【後藤ブランド・インフォネット】テレアポ頼みから脱却！WEB集客＆マーケ強化で安定的にリード獲得！",
+    "url": "https://connpass.com/event/185133/",
+    "category": "other",
+    "startAt": "2020-08-18T14:00:00+09:00",
+    "endAt": "2020-08-18T14:40:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-08-18",
+    "color": "grey"
   },
   {
     "group name": "メルカリ／Mercari",
@@ -4262,6 +4522,19 @@
     "color": "grey"
   },
   {
+    "group name": "Accenture",
+    "event name": "【オンライン開催】Digital transformation case studies",
+    "url": "https://accenture-technology.connpass.com/event/185274/",
+    "category": "other",
+    "startAt": "2020-08-19T19:00:00+09:00",
+    "endAt": "2020-08-19T20:00:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-08-19",
+    "color": "grey"
+  },
+  {
     "group name": "大阪駆動開発",
     "event name": "【大阪オンライン】XRミーティング  2020/08/19【AR/CR/MR/SR/VR】",
     "url": "https://osaka-driven-dev.connpass.com/event/184885/",
@@ -4374,6 +4647,19 @@
     "color": "grey"
   },
   {
+    "group name": "C#読書会",
+    "event name": "(最終回&次回打合せ）.NETのエンター…Zoomオンライン読書会 Vol.48(第123回)",
+    "url": "https://cs-reading.connpass.com/event/185246/",
+    "category": "book",
+    "startAt": "2020-08-19T19:30:00+09:00",
+    "endAt": "2020-08-19T21:00:00+09:00",
+    "image": "",
+    "hashtag": "CS読書会",
+    "future": true,
+    "date": "2020-08-19",
+    "color": "#B2834C"
+  },
+  {
     "group name": "大阪駆動開発 - 関東支部",
     "event name": "【関東-オンライン開催】XRミーティング 2020/08/19 #XRMTG",
     "url": "https://osaka-driven-dev-br-tokyo.connpass.com/event/184891/",
@@ -4384,6 +4670,32 @@
     "hashtag": "",
     "future": true,
     "date": "2020-08-19"
+  },
+  {
+    "group name": "Angular Japan User Group",
+    "event name": "ng-japan OnAir vol.23 \"Scully- AngularのSSG最前線\"",
+    "url": "https://ngjapan.connpass.com/event/185247/",
+    "category": "other",
+    "startAt": "2020-08-19T20:00:00+09:00",
+    "endAt": "2020-08-19T21:00:00+09:00",
+    "image": "",
+    "hashtag": "ng_jp_onair",
+    "future": true,
+    "date": "2020-08-19",
+    "color": "grey"
+  },
+  {
+    "group name": "PRINCIPIA",
+    "event name": "並行システムの設計検証 プロセスの正常終了と逐次合成",
+    "url": "https://principia.connpass.com/event/185234/",
+    "category": "other",
+    "startAt": "2020-08-19T20:30:00+09:00",
+    "endAt": "2020-08-19T21:30:00+09:00",
+    "image": "",
+    "hashtag": "SyncStitch",
+    "future": true,
+    "date": "2020-08-19",
+    "color": "grey"
   },
   {
     "group name": "量子コンピュータ",
@@ -4661,6 +4973,19 @@
     "color": "grey"
   },
   {
+    "group name": "Sendai.rb",
+    "event name": "[オンライン開催]Sendai.rb #10",
+    "url": "https://sendairb.connpass.com/event/184649/",
+    "category": "ruby",
+    "startAt": "2020-08-20T20:00:00+09:00",
+    "endAt": "2020-08-20T21:30:00+09:00",
+    "image": "",
+    "hashtag": "sendairb",
+    "future": true,
+    "date": "2020-08-20",
+    "color": "#701516"
+  },
+  {
     "group name": "株式会社インサイト",
     "event name": "【オンライン】CAE技術者の為のデータサイエンス勉強会「深層学習２」8/21午前",
     "url": "https://insight.connpass.com/event/185484/",
@@ -4793,6 +5118,19 @@
     "category": "other",
     "startAt": "2020-08-21T19:00:00+09:00",
     "endAt": "2020-08-21T20:00:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-08-21",
+    "color": "grey"
+  },
+  {
+    "group name": "PLY OSAKAのイベント情報",
+    "event name": "PLY OSAKA20年度施策方針説明会",
+    "url": "https://ply-osaka.connpass.com/event/184262/",
+    "category": "other",
+    "startAt": "2020-08-21T19:00:00+09:00",
+    "endAt": "2020-08-21T21:00:00+09:00",
     "image": "",
     "hashtag": "",
     "future": true,
@@ -5000,6 +5338,19 @@
     "color": "grey"
   },
   {
+    "group name": "同人なんでも勉強会 in 富山",
+    "event name": "同ソもくもく会 in 富山 ＃16 (Zoomオンライン開催)",
+    "url": "https://dosotoyama.connpass.com/event/185086/",
+    "category": "mokumoku",
+    "startAt": "2020-08-22T13:00:00+09:00",
+    "endAt": "2020-08-22T18:00:00+09:00",
+    "image": "",
+    "hashtag": "同ソもくもく",
+    "future": true,
+    "date": "2020-08-22",
+    "color": "#B8D59E"
+  },
+  {
     "group name": "【オンライン】Excelマクロ・VBA 体験講座 【初心者歓迎】#2",
     "event name": "【オンライン】Excelマクロ・VBA 体験講座 【初心者歓迎】#2",
     "url": "https://connpass.com/event/183917/",
@@ -5073,6 +5424,19 @@
     "future": true,
     "date": "2020-08-22",
     "color": "grey"
+  },
+  {
+    "group name": "オンラインイベント @みんなのバーチャルコワーキングジャパン（みんコワ）",
+    "event name": "オンライン動画編集もくもく会　8/22(土)",
+    "url": "https://mokuyomokumoku.connpass.com/event/184783/",
+    "category": "mokumoku",
+    "startAt": "2020-08-22T14:00:00+09:00",
+    "endAt": "2020-08-22T17:00:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-08-22",
+    "color": "#B8D59E"
   },
   {
     "group name": "だから、そのデザインはダメなんだ。",
@@ -5260,6 +5624,45 @@
     "endAt": "2020-08-23T16:30:00+09:00",
     "image": "",
     "hashtag": "エンジニアカフェ1周年",
+    "future": true,
+    "date": "2020-08-23",
+    "color": "grey"
+  },
+  {
+    "group name": "LINE Developers Community",
+    "event name": "GCPとミニアプリ(LIFF)でお店の予約フォームをつくろう",
+    "url": "https://linedevelopercommunity.connpass.com/event/185245/",
+    "category": "other",
+    "startAt": "2020-08-23T13:00:00+09:00",
+    "endAt": "2020-08-23T15:30:00+09:00",
+    "image": "",
+    "hashtag": "LINEDC",
+    "future": true,
+    "date": "2020-08-23",
+    "color": "grey"
+  },
+  {
+    "group name": "GCPとミニアプリ(LIFF)でお店の予約フォームをつくろう",
+    "event name": "GCPとミニアプリ(LIFF)でお店の予約フォームをつくろう",
+    "url": "https://connpass.com/event/180215/",
+    "category": "other",
+    "startAt": "2020-08-23T13:00:00+09:00",
+    "endAt": "2020-08-23T15:30:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-08-23",
+    "color": "grey"
+  },
+  {
+    "group name": "PRINCIPIA",
+    "event name": "モデル検査器を作って学ぶマルチスレッドプログラミング",
+    "url": "https://principia.connpass.com/event/185236/",
+    "category": "other",
+    "startAt": "2020-08-23T13:00:00+09:00",
+    "endAt": "2020-08-23T17:00:00+09:00",
+    "image": "",
+    "hashtag": "PRINCIPIA",
     "future": true,
     "date": "2020-08-23",
     "color": "grey"
@@ -5467,6 +5870,19 @@
     "future": true,
     "date": "2020-08-24",
     "color": "purple"
+  },
+  {
+    "group name": "Gaiax Technical Meetups",
+    "event name": "【オンライン】ITエンジニア怪談 ～背筋も凍る、ゾッとする話Night～ #3",
+    "url": "https://gaiax.connpass.com/event/185144/",
+    "category": "other",
+    "startAt": "2020-08-24T19:30:00+09:00",
+    "endAt": "2020-08-24T21:30:00+09:00",
+    "image": "",
+    "hashtag": "ITエンジニア怪談",
+    "future": true,
+    "date": "2020-08-24",
+    "color": "grey"
   },
   {
     "group name": "xR Tech Tokyo",
@@ -5683,6 +6099,19 @@
     "color": "#FAF79F"
   },
   {
+    "group name": "Googleアナリティクスを使ってWEB解析を行う方法（実践編）",
+    "event name": "Googleアナリティクスを使ってWEB解析を行う方法（実践編）",
+    "url": "https://connpass.com/event/185135/",
+    "category": "other",
+    "startAt": "2020-08-26T11:00:00+09:00",
+    "endAt": "2020-08-26T11:30:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-08-26",
+    "color": "grey"
+  },
+  {
     "group name": "IBM Developer Dojo",
     "event name": "Dojo Basic Lab3-2 git基礎",
     "url": "https://ibm-developer.connpass.com/event/182492/",
@@ -5705,6 +6134,19 @@
     "hashtag": "",
     "future": true,
     "date": "2020-08-26"
+  },
+  {
+    "group name": "さくらインターネット 大阪",
+    "event name": "「クラウドビジネス」と「さくらインターネット」の使い方",
+    "url": "https://sakura-osaka.connpass.com/event/184592/",
+    "category": "other",
+    "startAt": "2020-08-26T18:00:00+09:00",
+    "endAt": "2020-08-26T19:00:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-08-26",
+    "color": "grey"
   },
   {
     "group name": "ラクス",
@@ -5807,6 +6249,19 @@
     "color": "#F39E21"
   },
   {
+    "group name": "kawasaki.rb",
+    "event name": "kawasaki.rb #087 (オンライン開催)",
+    "url": "https://kawasakirb.connpass.com/event/185173/",
+    "category": "ruby",
+    "startAt": "2020-08-26T19:15:00+09:00",
+    "endAt": "2020-08-26T21:00:00+09:00",
+    "image": "",
+    "hashtag": "kwskrb",
+    "future": true,
+    "date": "2020-08-26",
+    "color": "#701516"
+  },
+  {
     "group name": "Scala Rookies #2",
     "event name": "Scala Rookies #2",
     "url": "https://connpass.com/event/184444/",
@@ -5865,6 +6320,32 @@
     "endAt": "2020-08-26T21:00:00+09:00",
     "image": "",
     "hashtag": "WinAutomation",
+    "future": true,
+    "date": "2020-08-26",
+    "color": "grey"
+  },
+  {
+    "group name": "虎の穴ラボ(とらのあな)",
+    "event name": "【オンライン】オタクが最新技術を追うLTイベント#16【テーマフリー】",
+    "url": "https://yumenosora.connpass.com/event/184858/",
+    "category": "other",
+    "startAt": "2020-08-26T19:30:00+09:00",
+    "endAt": "2020-08-26T21:00:00+09:00",
+    "image": "",
+    "hashtag": "toralab_lt",
+    "future": true,
+    "date": "2020-08-26",
+    "color": "grey"
+  },
+  {
+    "group name": "はんなりPythonの会",
+    "event name": "【オンライン】はんなりPython mini AtCoder部 #7",
+    "url": "https://hannari-python.connpass.com/event/185213/",
+    "category": "other",
+    "startAt": "2020-08-26T21:00:00+09:00",
+    "endAt": "2020-08-26T23:30:00+09:00",
+    "image": "",
+    "hashtag": "はんなりPython",
     "future": true,
     "date": "2020-08-26",
     "color": "grey"
@@ -6292,6 +6773,19 @@
     "color": "grey"
   },
   {
+    "group name": "フーテンのグラさんと愉快な仲間たち",
+    "event name": "【無料・オンライン】ゼロからはじめるPythonプログラミング講座「じゃんけんゲームを作ろ",
+    "url": "https://glass-sun.connpass.com/event/185202/",
+    "category": "other",
+    "startAt": "2020-08-29T09:00:00+09:00",
+    "endAt": "2020-08-29T15:00:00+09:00",
+    "image": "",
+    "hashtag": "python",
+    "future": true,
+    "date": "2020-08-29",
+    "color": "grey"
+  },
+  {
     "group name": "誰でも歓迎！オンラインもくもく会",
     "event name": "誰でも歓迎！オンラインもくもく会",
     "url": "https://connpass.com/event/185586/",
@@ -6453,6 +6947,19 @@
     "hashtag": "",
     "future": true,
     "date": "2020-08-29"
+  },
+  {
+    "group name": "Vue Vixens Japan",
+    "event name": "Vue Vixens Japan Workshop #3",
+    "url": "https://vuevixens-jp.connpass.com/event/183457/",
+    "category": "other",
+    "startAt": "2020-08-29T14:00:00+09:00",
+    "endAt": "2020-08-29T18:00:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-08-29",
+    "color": "grey"
   },
   {
     "group name": "SEOに有効なコーディング入門　HTML編②",
@@ -6632,6 +7139,32 @@
     "color": "#18B83F"
   },
   {
+    "group name": "医療ディープラーニング勉強会",
+    "event name": "AI最新技術Update会9月【オンライン】",
+    "url": "https://deeplearning-b.connpass.com/event/185233/",
+    "category": "other",
+    "startAt": "2020-09-02T19:00:00+09:00",
+    "endAt": "2020-09-02T21:00:00+09:00",
+    "image": "",
+    "hashtag": "AI(DeepLearning)勉強会",
+    "future": true,
+    "date": "2020-09-02",
+    "color": "grey"
+  },
+  {
+    "group name": "DevRel Meetup in Tokyo",
+    "event name": "DevRel Meetup in Tokyo #56 〜ライティング〜",
+    "url": "https://devrel.connpass.com/event/185191/",
+    "category": "devrel",
+    "startAt": "2020-09-02T19:00:00+09:00",
+    "endAt": "2020-09-02T22:00:00+09:00",
+    "image": "",
+    "hashtag": "devreljp",
+    "future": true,
+    "date": "2020-09-02",
+    "color": "#147d3c"
+  },
+  {
     "group name": "Power Apps & CRM User Group 九州",
     "event name": "（オンライン勉強会）Power Appsを学ぶ：中級編 #1 （2回目）",
     "url": "https://powerapps-kyushu.connpass.com/event/184680/",
@@ -6706,6 +7239,19 @@
     "hashtag": "",
     "future": true,
     "date": "2020-09-05"
+  },
+  {
+    "group name": "TIS",
+    "event name": "【React×Firebase】サービス開発入門 ハンズオン [オンライン開催]",
+    "url": "https://tiw.connpass.com/event/182329/",
+    "category": "other",
+    "startAt": "2020-09-05T13:00:00+09:00",
+    "endAt": "2020-09-05T16:00:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": true,
+    "date": "2020-09-05",
+    "color": "grey"
   },
   {
     "group name": "黒本先生のやさしくないJava!?コミュニティ",
@@ -6810,6 +7356,19 @@
     "color": "#18B83F"
   },
   {
+    "group name": "＜オンライン研修＞Webエンジニア向け復帰プログラム【Javaコース】",
+    "event name": "＜オンライン研修＞Webエンジニア向け復帰プログラム【Javaコース】",
+    "url": "https://connpass.com/event/184618/",
+    "category": "other",
+    "startAt": "2020-09-08T10:00:00+09:00",
+    "endAt": "2020-09-08T16:00:00+09:00",
+    "image": "",
+    "hashtag": "エンジニア",
+    "future": true,
+    "date": "2020-09-08",
+    "color": "grey"
+  },
+  {
     "group name": "IBM Developer Dojo",
     "event name": "IBM Dojo - IBM Cloud Functionsでサーバレスを始めよう",
     "url": "https://ibm-developer.connpass.com/event/184864/",
@@ -6858,6 +7417,19 @@
     "hashtag": "",
     "future": true,
     "date": "2020-09-09",
+    "color": "grey"
+  },
+  {
+    "group name": "IIJ Technical Seminar",
+    "event name": "セキュリティアナリストのお仕事──分析、AI、ツール開発",
+    "url": "https://iij.connpass.com/event/184399/",
+    "category": "other",
+    "startAt": "2020-09-11T18:00:00+09:00",
+    "endAt": "2020-09-11T19:30:00+09:00",
+    "image": "",
+    "hashtag": "iij_its",
+    "future": true,
+    "date": "2020-09-11",
     "color": "grey"
   },
   {
@@ -7048,6 +7620,19 @@
     "hashtag": "",
     "future": true,
     "date": "2020-09-23"
+  },
+  {
+    "group name": "IBM Developer Dojo",
+    "event name": "IBM Dojo - kubernetes ネットワーキング入門",
+    "url": "https://ibm-developer.connpass.com/event/184901/",
+    "category": "other",
+    "startAt": "2020-09-23T16:00:00+09:00",
+    "endAt": "2020-09-23T17:15:00+09:00",
+    "image": "",
+    "hashtag": "IBMDojo",
+    "future": true,
+    "date": "2020-09-23",
+    "color": "grey"
   },
   {
     "group name": "【オンライン】JDCC 第11回 業界コミュニティ",
