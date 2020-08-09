@@ -4206,18 +4206,6 @@
     "color": "grey"
   },
   {
-    "group name": "Baseconnect",
-    "event name": "【学生向けトレーニングプログラム】 PROGRAMMING BOOTCAMPオンライン説明会",
-    "url": "https://baseconnect.connpass.com/event/184300/",
-    "category": "",
-    "startAt": "2020-08-18T14:00:00+09:00",
-    "endAt": "2020-08-18T14:45:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5c/36/5c36cccce39c1beac87dedcb55806763.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-18"
-  },
-  {
     "group name": "IBM Developer Dojo",
     "event name": "Dojo Basic Lab2-1 vi基礎",
     "url": "https://ibm-developer.connpass.com/event/182490/",
@@ -4225,18 +4213,6 @@
     "startAt": "2020-08-18T14:00:00+09:00",
     "endAt": "2020-08-18T15:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/96/d0/96d028f61f21bc84722c54f2bf46847c.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-18"
-  },
-  {
-    "group name": "学生向けプログラミングトレーニングプログラム PROGRAMMING BOOTCAMP",
-    "event name": "学生向けプログラミングトレーニングプログラム PROGRAMMING BOOTCAMP",
-    "url": "https://connpass.com/event/184255/",
-    "category": "",
-    "startAt": "2020-08-18T14:00:00+09:00",
-    "endAt": "2020-08-18T14:45:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5c/36/5c36cccce39c1beac87dedcb55806763.png",
     "hashtag": "",
     "future": true,
     "date": "2020-08-18"
@@ -6233,18 +6209,6 @@
     "future": true,
     "date": "2020-08-26",
     "color": "grey"
-  },
-  {
-    "group name": "Visional / ビズリーチ",
-    "event name": "【学生向け】サービスデザインを体験する1dayワークショップ by VISIONAL DESIGN",
-    "url": "https://d-cube.connpass.com/event/183645/",
-    "category": "",
-    "startAt": "2020-08-27T10:30:00+09:00",
-    "endAt": "2020-08-27T17:00:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6b/57/6b57bc2da853ee7d2c70a5417dfbdd37.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-27"
   },
   {
     "group name": "量子コンピュータ",
