@@ -4583,19 +4583,6 @@
     "color": "purple"
   },
   {
-    "group name": "QA Tech Night  ゲームAI活用最新事例と、未来の品質管理",
-    "event name": "QA Tech Night  ゲームAI活用最新事例と、未来の品質管理",
-    "url": "https://connpass.com/event/183869/",
-    "category": "other",
-    "startAt": "2020-08-19T19:30:00+09:00",
-    "endAt": "2020-08-19T21:30:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/02/3302dd0bba4b57d242a49c4813f67752.png",
-    "hashtag": "QATechNight",
-    "future": true,
-    "date": "2020-08-19",
-    "color": "grey"
-  },
-  {
     "group name": "C#読書会",
     "event name": "(最終回&次回打合せ）.NETのエンター…Zoomオンライン読書会 Vol.48(第123回)",
     "url": "https://cs-reading.connpass.com/event/185246/",
@@ -5098,19 +5085,6 @@
     "future": true,
     "date": "2020-08-21",
     "color": "grey"
-  },
-  {
-    "group name": "株式会社iCARE",
-    "event name": "技術顧問が語る最新Ruby on Rails/Vue.js iCARE Dev Meetup #12",
-    "url": "https://icare.connpass.com/event/183716/",
-    "category": "ruby",
-    "startAt": "2020-08-21T19:30:00+09:00",
-    "endAt": "2020-08-21T20:30:00+09:00",
-    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ff/fd/fffd80125ece4e12089536dd5407778a.png",
-    "hashtag": "",
-    "future": true,
-    "date": "2020-08-21",
-    "color": "#701516"
   },
   {
     "group name": "三宮.dev",
