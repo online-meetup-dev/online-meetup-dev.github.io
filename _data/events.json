@@ -2741,7 +2741,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8a/a4/8aa4ebf05609943d96d1cb73915a3a21.png",
     "hashtag": "もくもく会",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-10",
     "color": "#B8D59E"
   },
