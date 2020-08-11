@@ -2826,7 +2826,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-11",
     "color": "#701516"
   },
@@ -2840,7 +2840,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-11",
     "color": "#701516"
   },
@@ -2867,7 +2867,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/95/61/9561677064be48ab04911f85f49b48ae.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-11"
   },
   {
@@ -2880,7 +2880,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/09/ed/09edac3d5bbacec751fa3b58736c850b.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-11"
   },
   {
@@ -2893,7 +2893,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a8/61/a861040a19f4fffb048491029c0d383e.png",
     "hashtag": "Flutter",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-11",
     "color": "#B8D59E"
   },
