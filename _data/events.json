@@ -2799,7 +2799,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/20/87/2087833fdd5ed562c3f0a1b0178e7ad1.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-11"
   },
   {
