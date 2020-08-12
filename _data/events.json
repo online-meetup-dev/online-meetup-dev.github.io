@@ -3258,7 +3258,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cd/d1/cdd185f664c8cbca4067eaf21ed54d2e.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-12",
     "color": "purple"
   },
@@ -3313,7 +3313,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/08/85/0885e0f7c63ce366d5dd42d757debfe7.png",
     "hashtag": "OUXT勉強会",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-12",
     "color": "#2E6EF7"
   },
