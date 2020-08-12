@@ -2974,7 +2974,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "biopackathon",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-12",
     "color": "grey"
   },
@@ -3002,7 +3002,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d3/6d/d36d58360c4118af858ad3d23adb99ed.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-12"
   },
   {
