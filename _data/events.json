@@ -3960,6 +3960,19 @@
     "color": "#4F5D95"
   },
   {
+    "group name": "Japan Camel User Group",
+    "event name": "第３３回Camel In Action 読書会＠オンライン",
+    "url": "https://jcug-oss.connpass.com/event/185914/",
+    "category": "book",
+    "startAt": "2020-08-18T19:00:00+09:00",
+    "endAt": "2020-08-18T20:00:00+09:00",
+    "image": "",
+    "hashtag": "jcug_oss",
+    "future": true,
+    "date": "2020-08-18",
+    "color": "#B2834C"
+  },
+  {
     "group name": "日本暗号通貨ユーザ会",
     "event name": "ビットコインとか勉強会#44【Lightning Network仕組みの解説】《オンライン》",
     "url": "https://cryptocurrency.connpass.com/event/184541/",
@@ -3971,6 +3984,19 @@
     "future": true,
     "date": "2020-08-18",
     "color": "grey"
+  },
+  {
+    "group name": "Flutterオンライン",
+    "event name": "Flutterオンラインもくもく会 #8",
+    "url": "https://flutter-online.connpass.com/event/185916/",
+    "category": "mokumoku",
+    "startAt": "2020-08-18T20:00:00+09:00",
+    "endAt": "2020-08-18T21:00:00+09:00",
+    "image": "",
+    "hashtag": "Flutter",
+    "future": true,
+    "date": "2020-08-18",
+    "color": "#B8D59E"
   },
   {
     "group name": "量子コンピュータ",
@@ -5897,6 +5923,19 @@
     "hashtag": "",
     "future": true,
     "date": "2020-08-27"
+  },
+  {
+    "group name": "ニフクラ エンジニア ミートアップ",
+    "event name": "VMwareユーザーのためのクラウド超入門～ニフクラ編",
+    "url": "https://fujitsufjct.connpass.com/event/185281/",
+    "category": "other",
+    "startAt": "2020-08-27T20:00:00+09:00",
+    "endAt": "2020-08-27T21:30:00+09:00",
+    "image": "",
+    "hashtag": "nifcloud_emup",
+    "future": true,
+    "date": "2020-08-27",
+    "color": "grey"
   },
   {
     "group name": "PyCon JP",
