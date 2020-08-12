@@ -3095,7 +3095,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ea/f6/eaf6cca8ca2f500e7ef0d8512975489c.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-12",
     "color": "purple"
   },
@@ -3122,7 +3122,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/10/bc/10bcd7ea61072323cd4059fe0a4ec10e.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-12"
   },
   {
@@ -3149,7 +3149,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e4/5b/e45b8608ef2abef3d86c385e5c86f44c.png",
     "hashtag": "LibOJP",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-12",
     "color": "grey"
   },
@@ -3163,7 +3163,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/db/d7/dbd76842419127dee7ba9be3fd174925.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-12"
   },
   {
@@ -3231,7 +3231,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/80/53/80538e3e0744efc991018264e5729252.png",
     "hashtag": "サードプレイス金沢",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-12",
     "color": "grey"
   },
