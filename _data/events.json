@@ -3398,7 +3398,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7d/c0/7dc0625197fdb44d19d5d34874dc5677.png",
     "hashtag": "CCCu22",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-13",
     "color": "grey"
   },
@@ -3426,7 +3426,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-13",
     "color": "grey"
   },
