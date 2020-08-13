@@ -3371,7 +3371,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cc/15/cc152f23f6846e18750b2b80af6db3fc.png",
     "hashtag": "AR_Fukuoka",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-13",
     "color": "grey"
   },
