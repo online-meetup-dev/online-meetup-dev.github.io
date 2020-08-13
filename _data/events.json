@@ -3467,7 +3467,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/db/13/db132653c0bf977a6f89e488a9295a1b.png",
     "hashtag": "finjaws",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-13",
     "color": "#F39E21"
   },
