@@ -3591,7 +3591,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/51/86/51860cf57bc2c9dbe7644c7c546d3491.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-14",
     "color": "#f1e05a"
   },
@@ -3605,7 +3605,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/57/33/5733052e2e4d9125c300705c0e122b0f.png",
     "hashtag": "nanophoto-QC",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-14",
     "color": "#FAF79F"
   },
