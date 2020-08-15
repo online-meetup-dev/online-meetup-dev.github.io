@@ -3693,7 +3693,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0b/2a/0b2a4cf08c41849fee01f85bfc8231f4.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-15",
     "color": "#B8D59E"
   },
@@ -3735,7 +3735,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1f/59/1f59a43b2b6073969ecd68a621da046c.png",
     "hashtag": "hasmoku",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-15",
     "color": "#B8D59E"
   },
@@ -3804,7 +3804,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b9/19/b919d7714c8ee96b769d025f3ae4d052.png",
     "hashtag": "rust_online",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-15",
     "color": "#B8D59E"
   },
@@ -3832,7 +3832,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/52/79/527956abf8753325f1e47bf4ae687852.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-15"
   },
   {
