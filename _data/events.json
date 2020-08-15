@@ -3639,7 +3639,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e1/b1/e1b1a71f1707776bb1f2e0420fb3f5ca.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-15",
     "color": "purple"
   },
