@@ -3721,7 +3721,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-15",
     "color": "#B2834C"
   },
@@ -3763,7 +3763,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/78/25/7825978346313138cccf52bd2bb96333.png",
     "hashtag": "kamakuramokmok",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-15",
     "color": "#B8D59E"
   },
