@@ -3900,7 +3900,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ce/77/ce77d8b3b50c12190624ebf485dca1f7.png",
     "hashtag": "てぃーびーワークショップ",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-15",
     "color": "grey"
   },
