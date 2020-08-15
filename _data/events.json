@@ -3777,7 +3777,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2e/96/2e967fa5b6eee90496ca9b9e02d5aae1.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-15"
   },
   {
@@ -3818,7 +3818,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/56/7f/567f9b12dd49c0ea3f4a6606f40c249f.png",
     "hashtag": "TokyoUppersBoost",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-15",
     "color": "grey"
   },
