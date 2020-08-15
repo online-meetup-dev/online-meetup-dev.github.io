@@ -3886,7 +3886,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e2/5c/e25cadd198200ee707b1961be43058bd.png",
     "hashtag": "コミュニティ放送部",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-15",
     "color": "grey"
   },
