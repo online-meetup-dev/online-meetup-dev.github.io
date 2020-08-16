@@ -3959,7 +3959,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5b/b3/5bb399c42645b9835acdc45b61b2f57b.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-16"
   },
   {
