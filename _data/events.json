@@ -4028,7 +4028,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8b/39/8b396e07387af9a0d7266d2897aec1f2.png",
     "hashtag": "dtpstudyex00b",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-16",
     "color": "grey"
   },
