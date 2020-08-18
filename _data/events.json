@@ -4162,7 +4162,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/48/3e48ee65c78603124c47d1911e50167e.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-18"
   },
   {
