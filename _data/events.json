@@ -4271,7 +4271,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9d/ea/9dea5daf00dbacf2e7ad90c30031d76c.png",
     "hashtag": "scrumdokan",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-18",
     "color": "grey"
   },
@@ -4285,7 +4285,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1c/69/1c69d1002018d3852b29945a65830cfe.png",
     "hashtag": "ccstudy",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-18",
     "color": "grey"
   },
@@ -4299,7 +4299,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a8/61/a861040a19f4fffb048491029c0d383e.png",
     "hashtag": "Flutter",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-18",
     "color": "#B8D59E"
   },
@@ -4313,7 +4313,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/09/ed/09edac3d5bbacec751fa3b58736c850b.png",
     "hashtag": "DeepLearning",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-18",
     "color": "grey"
   },
