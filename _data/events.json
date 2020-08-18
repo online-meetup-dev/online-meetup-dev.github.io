@@ -4202,7 +4202,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/97/5b/975b4b4eca56a59c4cad88f2fd90958b.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-18",
     "color": "grey"
   },
