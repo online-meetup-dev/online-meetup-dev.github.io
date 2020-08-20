@@ -4764,7 +4764,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/05/6c/056c173088f3b8a01370c20d7cd3be98.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20"
   },
   {
@@ -4790,7 +4790,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4b/6d/4b6d21b1aa722e1af5cd15a95ffd06bc.png",
     "hashtag": "imas_mokumoku",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20",
     "color": "#B8D59E"
   },
@@ -4804,7 +4804,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/60/54/6054921650434d6cdffcdacee5140e84.png",
     "hashtag": "サもく",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20",
     "color": "#B8D59E"
   },
@@ -4832,7 +4832,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3c/1f/3c1f45d9b9d22252e7486f91cafea3b0.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20",
     "color": "#B2834C"
   },
@@ -4860,7 +4860,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1f/eb/1febc52ad0a0f0dbddd505df53ca59d3.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20"
   },
   {
@@ -4913,7 +4913,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a3/80/a3802c9e17568336402326ce6c213711.png",
     "hashtag": "mixleap",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20",
     "color": "grey"
   },
@@ -4927,7 +4927,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/10/fb/10fbedb972b055c532338bb475de57db.png",
     "hashtag": "sendairb",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20",
     "color": "#701516"
   },
@@ -4941,7 +4941,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f5/4e/f54ed5029b405096c01c66ebb68d1472.png",
     "hashtag": "mu_zaru",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20",
     "color": "grey"
   },
