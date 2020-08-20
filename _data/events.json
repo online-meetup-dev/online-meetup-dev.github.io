@@ -4873,7 +4873,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/32/c7/32c7240dc6358216b8d35dd53b9245f0.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20"
   },
   {
