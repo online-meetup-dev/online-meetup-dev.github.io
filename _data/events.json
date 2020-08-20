@@ -4709,7 +4709,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/80/c6/80c6109d05097da915fe5f21762f2519.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20",
     "color": "grey"
   },
@@ -4723,7 +4723,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ea/80/ea804d5c1926e4cb761a1ea994fb369c.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20",
     "color": "#2ccfc9"
   },
@@ -4737,7 +4737,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/dc/eb/dceb5e4a338ab5869294c31566e75803.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20"
   },
   {
@@ -4777,7 +4777,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/eb/29/eb29039a7c8c9d4b0bee7f7d6a7e47fe.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20"
   },
   {
@@ -4818,7 +4818,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0b/64/0b645677a4d3643a9c405ad81bcce5ac.png",
     "hashtag": "toralab_lt",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20",
     "color": "grey"
   },
@@ -4846,7 +4846,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e9/a6/e9a637f3c84cfbba4faa501e7d9f1292.png",
     "hashtag": "RPALT",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20",
     "color": "grey"
   },
@@ -4886,7 +4886,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8b/49/8b4905cdf745b59b34c22618975f2b1e.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-20"
   },
   {
