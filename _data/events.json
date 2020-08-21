@@ -5111,7 +5111,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e6/e4/e6e4ff0654778bfab6f6996875593553.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-21"
   },
   {
