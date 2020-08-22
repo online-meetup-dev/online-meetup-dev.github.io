@@ -5325,7 +5325,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ec/48/ec4830b32ad4ee836c03e42ba8aacec6.png",
     "hashtag": "エンジニアカフェ1周年",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-22",
     "color": "grey"
   },
