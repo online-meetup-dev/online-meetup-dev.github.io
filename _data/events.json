@@ -5151,7 +5151,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1e/49/1e497f87cc54c27597c4cff947cc6504.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-22"
   },
   {
@@ -5178,7 +5178,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ef/07/ef07798a89c39003ed795af553851f46.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-22"
   },
   {
@@ -5191,7 +5191,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/76/2a/762a8192223aeb6d410c21669324b1c5.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-22"
   },
   {
@@ -5204,7 +5204,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/28/85/28854ba7401d5f5e3a4304b436872e8f.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-22"
   },
   {
@@ -5217,7 +5217,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d5/a9/d5a9b5f9ba53e46677501368763b9365.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-22"
   },
   {
@@ -5230,7 +5230,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/62/d8/62d8654b7533da33015bea25abbc2334.png",
     "hashtag": "Isabelle",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-22",
     "color": "grey"
   },
@@ -5284,7 +5284,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/47/97/4797f776d1e459f7973df22ededa8b5b.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-22",
     "color": "#B8D59E"
   },
@@ -5339,7 +5339,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/61/7b/617bd9f835e8ae276caf2e736c5fe8d7.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-22",
     "color": "#B8D59E"
   },
