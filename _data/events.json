@@ -5353,7 +5353,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/60/61/6061fb754047df79ede0fb9d678e16eb.png",
     "hashtag": "ALGYAN",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-22",
     "color": "grey"
   },
@@ -5395,7 +5395,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3b/aa/3baa7ba7c986717c22d1db372f9cb99b.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-22"
   },
   {
