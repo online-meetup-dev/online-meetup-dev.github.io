@@ -5449,7 +5449,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/44/5f/445fcba94d0ee3a1cc72bad41b74bc56.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-22",
     "color": "#B2834C"
   },
@@ -5491,7 +5491,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0f/f6/0ff66c90cad71338fff96488e9ff01c9.png",
     "hashtag": "AELTM",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-22",
     "color": "grey"
   },
