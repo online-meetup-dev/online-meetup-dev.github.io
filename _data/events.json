@@ -5555,7 +5555,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e6/5e/e65e6f1e4bfd3d882731f60eb89e2258.png",
     "hashtag": "LINEDC",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-23",
     "color": "grey"
   },
@@ -5569,7 +5569,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e6/5e/e65e6f1e4bfd3d882731f60eb89e2258.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-23",
     "color": "grey"
   },
