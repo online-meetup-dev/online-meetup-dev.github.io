@@ -5827,7 +5827,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a5/27/a527e0b455a005cc81d3f409e37e5cc7.png",
     "hashtag": "ITエンジニア怪談",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-24",
     "color": "grey"
   },
