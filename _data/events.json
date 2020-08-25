@@ -6008,7 +6008,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/30/33/30331ccde310030161c8159d11f0a2ff.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-25",
     "color": "#E98D49"
   },
@@ -6036,7 +6036,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/11/bf/11bfe82b402b9556f7761f0b2b0ed0a7.png",
     "hashtag": "カスタマーサクセスナイト",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-25",
     "color": "grey"
   },
@@ -6050,7 +6050,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c9/f3/c9f33a5b47fc65c448b911a18a77ea8d.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-25"
   },
   {
@@ -6063,7 +6063,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b5/1d/b51d45f83b12856e3f1c7164a635725b.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-25"
   },
   {
