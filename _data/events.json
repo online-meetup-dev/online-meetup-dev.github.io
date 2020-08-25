@@ -5954,7 +5954,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4f/db/4fdb88e8a02cd395721bb06ed873a4a1.png",
     "hashtag": "サイボウズフロントエンドマンスリー",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-25",
     "color": "grey"
   },
