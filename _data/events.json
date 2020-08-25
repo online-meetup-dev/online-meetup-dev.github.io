@@ -5885,7 +5885,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f1/d5/f1d5abc3f270b0a04a6a6e97791feee2.png",
     "hashtag": "LWUG",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-25",
     "color": "grey"
   },
