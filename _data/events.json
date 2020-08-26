@@ -6263,7 +6263,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/71/4c/714cf6ba6ed8c7420e9cfb43aa567aae.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-26",
     "color": "#BB1904"
   },
@@ -6304,7 +6304,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/82/b7/82b7526b43caa20560449e3d10e1228c.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-26"
   },
   {
