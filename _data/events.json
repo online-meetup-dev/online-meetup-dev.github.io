@@ -6194,7 +6194,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f1/34/f1342dee9fbe38164386a1491c68036e.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-26"
   },
   {
@@ -6207,7 +6207,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ef/73/ef732e29d319967fc696b5b53bc37c3d.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-26",
     "color": "#E98D49"
   },
@@ -6249,7 +6249,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/40/47/40476f42eab03b39b35640215cbd0d41.png",
     "hashtag": "kwskrb",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-26",
     "color": "#701516"
   },
@@ -6277,7 +6277,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/17/b4/17b4d319d9f6a28e401bac937b5cbbc1.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-26"
   },
   {
@@ -6317,7 +6317,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5d/5e/5d5eabe60a354bd7505b04b6eb5994cc.png",
     "hashtag": "WinAutomation",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-26",
     "color": "grey"
   },
@@ -6331,7 +6331,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0f/c9/0fc91b86864f092287a8806e1db09c43.png",
     "hashtag": "toralab_lt",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-26",
     "color": "grey"
   },
