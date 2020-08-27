@@ -6352,7 +6352,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/71/54/7154388dc38f9ac40e9824e15ee8a3b2.png",
     "hashtag": "UXCARAVAN",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-27",
     "color": "#2E6EF7"
   },
