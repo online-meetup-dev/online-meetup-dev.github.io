@@ -6742,7 +6742,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ba/f9/baf9a8bd2ecaaaca9021fedc4e0776ac.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-28"
   },
   {
