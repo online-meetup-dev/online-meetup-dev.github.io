@@ -6608,7 +6608,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/90/c8/90c8746c3198a5babebee131eacf83b0.png",
     "hashtag": "有機無機ハイブリッド",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-28",
     "color": "grey"
   },
