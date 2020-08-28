@@ -6414,7 +6414,7 @@
     "endAt": "2020-08-28T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9c/c2/9cc2b9a41f283fdfe7133b452c9ab325.png",
     "hashtag": "",
-    "future": true,
+    "future": false,
     "date": "2020-08-27"
   },
   {
@@ -6675,7 +6675,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-28"
   },
   {
