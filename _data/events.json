@@ -6755,7 +6755,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/19/0f/190f3b6fce0856e86a14b0e3b5ee3391.png",
     "hashtag": "技術書界隈を盛り上げる会",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-28",
     "color": "grey"
   },
