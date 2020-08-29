@@ -6765,7 +6765,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-29",
     "color": "#B8D59E"
   },
