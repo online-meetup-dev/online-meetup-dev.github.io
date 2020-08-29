@@ -6929,7 +6929,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a8/8c/a88ca81f6330c92bd5919a21fa058e1a.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-29",
     "color": "#B8D59E"
   },
