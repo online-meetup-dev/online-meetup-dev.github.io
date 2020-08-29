@@ -6819,7 +6819,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/58/c4/58c46842e27e84c2431d1a620f510742.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-29"
   },
   {
@@ -6832,7 +6832,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c9/7f/c97f8c17ada62e79780b09d01533bbd1.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-29"
   },
   {
@@ -6859,7 +6859,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8c/f3/8cf3afb00be29992f4e6f12be781e34b.png",
     "hashtag": "mslearn",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-29",
     "color": "grey"
   },
@@ -6873,7 +6873,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f5/e5/f5e5c2e1c8dc14c5b546ec51b215c651.png",
     "hashtag": "LaboratoryAutomation勉強会",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-29",
     "color": "grey"
   },
@@ -6943,7 +6943,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/65/84/6584ff43ccd7c297312b46086d2187c3.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-29"
   },
   {
