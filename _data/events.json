@@ -6887,7 +6887,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/20/46/2046a8dcae49b6d5aa4b5ad96d5aa6bf.png",
     "hashtag": "javado",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-29",
     "color": "grey"
   },
@@ -6915,7 +6915,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a0/51/a0513c600b827805d55c9b11667cf8c5.png",
     "hashtag": "ゆるメカトロ",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-29",
     "color": "#B8D59E"
   },
