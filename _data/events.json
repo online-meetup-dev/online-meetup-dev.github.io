@@ -7032,7 +7032,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5e/48/5e482d5812245893f3235e4158ca06bc.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-30",
     "color": "#B2834C"
   },
