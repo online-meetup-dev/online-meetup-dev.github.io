@@ -7003,7 +7003,6 @@
     "endAt": "2020-08-30T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/77/dd/77dd66e2e7582502de6ac7f4f5045e70.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-08-30",
     "color": "purple"
@@ -7017,7 +7016,6 @@
     "endAt": "2020-08-30T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/00/44/0044664b7f1566e28de94656930fdb90.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-08-30",
     "color": "purple"
@@ -7031,7 +7029,6 @@
     "endAt": "2020-08-30T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5e/48/5e482d5812245893f3235e4158ca06bc.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-08-30",
     "color": "#B2834C"
@@ -7045,7 +7042,6 @@
     "endAt": "2020-08-30T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8b/a5/8ba587ba9084e42cd81f82967819286f.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-08-30"
   },
@@ -7058,6 +7054,7 @@
     "endAt": "2020-08-31T10:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f5/a3/f5a3f01ffd70d8d5a5b748ae8f8337d7.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-08-31",
     "color": "grey"
@@ -7071,6 +7068,7 @@
     "endAt": "2020-08-31T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/47/5b/475b25dffbdfdea146aa64da33923ea5.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-08-31"
   },
@@ -7083,6 +7081,7 @@
     "endAt": "2020-08-31T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/06/90/0690ba2b0112b1dbc097262d958e1430.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-08-31",
     "color": "grey"
@@ -7096,6 +7095,7 @@
     "endAt": "2020-08-31T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b2/c7/b2c72b3608cbe648da4ae254eb03a5cc.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-08-31"
   },
@@ -7108,6 +7108,7 @@
     "endAt": "2020-08-31T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a6/dc/a6dc41dc0344cb550f5b34e7c12fba3e.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-08-31"
   },
@@ -7120,6 +7121,7 @@
     "endAt": "2020-08-31T22:30:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "xRDCC",
+    "today": true,
     "future": true,
     "date": "2020-08-31",
     "color": "grey"
@@ -7133,6 +7135,7 @@
     "endAt": "2020-08-31T22:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fd/9d/fd9d55ecfa3986263a4451a6cca5ed50.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-08-31",
     "color": "#18B83F"
