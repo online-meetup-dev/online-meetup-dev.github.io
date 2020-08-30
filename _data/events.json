@@ -6363,7 +6363,7 @@
     "endAt": "2020-08-30T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c4/ea/c4ea0ffbacf752c9d9841b28f8eb80b6.png",
     "hashtag": "",
-    "future": true,
+    "future": false,
     "date": "2020-08-27",
     "color": "grey"
   },
