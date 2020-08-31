@@ -7122,7 +7122,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "xRDCC",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-31",
     "color": "grey"
   },
@@ -7136,7 +7136,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fd/9d/fd9d55ecfa3986263a4451a6cca5ed50.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-08-31",
     "color": "#18B83F"
   },
