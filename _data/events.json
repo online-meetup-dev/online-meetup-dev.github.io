@@ -7142,7 +7142,6 @@
     "endAt": "2020-09-01T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c6/09/c6098fd2c5b261cfaa8ce99690608377.png",
     "hashtag": "jawsug_bgnr",
-    "today": true,
     "future": false,
     "date": "2020-09-01",
     "color": "#F39E21"
@@ -7156,7 +7155,6 @@
     "endAt": "2020-09-01T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/46/25/4625e434e852fd32f086a2fa1f6ebebd.png",
     "hashtag": "月刊フィントーク",
-    "today": true,
     "future": false,
     "date": "2020-09-01",
     "color": "grey"
@@ -7170,6 +7168,7 @@
     "endAt": "2020-09-02T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2d/9d/2d9dc344ee16234ec07e8cde024661e8.png",
     "hashtag": "AI(DeepLearning)勉強会",
+    "today": true,
     "future": true,
     "date": "2020-09-02",
     "color": "grey"
@@ -7183,6 +7182,7 @@
     "endAt": "2020-09-02T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d8/a3/d8a3e8722541a979e340f9ad8309d567.png",
     "hashtag": "devreljp",
+    "today": true,
     "future": true,
     "date": "2020-09-02",
     "color": "#147d3c"
@@ -7196,6 +7196,7 @@
     "endAt": "2020-09-02T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f0/91/f091c29f35303811659461142d4ad316.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-09-02",
     "color": "grey"
