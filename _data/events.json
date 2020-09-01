@@ -7143,7 +7143,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c6/09/c6098fd2c5b261cfaa8ce99690608377.png",
     "hashtag": "jawsug_bgnr",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-01",
     "color": "#F39E21"
   },
