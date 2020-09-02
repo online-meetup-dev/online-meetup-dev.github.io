@@ -7168,7 +7168,6 @@
     "endAt": "2020-09-02T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2d/9d/2d9dc344ee16234ec07e8cde024661e8.png",
     "hashtag": "AI(DeepLearning)勉強会",
-    "today": true,
     "future": false,
     "date": "2020-09-02",
     "color": "grey"
@@ -7182,7 +7181,6 @@
     "endAt": "2020-09-02T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d8/a3/d8a3e8722541a979e340f9ad8309d567.png",
     "hashtag": "devreljp",
-    "today": true,
     "future": false,
     "date": "2020-09-02",
     "color": "#147d3c"
@@ -7196,7 +7194,6 @@
     "endAt": "2020-09-02T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f0/91/f091c29f35303811659461142d4ad316.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-09-02",
     "color": "grey"
@@ -7210,6 +7207,7 @@
     "endAt": "2020-09-03T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/75/ad/75ada70d3bef5567f4025d9fd906366b.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-09-03"
   },
@@ -7222,6 +7220,7 @@
     "endAt": "2020-09-03T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5d/52/5d524b1f59d186b9190d12b5952ea7f0.png",
     "hashtag": "yjbonfire",
+    "today": true,
     "future": true,
     "date": "2020-09-03",
     "color": "grey"
@@ -7235,6 +7234,7 @@
     "endAt": "2020-09-03T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b7/0a/b70ae3a9caf826059dd9d8e78f8c93b7.png",
     "hashtag": "SalesTechLT",
+    "today": true,
     "future": true,
     "date": "2020-09-03",
     "color": "grey"
