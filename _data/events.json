@@ -7221,7 +7221,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5d/52/5d524b1f59d186b9190d12b5952ea7f0.png",
     "hashtag": "yjbonfire",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-03",
     "color": "grey"
   },
