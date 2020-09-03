@@ -7207,7 +7207,6 @@
     "endAt": "2020-09-03T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/75/ad/75ada70d3bef5567f4025d9fd906366b.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-09-03"
   },
@@ -7220,7 +7219,6 @@
     "endAt": "2020-09-03T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5d/52/5d524b1f59d186b9190d12b5952ea7f0.png",
     "hashtag": "yjbonfire",
-    "today": true,
     "future": false,
     "date": "2020-09-03",
     "color": "grey"
@@ -7234,7 +7232,6 @@
     "endAt": "2020-09-03T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b7/0a/b70ae3a9caf826059dd9d8e78f8c93b7.png",
     "hashtag": "SalesTechLT",
-    "today": true,
     "future": false,
     "date": "2020-09-03",
     "color": "grey"
