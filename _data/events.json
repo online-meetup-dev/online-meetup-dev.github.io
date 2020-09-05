@@ -7315,7 +7315,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/53/2f/532f58bde7315fff0aa50b28ead611b2.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-05",
     "color": "#2ccfc9"
   },
@@ -7329,7 +7329,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1b/78/1b78d4742cc248c4208b8d147108efc1.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-05",
     "color": "#2ccfc9"
   },
