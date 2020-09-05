@@ -7260,7 +7260,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f3/4a/f34a4e6717a5af2c9e6362c4c183ea50.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-05"
   },
   {
