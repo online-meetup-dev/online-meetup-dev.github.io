@@ -7335,7 +7335,6 @@
     "endAt": "2020-09-06T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/43/ae/43aed38aa508e1726debc48b5ed3840f.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-09-06",
     "color": "grey"
@@ -7349,7 +7348,6 @@
     "endAt": "2020-09-06T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/89/51/8951ca31fb2a1aabca221946208d2226.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-09-06",
     "color": "#B2834C"
@@ -7363,6 +7361,7 @@
     "endAt": "2020-09-07T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c6/e1/c6e1291eb08eca6414dc68e33197e0e2.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-09-07"
   },
@@ -7375,6 +7374,7 @@
     "endAt": "2020-09-07T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9d/80/9d803f2e12e31652c7089a780f5b3b80.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-09-07"
   },
@@ -7387,6 +7387,7 @@
     "endAt": "2020-09-07T22:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fd/9d/fd9d55ecfa3986263a4451a6cca5ed50.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-09-07",
     "color": "#18B83F"
