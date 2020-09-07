@@ -7361,7 +7361,6 @@
     "endAt": "2020-09-07T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c6/e1/c6e1291eb08eca6414dc68e33197e0e2.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-09-07"
   },
@@ -7374,7 +7373,6 @@
     "endAt": "2020-09-07T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9d/80/9d803f2e12e31652c7089a780f5b3b80.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-09-07"
   },
@@ -7387,7 +7385,6 @@
     "endAt": "2020-09-07T22:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fd/9d/fd9d55ecfa3986263a4451a6cca5ed50.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-09-07",
     "color": "#18B83F"
@@ -7401,6 +7398,7 @@
     "endAt": "2020-09-08T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0d/96/0d9651219fc1a6da84981568b97d8641.png",
     "hashtag": "エンジニア",
+    "today": true,
     "future": true,
     "date": "2020-09-08",
     "color": "grey"
@@ -7414,6 +7412,7 @@
     "endAt": "2020-09-08T21:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "hamadarb_rhc",
+    "today": true,
     "future": true,
     "date": "2020-09-08",
     "color": "#701516"
@@ -7427,6 +7426,7 @@
     "endAt": "2020-09-08T21:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "hamadarb",
+    "today": true,
     "future": true,
     "date": "2020-09-08",
     "color": "#701516"
@@ -7440,6 +7440,7 @@
     "endAt": "2020-09-08T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f6/fe/f6fef04e3a2fc8a63ee73eca088deb02.png",
     "hashtag": "ふりかえり実践会",
+    "today": true,
     "future": true,
     "date": "2020-09-08",
     "color": "grey"
