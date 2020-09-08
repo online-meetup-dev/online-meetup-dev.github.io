@@ -7413,7 +7413,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "hamadarb_rhc",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-08",
     "color": "#701516"
   },
@@ -7427,7 +7427,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "hamadarb",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-08",
     "color": "#701516"
   },
