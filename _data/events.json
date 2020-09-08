@@ -7399,7 +7399,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0d/96/0d9651219fc1a6da84981568b97d8641.png",
     "hashtag": "エンジニア",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-08",
     "color": "grey"
   },
