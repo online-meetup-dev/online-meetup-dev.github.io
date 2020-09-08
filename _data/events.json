@@ -7441,7 +7441,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f6/fe/f6fef04e3a2fc8a63ee73eca088deb02.png",
     "hashtag": "ふりかえり実践会",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-08",
     "color": "grey"
   },
