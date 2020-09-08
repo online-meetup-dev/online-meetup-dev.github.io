@@ -7398,7 +7398,6 @@
     "endAt": "2020-09-08T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0d/96/0d9651219fc1a6da84981568b97d8641.png",
     "hashtag": "エンジニア",
-    "today": true,
     "future": false,
     "date": "2020-09-08",
     "color": "grey"
@@ -7412,7 +7411,6 @@
     "endAt": "2020-09-08T21:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "hamadarb_rhc",
-    "today": true,
     "future": false,
     "date": "2020-09-08",
     "color": "#701516"
@@ -7426,7 +7424,6 @@
     "endAt": "2020-09-08T21:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "hamadarb",
-    "today": true,
     "future": false,
     "date": "2020-09-08",
     "color": "#701516"
@@ -7440,7 +7437,6 @@
     "endAt": "2020-09-08T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f6/fe/f6fef04e3a2fc8a63ee73eca088deb02.png",
     "hashtag": "ふりかえり実践会",
-    "today": true,
     "future": false,
     "date": "2020-09-08",
     "color": "grey"
@@ -7454,6 +7450,7 @@
     "endAt": "2020-09-09T15:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/73/71/73716d4557d0803022ec43853f5a4504.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-09-09"
   },
@@ -7466,6 +7463,7 @@
     "endAt": "2020-09-09T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f3/df/f3df292c55fbb1ceffde765fdc241102.png",
     "hashtag": "studyhacklt",
+    "today": true,
     "future": true,
     "date": "2020-09-09",
     "color": "grey"
@@ -7479,6 +7477,7 @@
     "endAt": "2020-09-09T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4e/63/4e63e20ab231920119b0555a47637af1.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-09-09",
     "color": "grey"
@@ -7492,6 +7491,7 @@
     "endAt": "2020-09-09T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/06/90/0690ba2b0112b1dbc097262d958e1430.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-09-09",
     "color": "grey"
@@ -7505,6 +7505,7 @@
     "endAt": "2020-09-09T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f0/26/f0261bedd0cec8a9c0c8f5e2ee008062.png",
     "hashtag": "uxdt",
+    "today": true,
     "future": true,
     "date": "2020-09-09",
     "color": "#2E6EF7"
