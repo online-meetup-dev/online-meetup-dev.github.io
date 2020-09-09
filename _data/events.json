@@ -7464,7 +7464,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f3/df/f3df292c55fbb1ceffde765fdc241102.png",
     "hashtag": "studyhacklt",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-09",
     "color": "grey"
   },
