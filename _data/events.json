@@ -7514,6 +7514,7 @@
     "endAt": "2020-09-11T19:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e6/d4/e6d45cb36d051281f5cc9feca455a56d.png",
     "hashtag": "iij_its",
+    "today": true,
     "future": true,
     "date": "2020-09-11",
     "color": "grey"
