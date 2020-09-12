@@ -7555,7 +7555,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ba/06/ba061ff53fd3b69fdfdc07dfe0d05e4b.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-12",
     "color": "#B2834C"
   },
@@ -7569,7 +7569,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-12",
     "color": "grey"
   },
