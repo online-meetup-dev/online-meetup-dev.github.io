@@ -7591,6 +7591,7 @@
     "endAt": "2020-09-15T21:10:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-09-15",
     "color": "#BB1904"
