@@ -7618,7 +7618,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/98/fc/98fc1c81b0feb0f949668f35d04b83fa.png",
     "hashtag": "ocijp",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-17",
     "color": "grey"
   },
