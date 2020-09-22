@@ -7718,7 +7718,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6f/36/6f3624fbb43c7ea8e29d44fba71c2dd0.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-22",
     "color": "grey"
   },
