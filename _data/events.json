@@ -7730,7 +7730,6 @@
     "endAt": "2020-09-23T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/38/02/3802afe18db9d0d98315cdde457f407e.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-09-23",
     "color": "#FAF79F"
@@ -7744,7 +7743,6 @@
     "endAt": "2020-09-23T17:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-09-23"
   },
@@ -7757,7 +7755,6 @@
     "endAt": "2020-09-23T17:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/de/88/de884158ad3a6fe3a73607dca35e7719.png",
     "hashtag": "IBMDojo",
-    "today": true,
     "future": false,
     "date": "2020-09-23",
     "color": "grey"
@@ -7771,6 +7768,7 @@
     "endAt": "2020-09-24T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/54/09/5409817fe286a3fb1ef12ad0d6c522e4.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-09-24",
     "color": "grey"
