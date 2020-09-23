@@ -7731,7 +7731,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/38/02/3802afe18db9d0d98315cdde457f407e.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-23",
     "color": "#FAF79F"
   },
