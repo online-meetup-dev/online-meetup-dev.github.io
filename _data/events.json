@@ -7782,7 +7782,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b2/c7/b2c72b3608cbe648da4ae254eb03a5cc.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-09-25"
   },
   {
