@@ -7781,7 +7781,6 @@
     "endAt": "2020-09-25T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b2/c7/b2c72b3608cbe648da4ae254eb03a5cc.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-09-25"
   },
@@ -7794,6 +7793,7 @@
     "endAt": "2020-09-26T16:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-09-26",
     "color": "grey"
@@ -7807,6 +7807,7 @@
     "endAt": "2020-09-26T17:10:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/06/b4/06b46b0585da22d76b9848811978b93d.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-09-26"
   },
@@ -7819,6 +7820,7 @@
     "endAt": "2020-09-26T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/92/bd/92bd10e710bd1ff438a928e939239405.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-09-26"
   },
