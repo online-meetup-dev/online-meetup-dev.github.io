@@ -7830,6 +7830,7 @@
     "endAt": "2020-09-28T17:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/87/45/87451d6ba99053b388e4abb6b0805de8.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-09-28",
     "color": "#2ccfc9"
@@ -7843,6 +7844,7 @@
     "endAt": "2020-09-28T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d3/cb/d3cb41343bb25038952c13d1462342c0.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-09-28",
     "color": "#B8D59E"
