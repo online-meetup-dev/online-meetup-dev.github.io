@@ -9017,7 +9017,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1b/5b/1b5b6806db9054559a068f4a0d69aacd.png",
     "hashtag": "serverlessjp",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-07",
     "color": "grey"
   },
