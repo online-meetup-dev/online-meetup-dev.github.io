@@ -8947,7 +8947,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d8/a3/d8a3e8722541a979e340f9ad8309d567.png",
     "hashtag": "devreljp",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-07",
     "color": "#147d3c"
   },
