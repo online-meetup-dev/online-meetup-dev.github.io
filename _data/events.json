@@ -8905,7 +8905,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2d/9d/2d9dc344ee16234ec07e8cde024661e8.png",
     "hashtag": "AI論文読み会",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-07",
     "color": "grey"
   },
@@ -8933,7 +8933,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b6/53/b6531cbf954c11762112711e00a3e0bc.png",
     "hashtag": "ヒカラボ関西",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-07",
     "color": "grey"
   },
@@ -8961,7 +8961,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/eb/46/eb465237123c2f9082262542ee689c65.png",
     "hashtag": "PowerPlatformWeeklyNews",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-07",
     "color": "grey"
   },
@@ -8975,7 +8975,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e4/5b/e45b8608ef2abef3d86c385e5c86f44c.png",
     "hashtag": "LibOJP",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-07",
     "color": "grey"
   },
@@ -9003,7 +9003,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d5/b6/d5b68ebd8887065d80cefa9de544560d.png",
     "hashtag": "ng_jp_onair",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-07",
     "color": "grey"
   },
