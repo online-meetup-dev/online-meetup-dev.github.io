@@ -8919,7 +8919,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2d/34/2d344d20d4a15275687f97e26d335ee6.png",
     "hashtag": "ymsdev",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-07",
     "color": "#B2834C"
   },
