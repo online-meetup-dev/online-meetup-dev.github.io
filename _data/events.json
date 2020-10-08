@@ -9139,7 +9139,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/05/8f/058f9a210492f196016f881f7f21f85c.png",
     "hashtag": "コーポレート",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-08",
     "color": "grey"
   },
@@ -9167,7 +9167,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/62/f0/62f0617e3db95a409bcc2171972e3f6b.png",
     "hashtag": "microcms_ws",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-08",
     "color": "grey"
   },
@@ -9195,7 +9195,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/46/1a/461a601e4aa844a05729cb96938c5004.png",
     "hashtag": "AI",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-08",
     "color": "grey"
   },
