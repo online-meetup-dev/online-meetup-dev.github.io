@@ -9181,7 +9181,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d9/02/d902eaa08a4eb0197985beea54d38dd3.png",
     "hashtag": "shibu_moku",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-08",
     "color": "grey"
   },
@@ -9237,7 +9237,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/72/cd/72cd013736e6606bc1c6d3e808f7e45e.png",
     "hashtag": "pyconjp2020staff",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-08",
     "color": "grey"
   },
@@ -9251,7 +9251,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/52/0b/520bda7b63740a0cb710e01f8406f1c6.png",
     "hashtag": "JBUG",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-08",
     "color": "grey"
   },
@@ -9265,7 +9265,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/e7/33e7d8c35bbe7fd1b8f2afbe07680665.png",
     "hashtag": "Vue.js",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-08",
     "color": "#f1e05a"
   },
