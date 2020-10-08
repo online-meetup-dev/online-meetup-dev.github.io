@@ -9069,7 +9069,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2f/c9/2fc914290e291f9b07641901b4306275.png",
     "hashtag": "UXCARAVAN",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-08",
     "color": "#2E6EF7"
   },
