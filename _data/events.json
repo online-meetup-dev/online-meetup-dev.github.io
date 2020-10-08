@@ -9209,7 +9209,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1f/eb/1febc52ad0a0f0dbddd505df53ca59d3.png",
     "hashtag": "未来技術",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-08",
     "color": "grey"
   },
@@ -9279,7 +9279,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1a/1f/1a1fbc4719dbcfde203454bc0e27373d.png",
     "hashtag": "pycamp",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-08",
     "color": "purple"
   },
