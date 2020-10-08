@@ -9223,7 +9223,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d3/cc/d3cc238d1bf2595df74ca8ebc652abbe.png",
     "hashtag": "LWUG",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-08",
     "color": "grey"
   },
