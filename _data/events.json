@@ -9125,7 +9125,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f6/65/f665cc02fcd886e236dddff873368ab9.png",
     "hashtag": "jawsug_cli",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-08",
     "color": "#F39E21"
   },
@@ -9153,7 +9153,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f7/98/f798eee910cbcd95065fc33441d67af6.png",
     "hashtag": "mixleap",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-08",
     "color": "grey"
   },
