@@ -9083,7 +9083,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a0/94/a09458de933be060e6a0280d1a0e42b2.png",
     "hashtag": "企業主催",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-08",
     "color": "#F39E21"
   },
