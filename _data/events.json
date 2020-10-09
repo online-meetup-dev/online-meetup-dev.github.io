@@ -9399,7 +9399,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/bf/18/bf18bc26ad1a77b2677e2486cc2fa6a2.png",
     "hashtag": "MobileAct",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-09",
     "color": "grey"
   },
@@ -9427,7 +9427,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/67/5c/675c9206b5941fe9ed0d7b2cd9aa4269.png",
     "hashtag": "HMWW",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-09",
     "color": "grey"
   },
@@ -9469,7 +9469,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "CSharp",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-09",
     "color": "grey"
   },
