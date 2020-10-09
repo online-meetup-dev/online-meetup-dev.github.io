@@ -9315,7 +9315,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ae/00/ae00a43fa936d04d8621a7ab2f5e104e.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-09",
     "color": "#B8D59E"
   },
@@ -9343,7 +9343,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c2/1f/c21ffa0600a1678a33b9bf0c44bd438c.png",
     "hashtag": "hccjp",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-09",
     "color": "grey"
   },
