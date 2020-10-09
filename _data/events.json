@@ -9298,7 +9298,7 @@
     "endAt": "2020-10-10T08:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c7/43/c74329af973e204ccfe5cea4d7acc5b9.png",
     "hashtag": "shinjukuasakatu",
-    "future": true,
+    "future": false,
     "date": "2020-10-09",
     "color": "#B8D59E"
   },
