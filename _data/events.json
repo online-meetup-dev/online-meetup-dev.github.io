@@ -9371,7 +9371,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/aa/06/aa06d87f3ab6f25f317ff23ce725124b.png",
     "hashtag": "RPALT",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-09",
     "color": "grey"
   },
