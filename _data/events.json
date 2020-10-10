@@ -9523,7 +9523,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1f/59/1f59a43b2b6073969ecd68a621da046c.png",
     "hashtag": "hasmoku",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-10",
     "color": "#B8D59E"
   },
@@ -9592,7 +9592,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b9/19/b919d7714c8ee96b769d025f3ae4d052.png",
     "hashtag": "rust_online",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-10",
     "color": "#B8D59E"
   },
@@ -9606,7 +9606,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cd/bd/cdbde67074afc00f5402eeb18e827e51.png",
     "hashtag": "BIOSbootcamp",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-10",
     "color": "#B8D59E"
   },
@@ -9620,7 +9620,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/18/24/1824b0d6d6e13a53d55aae57eb60560b.png",
     "hashtag": "iijmiio",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-10",
     "color": "grey"
   },
@@ -9634,7 +9634,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/18/24/1824b0d6d6e13a53d55aae57eb60560b.png",
     "hashtag": "iijmiio",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-10",
     "color": "grey"
   },
@@ -9648,7 +9648,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/18/24/1824b0d6d6e13a53d55aae57eb60560b.png",
     "hashtag": "iijmiio",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-10",
     "color": "grey"
   },
@@ -9662,7 +9662,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/18/24/1824b0d6d6e13a53d55aae57eb60560b.png",
     "hashtag": "iijmiio",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-10",
     "color": "grey"
   },
