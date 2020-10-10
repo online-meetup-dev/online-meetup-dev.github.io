@@ -9690,7 +9690,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1a/fd/1afdb4a3c5120cba6da4dc92f64d18ed.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-10",
     "color": "grey"
   },
@@ -9704,7 +9704,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c2/60/c260455967f810cee23aaafbd0cb79a2.png",
     "hashtag": "python/Ecvcel/PDF",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-10",
     "color": "grey"
   },
