@@ -9783,7 +9783,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/97/52/9752583227b9b540ce3e87b96e460328.png",
     "hashtag": "editch",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-11",
     "color": "grey"
   },
