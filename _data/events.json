@@ -9843,7 +9843,6 @@
     "endAt": "2020-10-12T07:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/78/86/788676d75b8b899ee520ebdf0587912b.png",
     "hashtag": "もくもく会",
-    "today": true,
     "future": false,
     "date": "2020-10-12",
     "color": "#B8D59E"
@@ -9857,7 +9856,6 @@
     "endAt": "2020-10-12T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b9/99/b9995c1f5e5acdfc572fa3d309567fce.png",
     "hashtag": "Unity,ゲーム",
-    "today": true,
     "future": false,
     "date": "2020-10-12",
     "color": "#B8D59E"
@@ -9871,7 +9869,6 @@
     "endAt": "2020-10-12T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b1/b2/b1b2ab9d1219a282a102d5a238de1010.png",
     "hashtag": "UX,アフターデジタル",
-    "today": true,
     "future": false,
     "date": "2020-10-12",
     "color": "#2E6EF7"
@@ -9885,7 +9882,6 @@
     "endAt": "2020-10-12T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9d/ea/9dea5daf00dbacf2e7ad90c30031d76c.png",
     "hashtag": "scrumdokan",
-    "today": true,
     "future": false,
     "date": "2020-10-12",
     "color": "grey"
@@ -9899,7 +9895,6 @@
     "endAt": "2020-10-12T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/e7/33e7d8c35bbe7fd1b8f2afbe07680665.png",
     "hashtag": "Vue.js",
-    "today": true,
     "future": false,
     "date": "2020-10-12",
     "color": "#f1e05a"
@@ -9913,6 +9908,7 @@
     "endAt": "2020-10-13T07:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/78/86/788676d75b8b899ee520ebdf0587912b.png",
     "hashtag": "もくもく会",
+    "today": true,
     "future": true,
     "date": "2020-10-13",
     "color": "#B8D59E"
@@ -9926,6 +9922,7 @@
     "endAt": "2020-10-13T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1f/4c/1f4cc3bc8a79697f39a15de261ce1069.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-10-13",
     "color": "grey"
@@ -9939,6 +9936,7 @@
     "endAt": "2020-10-13T12:40:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/51/ff/51ff9588242a5fb040ba999cfce2e33c.png",
     "hashtag": "LWUG",
+    "today": true,
     "future": true,
     "date": "2020-10-13",
     "color": "grey"
@@ -9952,6 +9950,7 @@
     "endAt": "2020-10-13T14:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e0/21/e021deb23f58224638d452380ecb2b81.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-10-13",
     "color": "grey"
@@ -9965,6 +9964,7 @@
     "endAt": "2020-10-13T14:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/37/65/37654b941117e41da735d7d4614f4d7f.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-10-13",
     "color": "grey"
@@ -9978,6 +9978,7 @@
     "endAt": "2020-10-13T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c3/a9/c3a9cd60fd633fd205b8275f674af612.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-10-13",
     "color": "grey"
@@ -9991,6 +9992,7 @@
     "endAt": "2020-10-13T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2c/df/2cdf4bb26198cacaf10cb509c3e78ff9.png",
     "hashtag": "近大LT",
+    "today": true,
     "future": true,
     "date": "2020-10-13",
     "color": "grey"
@@ -10004,6 +10006,7 @@
     "endAt": "2020-10-13T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2e/6f/2e6fd6fa32a42b1d65f3c82ebdf6eb80.png",
     "hashtag": "iotlt",
+    "today": true,
     "future": true,
     "date": "2020-10-13"
   },
@@ -10016,6 +10019,7 @@
     "endAt": "2020-10-13T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/57/a7/57a791e5d40292ebf0c4a00a27f8d728.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-10-13",
     "color": "grey"
@@ -10029,6 +10033,7 @@
     "endAt": "2020-10-13T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c4/e7/c4e75ed465bfb292393127c1a6249c61.png",
     "hashtag": "fukuokajs",
+    "today": true,
     "future": true,
     "date": "2020-10-13",
     "color": "#B8D59E"
@@ -10042,6 +10047,7 @@
     "endAt": "2020-10-13T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/09/ed/09edac3d5bbacec751fa3b58736c850b.png",
     "hashtag": "DeepLearning",
+    "today": true,
     "future": true,
     "date": "2020-10-13",
     "color": "grey"
@@ -10055,6 +10061,7 @@
     "endAt": "2020-10-13T22:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "C",
+    "today": true,
     "future": true,
     "date": "2020-10-13",
     "color": "grey"
@@ -10068,6 +10075,7 @@
     "endAt": "2020-10-13T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/76/44/764441b078e73d12bd2200847195caa8.png",
     "hashtag": "pyconhiro",
+    "today": true,
     "future": true,
     "date": "2020-10-13",
     "color": "grey"
