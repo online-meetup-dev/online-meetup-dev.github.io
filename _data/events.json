@@ -9886,7 +9886,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9d/ea/9dea5daf00dbacf2e7ad90c30031d76c.png",
     "hashtag": "scrumdokan",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-12",
     "color": "grey"
   },
@@ -9900,7 +9900,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/e7/33e7d8c35bbe7fd1b8f2afbe07680665.png",
     "hashtag": "Vue.js",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-12",
     "color": "#f1e05a"
   },
