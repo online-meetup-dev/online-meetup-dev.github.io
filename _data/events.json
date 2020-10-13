@@ -10007,7 +10007,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2e/6f/2e6fd6fa32a42b1d65f3c82ebdf6eb80.png",
     "hashtag": "iotlt",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-13"
   },
   {
