@@ -10020,7 +10020,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/57/a7/57a791e5d40292ebf0c4a00a27f8d728.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-13",
     "color": "grey"
   },
