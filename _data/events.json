@@ -10034,7 +10034,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c4/e7/c4e75ed465bfb292393127c1a6249c61.png",
     "hashtag": "fukuokajs",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-13",
     "color": "#B8D59E"
   },
@@ -10062,7 +10062,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "C",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-13",
     "color": "grey"
   },
@@ -10076,7 +10076,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/76/44/764441b078e73d12bd2200847195caa8.png",
     "hashtag": "pyconhiro",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-13",
     "color": "grey"
   },
