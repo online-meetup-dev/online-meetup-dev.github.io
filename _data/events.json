@@ -10133,7 +10133,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ef/bc/efbc8026cd70ca99ab577164ba3ea933.png",
     "hashtag": "nakanoshima_dev",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-14",
     "color": "grey"
   },
