@@ -10160,7 +10160,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f5/32/f532b3e0de09fae17611b1fd12867062.png",
     "hashtag": "ultralt",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-14",
     "color": "grey"
   },
@@ -10174,7 +10174,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a2/1c/a21c758abba5bb9aa0b4586997815512.png",
     "hashtag": "c4ngt",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-14",
     "color": "grey"
   },
@@ -10188,7 +10188,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/92/ff/92ff09f4a0a8549a4ce8f6a669d4d809.png",
     "hashtag": "fukuokaex",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-14",
     "color": "grey"
   },
@@ -10202,7 +10202,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/10/bc/10bcd7ea61072323cd4059fe0a4ec10e.png",
     "hashtag": "sosailt",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-14",
     "color": "grey"
   },
@@ -10230,7 +10230,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f3/2f/f32f4e5039d9dabc4b7876856116bfcc.png",
     "hashtag": "CS読書会",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-14",
     "color": "#B2834C"
   },
