@@ -10231,7 +10231,6 @@
     "endAt": "2020-10-15T12:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/de/66/de664676674e14744a019152ed4c23f1.png",
     "hashtag": "UXCARAVAN",
-    "today": true,
     "future": false,
     "date": "2020-10-15",
     "color": "#2E6EF7"
@@ -10245,7 +10244,6 @@
     "endAt": "2020-10-15T18:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/04/4a/044a42bf890ddc79372983c0af91381a.png",
     "hashtag": "workship",
-    "today": true,
     "future": false,
     "date": "2020-10-15",
     "color": "grey"
@@ -10259,7 +10257,6 @@
     "endAt": "2020-10-15T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/df/bc/dfbcc4f69b18c5a37f87661c9e7f644a.png",
     "hashtag": "LINEDC",
-    "today": true,
     "future": false,
     "date": "2020-10-15",
     "color": "grey"
@@ -10273,7 +10270,6 @@
     "endAt": "2020-10-15T22:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/30/76/307674ea4dd68971cb8751ffac373e43.png",
     "hashtag": "RNTechBlog",
-    "today": true,
     "future": false,
     "date": "2020-10-15",
     "color": "#f1e05a"
@@ -10287,6 +10283,7 @@
     "endAt": "2020-10-16T15:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/98/da/98dacf5453eb815c6b8a7ed2032ac5af.png",
     "hashtag": "IBMDojo",
+    "today": true,
     "future": true,
     "date": "2020-10-16",
     "color": "grey"
@@ -10300,6 +10297,7 @@
     "endAt": "2020-10-16T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/90/78/90782850df14b5e6080d1b020b70358b.png",
     "hashtag": "人工知能",
+    "today": true,
     "future": true,
     "date": "2020-10-16",
     "color": "grey"
@@ -10313,6 +10311,7 @@
     "endAt": "2020-10-16T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5f/c2/5fc2de6999bf76b0e0e9a42801925492.png",
     "hashtag": "SN_Technight",
+    "today": true,
     "future": true,
     "date": "2020-10-16",
     "color": "grey"
@@ -10326,6 +10325,7 @@
     "endAt": "2020-10-16T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8f/1e/8f1ecc1f70de21b2f2c24ad094ff1b3d.png",
     "hashtag": "HANAKIN_KAYAC",
+    "today": true,
     "future": true,
     "date": "2020-10-16",
     "color": "grey"
@@ -10339,6 +10339,7 @@
     "endAt": "2020-10-16T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/13/5c/135ccdbf72de911df02a0f258f006a61.png",
     "hashtag": "スターティアラボ勉強会",
+    "today": true,
     "future": true,
     "date": "2020-10-16",
     "color": "grey"
@@ -10352,6 +10353,7 @@
     "endAt": "2020-10-16T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d0/db/d0dbf16ecd720e974bbbe8671562f913.png",
     "hashtag": "dmm_meetup",
+    "today": true,
     "future": true,
     "date": "2020-10-16",
     "color": "grey"
@@ -10365,6 +10367,7 @@
     "endAt": "2020-10-16T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/bf/f1/bff16cd5b28ce6230355a2851a703d53.png",
     "hashtag": "はんなりPython",
+    "today": true,
     "future": true,
     "date": "2020-10-16",
     "color": "grey"
