@@ -10283,7 +10283,6 @@
     "endAt": "2020-10-16T15:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/98/da/98dacf5453eb815c6b8a7ed2032ac5af.png",
     "hashtag": "IBMDojo",
-    "today": true,
     "future": false,
     "date": "2020-10-16",
     "color": "grey"
@@ -10297,7 +10296,6 @@
     "endAt": "2020-10-16T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/90/78/90782850df14b5e6080d1b020b70358b.png",
     "hashtag": "人工知能",
-    "today": true,
     "future": false,
     "date": "2020-10-16",
     "color": "grey"
@@ -10311,7 +10309,6 @@
     "endAt": "2020-10-16T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5f/c2/5fc2de6999bf76b0e0e9a42801925492.png",
     "hashtag": "SN_Technight",
-    "today": true,
     "future": false,
     "date": "2020-10-16",
     "color": "grey"
@@ -10325,7 +10322,6 @@
     "endAt": "2020-10-16T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8f/1e/8f1ecc1f70de21b2f2c24ad094ff1b3d.png",
     "hashtag": "HANAKIN_KAYAC",
-    "today": true,
     "future": false,
     "date": "2020-10-16",
     "color": "grey"
@@ -10339,7 +10335,6 @@
     "endAt": "2020-10-16T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/13/5c/135ccdbf72de911df02a0f258f006a61.png",
     "hashtag": "スターティアラボ勉強会",
-    "today": true,
     "future": false,
     "date": "2020-10-16",
     "color": "grey"
@@ -10353,7 +10348,6 @@
     "endAt": "2020-10-16T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d0/db/d0dbf16ecd720e974bbbe8671562f913.png",
     "hashtag": "dmm_meetup",
-    "today": true,
     "future": false,
     "date": "2020-10-16",
     "color": "grey"
@@ -10367,7 +10361,6 @@
     "endAt": "2020-10-16T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/bf/f1/bff16cd5b28ce6230355a2851a703d53.png",
     "hashtag": "はんなりPython",
-    "today": true,
     "future": false,
     "date": "2020-10-16",
     "color": "grey"
@@ -10381,6 +10374,7 @@
     "endAt": "2020-10-18T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b5/fa/b5fad930b83fdc87960ac4b46416c9ae.png",
     "hashtag": "DevFestJa",
+    "today": true,
     "future": true,
     "date": "2020-10-17",
     "color": "grey"
@@ -10394,6 +10388,7 @@
     "endAt": "2020-10-17T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/dd/8f/dd8fcd1f5e6635d26e1fa315a57d2260.png",
     "hashtag": "pyhack",
+    "today": true,
     "future": true,
     "date": "2020-10-17",
     "color": "grey"
@@ -10407,6 +10402,7 @@
     "endAt": "2020-10-17T15:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8c/f3/8cf3ebfb3f75472763431c94172b1fef.png",
     "hashtag": "Kubernetes",
+    "today": true,
     "future": true,
     "date": "2020-10-17",
     "color": "grey"
@@ -10420,6 +10416,7 @@
     "endAt": "2020-10-17T15:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/36/97/36979dcd5b99ce8cf5f53fa0d219e2f4.png",
     "hashtag": "量子情報勉強会",
+    "today": true,
     "future": true,
     "date": "2020-10-17",
     "color": "grey"
@@ -10433,6 +10430,7 @@
     "endAt": "2020-10-17T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/62/bb/62bb445315e2f311cb6942cc7a4388b1.png",
     "hashtag": "histudy",
+    "today": true,
     "future": true,
     "date": "2020-10-17",
     "color": "grey"
@@ -10446,6 +10444,7 @@
     "endAt": "2020-10-17T16:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/26/8e/268e9323fec12d7d19a5b0e0a8497f07.png",
     "hashtag": "gutenlovers",
+    "today": true,
     "future": true,
     "date": "2020-10-17",
     "color": "grey"
@@ -10459,6 +10458,7 @@
     "endAt": "2020-10-17T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/67/33/67331c13f0622ff24980ccd9363c98c7.png",
     "hashtag": "ALGYAN",
+    "today": true,
     "future": true,
     "date": "2020-10-17"
   },
@@ -10471,6 +10471,7 @@
     "endAt": "2020-10-17T17:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3b/38/3b384868c946210d41dad37da7b6fd7e.png",
     "hashtag": "未来技術",
+    "today": true,
     "future": true,
     "date": "2020-10-17",
     "color": "grey"
@@ -10484,6 +10485,7 @@
     "endAt": "2020-10-17T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/36/63/3663dd5f5a9548521de4fe862ce62179.png",
     "hashtag": "unagipy",
+    "today": true,
     "future": true,
     "date": "2020-10-17",
     "color": "purple"
