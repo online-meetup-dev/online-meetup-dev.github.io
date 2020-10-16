@@ -10312,7 +10312,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5f/c2/5fc2de6999bf76b0e0e9a42801925492.png",
     "hashtag": "SN_Technight",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-16",
     "color": "grey"
   },
