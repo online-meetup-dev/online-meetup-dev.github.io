@@ -10089,7 +10089,7 @@
     "endAt": "2020-10-16T13:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6b/ac/6bacb19e41fc8766c2c6a6ec4cbc0f12.png",
     "hashtag": "aps_seminar",
-    "future": true,
+    "future": false,
     "date": "2020-10-14",
     "color": "grey"
   },
