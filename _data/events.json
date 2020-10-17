@@ -10431,7 +10431,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/62/bb/62bb445315e2f311cb6942cc7a4388b1.png",
     "hashtag": "histudy",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-17",
     "color": "grey"
   },
@@ -10459,7 +10459,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/67/33/67331c13f0622ff24980ccd9363c98c7.png",
     "hashtag": "ALGYAN",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-17"
   },
   {
