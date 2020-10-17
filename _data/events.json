@@ -10472,7 +10472,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3b/38/3b384868c946210d41dad37da7b6fd7e.png",
     "hashtag": "未来技術",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-17",
     "color": "grey"
   },
