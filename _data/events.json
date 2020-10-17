@@ -10486,7 +10486,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/36/63/3663dd5f5a9548521de4fe862ce62179.png",
     "hashtag": "unagipy",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-17",
     "color": "purple"
   },
