@@ -10445,7 +10445,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/26/8e/268e9323fec12d7d19a5b0e0a8497f07.png",
     "hashtag": "gutenlovers",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-17",
     "color": "grey"
   },
