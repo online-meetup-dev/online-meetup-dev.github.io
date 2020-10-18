@@ -10533,7 +10533,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-18",
     "color": "#2175C9"
   },
