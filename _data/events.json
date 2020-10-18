@@ -10374,7 +10374,7 @@
     "endAt": "2020-10-18T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b5/fa/b5fad930b83fdc87960ac4b46416c9ae.png",
     "hashtag": "DevFestJa",
-    "future": true,
+    "future": false,
     "date": "2020-10-17",
     "color": "grey"
   },
