@@ -10570,7 +10570,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ab/91/ab91648132f373a8084304d974477ae1.png",
     "hashtag": "IBMDojo",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-19",
     "color": "grey"
   },
@@ -10584,7 +10584,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/30/16/3016ce94b97f34c93317ce8c900201cb.png",
     "hashtag": "mercarigo",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-19",
     "color": "grey"
   },
