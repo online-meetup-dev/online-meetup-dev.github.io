@@ -10612,7 +10612,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ad/0e/ad0ecc271085204a24804ad19d693253.png",
     "hashtag": "hamamatsu_hack2020",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-19",
     "color": "grey"
   },
