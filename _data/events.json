@@ -10556,7 +10556,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/67/6d/676de6f49b215714c8be69ed4651e06c.png",
     "hashtag": "wba_sympo5",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-19",
     "color": "grey"
   },
