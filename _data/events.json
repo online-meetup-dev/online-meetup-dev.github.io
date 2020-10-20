@@ -10689,7 +10689,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1d/4a/1d4ab82c987e00a456b33f08b4ebc076.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-20",
     "color": "grey"
   },
