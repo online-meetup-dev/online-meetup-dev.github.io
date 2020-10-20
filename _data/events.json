@@ -10703,7 +10703,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e0/87/e087d071dfbe084f65f25fca3198b467.png",
     "hashtag": "jawsugchiba",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-20",
     "color": "#F39E21"
   },
@@ -10717,7 +10717,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4e/a9/4ea972f35f825f478928f5e8badb7128.png",
     "hashtag": "camping_engineer",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-20",
     "color": "grey"
   },
