@@ -10767,7 +10767,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f3/73/f373cbccdc5fad66f21f9e4aebd85b4a.png",
     "hashtag": "トークイベント",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-21",
     "color": "grey"
   },
@@ -10809,7 +10809,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/65/0f/650faa9bc52e47202612790b0029384f.png",
     "hashtag": "iotlt",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-21"
   },
   {
