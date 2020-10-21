@@ -10781,7 +10781,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ec/15/ec156b52fc0e80ee85825c0a15dfbf6a.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-21",
     "color": "#B8D59E"
   },
@@ -10795,7 +10795,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/aa/32/aa327e0c79c1e1ae3d454585b16aee15.png",
     "hashtag": "XRMTG",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-21",
     "color": "grey"
   },
@@ -10822,7 +10822,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/97/82/9782c6c9135024d2aeb2d85b6fee31d6.png",
     "hashtag": "DoMCN",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-21",
     "color": "grey"
   },
