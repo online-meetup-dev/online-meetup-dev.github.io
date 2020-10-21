@@ -10753,7 +10753,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0c/ec/0cec4d502e4485b1fc726253fb1490b1.png",
     "hashtag": "CfKTQ",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-21",
     "color": "grey"
   },
