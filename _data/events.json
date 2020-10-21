@@ -10739,7 +10739,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8f/d3/8fd38b95db69bcd672d7d495149f2b50.png",
     "hashtag": "駆け出しエンジニアの勉強法LT会",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-21",
     "color": "grey"
   },
