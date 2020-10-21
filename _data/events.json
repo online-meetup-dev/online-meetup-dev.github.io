@@ -10724,7 +10724,6 @@
     "endAt": "2020-10-21T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/87/50/8750902cd1bf7a7882aa10b47f5292e1.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-10-21",
     "color": "grey"
@@ -10738,7 +10737,6 @@
     "endAt": "2020-10-21T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8f/d3/8fd38b95db69bcd672d7d495149f2b50.png",
     "hashtag": "駆け出しエンジニアの勉強法LT会",
-    "today": true,
     "future": false,
     "date": "2020-10-21",
     "color": "grey"
@@ -10752,7 +10750,6 @@
     "endAt": "2020-10-21T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0c/ec/0cec4d502e4485b1fc726253fb1490b1.png",
     "hashtag": "CfKTQ",
-    "today": true,
     "future": false,
     "date": "2020-10-21",
     "color": "grey"
@@ -10766,7 +10763,6 @@
     "endAt": "2020-10-21T20:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f3/73/f373cbccdc5fad66f21f9e4aebd85b4a.png",
     "hashtag": "トークイベント",
-    "today": true,
     "future": false,
     "date": "2020-10-21",
     "color": "grey"
@@ -10780,7 +10776,6 @@
     "endAt": "2020-10-21T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ec/15/ec156b52fc0e80ee85825c0a15dfbf6a.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-10-21",
     "color": "#B8D59E"
@@ -10794,7 +10789,6 @@
     "endAt": "2020-10-21T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/aa/32/aa327e0c79c1e1ae3d454585b16aee15.png",
     "hashtag": "XRMTG",
-    "today": true,
     "future": false,
     "date": "2020-10-21",
     "color": "grey"
@@ -10808,7 +10802,6 @@
     "endAt": "2020-10-21T20:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/65/0f/650faa9bc52e47202612790b0029384f.png",
     "hashtag": "iotlt",
-    "today": true,
     "future": false,
     "date": "2020-10-21"
   },
@@ -10821,7 +10814,6 @@
     "endAt": "2020-10-21T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/97/82/9782c6c9135024d2aeb2d85b6fee31d6.png",
     "hashtag": "DoMCN",
-    "today": true,
     "future": false,
     "date": "2020-10-21",
     "color": "grey"
@@ -10835,7 +10827,6 @@
     "endAt": "2020-10-21T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f5/01/f501a35d6f150d4d6d5cd9ca29c4c047.png",
     "hashtag": "XRMTG",
-    "today": true,
     "future": false,
     "date": "2020-10-21",
     "color": "grey"
@@ -10849,7 +10840,6 @@
     "endAt": "2020-10-21T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/20/3e202266d07919eb1f3b2d1c70da0985.png",
     "hashtag": "bizpy",
-    "today": true,
     "future": false,
     "date": "2020-10-21",
     "color": "grey"
@@ -10863,7 +10853,6 @@
     "endAt": "2020-10-21T22:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "技術書界隈を盛り上げる会",
-    "today": true,
     "future": false,
     "date": "2020-10-21",
     "color": "grey"
@@ -10877,6 +10866,7 @@
     "endAt": "2020-10-22T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/08/43/08430eac936b83eb1e5b250ee820ee68.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-10-22",
     "color": "grey"
@@ -10890,6 +10880,7 @@
     "endAt": "2020-10-22T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/05/b5/05b5c5ddbb787f55efea6720a573f7db.png",
     "hashtag": "PowerApps",
+    "today": true,
     "future": true,
     "date": "2020-10-22",
     "color": "grey"
@@ -10903,6 +10894,7 @@
     "endAt": "2020-10-22T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ea/4e/ea4eec2cc809e124fd7ad5a22f1c532d.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-10-22",
     "color": "grey"
@@ -10916,6 +10908,7 @@
     "endAt": "2020-10-22T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/20/de/20de10b8623d667c5e1fb588fe34efb9.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-10-22",
     "color": "#2E6EF7"
@@ -10929,6 +10922,7 @@
     "endAt": "2020-10-22T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/62/71/6271d8687ba8d86e33abb3e9769a7093.png",
     "hashtag": "MCOpenLab",
+    "today": true,
     "future": true,
     "date": "2020-10-22",
     "color": "#2E6EF7"
@@ -10942,6 +10936,7 @@
     "endAt": "2020-10-22T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4e/bc/4ebc567b7c8f34eaa1e0a8918a95c35f.png",
     "hashtag": "mixleap",
+    "today": true,
     "future": true,
     "date": "2020-10-22",
     "color": "grey"
@@ -10955,6 +10950,7 @@
     "endAt": "2020-10-22T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ed/5b/ed5bfe5c3f479729da0e64e80061f6e5.png",
     "hashtag": "onlinelthacklt",
+    "today": true,
     "future": true,
     "date": "2020-10-22",
     "color": "grey"
@@ -10968,6 +10964,7 @@
     "endAt": "2020-10-22T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/79/be/79be99c5c037ac9f127b12dc549a50b0.png",
     "hashtag": "serverless_newworld",
+    "today": true,
     "future": true,
     "date": "2020-10-22",
     "color": "grey"
