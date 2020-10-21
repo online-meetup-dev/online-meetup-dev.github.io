@@ -10836,7 +10836,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f5/01/f501a35d6f150d4d6d5cd9ca29c4c047.png",
     "hashtag": "XRMTG",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-21",
     "color": "grey"
   },
@@ -10864,7 +10864,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "技術書界隈を盛り上げる会",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-21",
     "color": "grey"
   },
