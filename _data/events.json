@@ -10923,7 +10923,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/62/71/6271d8687ba8d86e33abb3e9769a7093.png",
     "hashtag": "MCOpenLab",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-22",
     "color": "#2E6EF7"
   },
@@ -10937,7 +10937,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4e/bc/4ebc567b7c8f34eaa1e0a8918a95c35f.png",
     "hashtag": "mixleap",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-22",
     "color": "grey"
   },
@@ -10951,7 +10951,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ed/5b/ed5bfe5c3f479729da0e64e80061f6e5.png",
     "hashtag": "onlinelthacklt",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-22",
     "color": "grey"
   },
