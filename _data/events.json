@@ -10999,7 +10999,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/44/2e/442e98e0a49dddc7355ee1077f466eb0.png",
     "hashtag": "QUNOG18",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-23",
     "color": "grey"
   },
