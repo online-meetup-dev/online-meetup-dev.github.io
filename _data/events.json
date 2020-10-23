@@ -10970,7 +10970,6 @@
     "endAt": "2020-10-24T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/df/cf/dfcfc8685601628951ad31f4e7098fc5.png",
     "hashtag": "osc20on",
-    "today": true,
     "future": true,
     "date": "2020-10-23",
     "color": "grey"
@@ -10984,7 +10983,6 @@
     "endAt": "2020-10-23T14:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ee/1c/ee1c00c6eba7f78306859087f1536d47.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-10-23",
     "color": "grey"
@@ -10998,7 +10996,6 @@
     "endAt": "2020-10-23T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/44/2e/442e98e0a49dddc7355ee1077f466eb0.png",
     "hashtag": "QUNOG18",
-    "today": true,
     "future": false,
     "date": "2020-10-23",
     "color": "grey"
@@ -11012,7 +11009,6 @@
     "endAt": "2020-10-23T17:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d2/b4/d2b440d5e539a22b51e4590e81ee1c47.png",
     "hashtag": "sfdc_cctb",
-    "today": true,
     "future": false,
     "date": "2020-10-23",
     "color": "grey"
@@ -11026,7 +11022,6 @@
     "endAt": "2020-10-23T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3a/c8/3ac874c00d2ed5297a05d3d90315b4ce.png",
     "hashtag": "wba31",
-    "today": true,
     "future": false,
     "date": "2020-10-23",
     "color": "grey"
@@ -11040,7 +11035,6 @@
     "endAt": "2020-10-23T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ad/bf/adbf3fd2af011f956d9e483f8338e8e7.png",
     "hashtag": "mysql_cafe",
-    "today": true,
     "future": false,
     "date": "2020-10-23",
     "color": "grey"
@@ -11054,7 +11048,6 @@
     "endAt": "2020-10-23T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a7/b1/a7b1d1900d932f6ab897514f1b24da92.png",
     "hashtag": "RPALT",
-    "today": true,
     "future": false,
     "date": "2020-10-23",
     "color": "grey"
@@ -11068,7 +11061,6 @@
     "endAt": "2020-10-23T22:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a6/f5/a6f54fc7d94f89304692019dee09ed47.png",
     "hashtag": "wba31",
-    "today": true,
     "future": false,
     "date": "2020-10-23",
     "color": "grey"
@@ -11082,6 +11074,7 @@
     "endAt": "2020-10-24T18:30:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "HCMI_event",
+    "today": true,
     "future": true,
     "date": "2020-10-24",
     "color": "grey"
@@ -11095,6 +11088,7 @@
     "endAt": "2020-11-29T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4b/f5/4bf5aba3cdf97f6ea8aadc11df56d61f.png",
     "hashtag": "WebIoTmakers",
+    "today": true,
     "future": true,
     "date": "2020-10-24"
   },
@@ -11107,6 +11101,7 @@
     "endAt": "2020-10-24T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cc/bb/ccbbd35a14b66b94db0b971c234dd67e.png",
     "hashtag": "RedminePatch",
+    "today": true,
     "future": true,
     "date": "2020-10-24",
     "color": "grey"
@@ -11120,6 +11115,7 @@
     "endAt": "2020-10-24T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/06/70/0670907336ae10822175537ec2344aee.png",
     "hashtag": "dotnetlab",
+    "today": true,
     "future": true,
     "date": "2020-10-24",
     "color": "grey"
@@ -11133,6 +11129,7 @@
     "endAt": "2020-10-24T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3c/c2/3cc25b258b5d1804a7de5b4abf65c549.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-10-24",
     "color": "grey"
@@ -11146,6 +11143,7 @@
     "endAt": "2020-10-24T16:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/53/c3/53c3932e2602e21ec68e293153507116.png",
     "hashtag": "LINEボット",
+    "today": true,
     "future": true,
     "date": "2020-10-24",
     "color": "grey"
@@ -11159,6 +11157,7 @@
     "endAt": "2020-10-24T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ea/9d/ea9dcd6f1097b2162ecf0a69b8b7a376.png",
     "hashtag": "BERT",
+    "today": true,
     "future": true,
     "date": "2020-10-24",
     "color": "grey"
