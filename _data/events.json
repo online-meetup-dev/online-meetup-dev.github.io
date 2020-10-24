@@ -11158,7 +11158,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ea/9d/ea9dcd6f1097b2162ecf0a69b8b7a376.png",
     "hashtag": "BERT",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-24",
     "color": "grey"
   },
