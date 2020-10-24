@@ -10970,7 +10970,7 @@
     "endAt": "2020-10-24T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/df/cf/dfcfc8685601628951ad31f4e7098fc5.png",
     "hashtag": "osc20on",
-    "future": true,
+    "future": false,
     "date": "2020-10-23",
     "color": "grey"
   },
@@ -11116,7 +11116,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/06/70/0670907336ae10822175537ec2344aee.png",
     "hashtag": "dotnetlab",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-24",
     "color": "grey"
   },
