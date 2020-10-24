@@ -11144,7 +11144,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/53/c3/53c3932e2602e21ec68e293153507116.png",
     "hashtag": "LINEボット",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-24",
     "color": "grey"
   },
