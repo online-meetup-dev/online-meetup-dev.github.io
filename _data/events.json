@@ -11074,7 +11074,6 @@
     "endAt": "2020-10-24T18:30:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "HCMI_event",
-    "today": true,
     "future": false,
     "date": "2020-10-24",
     "color": "grey"
@@ -11088,7 +11087,6 @@
     "endAt": "2020-11-29T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4b/f5/4bf5aba3cdf97f6ea8aadc11df56d61f.png",
     "hashtag": "WebIoTmakers",
-    "today": true,
     "future": true,
     "date": "2020-10-24"
   },
@@ -11101,7 +11099,6 @@
     "endAt": "2020-10-24T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cc/bb/ccbbd35a14b66b94db0b971c234dd67e.png",
     "hashtag": "RedminePatch",
-    "today": true,
     "future": false,
     "date": "2020-10-24",
     "color": "grey"
@@ -11115,7 +11112,6 @@
     "endAt": "2020-10-24T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/06/70/0670907336ae10822175537ec2344aee.png",
     "hashtag": "dotnetlab",
-    "today": true,
     "future": false,
     "date": "2020-10-24",
     "color": "grey"
@@ -11129,7 +11125,6 @@
     "endAt": "2020-10-24T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3c/c2/3cc25b258b5d1804a7de5b4abf65c549.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-10-24",
     "color": "grey"
@@ -11143,7 +11138,6 @@
     "endAt": "2020-10-24T16:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/53/c3/53c3932e2602e21ec68e293153507116.png",
     "hashtag": "LINEボット",
-    "today": true,
     "future": false,
     "date": "2020-10-24",
     "color": "grey"
@@ -11157,7 +11151,6 @@
     "endAt": "2020-10-24T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ea/9d/ea9dcd6f1097b2162ecf0a69b8b7a376.png",
     "hashtag": "BERT",
-    "today": true,
     "future": false,
     "date": "2020-10-24",
     "color": "grey"
@@ -11171,6 +11164,7 @@
     "endAt": "2020-10-25T12:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ce/89/ce892323fa89640ccc759d2a333b1334.png",
     "hashtag": "CAE",
+    "today": true,
     "future": true,
     "date": "2020-10-25",
     "color": "#B8D59E"
@@ -11184,6 +11178,7 @@
     "endAt": "2020-10-25T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9e/82/9e82302a7db88dabd3e4fb4214fa4e17.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-10-25",
     "color": "#B8D59E"
@@ -11197,6 +11192,7 @@
     "endAt": "2020-10-25T11:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ae/50/ae500228d06a01ed5bc555dbaa415b0a.png",
     "hashtag": "cwpstudy",
+    "today": true,
     "future": true,
     "date": "2020-10-25",
     "color": "#B8D59E"
@@ -11210,6 +11206,7 @@
     "endAt": "2020-10-25T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fb/87/fb87c4c0fb44a9782d12dbef35306b29.png",
     "hashtag": "xrshimane",
+    "today": true,
     "future": true,
     "date": "2020-10-25",
     "color": "grey"
@@ -11223,6 +11220,7 @@
     "endAt": "2020-10-25T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/31/78/3178421c5bd91fa9de007790f4ba22ec.png",
     "hashtag": "WESinVR",
+    "today": true,
     "future": true,
     "date": "2020-10-25",
     "color": "grey"
@@ -11236,6 +11234,7 @@
     "endAt": "2020-10-25T21:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "論理学友の会",
+    "today": true,
     "future": true,
     "date": "2020-10-25",
     "color": "grey"
@@ -11249,6 +11248,7 @@
     "endAt": "2020-10-25T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ea/9d/ea9dcd6f1097b2162ecf0a69b8b7a376.png",
     "hashtag": "BERT",
+    "today": true,
     "future": true,
     "date": "2020-10-25",
     "color": "grey"
