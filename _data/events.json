@@ -11256,7 +11256,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b4/d4/b4d407541c9cb4be60f5244c24371f8c.png",
     "hashtag": "jawsug",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-26",
     "color": "#F39E21"
   },
@@ -11298,7 +11298,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/24/78/24785b2f779cf2169f4a25b531a21fe4.png",
     "hashtag": "さくらのクラウド",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-26",
     "color": "blue"
   },
@@ -11326,7 +11326,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f9/8b/f98b9de0ea36fe7224ed3085f69d88f0.png",
     "hashtag": "インフラエンジニアBooks",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-26",
     "color": "grey"
   },
