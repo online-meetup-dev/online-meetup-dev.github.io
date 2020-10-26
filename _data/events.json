@@ -11270,7 +11270,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/64/6e/646e2d47e7ab04c89e5bc25ee03c9823.png",
     "hashtag": "CircleCIJP",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-26",
     "color": "grey"
   },
@@ -11284,7 +11284,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/19/fe/19fe43a181d918befa1838f63adce2ee.png",
     "hashtag": "OPTIMTECHNIGHT",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-26",
     "color": "grey"
   },
