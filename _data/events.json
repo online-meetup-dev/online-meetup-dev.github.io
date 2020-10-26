@@ -11312,7 +11312,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7c/a8/7ca8c686f39255a27effa9b85e97229f.png",
     "hashtag": "noderedjp",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-26",
     "color": "grey"
   },
