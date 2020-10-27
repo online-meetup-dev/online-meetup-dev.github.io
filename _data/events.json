@@ -11348,7 +11348,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/47/2f/472f854253243098986a5ef129423db8.png",
     "hashtag": "jcug_oss",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-27",
     "color": "#B2834C"
   },
