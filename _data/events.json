@@ -11362,7 +11362,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/dd/8a/dd8a754d78185d8ad4c8f20e0fc43aee.png",
     "hashtag": "gotandarb",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-27",
     "color": "#701516"
   },
