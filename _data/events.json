@@ -11414,7 +11414,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fe/59/fe596610b6369a4c72df66c82c5c1702.png",
     "hashtag": "bydstudy",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-28",
     "color": "grey"
   },
@@ -11428,7 +11428,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4f/9e/4f9e68b25b4d87106bf6da40b62b1d8f.png",
     "hashtag": "RAKUSMeetup",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-28",
     "color": "#f1e05a"
   },
@@ -11484,7 +11484,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4c/ef/4cef7b86cfc9b786cfabadbab08b3efc.png",
     "hashtag": "adtech_meetup",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-28",
     "color": "grey"
   },
