@@ -11387,7 +11387,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1c/2e/1c2e888337850517173cef0248d2f858.png",
     "hashtag": "FITCO",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-28"
   },
   {
@@ -11400,7 +11400,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/76/81/76816205489d36c5e67302c67dec2ab1.png",
     "hashtag": "さくらの夕べ",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-28",
     "color": "grey"
   },
