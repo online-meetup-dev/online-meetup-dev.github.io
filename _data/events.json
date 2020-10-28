@@ -11442,7 +11442,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/53/e8/53e81f7acf0bb0410b1d3aeb6bfe9e5a.png",
     "hashtag": "ochacafe",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-28",
     "color": "#f1e05a"
   },
@@ -11456,7 +11456,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c4/3c/c43c855bfa76736e5b6dbe3bdf829ce9.png",
     "hashtag": "playcanvasnow",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-28",
     "color": "grey"
   },
@@ -11470,7 +11470,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/40/47/40476f42eab03b39b35640215cbd0d41.png",
     "hashtag": "kwskrb",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-28",
     "color": "#701516"
   },
