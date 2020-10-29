@@ -11516,7 +11516,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6b/fb/6bfba8fd8f990859308447e038696e50.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-29",
     "color": "grey"
   },
