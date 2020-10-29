@@ -11501,7 +11501,6 @@
     "endAt": "2020-10-29T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/49/75/49755553594dd811f612d685cb318784.png",
     "hashtag": "PowerApps",
-    "today": true,
     "future": false,
     "date": "2020-10-29",
     "color": "grey"
@@ -11515,7 +11514,6 @@
     "endAt": "2020-10-29T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6b/fb/6bfba8fd8f990859308447e038696e50.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-10-29",
     "color": "grey"
@@ -11529,7 +11527,6 @@
     "endAt": "2020-10-29T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e7/e7/e7e71c900b9dcab5e6d10e27d62bf80c.png",
     "hashtag": "RPALT",
-    "today": true,
     "future": false,
     "date": "2020-10-29",
     "color": "grey"
@@ -11543,7 +11540,6 @@
     "endAt": "2020-10-29T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/28/ac/28ac67ba95fa8c3bbd865adc33efedad.png",
     "hashtag": "完全に理解したTalk",
-    "today": true,
     "future": false,
     "date": "2020-10-29",
     "color": "grey"
@@ -11557,6 +11553,7 @@
     "endAt": "2020-10-30T12:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/23/79/23796a0c532a3793ec3c3c7679341b3e.png",
     "hashtag": "ForkwellTechCast",
+    "today": true,
     "future": true,
     "date": "2020-10-30",
     "color": "grey"
@@ -11570,6 +11567,7 @@
     "endAt": "2020-10-30T21:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/65/0a/650a34c91ada57ce2dffd974a9337cf2.png",
     "hashtag": "mixleap",
+    "today": true,
     "future": true,
     "date": "2020-10-30",
     "color": "grey"
@@ -11583,6 +11581,7 @@
     "endAt": "2020-10-30T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8b/0a/8b0a5ffa38b06d71e4bef43c4f86a43e.png",
     "hashtag": "memdata",
+    "today": true,
     "future": true,
     "date": "2020-10-30",
     "color": "grey"
