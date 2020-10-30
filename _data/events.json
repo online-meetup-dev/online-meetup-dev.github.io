@@ -11568,7 +11568,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/65/0a/650a34c91ada57ce2dffd974a9337cf2.png",
     "hashtag": "mixleap",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-30",
     "color": "grey"
   },
