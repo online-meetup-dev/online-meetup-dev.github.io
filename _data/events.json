@@ -11838,6 +11838,19 @@
     "color": "grey"
   },
   {
+    "group name": "さくらインターネット 東京",
+    "event name": "さくらの夕べオンライン〜サイボウズさんといっしょ！〜",
+    "url": "https://sakura-tokyo.connpass.com/event/193018/",
+    "category": "other",
+    "startAt": "2020-11-13T19:00:00+09:00",
+    "endAt": "2020-11-13T20:30:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/55/f6/55f69938d40b8212f1a222e2dbe79758.png",
+    "hashtag": "さくらの夕べ,CybozuTech",
+    "future": true,
+    "date": "2020-11-13",
+    "color": "grey"
+  },
+  {
     "group name": "GCMWSO Tech Study",
     "event name": "第8回NPO/GCM交流フォーラム オンライン開催",
     "url": "https://gcmwso.connpass.com/event/191082/",
