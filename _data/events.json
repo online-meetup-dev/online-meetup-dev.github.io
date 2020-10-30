@@ -11668,6 +11668,20 @@
     "color": "grey"
   },
   {
+    "group name": "ウォッチパーティやってみる仲間",
+    "event name": "Amazon Prime Video の ウォッチパーティ で『ミッション：インポッシブル』を観る会",
+    "url": "https://watch-party-club.connpass.com/event/193891/",
+    "category": "other",
+    "startAt": "2020-10-31T22:31:00+09:00",
+    "endAt": "2020-11-01T00:21:00+09:00",
+    "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/47/ec/47ec2b122f2f48a1887e167fd1c852bd.png",
+    "hashtag": "",
+    "today": true,
+    "future": true,
+    "date": "2020-10-31",
+    "color": "grey"
+  },
+  {
     "group name": "Serverless LT初心者向け",
     "event name": "Serverless LT初心者向け LT大会(#5)",
     "url": "https://serverlesslt.connpass.com/event/191231/",
