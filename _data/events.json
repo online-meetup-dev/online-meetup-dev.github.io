@@ -11582,7 +11582,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8b/0a/8b0a5ffa38b06d71e4bef43c4f86a43e.png",
     "hashtag": "memdata",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-30",
     "color": "grey"
   },
