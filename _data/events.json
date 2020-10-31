@@ -11592,7 +11592,6 @@
     "endAt": "2020-10-31T12:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9e/7c/9e7ceece87c40b05f0a1f10424bf761e.png",
     "hashtag": "月刊フィントーク",
-    "today": true,
     "future": false,
     "date": "2020-10-31",
     "color": "grey"
@@ -11606,7 +11605,6 @@
     "endAt": "2020-10-31T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/76/2a/762a8192223aeb6d410c21669324b1c5.png",
     "hashtag": "tokyoquantopian",
-    "today": true,
     "future": false,
     "date": "2020-10-31",
     "color": "grey"
@@ -11620,7 +11618,6 @@
     "endAt": "2020-10-31T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ca/da/cada1e912b0609b63ccd536ee5c59666.png",
     "hashtag": "LaboratoryAutomation勉強会",
-    "today": true,
     "future": false,
     "date": "2020-10-31",
     "color": "grey"
@@ -11634,7 +11631,6 @@
     "endAt": "2020-10-31T16:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4b/09/4b094cb48102d519b35b4b76ee915249.png",
     "hashtag": "HTML5MeetUp",
-    "today": true,
     "future": false,
     "date": "2020-10-31",
     "color": "grey"
@@ -11648,7 +11644,6 @@
     "endAt": "2020-10-31T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0e/53/0e53db0512ad0212edba00c26e73f8dd.png",
     "hashtag": "ReactNative",
-    "today": true,
     "future": false,
     "date": "2020-10-31",
     "color": "#f1e05a"
@@ -11662,7 +11657,6 @@
     "endAt": "2020-10-31T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2a/88/2a88b4db07763b46f8c6555b228edb39.png",
     "hashtag": "gunmaweb",
-    "today": true,
     "future": false,
     "date": "2020-10-31",
     "color": "grey"
@@ -11676,7 +11670,6 @@
     "endAt": "2020-11-01T00:21:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/47/ec/47ec2b122f2f48a1887e167fd1c852bd.png",
     "hashtag": "",
-    "today": true,
     "future": true,
     "date": "2020-10-31",
     "color": "grey"
