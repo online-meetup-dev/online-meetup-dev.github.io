@@ -11635,7 +11635,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4b/09/4b094cb48102d519b35b4b76ee915249.png",
     "hashtag": "HTML5MeetUp",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-31",
     "color": "grey"
   },
