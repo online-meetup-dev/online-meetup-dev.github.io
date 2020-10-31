@@ -11670,7 +11670,7 @@
     "endAt": "2020-11-01T00:21:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/47/ec/47ec2b122f2f48a1887e167fd1c852bd.png",
     "hashtag": "",
-    "future": true,
+    "future": false,
     "date": "2020-10-31",
     "color": "grey"
   },
