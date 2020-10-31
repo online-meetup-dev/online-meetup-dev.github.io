@@ -11607,7 +11607,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/76/2a/762a8192223aeb6d410c21669324b1c5.png",
     "hashtag": "tokyoquantopian",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-31",
     "color": "grey"
   },
@@ -11621,7 +11621,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ca/da/cada1e912b0609b63ccd536ee5c59666.png",
     "hashtag": "LaboratoryAutomation勉強会",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-31",
     "color": "grey"
   },
@@ -11649,7 +11649,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0e/53/0e53db0512ad0212edba00c26e73f8dd.png",
     "hashtag": "ReactNative",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-31",
     "color": "#f1e05a"
   },
