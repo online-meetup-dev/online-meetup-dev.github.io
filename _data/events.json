@@ -11663,7 +11663,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2a/88/2a88b4db07763b46f8c6555b228edb39.png",
     "hashtag": "gunmaweb",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-10-31",
     "color": "grey"
   },
