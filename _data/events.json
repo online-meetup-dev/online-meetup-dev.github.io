@@ -11696,7 +11696,6 @@
     "endAt": "2020-11-04T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5d/b6/5db66c2ad6cf6fbc1287225a865d4415.png",
     "hashtag": "pmtipslt",
-    "today": true,
     "future": false,
     "date": "2020-11-04",
     "color": "grey"
@@ -11710,7 +11709,6 @@
     "endAt": "2020-11-04T21:55:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/af/3b/af3b40299a772698192eb99531656f5e.png",
     "hashtag": "DataEngineeringStudy",
-    "today": true,
     "future": false,
     "date": "2020-11-04",
     "color": "grey"
@@ -11724,6 +11722,7 @@
     "endAt": "2020-11-05T21:15:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/88/9d/889d66b4d7a2b0de7766ce4744809bc6.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-11-05",
     "color": "grey"
