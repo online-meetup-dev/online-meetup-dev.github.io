@@ -11697,7 +11697,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5d/b6/5db66c2ad6cf6fbc1287225a865d4415.png",
     "hashtag": "pmtipslt",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-11-04",
     "color": "grey"
   },
