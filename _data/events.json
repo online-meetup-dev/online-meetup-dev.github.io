@@ -11736,7 +11736,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2d/0f/2d0f89a0d1c9c40a699c9eb8818487f5.png",
     "hashtag": "q_ros",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-11-06",
     "color": "#B8D59E"
   },
