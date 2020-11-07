@@ -11748,7 +11748,6 @@
     "endAt": "2020-11-07T17:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7f/44/7f449dff422d4a35abadd5d2c1673f22.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-11-07",
     "color": "grey"
@@ -11762,7 +11761,6 @@
     "endAt": "2020-11-07T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e5/2f/e52fc62c387dbfc115d80ce75c12c2fc.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-11-07",
     "color": "#B2834C"
@@ -11776,7 +11774,6 @@
     "endAt": "2020-11-07T16:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/10/9c/109c08df4f2f163edcf46362e29f06ae.png",
     "hashtag": "React",
-    "today": true,
     "future": false,
     "date": "2020-11-07",
     "color": "#f1e05a"
@@ -11790,7 +11787,6 @@
     "endAt": "2020-11-07T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/83/7c/837c5119c7f70bad05dabbc6f521fa43.png",
     "hashtag": "optuna/SHAP",
-    "today": true,
     "future": false,
     "date": "2020-11-07",
     "color": "grey"
@@ -11804,6 +11800,7 @@
     "endAt": "2020-11-08T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/88/57/8857d5c37eb2fa642176c2cc2febc4be.png",
     "hashtag": "hacku",
+    "today": true,
     "future": true,
     "date": "2020-11-08",
     "color": "grey"
