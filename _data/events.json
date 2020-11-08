@@ -11801,7 +11801,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/88/57/8857d5c37eb2fa642176c2cc2febc4be.png",
     "hashtag": "hacku",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-11-08",
     "color": "grey"
   },
