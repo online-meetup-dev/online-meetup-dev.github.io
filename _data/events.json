@@ -11814,7 +11814,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/71/ed/71ed015a488b5363a56160a942bd34b9.png",
     "hashtag": "",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-11-09",
     "color": "#B2834C"
   },
