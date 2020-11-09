@@ -11813,7 +11813,6 @@
     "endAt": "2020-11-09T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/71/ed/71ed015a488b5363a56160a942bd34b9.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-11-09",
     "color": "#B2834C"
@@ -11827,7 +11826,6 @@
     "endAt": "2020-11-10T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/51/27/51274ea091c4522840bfacafebc4c384.png",
     "hashtag": "OfficeDev",
-    "today": true,
     "future": true,
     "date": "2020-11-09",
     "color": "grey"
