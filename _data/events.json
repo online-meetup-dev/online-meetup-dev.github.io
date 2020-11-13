@@ -11839,7 +11839,6 @@
     "endAt": "2020-11-13T20:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/55/f6/55f69938d40b8212f1a222e2dbe79758.png",
     "hashtag": "さくらの夕べ,CybozuTech",
-    "today": true,
     "future": false,
     "date": "2020-11-13",
     "color": "grey"
@@ -11853,6 +11852,7 @@
     "endAt": "2020-11-14T18:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "gcmwso",
+    "today": true,
     "future": true,
     "date": "2020-11-14",
     "color": "grey"
@@ -11866,6 +11866,7 @@
     "endAt": "2020-11-14T17:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/58/18/581819fe1fecaa9a4412702d089f27b4.png",
     "hashtag": "lpf_revup",
+    "today": true,
     "future": true,
     "date": "2020-11-14",
     "color": "grey"
@@ -11879,6 +11880,7 @@
     "endAt": "2020-11-14T17:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/85/7e/857e2307bf5c85fbf9eefdc03b8513a2.png",
     "hashtag": "lpf_revup",
+    "today": true,
     "future": true,
     "date": "2020-11-14",
     "color": "grey"
@@ -11892,6 +11894,7 @@
     "endAt": "2020-11-14T17:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/61/cd/61cd9ccda2a12c58b59b3d5d6161bd27.png",
     "hashtag": "lpf_revup",
+    "today": true,
     "future": true,
     "date": "2020-11-14",
     "color": "grey"
