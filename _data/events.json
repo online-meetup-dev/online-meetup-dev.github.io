@@ -11853,7 +11853,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "gcmwso",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-11-14",
     "color": "grey"
   },
