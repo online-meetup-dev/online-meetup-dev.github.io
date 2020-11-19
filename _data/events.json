@@ -11904,7 +11904,6 @@
     "endAt": "2020-11-19T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7b/52/7b5262223ff0d72aa8088f980c71d7aa.png",
     "hashtag": "idcon",
-    "today": true,
     "future": false,
     "date": "2020-11-19",
     "color": "grey"
@@ -11918,6 +11917,7 @@
     "endAt": "2020-11-20T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7c/ad/7cadbe0cf1323a58058fea55c31b8731.png",
     "hashtag": "interspeech2020jp",
+    "today": true,
     "future": true,
     "date": "2020-11-20",
     "color": "grey"
@@ -11931,6 +11931,7 @@
     "endAt": "2020-11-20T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/bf/f1/bff16cd5b28ce6230355a2851a703d53.png",
     "hashtag": "はんなりPython",
+    "today": true,
     "future": true,
     "date": "2020-11-20",
     "color": "purple"
