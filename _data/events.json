@@ -11944,7 +11944,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b5/84/b5847a2486117f861ade32110f225127.png",
     "hashtag": "sendaictf",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-11-21",
     "color": "grey"
   },
