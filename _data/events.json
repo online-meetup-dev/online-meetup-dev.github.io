@@ -11956,6 +11956,7 @@
     "endAt": "2020-11-23T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f0/08/f008abd42acf6aafe41b1c8e4c3824ac.png",
     "hashtag": "webiotmakers",
+    "today": true,
     "future": true,
     "date": "2020-11-23"
   },
@@ -11968,6 +11969,7 @@
     "endAt": "2020-11-23T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/65/d2/65d24ae55960cde6d7fc5d1ded2e840d.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-11-23",
     "color": "grey"
