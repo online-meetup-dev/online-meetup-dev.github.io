@@ -11981,7 +11981,6 @@
     "endAt": "2020-11-28T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/df/cf/dfcfc8685601628951ad31f4e7098fc5.png",
     "hashtag": "osc20fk",
-    "today": true,
     "future": false,
     "date": "2020-11-28",
     "color": "grey"
@@ -11995,6 +11994,7 @@
     "endAt": "2020-11-29T15:40:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7c/be/7cbed9fc21ce9410c6817df966317e5e.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-11-29",
     "color": "grey"
