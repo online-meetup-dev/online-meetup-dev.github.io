@@ -12077,6 +12077,136 @@
     "color": "grey"
   },
   {
+    "group name": "メンバーズデータアドベンチャー",
+    "event name": "In. Data × UX Lightning Talks #1",
+    "url": "https://dataadventure.connpass.com/event/196158/",
+    "category": "design",
+    "startAt": "2020-12-04T19:30:00+09:00",
+    "endAt": "2020-12-04T21:00:00+09:00",
+    "image": "",
+    "hashtag": "Indu",
+    "future": false,
+    "date": "2020-12-04",
+    "color": "#2E6EF7"
+  },
+  {
+    "group name": "GCPUG Tokyo",
+    "event name": "GCPUG Tokyo Dataflow Day December 2020",
+    "url": "https://gcpug-tokyo.connpass.com/event/194722/",
+    "category": "other",
+    "startAt": "2020-12-04T21:00:00+09:00",
+    "endAt": "2020-12-04T22:30:00+09:00",
+    "image": "",
+    "hashtag": "gcpug",
+    "future": false,
+    "date": "2020-12-04",
+    "color": "grey"
+  },
+  {
+    "group name": "Inside / Outside IT",
+    "event name": "Inside / Outside IT",
+    "url": "https://connpass.com/event/197196/",
+    "category": "other",
+    "startAt": "2020-12-05T10:00:00+09:00",
+    "endAt": "2020-12-05T16:30:00+09:00",
+    "image": "",
+    "hashtag": "outsideit",
+    "future": false,
+    "date": "2020-12-05",
+    "color": "grey"
+  },
+  {
+    "group name": "テスト自動化研究会",
+    "event name": "ソフトウェアテスト自動化カンファレンス2020",
+    "url": "https://testautomationresearch.connpass.com/event/191996/",
+    "category": "other",
+    "startAt": "2020-12-05T12:45:00+09:00",
+    "endAt": "2020-12-05T18:00:00+09:00",
+    "image": "",
+    "hashtag": "stac2020",
+    "future": false,
+    "date": "2020-12-05",
+    "color": "grey"
+  },
+  {
+    "group name": "Visual Studio Users Community Japan",
+    "event name": "Visual Studio Users Community Japan 勉強会 #6",
+    "url": "https://vsuc.connpass.com/event/192835/",
+    "category": "other",
+    "startAt": "2020-12-05T13:00:00+09:00",
+    "endAt": "2020-12-05T15:30:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": false,
+    "date": "2020-12-05",
+    "color": "grey"
+  },
+  {
+    "group name": "エリジョ ～Elixir女子部～",
+    "event name": "エリジョ「Elixir女子部」プログラミングElixir輪読会#11「第1章赤いカプセルをとれ」",
+    "url": "https://elijo.connpass.com/event/194882/",
+    "category": "book",
+    "startAt": "2020-12-05T13:00:00+09:00",
+    "endAt": "2020-12-05T15:00:00+09:00",
+    "image": "",
+    "hashtag": "ElixirJoshibu",
+    "future": false,
+    "date": "2020-12-05",
+    "color": "#B2834C"
+  },
+  {
+    "group name": "はんなりPythonの会",
+    "event name": "Plotly/Dashによるインタラクティブ・データ可視化ハンズオン",
+    "url": "https://hannari-python.connpass.com/event/195922/",
+    "category": "other",
+    "startAt": "2020-12-05T13:00:00+09:00",
+    "endAt": "2020-12-05T17:00:00+09:00",
+    "image": "",
+    "hashtag": "plotlydashbook",
+    "future": false,
+    "date": "2020-12-05",
+    "color": "grey"
+  },
+  {
+    "group name": "コンテナ型仮想化の情報交換会",
+    "event name": "第13回 コンテナ技術の情報交換会@オンライン",
+    "url": "https://ct-study.connpass.com/event/190067/",
+    "category": "other",
+    "startAt": "2020-12-05T14:00:00+09:00",
+    "endAt": "2020-12-05T16:00:00+09:00",
+    "image": "",
+    "hashtag": "lxcjp",
+    "future": false,
+    "date": "2020-12-05",
+    "color": "grey"
+  },
+  {
+    "group name": "CoderDojo博多",
+    "event name": "第22回CoderDojo博多(Zoomのみ）",
+    "url": "https://coderdojo-hakata.connpass.com/event/198024/",
+    "category": "coderdojo",
+    "startAt": "2020-12-05T15:00:00+09:00",
+    "endAt": "2020-12-05T17:00:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": false,
+    "date": "2020-12-05",
+    "color": "#2175C9"
+  },
+  {
+    "group name": "Innovatty",
+    "event name": "innovatty annual report 2020",
+    "url": "https://innovatty.connpass.com/event/193035/",
+    "category": "other",
+    "startAt": "2020-12-05T20:00:00+09:00",
+    "endAt": "2020-12-05T22:00:00+09:00",
+    "image": "",
+    "hashtag": "innovatty",
+    "future": false,
+    "date": "2020-12-05",
+    "color": "grey"
+  },
+  {
     "group name": "NoCodeWalker",
     "event name": "SmartDish中村CEOから「熱」をもらおう！〜NoCode(ノーコード)開発秘話〜",
     "url": "https://nocodewalker.connpass.com/event/197158/",
@@ -12259,6 +12389,19 @@
     "color": "grey"
   },
   {
+    "group name": "カベウチ",
+    "event name": "カベウチ ノーコードモクモク会　12/7",
+    "url": "https://idea-kabeuchi.connpass.com/event/198265/",
+    "category": "other",
+    "startAt": "2020-12-07T20:00:00+09:00",
+    "endAt": "2020-12-07T21:30:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": false,
+    "date": "2020-12-07",
+    "color": "grey"
+  },
+  {
     "group name": "ゆるふわトポロジーゼミ #1",
     "event name": "ゆるふわトポロジーゼミ #1",
     "url": "https://connpass.com/event/197719/",
@@ -12426,6 +12569,19 @@
     "future": false,
     "date": "2020-12-09",
     "color": "#B8D59E"
+  },
+  {
+    "group name": "横浜IT勉強会",
+    "event name": "オンラインイベント動画試聴会 #6",
+    "url": "https://yokohamait.connpass.com/event/198299/",
+    "category": "other",
+    "startAt": "2020-12-09T12:00:00+09:00",
+    "endAt": "2020-12-09T13:00:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": false,
+    "date": "2020-12-09",
+    "color": "grey"
   },
   {
     "group name": "Cybozu Inside Out",
@@ -12649,6 +12805,19 @@
     "color": "grey"
   },
   {
+    "group name": "三宮.dev",
+    "event name": "【三宮.dev オンライン】もくもく会",
+    "url": "https://kobe-sannomiya-dev.connpass.com/event/198164/",
+    "category": "mokumoku",
+    "startAt": "2020-12-09T19:30:00+09:00",
+    "endAt": "2020-12-09T21:30:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": false,
+    "date": "2020-12-09",
+    "color": "#B8D59E"
+  },
+  {
     "group name": "【未経験者歓迎】オンラインもくもく会@Meet",
     "event name": "【未経験者歓迎】オンラインもくもく会@Meet",
     "url": "https://connpass.com/event/198334/",
@@ -12696,6 +12865,19 @@
     "endAt": "2020-12-09T22:00:00+09:00",
     "image": "",
     "hashtag": "",
+    "future": false,
+    "date": "2020-12-09",
+    "color": "grey"
+  },
+  {
+    "group name": "総関西サイバーセキュリティLT大会",
+    "event name": "総関西サイバーセキュリティＬＴ大会（第24回）",
+    "url": "https://sec-kansai.connpass.com/event/193732/",
+    "category": "other",
+    "startAt": "2020-12-09T20:00:00+09:00",
+    "endAt": "2020-12-09T22:00:00+09:00",
+    "image": "",
+    "hashtag": "sosailt",
     "future": false,
     "date": "2020-12-09",
     "color": "grey"
@@ -12857,6 +13039,19 @@
     "color": "grey"
   },
   {
+    "group name": "Code for Kanazawa",
+    "event name": "オンライン Code for Kanazawa Civic Hack Night Vol.61",
+    "url": "https://cfk.connpass.com/event/198278/",
+    "category": "other",
+    "startAt": "2020-12-10T19:00:00+09:00",
+    "endAt": "2020-12-10T21:00:00+09:00",
+    "image": "",
+    "hashtag": "cfkchn",
+    "future": false,
+    "date": "2020-12-10",
+    "color": "grey"
+  },
+  {
     "group name": "WebRTC Meetup",
     "event name": "WebRTC Meetup Online #2",
     "url": "https://webrtcmeetup.connpass.com/event/196311/",
@@ -13012,6 +13207,19 @@
     "color": "grey"
   },
   {
+    "group name": "PHP Conference Japan",
+    "event name": "PHPカンファレンス 2020 前夜祭",
+    "url": "https://phpcon.connpass.com/event/193141/",
+    "category": "other",
+    "startAt": "2020-12-11T18:30:00+09:00",
+    "endAt": "2020-12-11T21:00:00+09:00",
+    "image": "",
+    "hashtag": "phpcon2020",
+    "future": false,
+    "date": "2020-12-11",
+    "color": "grey"
+  },
+  {
     "group name": "MyNA(日本MySQLユーザ会)",
     "event name": "MyNA(日本MySQLユーザ会) 望年LT大会2020＠オンライン",
     "url": "https://mysql.connpass.com/event/196850/",
@@ -13033,6 +13241,19 @@
     "endAt": "2020-12-11T21:00:00+09:00",
     "image": "",
     "hashtag": "csharptokyo",
+    "future": false,
+    "date": "2020-12-11",
+    "color": "grey"
+  },
+  {
+    "group name": "YYTypeScript",
+    "event name": "YYTypeScript#63【TypeScript技術書執筆会】",
+    "url": "https://yyts.connpass.com/event/198251/",
+    "category": "other",
+    "startAt": "2020-12-11T19:30:00+09:00",
+    "endAt": "2020-12-11T21:00:00+09:00",
+    "image": "",
+    "hashtag": "YYTypeScript",
     "future": false,
     "date": "2020-12-11",
     "color": "grey"
@@ -13116,6 +13337,19 @@
     "color": "grey"
   },
   {
+    "group name": "ジャンルなしオンラインもくもく会",
+    "event name": "12/12(土)【第186回】オンラインもくもく会(朝活)【discord使用】途中入退室OK",
+    "url": "https://no-genre-mokumoku.connpass.com/event/198269/",
+    "category": "mokumoku",
+    "startAt": "2020-12-12T06:00:00+09:00",
+    "endAt": "2020-12-12T07:00:00+09:00",
+    "image": "",
+    "hashtag": "もくもく会",
+    "future": false,
+    "date": "2020-12-12",
+    "color": "#B8D59E"
+  },
+  {
     "group name": "Creators JP",
     "event name": "【1日目】オンラインもくもく会",
     "url": "https://tokyo-creators2.connpass.com/event/198382/",
@@ -13140,6 +13374,19 @@
     "future": false,
     "date": "2020-12-12",
     "color": "#F39E21"
+  },
+  {
+    "group name": "PHP Conference Japan",
+    "event name": "PHPカンファレンス 2020",
+    "url": "https://phpcon.connpass.com/event/193138/",
+    "category": "other",
+    "startAt": "2020-12-12T09:30:00+09:00",
+    "endAt": "2020-12-12T19:30:00+09:00",
+    "image": "",
+    "hashtag": "phpcon2020",
+    "future": false,
+    "date": "2020-12-12",
+    "color": "grey"
   },
   {
     "group name": "Python mini Hack-a-thon",
@@ -13337,6 +13584,19 @@
     "color": "#f1e05a"
   },
   {
+    "group name": "Rustオンラインもくもく会",
+    "event name": "Rustオンラインもくもく会 #71",
+    "url": "https://rust-online.connpass.com/event/198310/",
+    "category": "mokumoku",
+    "startAt": "2020-12-12T15:00:00+09:00",
+    "endAt": "2020-12-12T18:00:00+09:00",
+    "image": "",
+    "hashtag": "rust_online",
+    "future": false,
+    "date": "2020-12-12",
+    "color": "#B8D59E"
+  },
+  {
     "group name": "ARコンテンツ作成勉強会",
     "event name": "【オンライン】AR Fukuoka 忘年会 & LT会 2020",
     "url": "https://xr-fukuoka.connpass.com/event/194680/",
@@ -13387,6 +13647,19 @@
     "future": false,
     "date": "2020-12-12",
     "color": "grey"
+  },
+  {
+    "group name": "ジャンルなしオンラインもくもく会",
+    "event name": "12/13(日)【第187回】オンラインもくもく会(朝活)【discord使用】途中入退室OK",
+    "url": "https://no-genre-mokumoku.connpass.com/event/198270/",
+    "category": "mokumoku",
+    "startAt": "2020-12-13T06:00:00+09:00",
+    "endAt": "2020-12-13T07:00:00+09:00",
+    "image": "",
+    "hashtag": "もくもく会",
+    "future": false,
+    "date": "2020-12-13",
+    "color": "#B8D59E"
   },
   {
     "group name": "Creators JP",
@@ -15337,6 +15610,19 @@
     "color": "#B8D59E"
   },
   {
+    "group name": "数理統計学習関連勉強会",
+    "event name": "強化学習読書会 5",
+    "url": "https://studies-math-stat-rels.connpass.com/event/198304/",
+    "category": "book",
+    "startAt": "2020-12-20T10:00:00+09:00",
+    "endAt": "2020-12-20T12:00:00+09:00",
+    "image": "",
+    "hashtag": "",
+    "future": false,
+    "date": "2020-12-20",
+    "color": "#B2834C"
+  },
+  {
     "group name": "もくdev@関西",
     "event name": "【オンライン+大阪】もくdev もくもく会 #91",
     "url": "https://mokudev.connpass.com/event/199157/",
@@ -17144,6 +17430,19 @@
     "endAt": "2020-12-27T10:00:00+09:00",
     "image": "",
     "hashtag": "",
+    "future": true,
+    "date": "2020-12-27",
+    "color": "grey"
+  },
+  {
+    "group name": "CAE初心者サークル",
+    "event name": "第22回CAE勉強相談会&流体力学演習",
+    "url": "https://cae-beginner.connpass.com/event/197659/",
+    "category": "other",
+    "startAt": "2020-12-27T09:00:00+09:00",
+    "endAt": "2020-12-27T12:00:00+09:00",
+    "image": "",
+    "hashtag": "CAE",
     "future": true,
     "date": "2020-12-27",
     "color": "grey"
