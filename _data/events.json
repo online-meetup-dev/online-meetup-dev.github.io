@@ -19153,7 +19153,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f2/30/f2304be34fa65159621fcc29f6daa326.png",
     "hashtag": "playcanvasnow",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-25",
     "color": "grey"
   },
