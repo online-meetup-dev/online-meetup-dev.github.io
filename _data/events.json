@@ -19607,7 +19607,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9e/4d/9e4dc1e5583aa306d44599857ce9e7d1.png",
     "hashtag": "理系読書会",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-26",
     "color": "#B2834C"
   },
@@ -19621,7 +19621,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a3/c8/a3c8d123ff83e4cb96b8fcd8ee942552.png",
     "hashtag": "narusemi",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-26",
     "color": "grey"
   },
