@@ -19384,7 +19384,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ba/98/ba987cc28c454ea222c10334d2e532f8.png",
     "hashtag": "dtpstudyRadio",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-26",
     "color": "grey"
   },
