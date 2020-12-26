@@ -19258,7 +19258,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6c/a3/6ca3c525ea677300c3cd546b19732f96.png",
     "hashtag": "もくもく会",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-26",
     "color": "#B8D59E"
   },
@@ -19412,7 +19412,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/41/81/418149c51c578d20e2f2e107833af13d.png",
     "hashtag": "kagolug",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-26",
     "color": "grey"
   },
@@ -19426,7 +19426,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/61/7b/617bd9f835e8ae276caf2e736c5fe8d7.png",
     "hashtag": "動画制作",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-26",
     "color": "#B8D59E"
   },
@@ -19440,7 +19440,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ba/c0/bac0ea12d08f8af66e08893e712b9fd3.png",
     "hashtag": "Node.js",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-26",
     "color": "#f1e05a"
   },
@@ -19454,7 +19454,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fc/7c/fc7cbccf6c12609d07076d2dde79f00e.png",
     "hashtag": "iotlt",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-26"
   },
   {
