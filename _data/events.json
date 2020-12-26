@@ -19328,7 +19328,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2f/7a/2f7ad27a88f4122bd5d30b05eb5c5895.png",
     "hashtag": "量子情報勉強会",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-26",
     "color": "grey"
   },
