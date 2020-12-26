@@ -19300,7 +19300,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a0/63/a06372ee6d3a0a07e834f4bfa764151f.png",
     "hashtag": "オンラインイベント動画試聴会",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-26",
     "color": "grey"
   },
