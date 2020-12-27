@@ -19618,7 +19618,6 @@
     "endAt": "2020-12-27T07:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cf/8e/cf8e29cdd02e0bd9a7970d490d1dac24.png",
     "hashtag": "もくもく会",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "#B8D59E"
@@ -19632,7 +19631,6 @@
     "endAt": "2020-12-27T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6c/a3/6ca3c525ea677300c3cd546b19732f96.png",
     "hashtag": "もくもく会",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "#B8D59E"
@@ -19646,7 +19644,6 @@
     "endAt": "2020-12-27T10:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0f/a2/0fa2e0953eeb82d16659fef1b430278c.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "grey"
@@ -19660,7 +19657,6 @@
     "endAt": "2020-12-27T12:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ce/89/ce892323fa89640ccc759d2a333b1334.png",
     "hashtag": "CAE",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "grey"
@@ -19674,7 +19670,6 @@
     "endAt": "2020-12-27T12:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/dd/e3/dde3b5c1176d4f2698b19c852e010755.png",
     "hashtag": "CoderDojoKozukue",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "#2175C9"
@@ -19688,7 +19683,6 @@
     "endAt": "2020-12-27T11:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/47/35/4735fafbd055e0ee3491301a130520f0.png",
     "hashtag": "coderdojo_akabane",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "#2175C9"
@@ -19702,7 +19696,6 @@
     "endAt": "2020-12-27T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/72/b2/72b2967056952872f032679e721f7da9.png",
     "hashtag": "もくもく会",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "#B8D59E"
@@ -19716,7 +19709,6 @@
     "endAt": "2020-12-27T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fb/87/fb87c4c0fb44a9782d12dbef35306b29.png",
     "hashtag": "xrshimane",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "grey"
@@ -19730,7 +19722,6 @@
     "endAt": "2020-12-27T18:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5e/48/5e482d5812245893f3235e4158ca06bc.png",
     "hashtag": "read_tfwh",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "#B2834C"
@@ -19744,7 +19735,6 @@
     "endAt": "2020-12-27T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/60/61/6061fb754047df79ede0fb9d678e16eb.png",
     "hashtag": "ALGYAN",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "grey"
@@ -19758,7 +19748,6 @@
     "endAt": "2020-12-27T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b8/3a/b83a273d608a0b9f83de650b0c8fcca8.png",
     "hashtag": "tamarb",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "#701516"
@@ -19772,7 +19761,6 @@
     "endAt": "2020-12-27T20:00:00+09:00",
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "論理学友の会",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "grey"
@@ -19786,7 +19774,6 @@
     "endAt": "2020-12-27T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/36/63/3663dd5f5a9548521de4fe862ce62179.png",
     "hashtag": "unagipy",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "purple"
@@ -19800,7 +19787,6 @@
     "endAt": "2020-12-27T23:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ff/18/ff187e227f53f09ebb232829b105eee3.png",
     "hashtag": "StopCovid19Yamaguchi",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "#B8D59E"
@@ -19814,7 +19800,6 @@
     "endAt": "2020-12-27T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b4/75/b475797db8dcbc05cdb7c736108f644d.png",
     "hashtag": "agile_devs",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "#B2834C"
@@ -19828,7 +19813,6 @@
     "endAt": "2020-12-27T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9a/c4/9ac4fa2e7711b4de6a0af7f29cfd0783.png",
     "hashtag": "NoCodeWalker",
-    "today": true,
     "future": false,
     "date": "2020-12-27",
     "color": "grey"
@@ -19842,6 +19826,7 @@
     "endAt": "2020-12-28T07:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cf/8e/cf8e29cdd02e0bd9a7970d490d1dac24.png",
     "hashtag": "もくもく会",
+    "today": true,
     "future": true,
     "date": "2020-12-28",
     "color": "#B8D59E"
@@ -19855,6 +19840,7 @@
     "endAt": "2020-12-28T10:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/64/aa/64aa926268cd6012d4e0f74125208e27.png",
     "hashtag": "",
+    "today": true,
     "future": true,
     "date": "2020-12-28",
     "color": "#B8D59E"
@@ -19868,6 +19854,7 @@
     "endAt": "2020-12-28T20:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a9/ac/a9ac7dfac90062de35f70b7fd38ce4c0.png",
     "hashtag": "月刊フィントーク",
+    "today": true,
     "future": true,
     "date": "2020-12-28",
     "color": "grey"
@@ -19881,6 +19868,7 @@
     "endAt": "2020-12-28T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/28/8e/288ee2cbc4a7a89592566020ec3c5af1.png",
     "hashtag": "bvinside",
+    "today": true,
     "future": true,
     "date": "2020-12-28",
     "color": "grey"
@@ -19894,6 +19882,7 @@
     "endAt": "2020-12-28T21:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e7/e7/e7e71c900b9dcab5e6d10e27d62bf80c.png",
     "hashtag": "RPALT",
+    "today": true,
     "future": true,
     "date": "2020-12-28",
     "color": "grey"
@@ -19907,6 +19896,7 @@
     "endAt": "2020-12-28T22:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d8/2b/d82b76521ff5b425782b5a38721fc6b0.png",
     "hashtag": "ゆるWeb札幌",
+    "today": true,
     "future": true,
     "date": "2020-12-28",
     "color": "grey"
