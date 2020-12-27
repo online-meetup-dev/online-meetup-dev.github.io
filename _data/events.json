@@ -19773,7 +19773,7 @@
     "image": "https://online-meetup.dev/images/event.png",
     "hashtag": "論理学友の会",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-27",
     "color": "grey"
   },
