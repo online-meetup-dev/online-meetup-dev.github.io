@@ -19787,7 +19787,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/36/63/3663dd5f5a9548521de4fe862ce62179.png",
     "hashtag": "unagipy",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-27",
     "color": "purple"
   },
@@ -19815,7 +19815,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b4/75/b475797db8dcbc05cdb7c736108f644d.png",
     "hashtag": "agile_devs",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-27",
     "color": "#B2834C"
   },
@@ -19829,7 +19829,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9a/c4/9ac4fa2e7711b4de6a0af7f29cfd0783.png",
     "hashtag": "NoCodeWalker",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-27",
     "color": "grey"
   },
