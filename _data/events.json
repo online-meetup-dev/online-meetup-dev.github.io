@@ -19689,7 +19689,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/47/35/4735fafbd055e0ee3491301a130520f0.png",
     "hashtag": "coderdojo_akabane",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-27",
     "color": "#2175C9"
   },
