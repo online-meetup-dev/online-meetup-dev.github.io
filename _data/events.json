@@ -19855,7 +19855,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a9/ac/a9ac7dfac90062de35f70b7fd38ce4c0.png",
     "hashtag": "月刊フィントーク",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-28",
     "color": "grey"
   },
