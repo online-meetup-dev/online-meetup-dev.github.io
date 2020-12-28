@@ -19897,7 +19897,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d8/2b/d82b76521ff5b425782b5a38721fc6b0.png",
     "hashtag": "ゆるWeb札幌",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-28",
     "color": "grey"
   },
