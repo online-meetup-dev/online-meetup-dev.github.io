@@ -19869,7 +19869,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/28/8e/288ee2cbc4a7a89592566020ec3c5af1.png",
     "hashtag": "bvinside",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-28",
     "color": "grey"
   },
@@ -19883,7 +19883,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e7/e7/e7e71c900b9dcab5e6d10e27d62bf80c.png",
     "hashtag": "RPALT",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-28",
     "color": "grey"
   },
