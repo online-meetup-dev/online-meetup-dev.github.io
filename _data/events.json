@@ -19961,7 +19961,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/89/9c/899c2a63b544388ec3b0202ab2124afd.png",
     "hashtag": "udonpy",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-29",
     "color": "grey"
   },
