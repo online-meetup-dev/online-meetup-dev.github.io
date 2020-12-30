@@ -20040,7 +20040,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/bf/ab/bfab78c2e9811d9b46a084fdb4da6074.png",
     "hashtag": "xdug_osaka",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-30",
     "color": "grey"
   },
@@ -20054,7 +20054,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e4/5b/e45b8608ef2abef3d86c385e5c86f44c.png",
     "hashtag": "LibOJP",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-30",
     "color": "grey"
   },
@@ -20068,7 +20068,7 @@
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/09/75/0975348d08f0478480bdd3cb899114e5.png",
     "hashtag": "すごい広島",
     "today": true,
-    "future": true,
+    "future": false,
     "date": "2020-12-30",
     "color": "grey"
   },
