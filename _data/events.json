@@ -20164,7 +20164,7 @@
     "endAt": "2021-01-01T00:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/32/63/3263277cf84d67681138867db080946c.png",
     "hashtag": "fukuoka_bounengineer",
-    "future": true,
+    "future": false,
     "date": "2020-12-31",
     "color": "grey"
   }
