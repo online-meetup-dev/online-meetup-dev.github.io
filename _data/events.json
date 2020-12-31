@@ -20125,7 +20125,6 @@
     "endAt": "2020-12-31T07:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cf/8e/cf8e29cdd02e0bd9a7970d490d1dac24.png",
     "hashtag": "もくもく会",
-    "today": true,
     "future": false,
     "date": "2020-12-31",
     "color": "#B8D59E"
@@ -20139,7 +20138,6 @@
     "endAt": "2020-12-31T10:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/64/aa/64aa926268cd6012d4e0f74125208e27.png",
     "hashtag": "",
-    "today": true,
     "future": false,
     "date": "2020-12-31",
     "color": "#B8D59E"
@@ -20153,7 +20151,6 @@
     "endAt": "2020-12-31T17:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6c/a3/6ca3c525ea677300c3cd546b19732f96.png",
     "hashtag": "もくもく会",
-    "today": true,
     "future": false,
     "date": "2020-12-31",
     "color": "#B8D59E"
@@ -20167,7 +20164,6 @@
     "endAt": "2021-01-01T00:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/32/63/3263277cf84d67681138867db080946c.png",
     "hashtag": "fukuoka_bounengineer",
-    "today": true,
     "future": true,
     "date": "2020-12-31",
     "color": "grey"
