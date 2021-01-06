@@ -19605,7 +19605,7 @@
     "endAt": "2021-01-06T22:30:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b7/1e/b71e9ffba1a622e605625d035e40d98f.png",
     "hashtag": "技術書典",
-    "future": true,
+    "future": false,
     "date": "2020-12-26",
     "color": "#B2834C"
   },
