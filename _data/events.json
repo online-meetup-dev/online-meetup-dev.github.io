@@ -17760,7 +17760,7 @@
     "endAt": "2021-01-24T19:00:00+09:00",
     "image": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c8/5a/c85a654a0d0a60abadbac5cae885fab4.png",
     "hashtag": "",
-    "future": true,
+    "future": false,
     "date": "2020-12-20",
     "color": "grey"
   },
